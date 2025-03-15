@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech Blog</title>
+    <link>https://example.com/blog</link>
+    <description>Insights and tutorials on web development and programming</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2025 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Getting Started with Next.js 14</title>
+      <link>https://example.com/blog/nextjs-14-guide</link>
+      <description>A comprehensive guide to getting started with the latest version of Next.js</description>
+      <content:encoded><![CDATA[
+        <h2>Introduction to Next.js 14</h2>
+        <p>Next.js 14 brings several exciting new features that make web development even more efficient.</p>
+        <p>In this tutorial, we'll explore the new App Router, Server Components, and more...</p>
+        <h3>Key Features</h3>
+        <ul>
+          <li>Improved performance</li>
+          <li>Better developer experience</li>
+          <li>Enhanced SEO capabilities</li>
+        </ul>
+      ]]></content:encoded>
+      <pubDate>Thu, 14 Mar 2025 16:30:00 GMT</pubDate>
+      <guid>https://example.com/blog/nextjs-14-guide</guid>
+    </item>
+    <item>
+      <title>CSS Grid Layout Mastery</title>
+      <link>https://example.com/blog/css-grid-mastery</link>
+      <description>Learn how to create complex layouts with CSS Grid</description>
+      <content:encoded><![CDATA[
+        <h2>Mastering CSS Grid</h2>
+        <p>CSS Grid has revolutionized how we approach web layouts. In this article, we'll dive deep into advanced techniques.</p>
+        <p>You'll learn how to create responsive designs that work across all devices without complex media queries.</p>
+        <h3>Topics Covered</h3>
+        <ul>
+          <li>Grid template areas</li>
+          <li>Fractional units</li>
+          <li>Auto-placement algorithms</li>
+        </ul>
+      ]]></content:encoded>
+      <pubDate>Wed, 13 Mar 2025 10:15:00 GMT</pubDate>
+      <guid>https://example.com/blog/css-grid-mastery</guid>
+    </item>
+    <item>
+      <title>TypeScript Best Practices in 2025</title>
+      <link>https://example.com/blog/typescript-best-practices</link>
+      <description>Stay up-to-date with the latest TypeScript best practices for modern web development</description>
+      <content:encoded><![CDATA[
+        <h2>TypeScript in 2025</h2>
+        <p>TypeScript continues to evolve, and so should your coding practices. This article covers the latest recommendations.</p>
+        <p>We'll explore type safety, performance optimizations, and integration with modern frameworks.</p>
+        <h3>Best Practices</h3>
+        <ul>
+          <li>Strict null checks</li>
+          <li>Discriminated unions</li>
+          <li>Utility types</li>
+        </ul>
+      ]]></content:encoded>
+      <pubDate>Mon, 10 Mar 2025 14:00:00 GMT</pubDate>
+      <guid>https://example.com/blog/typescript-best-practices</guid>
+    </item>
+  </channel>
+</rss>
+

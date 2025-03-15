@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Online Store Product Feed</title>
+    <link>https://example.com/store</link>
+    <description>Latest products from our online store</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2025 01:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Wireless Noise-Cancelling Headphones</title>
+      <link>https://example.com/store/headphones</link>
+      <description>Premium wireless headphones with active noise cancellation and 30-hour battery life.</description>
+      <g:id>PROD001</g:id>
+      <g:price>199.99 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://example.com/images/headphones.jpg</g:image_link>
+      <g:brand>AudioTech</g:brand>
+      <pubDate>Thu, 14 Mar 2025 10:00:00 GMT</pubDate>
+      <guid>https://example.com/store/headphones</guid>
+    </item>
+    
+    <item>
+      <title>Smart Fitness Watch</title>
+      <link>https://example.com/store/fitness-watch</link>
+      <description>Track your workouts, heart rate, sleep, and more with this advanced fitness watch.</description>
+      <g:id>PROD002</g:id>
+      <g:price>149.99 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://example.com/images/fitness-watch.jpg</g:image_link>
+      <g:brand>FitTech</g:brand>
+      <pubDate>Wed, 13 Mar 2025 14:30:00 GMT</pubDate>
+      <guid>https://example.com/store/fitness-watch</guid>
+    </item>
+    
+    <item>
+      <title>Ergonomic Office Chair</title>
+      <link>https://example.com/store/office-chair</link>
+      <description>Comfortable ergonomic office chair with lumbar support and adjustable height.</description>
+      <g:id>PROD003</g:id>
+      <g:price>249.99 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://example.com/images/office-chair.jpg</g:image_link>
+      <g:brand>ComfortPlus</g:brand>
+      <pubDate>Tue, 12 Mar 2025 09:15:00 GMT</pubDate>
+      <guid>https://example.com/store/office-chair</guid>
+    </item>
+    
+    <item>
+      <title>Mechanical Keyboard</title>
+      <link>https://example.com/store/mechanical-keyboard</link>
+      <description>RGB backlit mechanical keyboard with customizable switches for gaming and typing.</description>
+      <g:id>PROD004</g:id>
+      <g:price>129.99 USD</g:price>
+      <g:availability>limited availability</g:availability>
+      <g:image_link>https://example.com/images/keyboard.jpg</g:image_link>
+      <g:brand>KeyMaster</g:brand>
+      <pubDate>Mon, 11 Mar 2025 11:45:00 GMT</pubDate>
+      <guid>https://example.com/store/mechanical-keyboard</guid>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech Talk Podcast</title>
+    <link>https://example.com/podcast</link>
+    <description>Weekly discussions about technology, programming, and digital culture</description>
+    <language>en-us</language>
+    <itunes:author>Jane Smith</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://example.com/podcast/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <lastBuildDate>Fri, 15 Mar 2025 08:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Episode 42: The Future of AI Development</title>
+      <link>https://example.com/podcast/episode-42</link>
+      <description>In this episode, we discuss the latest trends in AI development and what to expect in the coming years.</description>
+      <itunes:duration>45:32</itunes:duration>
+      <enclosure url="https://example.com/podcast/episodes/ep42.mp3" length="43200000" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Mar 2025 08:00:00 GMT</pubDate>
+      <guid>https://example.com/podcast/episode-42</guid>
+    </item>
+    
+    <item>
+      <title>Episode 41: Web Performance Optimization</title>
+      <link>https://example.com/podcast/episode-41</link>
+      <description>Learn essential techniques for optimizing web performance and improving user experience.</description>
+      <itunes:duration>38:15</itunes:duration>
+      <enclosure url="https://example.com/podcast/episodes/ep41.mp3" length="36720000" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Mar 2025 08:00:00 GMT</pubDate>
+      <guid>https://example.com/podcast/episode-41</guid>
+    </item>
+    
+    <item>
+      <title>Episode 40: Open Source Contributions</title>
+      <link>https://example.com/podcast/episode-40</link>
+      <description>How to get started with contributing to open source projects and why it matters for your career.</description>
+      <itunes:duration>42:18</itunes:duration>
+      <enclosure url="https://example.com/podcast/episodes/ep40.mp3" length="40608000" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Mar 2025 08:00:00 GMT</pubDate>
+      <guid>https://example.com/podcast/episode-40</guid>
+    </item>
+    
+    <item>
+      <title>Episode 39: Database Design Principles</title>
+      <link>https://example.com/podcast/episode-39</link>
+      <description>A deep dive into database design principles and best practices for modern applications.</description>
+      <itunes:duration>51:24</itunes:duration>
+      <enclosure url="https://example.com/podcast/episodes/ep39.mp3" length="49344000" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Feb 2025 08:00:00 GMT</pubDate>
+      <guid>https://example.com/podcast/episode-39</guid>
+    </item>
+  </channel>
+</rss>
+

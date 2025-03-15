@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily News Feed</title>
+    <link>https://example.com/news</link>
+    <description>Latest news and updates from around the world</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2025 00:30:00 GMT</lastBuildDate>
+    <item>
+      <title>New Technology Breakthrough Announced</title>
+      <link>https://example.com/news/tech-breakthrough</link>
+      <description>Scientists have announced a major breakthrough in quantum computing that could revolutionize the industry.</description>
+      <pubDate>Fri, 15 Mar 2025 00:00:00 GMT</pubDate>
+      <guid>https://example.com/news/tech-breakthrough</guid>
+    </item>
+    <item>
+      <title>Global Climate Summit Reaches Agreement</title>
+      <link>https://example.com/news/climate-summit</link>
+      <description>World leaders have reached a historic agreement on climate change targets at the latest global summit.</description>
+      <pubDate>Thu, 14 Mar 2025 12:30:00 GMT</pubDate>
+      <guid>https://example.com/news/climate-summit</guid>
+    </item>
+    <item>
+      <title>Economic Report Shows Growth in Q1</title>
+      <link>https://example.com/news/economic-growth</link>
+      <description>The latest economic report indicates stronger than expected growth in the first quarter of 2025.</description>
+      <pubDate>Wed, 13 Mar 2025 09:15:00 GMT</pubDate>
+      <guid>https://example.com/news/economic-growth</guid>
+    </item>
+    <item>
+      <title>New Sports Arena Opens Downtown</title>
+      <link>https://example.com/news/sports-arena</link>
+      <description>The city celebrated the grand opening of its new state-of-the-art sports arena yesterday.</description>
+      <pubDate>Tue, 12 Mar 2025 16:45:00 GMT</pubDate>
+      <guid>https://example.com/news/sports-arena</guid>
+    </item>
+  </channel>
+</rss>
+
