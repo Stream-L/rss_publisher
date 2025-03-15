@@ -2,6 +2,7 @@
 <?xml-stylesheet type='text/xsl' href='../rssfile/rss.xsl'?>
 <rss version="2.0">
   <channel>
+<follow_challenge><feedId>123806396079511558</feedId><userId>121829151542567936</userId></follow_challenge>
     <title>图书与情报-CNKI</title>
     <link>https://navi.cnki.net/knavi/journals/BOOK/detail?uniplatform=NZKPT</link>
     <description>图书与情报</description>
