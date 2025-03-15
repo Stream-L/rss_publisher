@@ -2,6 +2,7 @@
 <?xml-stylesheet type='text/xsl' href='../rssfile/rss.xsl'?>
 <rss version="2.0">
   <channel>
+<follow_challenge> <feedId>123806396079511563</feedId> <userId>121829151542567936</userId></follow_challenge>
     <title>数据分析与知识发现-CNKI</title>
     <link>https://navi.cnki.net/knavi/journals/XDTQ/detail?uniplatform=NZKPT</link>
     <description>数据分析与知识发现</description>
