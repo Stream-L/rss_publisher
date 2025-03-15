@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>中国石油大学（北京）信息学院 公告</title>
+    <follow_challenge><feedId>123806396083705885</feedId><userId>121829151542567936</userId></follow_challenge><title>中国石油大学（北京）信息学院 公告</title>
     <link>http://wschool.cup.edu.cn/rss/wap/rssinfo/index?rss_id=30</link>
     <description>中国石油大学（北京）信息学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 18:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 19:35:24 +0000</lastBuildDate>
     <item>
       <title>第18周院领导接待日安排</title>
       <link>http://www.cup.edu.cn/cise//tzgg2/abec6d2c656a42908f8c10201bf185ca.htm</link>

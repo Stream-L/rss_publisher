@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>中国石油大学（北京）规划处 高教研究所 公告</title>
+    <follow_challenge><feedId>123806396083705866</feedId><userId>121829151542567936</userId></follow_challenge><title>中国石油大学（北京）规划处 高教研究所 公告</title>
     <link>http://wschool.cup.edu.cn/rss/wap/rssinfo/index?rss_id=17</link>
     <description>中国石油大学（北京）规划处 高教研究所 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 18:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 19:34:21 +0000</lastBuildDate>
     <item>
       <title>国内外高等教育动态（2022年第6期）</title>
       <link>/publish/ddp/docs/2022-10/2022-09/e1013138c03046bd83eb66ada82c85d6.pdf</link>

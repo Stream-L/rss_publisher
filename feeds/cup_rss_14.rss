@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>中国石油大学（北京）基建处 公告</title>
+    <follow_challenge><feedId>123806396079511557</feedId><userId>121829151542567936</userId></follow_challenge><title>中国石油大学（北京）基建处 公告</title>
     <link>http://wschool.cup.edu.cn/rss/wap/rssinfo/index?rss_id=14</link>
     <description>中国石油大学（北京）基建处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 18:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 19:34:06 +0000</lastBuildDate>
     <item>
       <title>基建处组织东校园景观提升改造设计方案征求意见座谈会</title>
       <link>http://www.cup.edu.cn/jjc/dynamic/9b3e62b084084403a4350ce891cf9425.htm</link>
