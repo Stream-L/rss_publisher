@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type='text/xsl' href='../rssfile/rss.xsl'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-<follow_challenge><feedId>123806396083705879</feedId><userId>121829151542567936</userId></follow_challenge>
-    <title>图书馆理论与实践-CNKI</title>
+    <follow_challenge><feedId>123806396083705879</feedId><userId>121829151542567936</userId></follow_challenge><title>图书馆理论与实践-CNKI</title>
     <link>https://navi.cnki.net/knavi/journals/LSGL/detail?uniplatform=NZKPT</link>
     <description>图书馆理论与实践</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 15 Mar 2025 18:18:14 GMT</pubDate>
+    <pubDate>Sun, 16 Mar 2025 12:32:24 GMT</pubDate>
     <generator>图书馆理论与实践</generator>
     <image>
       <title>图书馆理论与实践-CNKI</title>
@@ -18,7 +16,7 @@
     </image>
     <item>
       <title>国产开源大模型赋能图书馆智慧化服务功能——以DeepSeek为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1Erl8lh57HtuJd5HslZVkc2i50WN2rw2zX7YZrsDMQz9mobJEStasydEWk91ls7I9CpNKW5Kj-E5xyBOURdEAo_SLtcXWI0bRGM-CcwWSZm03Mch1mVA0qg0KdFcYQ0TA8BUeHu7xaLLL1jPYHB8tDjLVkmzgHRAa9WF1y5sbS6g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerqPvPWJPF0g4kCq0bBO3w3Cx85EjduIX-AFTZ52s0FtCQoE7VjYsstF0TppQf-8-8D6oUHlJc6necxhlP1cWaplUHrLlEGppZIdwhIwMBYmSS39Gklct7mXild2TfUgZ2FA-nbM8ozi-lYz3tQ6jigfZT2aR3zQXZ27_c0AjzIlug==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>生成式人工智能的快速发展为图书馆智慧化转型提供了新动能。文章着力探讨国产开源大模型DeepSeek在图书馆智慧化服务场景中的技术适配性和功能进阶作用，认为DeepSeek凭借多模态架构、参数规模与训练策略的效能平衡，能有效优化图书馆的智能问答系统、多模态资源管理及知识组织工具自动化能力，实现元数据智能提取、参考咨询服务升级与语义检索精准化，同时，通过多源数据融合推荐系统与知识生产范式的AI融合创新...</description>
       <pubDate>Thu, 27 Feb 2025 16:00:00 GMT</pubDate>
       <author>罗坤明;汤明;尹克寒;</author>
@@ -26,7 +24,7 @@
     </item>
     <item>
       <title>新一代人工智能与未来图书馆建设</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1Erl8lh57HtuJd5HslZVkc2i50WN2rw2zX7YZrsDMQz9mobJEStasysTxZrUqUyUWeAGDeDfcEoWP8vMer4ZRtoJvmCPub5-cbtOXBva19Gx5zdx51velK9-6yv2OudEWN3U6fCGwsq9NL2pmE8hjO32vo-KT7NdJ6Gnr7JV2gfQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerq5-w0S4y357x33gom4YFrz8XBfa1j2hECscOCirNJ7S1m4OvIY5q3FPP6vuLteKHv-sz86-88Jn1zNM-wdrDNG35M4eC9DRyziWCTfMK0utV3pRdORjg1LDsmh2sZv4vth2PLATCsuINKfEztb2dFRi_VfjrGejVVxIsQiKLeKhA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>“未来图书馆”已经成为承载智慧图书馆特定使命和愿景的专有名词，引起了学术界和业界的广泛讨论。文章旨在探讨图书馆应如何应用大模型技术实现智能化转型，从而保障其在智慧时代作为知识公共基础设施的核心作用。文章通过分析图书馆当前面临的困境以及大模型技术所具备的能力，深入剖析了图书馆在资源建设管理、知识组织分类、技术平台建设以及人本主义理念等方面所面临的挑战，并提出相应的对策，进一步探索大模型技术如何赋能未...</description>
       <pubDate>Tue, 25 Feb 2025 16:00:00 GMT</pubDate>
       <author>刘炜;金家琴;单蓉蓉;</author>
@@ -34,7 +32,7 @@
     </item>
     <item>
       <title>过度储存与难以删除：青年群体数字囤积行为的机制模型与要素关系——基于扎根理论展开的质性研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1P-txS4sAf2VMS3U7h-PtWFwAh1LFmUNUm3uB1C56NCMiIZYJzzJ0baM21cmAZx-x3x8gxHyD7VCZ4IvY8Bcs3VJ_R6afhqLw7EeNOQ3KCRvK3ysBZWplsEAUxg1_y5e1loaBl6m23aIdMlmfQzPoOdX7cYvossvZh2gO6Pr3wcA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerqrsbNRZJYXyh3fu0yAwLxHYhPQ9wahYJwQ4eKSBAWPTLxAuDWRm78_V8HGMGWMVksycW7uXUoW3ZMbr03nP47EOUiud3y1MXS5yKTPuc7lXpsd4d3vybo9hjqz6A9nl1OIAu1wV5K7_NLoHKeHELxZj2I563sEQ7rHjuYVmDdDSA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在大数据时代，数字信息过剩、社交媒体堆叠和信息焦虑等信息乱象促使青年群体普遍进行数字囤积。以扎根理论开展质性研究，构建青年群体数字囤积行为的机制模型，从而针对其中的影响要素进行积极回应是可行的问题解决路径。本研究基于半结构的调研访谈获得数据，通过对调研结果汇总以及多层编码，构建了数字囤积行为的“情境—主体—心理整合模型”。其中，主体特征、认知因素主要促成数字囤积行为，外部情境因素对主客观、内外部产...</description>
       <pubDate>Thu, 20 Feb 2025 16:00:00 GMT</pubDate>
       <author>郭风英;彭翔;</author>
@@ -42,7 +40,7 @@
     </item>
     <item>
       <title>Web3.0浪潮下的图书馆线上服务转型：技术融合与服务创新</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1P-txS4sAf2VMS3U7h-PtWFwAh1LFmUNUm3uB1C56NCMiIZYJzzJ0bztMSbmaTjIKbSRpauVDzkjpBlKtD76j61P57R-IzhCxVWeX1jTP-47-kOwqPg5gKqF7kjMhAGtiXR7L7PFYvu5-x_JSqE6WKytpGPiar4m_UiGNYVVI9Vw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerqrsbNRZJYXyh3fu0yAwLxHYhPQ9wahYJwQ4eKSBAWPTLxAuDWRm78_l4JuLRM4iQ2j7TFbQ8A-9TPhzfQd9BnC3EfMwfE3yc9OJtOeO1Efpe3KRrfA65BnDCCiNtg7teX1XQrkhL-wacix2yG8vpXzxRxO6JwSddO4p6OskUtu2w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Web 3.0时代以其去中心化、用户所有、双向沉浸互动的特点，为图书馆线上服务的转型升级带来了新机遇。文章探讨了区块链、语义网、大数据挖掘等Web 3.0相关技术在图书馆线上服务中的应用，优化了图书馆服务体系、创新了服务形态、提升了图书馆服务价值，并提出图书馆可通过制定发展战略、创设服务场景、深化发展格局、强化信任体系、创新组织形态等措施更好地适应Web 3.0时代的挑战，实现线上服务的转型升级</description>
       <pubDate>Wed, 19 Feb 2025 16:00:00 GMT</pubDate>
       <author>王立国;朱莉;</author>
@@ -50,7 +48,7 @@
     </item>
     <item>
       <title>面向“十五五”规划的智慧图书馆建设</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1F_InYqhd6W9OM3p3XQ2LU5QFEhkC8fV3x5Wk415DuZ5j7Uko0vGAFCiG7IdCBuV8hGEN7XJzbPQddENZEUdUk68pZE7b8V_4GIoGgGtEviP5YyAcOmOs_MhCOWE0qH-GFghnM-sYskaoh6bwo-OkZFVYyESseCEY77hkHTDYakQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerrYr7Cz1jCe2eVsxj70Tfjye-Pxi-UzMfzl9nqKuuhj7ZMpImDl_E3kjI26lEXiXPGx7afVIReD7TyseUQWfVi3-IeRzmul9Je1nkaEULZOtL7HCWEUxe-cW3aAkbFQ_t1IMT3GT2Bd-OPuVolanR8H8VfI8iKIt6RcIjHe8y9Ghw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>2025年是图书馆界的规划年，研究和编制“十五五”规划将成为图书馆学和图书馆事业的热点。各级各类图书馆要重视“十五五”规划的研究工作，将智慧图书馆建设作为规划的重点。文章认为，“十五五”时期，智慧图书馆建设应当着眼于服务国家战略、区域战略和社会重大需求，关注图书馆行业和读者的需求变化，重视人工智能等新技术应用和图书馆转型等。在此基础上，文章提出“十五五”时期智慧图书馆建设的六个重点：智慧空间的全面...</description>
       <pubDate>Thu, 06 Feb 2025 16:00:00 GMT</pubDate>
       <author>柯平;</author>
@@ -58,7 +56,7 @@
     </item>
     <item>
       <title>数智赋能乡村公共文化服务的逻辑与路径</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1F_InYqhd6W9OM3p3XQ2LUwMhtqnilRAFJ5rA1JTvzpLBOZxP-3sI7fAaCF85hoYhCKL_qaSMQqOITQMKmwQqwSEV7IXadova3vmdD2UzXeW7j86Ofn2nGBR_fhY3bQ9YWktONiByiBq9gkP_pLKK_TAc8m4-ieaYXL_SR-xm2uw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerrYr7Cz1jCe2eVsxj70TfjysZ_NNAcYdmy7H-XRIeZCpY0FKlwEFHd2H7lprt6UvIXDkjJC6jbHChmqkZPZ6GzuXLrPNxQjpuJQTB-h_WcFkmq-PFNth4XIyzfnqRdoYvuvpV0o622xFAGy2ykA9Svtrm7MPMTa23Scyfcqb_hIVQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>本文通过梳理总结数智赋能公共文化服务的概念和特征，在分析乡村公共文化服务数智化转型中存在问题的基础上，搭建数智赋能乡村公共文化服务的逻辑框架，并剖析其作用机理。同时，本研究提出以数字乡村红利夯实数智赋能乡村公共文化服务高质量发展、以农民数字素养框架提升农民数字素养与技能、以数智化公共文化服务平台提高乡村公共文化服务精准治理水平的突破路径</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>袁一帆;陈雅;</author>
@@ -66,7 +64,7 @@
     </item>
     <item>
       <title>图书馆公共文化服务研究领域主题识别与演化路径分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3PMv2m5Ly6eLvlhJ0NqQXFUo9Tp2sgQVcn3sa16axsCZpFYYuri86PQfo5EBr7M8HBb_zC1EQLGtcCbdgPmad2lUTFCcXhsnhjTL8Ksj1EDqZr0bbCFMl5-adkz3IWnR0bma-230HNPvFw8ifEcG-jFj6nEKCTqcwNbqDzhhPUrA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerrYr7Cz1jCe2eVsxj70TfjysZ_NNAcYdmy7H-XRIeZCpY0FKlwEFHd2mmEv7OAj-hVYuk0NWSkPsXURJvgbcSjzySyap2b8R9Biux3vYsY3KGNOaKA6zGaj8u-HH3VF70DmHRUmbut30i1RSua4Ne5FSmV5XXIT3tIQ354JqSNkiA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>图书馆是公共文化服务体系建设的主力军。本文基于知识图谱分析方法对我国图书馆公共文化服务研究领域1,921篇高水平期刊论文进行可视化分析，以探索图书馆公共文化服务的研究特征、主题分布以及演化路径，全面梳理我国图书馆公共文化服务研究领域的发展脉络和知识流转，以期为我国图书馆公共文化服务高质量发展提供理论基础和实践参考</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>梁建春;</author>
@@ -74,7 +72,7 @@
     </item>
     <item>
       <title>新技术形态下图书馆智慧化知识服务的重塑——以ChatGPT为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3PMv2m5Ly6eLvlhJ0NqQXFUo9Tp2sgQVcn3sa16axsCZpFYYuri86PKRMuKh1AJ2zlohRcQsJr1um-4JjNke7-sHpEi9GHTM6xHi59Bvb8NYgEOkh1ea4oQ2G4NqCBhGCaRJ6bYhEaiP8cUJm3hIpB_x5lhkqOzwb6X6kAW_VHFw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerowqMTdhpRqzur3fl1fIo5sIVNqcC9_MrytNENhj-iLuM5670a_aBytUY6zOjnsCsKTe1iThZOqE7AsONhl23GByOW5GbzPQD7QeQuMuPbJA6banQtlbAFGEn_558isZrUQcNOvpI0rs0Tbaaj4RJH1kq53jmwal94jRSkHM89RWw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在知识泛在环境下，探索ChatGPT在图书馆知识服务中的应用有着重要意义。文章从知识技术角度出发，论述了ChatGPT应用于图书馆智慧化知识服务的能力内核，指出ChatGPT能够重塑知识服务场景，并能够带来主动智能、沉浸交互、精准适配、包容易用的全方位、立体个性化的场景体验。同时，根据ChatGPT可能给图书馆知识服务带来的潜在风险，提出推进图书馆智慧化知识服务的意见和建议</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>顾婷;高斌;</author>
@@ -82,7 +80,7 @@
     </item>
     <item>
       <title>促进数字包容：数智图书馆的新使命</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1qWVdEtW3L19ArsO-esfMHxCJ0zbcNNkl4Fk7L0DkbKsGrwy08JglSHgqnzMUiokV-v7KhqIHf7t8QML2nQOtXBC9nlhdAiZYeySyuov0tl-MF92n1qbsULNxddhUIYk1TupX3UneDZ2RfjmlbBWNFSnQA-EyCIiEInOWvcls2_Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerowqMTdhpRqzur3fl1fIo5sIVNqcC9_MrytNENhj-iLuM5670a_aByt9zu4GXgZrQ8hXJBS5y3Kpc4BN7b4toUU3y7jECd0WEfUaCP2aSybAjO-aepxgEbYdEtO8wS3LedOPv03ioyMr6MA8JcmGtUfIwauAujGUnJyWnokUayOSQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>信息技术的发展就如一把“双刃剑”，在推动人类社会进步发展的同时，也使数字鸿沟问题日益凸显。公共图书馆是数字包容强有力的推动者，文章基于公共图书馆的属性特征与优势，指出公共图书馆在数智化转型过程中可以从拓宽服务适用人群、提升读者信息素养、推动资源平台建设、开拓服务新形态等方面为促进数字包容做出贡献</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>雷忠恺;</author>
@@ -90,7 +88,7 @@
     </item>
     <item>
       <title>AIGC时代知识服务领域发展趋势</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1qWVdEtW3L19ArsO-esfMHxCJ0zbcNNkl4Fk7L0DkbKsGrwy08JglSIPfCLQ6kMzWMUP8MDOEnq_sHA7nZtHmG02HqYTV81nmxTqaRovfZT5wSohgIEICGH3bqlR5WOQ-fkgRIGRmUvgXGeEbeLQ44P1n7Rd_ktDbWp5QnjEG2gA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerrwap8BO_X1Uu9zZt1UsIxa4EGH5aOJpLOGWwKsu-Ui-Uf176dBOPUBisUWOLzojGmUx-_Br7lAv3DD4IWytjwYnmD0VgZJm8K37YjdYaKwr3kx1E6cZUGKTyzvLu1Z7He_EfobskCrxDD0lFvdAI6FY-vbtPbcVlKitnRfsNDDzQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着生成式人工智能（AIGC）时代的到来，知识服务领域正面临前所未有的变革与重塑。文章首先厘清AIGC与传统知识服务之间的关联与界限，随后从知识传递、知识创新和知识应用三个层面探讨AIGC时代知识服务的发展趋势，包括知识服务模式的创新、学术研究的赋能以及知识服务实践的转型，最后剖析了AIGC给知识服务领域带来的创新影响，并对未来发展前景进行前瞻性思考</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>单旭;张成昱;李骐安;张璐;</author>
@@ -98,7 +96,7 @@
     </item>
     <item>
       <title>国内外图书情报领域元宇宙应用场景：现状、热点与发展策略</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl26E3GjLSFRh1CnlVcKfZv3Kl5stMWgqP5QN4oQjQtHyLOkJHvFHlpbwOvE6H1-79GJgFf1unVnmtG1DIrrNuEqEn3uNG517y283Qs_9mZsoegUj6KAoO3dnztuBE9cQo7nTrft9sdI6H40HlMkoMAZCUsKcTkG0Fga_iAPm8e9sA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerrwap8BO_X1Uu9zZt1UsIxa4EGH5aOJpLOGWwKsu-Ui-Uf176dBOPUBs3U1Lttb3qLtU3e6iH_HLuxpKWSqgT1xacky5cYjrZ9zDnnBYQRq9FFMLaDY4C6OGcmv0kDfaY3ymRYpJlM_wJFBEDHQJjRNCppp9MqWCbV0iqs-dDuO9Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文章以CNKI和Scopus数据库中收录的国内外图书情报领域关于元宇宙的研究论文为数据源，借助相关软件和工具对该领域的研究文献进行可视化分析，发现国内外图书情报领域元宇宙主要应用于阅读推广、智慧服务、空间建设和信息资源管理等领域，建议未来可通过加强技术融合+创新、提高馆员水平+能力、融合用户阅读+社交、促进信息共享+交互、保护数据安全+用户隐私等途径构建元宇宙图书馆</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>闫二开;高梦潇;唐玫;白小鸽;</author>
@@ -106,7 +104,7 @@
     </item>
     <item>
       <title>图书馆阅读推广品牌建设：底层逻辑与路径选择</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl26E3GjLSFRh1CnlVcKfZv3Kl5stMWgqP5QN4oQjQtHyLOkJHvFHlpbTaY2-lul5Mn60IdpX4WreEjqv6_6vJt8I2TCtFOPRyEnzfMMXQJ3WpG7vg4_rf42CnXmFobGsLfYuEAXZd-2hCGI285Dmr296lO3_yeyBH3OofxlbF2n6g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpO_ozALuqbMWfBvZvKORkAI65KjC03xTB_fbju-e9rSZbtXMrnMR763Xn6vRYQvJhzgGVYpRh9umwJRJQnyBfDnDZ8ClWHhb34I3g5hpo5Qy2rBC5N6V6aOdYiGUyUL0P0hzq7lbjPQSOre9weXgO0qM4nwmdyXqrSQgUY_R4hzg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文章在对阅读推广品牌的内涵和本质进行深入阐述的基础上，提出为了确保图书馆阅读推广品牌建设精准有效，不仅需要从顶层设计布局，还需要对其本质内涵及底层逻辑进行深入研究，进而找到系统高效的阅读推广品牌建设路径。研究认为，基于图书馆、用户、关系三重维度的品牌定位、用户选择、情感共鸣为图书馆阅读推广品牌建设提供了底层支撑，而图书馆应围绕这三个支撑点，以品牌定位、品牌营销、品牌维系为基本路径系统推进阅读推广品...</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>周秀军;</author>
@@ -114,7 +112,7 @@
     </item>
     <item>
       <title>数智化赋能信息素养教育高质量发展的可能与可为</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3IN2lDloIHZbcne0GpcG92rhJqh-mDACD_9e4Fy_PaqqUAv4ymzYrzIOEzqByMCP8j9ciZgB3h4TAjERnE8fzEk6XW8rt69fXt7NRVl3zN_RZ3vTeKzNFvAruED7NqLCPTimZcrhEvqWpvSbnwSrIhU66uvXBRUKvwMvuxNAC4Ww==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpO_ozALuqbMWfBvZvKORkAI65KjC03xTB_fbju-e9rSZbtXMrnMR76hmiktcdD4ppNHUOACdQpd2W4Rw9jd1nXA42Tri0432A2nk1P6Zs_EY8K7mwyQDJdzrfG0hYa9PUEqFMjuyVRL-f-oINbSliu_3Vewo1kg5qAsUXtzKKtuw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>数智化赋能信息素养教育高质量发展是数智化时代信息素养教育高质量发展的必然趋势。文章从嵌入技术的逻辑起点、创新组织的逻辑进路、塑造生态的逻辑归旨来构建数智化赋能信息素养教育高质量发展的逻辑框架，认为数智化赋能信息素养教育高质量发展的关键特征体现在信息素养教育组织的无边界、信息素养教育实践的个性化、信息素养教育培养的引领性、信息素养教育治理的数智化等方面，同时提出实现数智化赋能信息素养教育高质量发展的...</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>王争录;李欢欢;马小霞;张博;</author>
@@ -122,7 +120,7 @@
     </item>
     <item>
       <title>生成式人工智能背景下高校AI素养教育实施方案研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3IN2lDloIHZbcne0GpcG92rhJqh-mDACD_9e4Fy_PaqqUAv4ymzYrz1P8jVvZCYQYH9nWPunwbRCqYRZfZpGnN1sJdysRs1Hd3PhbJPpfwP5UQBeDf3Z9a7kNT34SzAwAESn3-q4_yu-OsDJSuX2IW3CRE-7IIENBHBZWDWYS2kw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpKKqtUtO-xWzjNddtqO2ba_f6nNDINVikg1fXJ1iPNo7Gnpek2b3rR_wAwaXIGb02IJ33_Gk75a1LYfSbpAbRHCObAlJiPNJznk0X76h4jDmIZaqaJ4ChZIoVL32-SLlhZDQZluXtqpjohOWsxX-jV6U_XCVq7UmsMSR-E8-GRvA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>生成式人工智能技术的兴起，为高等教育和图书馆带来了新的机遇和挑战。文章在提出高校AI素养教育实施目标、保障措施和具体方案的基础上，进一步从知识、技能和应用、伦理和道德以及未来发展四个维度构建AI素养框架。同时，在实施方案方面提出并强调了构建AI素养知识体系、促进AI应用与创作、加强AI伦理与安全教育、探索未来职业发展四个方面的具体措施，以帮助学生应对当前AI发展环境并培养适应未来社会发展需求的人才...</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>杜瑾;</author>
@@ -130,7 +128,7 @@
     </item>
     <item>
       <title>基于文本相似度计算的我国公共图书馆立法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3Q85y68tHmk54Y2zTtTlwb7b_CTDzWt6d0ECd0Vos7Jn_yfhWHX_NLX9xBNGvRWJVcBt_9ynavourZ9epemjJGQk-SDaIh5XIhN1f3qiqfgH-5qplJ_oMdAryanjFFhzHBQ0uNMe--5uZqh_1kVZ-CQBdqKX5v0m5Um-yaurWn-A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpKKqtUtO-xWzjNddtqO2ba_f6nNDINVikg1fXJ1iPNo7Gnpek2b3rRe8eQcnwdZhO5PMliWgW82xTBH9lOpupW7Kox4xjTaTSBRc3KnnXGWsNGH7zjQwd7qK9ArvJTnPS2N_oeoNTT-zbjjYQbYbIPvRMVpkwdI2XxJ1CSmUROuA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文章结合各地公共图书馆事业发展状况，利用文本相似度计算对《中华人民共和国公共图书馆法》重点内容和我国23个地区发布的公共图书馆法规及规章文本进行比较研究，旨在揭示地方政府在公共图书馆事业建设中的特点，为进一步完善我国公共图书馆法规体系提供理论支撑和实践指导。研究认为管理职责、考核评价、总分馆体系、经费保障等内容受地区重视程度较高，呈现出与中央的政策耦合，并分别对各省的政策法规文本特点进行了总结，最...</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author>黄丽霞;郭路颖;</author>
@@ -138,7 +136,7 @@
     </item>
     <item>
       <title>稿约</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3Q85y68tHmk54Y2zTtTlwb7b_CTDzWt6d0ECd0Vos7Jn_yfhWHX_NL4FxzHNUrOIn1DFydRGirym_LHy_-QWEO_yCeE1GfUuehxZdLhdykIDwwLX8Ga2bojOX2VZHaqI2t-9WmmnEpC27YSOg0DFgLrRPziod-5iDU4RgtPCLYtg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEeroTIaHgJ2eM8bPVIDTQ94NDI2ieJAdJ1tu6DImfH9a6tBqotzN9pGRI5VYp1K6xLmKogG1QV9CWVL9qgnzPgIfbdhAiXWDY8ylgsrbLs1QI5nWVfDJ27J_bDsDOYxPGS8QskBwuziDZsKHKyrjQ963rl3tvGIUeXYQeF7r_8yr4SQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;《图书馆理论与实践》是由宁夏图书馆学会、宁夏回族自治区图书馆主办的图书馆学、情报学专业学术期刊。本刊坚持理论与实践并重的办刊宗旨,关注理论前沿,追踪行业热点,呈现业界亮点,鼓励学术争鸣,扶持新人新作,力求为图书情报工作者营造一方有质量的学术园地</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author />
@@ -146,7 +144,7 @@
     </item>
     <item>
       <title>编后</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1t1D0jtPu2yPxdTl_cTJUZ8Bolcu517cigaMM17-w7_qSgFNbVjT8a54iYr37ZPzwObH47q_Mj1BwdUKN_ynZyyo-yyVQkkA5eqNAH6l7ubS87Clv9v17BkR__JZ8hxeVKkP7LGtaexutACMXPIxtZdl-q5-h3NtO6CDYmCESEOg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEeroTIaHgJ2eM8bPVIDTQ94NDI2ieJAdJ1tu6DImfH9a6tBqotzN9pGRIsca268U49HmNETaFCqw0iMmmesLzhu8G5dqwoJjWabMMp6DitiGQ1uAgK_ZYnmLRSZJriXUKTJ7E7Rv_C1hYlfIJz0LaEYaeww-P5lq6dqtuMU1BCpNTOA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;二〇二五年可谓意义重大,既是“十四五”收官之年,亦是“十五五”谋划之始,实属呈上启下的关键节点。我国图书馆事业继承“十四五”之成就,开启“十五五”之新篇,以高质量发展为取向,积极谋划发展要务,奋力推进诸项业务建设,自当引发诸多思考与前瞻。为此,本刊顺势而为,特设“‘十五五’规划暨高质量发展”栏目,旨在紧贴时代之脉,及时呈现当下专业发展之特点,以期对事业发展有所助力</description>
       <pubDate>Thu, 09 Jan 2025 16:00:00 GMT</pubDate>
       <author />
@@ -154,7 +152,7 @@
     </item>
     <item>
       <title>“十五五”时期应加快图书馆的全面绿色转型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1t1D0jtPu2yPxdTl_cTJUZ8Bolcu517cigaMM17-w7_qSgFNbVjT8ah6jUGXD3fnh_bh2GlI2fW4J-UYPXWfUzSK1tFPk6B4xcgYCIGOB1PTiN4YbmpMYi4_KCEOjc6ibGsO6FWp_CJ3rynQq24Zke6vToYtIuS7RgvVrKsh-a0A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpmx6ivUAQN_nKjlGqM1DRupPpgxvKgjWYjBBYIZ1HBSdUFRQ_ivmMe8TRJhIvM_fixi0n8HbN7DvlLJR5LyEVcV4r-bokSeKVlh4AKhNw5VuGDSrBylEFchmNMNr_o8d-D1XYms2LjtWEN29L0kl4Ge_NpEf6BRwLzK66p061cew==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文章提出了“十五五”时期应加快图书馆全面绿色转型的命题，并从三个方面进行了论述。一是图书馆全面绿色转型的必要性，包括全面绿色转型是当下国之大者、新质生产力也是绿色生产力、图书馆应主动汇入绿色转型大潮等内容。二是图书馆全面绿色转型的示范性，包括中国式现代化引领图书馆绿色转型、图书馆绿色转型的示范案例、为世界图书馆绿色转型提供中国方案等内容。三是图书馆全面绿色转型的路线图，包括绿色转型的全面体检、因馆...</description>
       <pubDate>Tue, 24 Dec 2024 16:00:00 GMT</pubDate>
       <author>王世伟;</author>
@@ -162,7 +160,7 @@
     </item>
     <item>
       <title>基于LDA 模型的国内数字阅读研究热点与发展趋势</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl333kjOF_qyU9J8cjU3sp8XsgPwTGQ3WN0_nRcNBxHJNyy9wJRemTkpbuyA6avHGXi8VlmUczTM1dq8hG57DhJd72TQaDbBD39vh558Rb1xxRz2MyXmSk-d1D4fCGZQ08Den5g2ck3hog_ImzH1IL7L-dtH61PN0JcD1vk80FqoUA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerpmx6ivUAQN_nKjlGqM1DRulkOgw2KWVrTvf54F186MalSP3BBiNnDLpXegMG054NwWayMVHjq1s0dOwOLqhkOho2FvfLRYlXsTu_BqMJpRa_CA2MMNMhjCv5ylOZ7BQhgvjoMGlsHToQuN72Y-t__aXUtSqINbx00t4hFDDYCAOQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>利用LDA主题模型对数字阅读领域研究内容进行主题聚类和提炼，结合时间维度分析各主题演化趋势，并识别热点主题。研究发现国内数字阅读研究存在数字阅读推广、数字阅读行为、数字阅读效果与价值以及全民数字阅读4个热点主题。在结合热点主题发展趋势的基础上，未来研究可从加强数字阅读推广的理论探索与智能化实践、推动数字阅读行为的要素拓展与趋势预测、实现数字阅读效果的多维评价与价值提升、加快全民数字阅读素养体系构建...</description>
       <pubDate>Sun, 01 Dec 2024 16:00:00 GMT</pubDate>
       <author>乔晓鹏;翟佳怡;杨阳;</author>
@@ -170,7 +168,7 @@
     </item>
     <item>
       <title>中小学阅读素养教育的框架及进路研究——生态型管理的视角</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl333kjOF_qyU9J8cjU3sp8XsgPwTGQ3WN0_nRcNBxHJNyy9wJRemTkptR3vDPmkqXJTsd2FlbnI1pD2ZkEykVDcjeJ-xP1KCYMkxm1GOFV3BytdvwsR4zQBT51XORdEYOEU8DDEqZwK2k5vyJXITKqzJPrdsjrvUtbw-8qe2SDTOw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=hW9FdoQEerqJLqXV0aOSgq4y-T6Xmn0qKe5smzib22dpMQMW3-421EEBfsHwNJegHZ4_auSlJgxoLwAeg7NZGjQ3MdbOD8rXsYxJluPRqfzhJDegnDu6cQMOydfsWZ1tjz7F9cObHOOsDVa6OcYUBYM7fFlDcLdFLnWsA37Xvp8gme3mLzNR9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在分析阅读素养教育内涵和要素的基础上，从全要素的阅读生态环境、全流程的阅读生态系统结构、全业务的阅读生态链、全领域的“阅读”联盟体四个方面构建中小学阅读素养教育逻辑框架，进而提出阅读素养教育的进路，即：“管-用-服-评”的管理机制、“境-教-娱-研”的阅读观、“互通-互融-互助”的“共生”阅读圈、“阅读+课程+文旅”的资源体系，以期为中小学阅读素养教育的发展提供有益参考</description>
       <pubDate>Sun, 01 Dec 2024 16:00:00 GMT</pubDate>
       <author>瞿浩;张新平;</author>
