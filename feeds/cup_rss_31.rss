@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Mar 2025 17:17:51 +0000</lastBuildDate>
-    <item>
-      <title>春节2025</title>
-      <link>http://www.cup.edu.cn/geosci/sydt/b1b8fd1d215c4bd6a1efa32109d3e721.htm</link>
-      <pubDate>Sun, 26 Jan 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年1月</title>
-      <link>http://www.cup.edu.cn/geosci/xklw2/2025/251y/328ec8c023ef4bbdab700268c93fcb1e.htm</link>
-      <pubDate>Fri, 14 Feb 2025 04:49:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Mar 2025 12:35:58 +0000</lastBuildDate>
     <item>
       <title>地球科学学院开展2025年春季学期初实验室安全检查</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/11fc222ab5f94ab3b7eb471d9f4cf13c.htm</link>
@@ -110,9 +100,19 @@
       <pubDate>Fri, 14 Mar 2025 01:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>罗情勇赴澳大利亚团组公示表</title>
+      <title>罗情勇等1人赴澳大利亚团组公示表</title>
       <link>http://www.cup.edu.cn/geosci/cgcj/cggs/acd771c542be41a195a446dc90c04da5.blk.htm</link>
       <pubDate>Tue, 18 Mar 2025 02:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>庞小娇等1人赴奥地利团组公示表</title>
+      <link>http://www.cup.edu.cn/geosci/cgcj/cggs/6a7a09d2ca914152978a686d5c845cc7.blk.htm</link>
+      <pubDate>Wed, 19 Mar 2025 03:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院2025年硕士研究生复试细则</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/add9a321bd0c40858aeb5a95993e098c.htm</link>
+      <pubDate>Wed, 19 Mar 2025 03:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
