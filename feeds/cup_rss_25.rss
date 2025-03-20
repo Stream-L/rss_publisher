@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 16:10:11 +0000</lastBuildDate>
-    <item>
-      <title>学院代表性高水平论文一览表</title>
-      <link>http://www.cup.edu.cn/sba/kxyjgb/xslw/6753a9f097344483bacab00834d27143.htm</link>
-      <pubDate>Thu, 27 Feb 2025 08:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2020年项目一览表</title>
-      <link>http://www.cup.edu.cn/sba/kxyjgb/kyxm/9180a362cf4c4ac1a09d4f7e07153537.htm</link>
-      <pubDate>Thu, 27 Feb 2025 08:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Mar 2025 04:21:19 +0000</lastBuildDate>
     <item>
       <title>2022年项目一览表</title>
       <link>http://www.cup.edu.cn/sba/kxyjgb/kyxm/3df19f23587f46dc9528ed38270fcf28.htm</link>
@@ -106,6 +96,16 @@
       <title>经管2025年工商管理硕士（MBA）研究生复试细则及复试名单（一志愿）</title>
       <link>http://www.cup.edu.cn/sba/tzgg/f24212bba8af45e59f5b494eda259c40.htm</link>
       <pubDate>Wed, 19 Mar 2025 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>经管2025年学术型硕士一志愿考生复试细则</title>
+      <link>http://www.cup.edu.cn/sba/tzgg/85857eef53d54a15a87ff3c39599c019.htm</link>
+      <pubDate>Thu, 20 Mar 2025 00:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>经管2025年学术型硕士一志愿考生复试名单</title>
+      <link>http://www.cup.edu.cn/sba/tzgg/0c20fd022bbb40cda62e2d7df374a6c1.htm</link>
+      <pubDate>Thu, 20 Mar 2025 00:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
