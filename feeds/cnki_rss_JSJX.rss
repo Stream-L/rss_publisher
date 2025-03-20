@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/JSJX/detail?uniplatform=NZKPT</link>
     <description>计算机学报</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 20 Mar 2025 04:22:25 GMT</pubDate>
+    <pubDate>Thu, 20 Mar 2025 09:27:44 GMT</pubDate>
     <generator>计算机学报</generator>
     <image>
       <title>计算机学报-CNKI</title>
@@ -15,8 +15,16 @@
       <height>166</height>
     </image>
     <item>
+      <title>叙事工坊：交互式叙事场景的自动生成</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrpiWM-YsF3QnViOws4Sum_9fu6fKNGMXhVxHKLhf3VdQ2XbU2mywh6IHYdNdstcvZcc_MQYHHCMyAKkPgrfw1XQuHSolbmmHQkE5oJ2vYLIqDh6ySgXWs_wxb7IvsV7huELPEyh3raG1zJzDu-Rpd4LjyoAzvcaeSXc9F6pnMX7g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>近年来，随着交互式数字环境的快速进步，现代技术使用户能够完全沉浸在交互式叙事场景和游戏体验中。尽管静态3D场景构建技术已相当成熟，但人们对于叙事场景中能够增强叙事体验的需求却日益增长。本文提出了一种创新方法，通过将构成叙事情节的单个事件（故事点）巧妙地融入场景中，从而构建出引人入胜的叙事场景。本方法通过优化故事点的空间和时间布局，综合考虑视觉显著性、叙事节奏和场景布局合理性，从而构建一个动态且交互...</description>
+      <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
+      <author>朱晗希;高可隽;陈小雨;李怡珂;覃诗睿;赵乐朋;张少魁;张松海;</author>
+      <guid>cdbda9515c2ff7d669ae6ecd644dcfb5</guid>
+    </item>
+    <item>
       <title>基于探针引导的视觉语言多模态解释方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqB-w7lIjLLWsnvXvWLKASKSr2qTYH6Th0rKlgL2DmcZ2G5jGZXS25wOrHog_dT1mcuw9h2oq20w_m2bqfWe7rlpgDJB94HCs6WIhOVNFOGsJwmilgOW2LCnCdeBGzsUXwD0kfhCCJHuZapbwueBhzyoeTqnyDID3Z5M7WkwEBrNg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrpiWM-YsF3QnViOws4Sum_9fu6fKNGMXhVxHKLhf3VdQ2XbU2mywh6S1XNVx0aW9Ih_70lZb0oKKy6yx4VSLw_79utFvSmJWmQOLLXcokYLL15PaBHF23NfWIlB_OPywkP8Jz4DWYwGXX6z37DvMWCgBaB_ZZxxjHgjno0uVfG6w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>现有的视觉语言模型大部分通过具有“黑盒”结构的深度神经网络实现跨模态推理，然而网络内部的执行过程难以被人类直观理解。因此，本文侧重于研究面向视觉问答(Visual Question Answering，VQA)任务的自然语言解释(Natural Language Explanation，NLE)方法，旨在通过生成的自然语言语句来解释模型的推理过程。虽然现有方法已经取得了一定的进展，但仍面临以下挑战...</description>
       <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
       <author>索伟;吕家齐;孙梦阳;刘乐;王鹏;</author>
@@ -24,7 +32,7 @@
     </item>
     <item>
       <title>BEKO：大语言模型与知识图谱的双向增强</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqB-w7lIjLLWsnvXvWLKASKSr2qTYH6Th0rKlgL2DmcZ2G5jGZXS25wqaRCpjE6QstcN-M77IV2TXQfrUXJHegA8R52XgxqtUWJfFpssK03pn0wFRSYq6dLUW7ur5bYWEl_Z_PlItwDqSXcFAKKO87l4XlmEC-qe71CIDkjWFeKRg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqW13L6YVLE5SUa2QbYcmDbTBd_qoyl0G7mbbOCLUNsV6i-AIWK7eJuAVz50aKhTsXPCkZlNNTFSJ9_UtDnv6rtEF3QvjbQfC-NnF-pIDEIikYtvwxwpiCab0ntKSHARZgOqWOAZGYRwYNBPK-0CBDfRg2_1k2zsjsyUbuAo9y1ZA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>以ChatGPT为代表的大型语言模型（LLMs）在多种任务中展现了巨大潜力。然而，LLMs仍然面临幻觉现象和长尾知识遗忘等问题。为了解决这些挑战，现有方法通过结合知识图谱等外部知识显著增强LLMs的生成能力，从而提升回答的准确性和完整性。但是，这些方法存在如知识图谱构建的复杂性、语义丢失以及知识单向流动等问题。为此，我们提出了一种双向增强框架，不仅利用知识图谱增强LLMs的生成效果，而且利用LLM...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>吴信东;黄满宗;卜晨阳;</author>
@@ -32,7 +40,7 @@
     </item>
     <item>
       <title>MA-CDMR: 多域SDWN中一种基于多智能体深度强化学习的智能跨域组播路由方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrg2T2C9wtfMOtk6uknY1KQW9dLNeUpKt8DBaE99PprAq7qBWIK1mMU1cDMK1q1tYh4ZJZYiCUtOivAubdBFOcdBmo1ZAnadBL2IXJo-3t19If_qrTL6q2evQ69RuNaH0wDkuuwYjvlN0yDL6j3XeIZ8ZeyjzA660WT3dSoUj6JcQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukol7tVefaTddKAQ32BL1BfbZYhktiPTCoiUR4eImoTikHvsXpREy2xpBQ4Hq3V6b7AgxFkkRjvPhlBXnUEq7UorMmWmRZHEDzoT_nb48ey8KnznUju6GK5du3zaXmbA2A4yhFIF_g9k835KemGlLOIPqewqhQ8Dwoe36EA5E8Ae2w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>多域软件定义无线网络(SDWN)中的跨域组播路由问题不仅是NP难组合优化问题，随着网络规模的增加和组播组成员的动态变化，构建高效的跨域组播路由路径还需要及时灵活获取和维护全局网络状态信息并设计出最优跨域组播树问题的求解算法。针对现有求解方法对网络流量状态感知性能欠缺影响组播业务对QoS方面需求的满足，并且收敛速度慢难于适应网络状态高度动态变化的问题，本文设计和实现了一种基于多智能体深度强化学习的S...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>叶苗;胡洪文;王勇;何倩;王晓丽;文鹏;郑基浩;</author>
@@ -40,7 +48,7 @@
     </item>
     <item>
       <title>VHENN：基于环上零知识证明协议的可验证同态加密神经网络推理方案</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrg2T2C9wtfMOtk6uknY1KQW9dLNeUpKt8DBaE99PprAq7qBWIK1mMUj4qVHvUl3zfwUne8X5sLl-OTOGcRfjMAcb4qGP5Z1h3ztrfuGz1pLQbdrsd0JYGk63aQwr77z5TKgiS4VXsizVEGEsp5V-JweE6rNdb-egmUiOVnQjziOQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukol7tVefaTddKAQ32BL1BfbZYhktiPTCoiUR4eImoTikHvsXpREy2xpQYaUVTzqikFaDlNs3kf7JCzxy7O2EJwTvpxoTgymnWF2T9BLTC2W-TH_bF6LKQJkwVUw1pKOwexz9RKYGphqQHHHRsNod_BMhdZ5Y2ThwRuEAIpDggy-Og==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，诸如ChatGPT、DeepSeek等神经网络推理服务的发展，使得小微企业及个人等不具备海量数据或充足算力的用户也能受益于神经网络强大的表征能力。然而，随着人们对隐私泄露问题的关注，神经网络推理服务中的两个关键问题亟待解决：1）如何在推理过程中保护用户的数据和推理结果不被泄露；2）如何在保证模型隐私不被泄露的前提下，实现用户对模型和推理结果的可验证性。虽然目前已有部分研究分别基于同态加密、...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>杨文梯;何朝阳;李萌;张子剑;关志涛;祝烈煌;</author>
@@ -48,7 +56,7 @@
     </item>
     <item>
       <title>适用于区块链的分布式密码技术综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrzJsFcWAkhat1x1CoHJZCFFz0o555VSZGN-myvqzlMl9HCoOo2QvnRGA5885lpTLZC_hs5hMtWdp48NMv5XWadmPea1Yvvo_dtaGmH_qpUWi2oA2tV49TJcO5wlKbeYhUM_juiWJPgbHEvMXO8gMCM9yK9Uh79vEglEoeSygK2lQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqYYoa7Y5mHP3gnq8Z7f5ALSI_OzY3FwcFZoLLp3urdIo7T1vu-zLrDwt-mqAjHZb0ySPOg6V9MLGemP8aKlxgT8S7HwvdalL8cHz53m_bk_ZFS58kng2O0BLE0Tg9aNLjWvYHqqeM5NZpQfra2joDjZxIm_FfUQvgSS8d2Ggse2Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>区块链是一种允许多个陌生节点利用共识机制在不依赖可信第三方节点支持的情况下建立信任的技术。考虑到区块链的“去中心化”特点，标准的密码技术需要进行分布式改造以适用于区块链场景。本文对适用于区块链的分布式密码学框架、分布式密钥管理、分布式数字签名、分布式密钥协商与分布式审计等分布式密码技术进行了综述。具体地，本文分析了以上几种技术的研究现状，并依托经典方案梳理了各种技术的构造思想。同时，本文比较了各方...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>胡云帆;熊虎;方黎明;彭长根;秦臻;秦志光;</author>
@@ -56,7 +64,7 @@
     </item>
     <item>
       <title>面向AUC优化的高效对抗训练</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrT71avZcmdS1DCK49rnC61Lrpws1DLK3Ms_6AMudtaj5eCFLaapC9zLWYmm7D1ZEZUSOL7IoV7RRYwNWvtv6wZkTYE_RNhqOy8EYoUSxG2UfOG-h6vEg-8drjw3ppbpP9t6ih97roEDVo54PxJJdKZU_XnpvQGLkrfc7oZZKl32A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpyA1oMiIhihqLomzNzkjNNI5ojGxmmQAJ_ZJ3i_D8pm_nnK2RQbviOw8tIS52SIsOlM1GRo2BLBDNTRNrq0JPANChLUL4Po3ZVqwLZDFfEpM2F-c-EyKZXxm1lFRJsEskGyhc0NIT2ZtWJAkgulCmDM8QvKxu-7j9PeWQgnAOkRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>鉴于ROC曲线下面积 (Area Under the ROC Curve， 简称AUC) 对数据分布的不敏感特性， 面向AUC的对抗训练(AdAUC) 近来已成为机器学习领域中抵御长尾分布下对抗攻击的有效范式之一。当前主流方法大多遵循基于平方替代损失的AUC对抗训练框架， 并将成对比较形式的AUC对抗损失重构为一个逐样本的随机鞍点优化问题， 克服端到端的计算瓶颈。然而， 面向复杂的实际应用场景， ...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>包世龙;许倩倩;杨智勇;华聪;韩博宇;操晓春;黄庆明;</author>
@@ -64,7 +72,7 @@
     </item>
     <item>
       <title>基于区块链与CP-ABE的可验证分布式密钥生成协议</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrT71avZcmdS1DCK49rnC61Lrpws1DLK3Ms_6AMudtaj5eCFLaapC9zyRfb0S9eHsZJOZElQb5rq1p-qexicsf_M53-KKhxM4DbT0Rz1V0V2yoc_e_h3iJCXM36NzjX5gGrLwHhZhEjib622XHBYo7aEeDpGp7mOpLZsyR56stZCg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpyA1oMiIhihqLomzNzkjNNI5ojGxmmQAJ_ZJ3i_D8pm_nnK2RQbviOz6sle57OjT5gsQYsSo3RMK0EtZawVQ7YN52kepPcLLbS1_ThH_dnqBREkwKmnRgeZ2HlJzxYKXqf4fRsZ909l4mjIMyKfE9hzlGpJbwaz-6j-gh0N9j3Zw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>分布式密钥生成（DKG）协议作为一种重要的密码学工具，它允许多个参与者共同协作生成一对额外的公私钥，而无需任何一方完全了解密钥的完整信息。由于DKG协议中的每个参与者仅持有其自身密钥份额，完整的密钥只有通过多个参与者协作时才能被重构出来，DKG协议能有效降低密钥泄露的风险。然而，现有分布式密钥生成（DKG）协议大多基于公开可验证秘密共享（PVSS）方案进行设计，协议的共享阶段和重构阶段至少各需要两...</description>
       <pubDate>Mon, 17 Mar 2025 16:00:00 GMT</pubDate>
       <author>彭长根;龙洋洋;陈玉玲;</author>
@@ -72,7 +80,7 @@
     </item>
     <item>
       <title>基于动态前缀提示及数据增强的情感四元组提取方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoeVMHqaxw7S9CpWFvb0R99s2mpE6TiRGEOTI2yn5GB55Ay63BT45UxHDV_VUPyZqQPB7NJj1DgV8enmtcgsTWAX5DbbCHbu9O67WN-BZCTy8aDQXV_ihwsV3h3dy-spdn01zyQGObJ5-FOlR2_p5gWo4FlykK0CSzjZlegAkOU8w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoo3pzECFxuDLcVLXYUnwy-UE8HfwMH4NXFaSThfJegrMWYvOwV0NSTEjAQjQ1V-aDUFr1bUJeoiNOE9tL5iaL4RmlJYOW7ZnHGy1UQKZC6JTR-fNqnWVyfQe6vyhwCVS96XdeMH3hZryva93m3JJ0EjMgAgSsH04cAKRI3jlIisA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在方面级情感分析（Aspect-Based Sentiment Analysis， ABSA）中，情感四元组提取是一个能全面分析情感且最具挑战性的任务。当前基于生成式的方法存在两方面局限性：（1）依赖于提示设计，无法针对任务动态优化，导致提示次优的问题；（2）未能充分解决隐含情感数据不平衡的问题，导致在处理这类数据时性能不佳。为解决这些问题，我们提出了一种动态前缀提示方法（Dynamic Pref...</description>
       <pubDate>Mon, 17 Mar 2025 16:00:00 GMT</pubDate>
       <author>钟将;刘雨轩;戴启祝;王佳祺;赖心怡;胡雯月;</author>
@@ -80,7 +88,7 @@
     </item>
     <item>
       <title>基于SM9的可验证公平标识广播代理重加密</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoeVMHqaxw7S9CpWFvb0R99KspjkNex7CJvpI4q_5O-YZ_s5eXh2NFlMZlugtKyueBcyaasn804DpNp5hSEKQLN_Lfb0WUbnsImPxV57JwY80qmn1mi6tiTcFarMxHGYXYP964eX45kkN4ZWsH0gk3qpReb9F7AzqUKKG08038xsg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoo3pzECFxuDLcVLXYUnwy-nNCZagp5rBnEcf5FtNv6OOPBsZdIvdkEBDXwTtC1gYYvBzVYP3FlFvrjcxp4kLNmfQRIHhnsnTtSIl8CGiDyuKNgJgYaeQk-8hV1PeI0yl1gvo12iMsPFAtPfLJyUhciqkvyitnWUYqOl7x5VXZ5hQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>标识广播代理重加密允许代理者将数据拥有者的密文转换为一组授权用户可解的密文且不泄露底层的数据和私钥,解决证书管理问题,实现一对多密文转换,有效地适配于多用户数据共享系统。然而,负责转换密文的不可信代理者可能为节省计算开销返回错误重加密密文导致数据共享失败。SM9算法作为我国自主设计的标识密码,在实现隐私保护的同时具有更高效率,但其不支持密文转换且仅适用于一对一共享场景。针对上述问题,本文基于SM9...</description>
       <pubDate>Thu, 13 Mar 2025 16:00:00 GMT</pubDate>
       <author>刘行;明洋;王晨豪;赵一;</author>
@@ -88,7 +96,7 @@
     </item>
     <item>
       <title>一种面向推荐系统的隐私保护图神经网络</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoeVMHqaxw7S9CpWFvb0R99s2mpE6TiRGEOTI2yn5GB55Ay63BT45UxNkPdMAygH1BL5n5iGoowZknRsnbFzMVj_OtJZx4QkdgHmuwFT8imWw5U0C74w__E4zDoyasofeoqmgThTjVylk114IF0cFwYqpxtJBquyZG99EdjgIRCDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrMfiO_iRVsaLZLR42-_45AEIvu1RF6pf3quG6aS3WaoI5Z_VlgZOpPvhXDaaveud3GIKxPWxzJDrAkDsUDihTcvsVrJEEACxv70p1h6Ndy8sV-cK2ENbHY0fApRJAbnOjfSrbNQPv6yTczfBgVjYD-1HyU5mJx7wQO9ub0LU1fkg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，图神经网络凭借强大的图数据表示学习能力，在推荐领域得到广泛应用。现有基于图神经网络的推荐系统大多依赖中心服务器集中存储用户数据并训练模型。然而，用户数据中通常蕴含着大量的敏感信息，不可信的中心服务器可能通过隐私攻击窃取用户数据，从而严重威胁用户的隐私权益。虽然目前针对图神经推荐系统的隐私保护研究已取得一些进展，但大多都是建立在可信第三方的假设基础之上，因此在实际应用中具有较大的局限性。此外...</description>
       <pubDate>Tue, 11 Mar 2025 16:00:00 GMT</pubDate>
       <author>王锟;王永;张智强;刘金源;邓江洲;</author>
@@ -96,7 +104,7 @@
     </item>
     <item>
       <title>单纯形神经网络综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrdF9mWCktrLSMZ_FHg2IcbS6EASkKeHJm_nBMP7AkyHllR4IQYbFTbcsvj1-D4n6po1Ikqz9F8PlGng28lM9PPlkkgkYdeKhnMQj40hjfVUV_jl3Edc_0oNiIfvk6EDBFHa58UWgUmtMkQwCVNiT1Jvr-QNls5cwx5AEormNSjRQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpNgu_0WFxkDpgWUuqXt3plvupwsxC4Tw4LA63yA3ZuV1sNbxLbv0_Vt2rk9tUWunewmBPPGRUYk9OSNUPPaYfhiDVEyU59rHITLMF-uR7qaHxTt-HHUtSursmyNbqr0YX6kQExJaOOBJS5rhft0C5NKa9oyk9-GO59CyJSM4l5EQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>图神经网络依托强大的计算能力在文本分类、节点分类和自然语言处理等领域取得了显著成果，其主要用于处理包含成对关系的图结构数据。然而，现实世界中的网络之间往往存在高阶交互关系，若使用图结构表示这种复杂关系，可能会丢失节点间的重要信息。最近，单纯形被证明不仅可以编码节点间的成对关系，还可以编码多节点间的高阶交互关系。因此，学者们开始探索如何在单纯形上设计神经网络，并随之提出了众多单纯形神经网络模型。与已...</description>
       <pubDate>Tue, 11 Mar 2025 16:00:00 GMT</pubDate>
       <author>唐春阳;冶忠林;白立冰;赵海兴;</author>
@@ -104,7 +112,7 @@
     </item>
     <item>
       <title>一种基于小波变换的两阶段低照度图像增强方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrdF9mWCktrLSMZ_FHg2IcbS6EASkKeHJm_nBMP7AkyHllR4IQYbFTbZtNr-90UT67VE94ds9lU3rKwtBUxy-FDu_oBGFJ6_n7-p5GIDDNI2ykjLVbFfbLZ0zrVplq_LHRGs-Jn2jlVhcS4OpPrlX1ExR72Zvw74ATyfFwmytdhhA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqnm7ffuO59VbuKG2u9do7tQDT-JgE-2GhbbAbbFNIA6xEZyxYEZb4J0TmnpmVZQs62Kb8DUuIDPSw3ELAmaD9s1omwI97t4hsuvko_y7nXb4U8xUeudotNjVq7WWY1TA_LSIWcJ8tStrWrjQlAsNDCn90sYoyVtbySJXUiDFYQYg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>低照度环境下采集的图像普遍存在亮度衰减、对比度弱化及细节模糊等退化现象，导致视觉质量显著降低，严重制约计算机视觉系统在目标检测、语义分割等高级视觉任务中的性能表现。针对上述问题，本文提出了一种基于小波变换的两阶段低照度图像增强网络TSUNet (Two-Stage Wavelet Recovery U-Net)。本文创新性地构建了基于小波变换理论的U型网络架构，通过初级恢复与精细增强两阶段的渐进式...</description>
       <pubDate>Sun, 09 Mar 2025 16:00:00 GMT</pubDate>
       <author>孙静;孙福奇;郝世杰;孙福明;</author>
@@ -112,7 +120,7 @@
     </item>
     <item>
       <title>SlimGC: 面向分布式深度学习的梯度压缩优化策略</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoLPpfFqMl-Zlgnt9Oaj1wJp8p1sAgbdFN5jCb4Is2h0S_WeFA-Lpra9OIHrOHBlJiD7w9szVEp4qZnAkNwFzUfyDD4OdtcYcjoPKh1g6CgmnFiKTUfUsZBMmyqLdT8m_16CwzZBvevSRcvCw28XKcdUL8WRXodz0wIMHrVbxTnDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpay9RGRPLaqs_iCN208jlEyWvxqRKchSNvcfDSth_csY9h7IhVKxXAUamQm1cL0dinhM6YAV-_udTdgB3NvRHs9FKmwF4eqaoK4rB0TzuOsFg07b7nIdlMQQss3akYy_ADPqYLICrWXHuIpIpaFo-PnRgsb22JSWEwNxXBEvR66Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>梯度压缩是缓解分布式深度学习中通信瓶颈的关键技术。然而，通过梯度压缩实现显著的性能改进仍然具有挑战性。在实际应用中，梯度压缩面临着以下几个挑战：(1)不能有效优化小规模张量通信的启动开销。(2)压缩操作可能会与张量计算竞争GPU资源，从而延迟梯度传输的启动时机。(3)它可能引发需要谨慎处理的模型精度问题。为了最大限度地发挥梯度压缩的优势并应对这些挑战，我们设计了SlimGC策略来用于通用梯度压缩增...</description>
       <pubDate>Sun, 09 Mar 2025 16:00:00 GMT</pubDate>
       <author>白哲;于恩达;董德尊;</author>
@@ -120,7 +128,7 @@
     </item>
     <item>
       <title>基于高斯泼溅的轻量级重建场景分割方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoLPpfFqMl-Zlgnt9Oaj1wJp8p1sAgbdFN5jCb4Is2h0S_WeFA-LprahHuxrFbORlEj9_kBagLCfP81xlE1UplNS35-nGveMKKKkOQyIDpTel2K-pnmz4GD7HzH1H4_mmyDynFB3TjcbyQaTL8y0oeqix9yLpjxMwP53pFQXKDmAg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpifUfxJjrpA_7WIB4ZUaOk8jcwnKEU0Zkk1PoPWCfdYi8GOjd9wuD972OhNGQrl02FVh3bBxyYiYjM829a8-oyJrtBhloyPvz-DIYUXFkZYsHnfJSrWPrwc1ecyHE77jOw0YBLvNPKjIogpG9MknAEzJdxdLfhZxHIug4kGzAU_A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在三维重建领域， 最新提出的三维高斯溅射方法相比于神经辐射场方法在训练时间和重建质量上均得到显著提升， 但是由于重建场景的复杂性和不同物体之间产生的遮挡， 导致重建场景的分割十分具有挑战性。在本文中， 提出了一种轻量级的3D高斯重建场景分割方法， 能够在复杂的重建场景中分割出指定物体。具体来说， 首先利用高斯泼溅的可微分特性， 在重建过程中为每个高斯核训练一个类别特征用于类别预测。同时， 设计并训...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>王锋;银莹;王佳炎;唐勇;李胜;赵静;</author>
@@ -128,7 +136,7 @@
     </item>
     <item>
       <title>关于二部图谱聚类泛化性的研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpM4AYlLdin7aYINtd6jeZlAPnLM2n7DHJQwWDemj7HEp70FE2kjDw96JWVDgNUSQqxHPwmR_ZgLB28WE7NSBURBpERJ5b9JumxCGmblZ7h4Ae-clfbIjH06lF96u6EqccO4FOd9H9FnbQF-2MfVhdMeUUEufwlzYMKVLmZiw3ElA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqjW2uxeo0hFhEGxMz5gELtftyg91XJHW83pTNKd3iVg8_1PY_TOz9rMyLptS_F615fMF-21eFYS2htpWQlxy7Koo-Z-E4uhS0F5e4MFJghCmOG-UubanWBwsnenDvSGesogp1Vjh8MLWXLOIa_i4Lpm0sTX-ZRYq1pFvY7gQSn9Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>谱聚类算法是一种重要的聚类算法，能够在多种应用场景中取得理想的聚类效果，但较高的计算复杂度限制了其在大规模数据集上的应用。为了提高计算效率，研究者开发了二部图谱聚类算法。具体来说，此类方法仅选取部分训练集作为锚点集，并利用整个训练集和锚点集构建二部图，再利用该二部图进行近似的谱聚类。然而，这类方法存在以下三个没有被充分研究的问题:一是二部图谱聚类算法是否具备泛化性;二是如何快速获取训练集外顶点的低...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>梁伟轩;刘新旺;蓝龙;祝恩;</author>
@@ -136,7 +144,7 @@
     </item>
     <item>
       <title>基于S&amp;P和Rec-Net的图像隐蔽通信主动防御方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpM4AYlLdin7aYINtd6jeZlAPnLM2n7DHJQwWDemj7HEp70FE2kjDw949L5rdORzR1t5ma_Qk-2QX4qC818pUowgiZk--sDNpxqiLRgQhdTzoow-KaIpzyr4W1gDakruHn-khUS_zsWG8FmJ8j0J4-7zyA192Q3SDSwEslC5ZEbmA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukqjW2uxeo0hFhEGxMz5gELtftyg91XJHW83pTNKd3iVg8_1PY_TOz9r3OAuGNl_gDNhbFSKa27hmndz4fTjqSdgafNJCvLPHqtI_OGAxxS27UR5Jf08NnET90dzFUcUgYhuWjTN45UdNL5ZkFdZts_fSTFwVeLHNZq9-B8NUeo97Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，隐蔽通信在社交网络中的广泛应用加剧了网络安全风险，使得可靠防御面临新的挑战。在防御方面，以往的研究主要集中在隐写检测等被动防御。然而，目前被动防御存在一些漏洞，一方面，在低负载率下，隐写检测的虚警率和漏检率过高，使得隐写检测尚未达到百分百正确率，导致无法可靠判别；另一方面，因在社交网络等现实场景中无法获得载密图像的负载率、质量因子和隐写算法种类等先验知识，导致隐写分析人员难以对秘密信息进行...</description>
       <pubDate>Tue, 04 Mar 2025 16:00:00 GMT</pubDate>
       <author>马媛媛;赵颖澳;张祎;张倩倩;罗向阳;</author>
@@ -144,7 +152,7 @@
     </item>
     <item>
       <title>复杂交互场景下融合关节遮挡信息的手部姿态估计研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpoHySOT8txb0941Zjrrx7p7TyE05I8Wy7isIH_TjJv1opLmHqDdENvEp0LUE2RAn3dWzdWXchR7UecAKE6xE5i5qNwIXG5T6-IsoMOPmdY3btG4N1utRGgo6p_npdVa04jGZS71WGjj7JxiBc-ll_HR33R01qDbgTbwgkAcPFWRQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrmIQRD3R0aMonuWskloVFrwFpqTfQaUJFX8xUJtCUPWMd1ru9FytfyOa-5AsMB6SQsk4dp_srGz99YFiz7vNazbdo_MwbarHlepBFTCkoKK41K-fBjdrgirln4vQfrzsuUvCp9uaZjqdiSBr2T7Ui1tk047shAr65ZNXezWfMhNA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>基于视觉的手部姿态估计是计算机视觉领域的研究热点，也是理解人类交互意图的重要途径。手部在交互中不可避免会被自身或物体遮挡造成关键信息丢失，不仅影响遮挡域手部姿态估计精度，也会降低可见域手部姿态估计精度。由于现有公开数据集缺乏大规模遮挡标签，导致专注于解决遮挡问题的研究成果不足。受此启发，本文旨在通过分类手部遮挡关节，提高遮挡下手部姿态估计精度。面向复杂交互场景，以手部MANO模型和拓扑结构为基础，...</description>
       <pubDate>Tue, 04 Mar 2025 16:00:00 GMT</pubDate>
       <author>李少东;罗凯;黄远智;刘熹;双丰;高放;</author>
@@ -152,7 +160,7 @@
     </item>
     <item>
       <title>基于连接时序分类解码器的实时语音翻译方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukpoHySOT8txb0941Zjrrx7p7TyE05I8Wy7isIH_TjJv1lA2M-sMfPULSM3Ceg-l__Ax0LuR4aGdkTgol5DpSyIfupyuwjDfxEWimDWzoW-1QW20aHG21zMZ-Ck4AyYSnZy56tAuOqV0y79S-lJgnNa0z98BGa0eEu5F2776VCZKyQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrmIQRD3R0aMonuWskloVFrwFpqTfQaUJFX8xUJtCUPWO0spMfo4mE5c9vvyRt9nxM-kyxAb9wABIFz-AzsVuqGPFuk2e5-Pua6Qj38Epesm9XjBKcxiYXKI9bCht7pvSSu2v42_GGyWvLTxQsVQweUwrsjC8m6Jv0VxXZHiI8tQg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>实时场景中的跨语言沟通是全球化进程中的重要场景。实时语音翻译旨在通过计算机在说话者讲话的同时输出目标语言的翻译文本，在诸多实时场景中具有广泛的应用前景。当前的离线模型尽管拥有大规模参数，但由于其架构仍无法直接处理实时跨语言沟通场景。在此背景下，实时语音翻译对于实时性的独有要求使得其在研究和应用上具备特定的必要性。与离线语音翻译相比，实时语音翻译更具挑战性，因为其需要额外制定读/写策略以控制模型在合...</description>
       <pubDate>Thu, 27 Feb 2025 16:00:00 GMT</pubDate>
       <author>张绍磊;冯洋;</author>
@@ -160,19 +168,11 @@
     </item>
     <item>
       <title>基于通道变换和Transformer的高光谱图像变化检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrU1ONmFUTXRYVdD01kzmapJtuvjHJSrRrjui3ql9dLx3QSytxjuTlk748-j6z3jBFyxS6OfvRbAwaEp-isjPRenaD6yZLte8ByJQH0D27F_d6dc5V9NU7yCmfJUjAJNLISWseoZR5AukAWzb6aph4Xok45v54-dYulUvQ4N22hUQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukoX1IgrShBmuCkGrsRRsv9PB74esrvYG_0-YB2P8nYUyvR9FaTfMyakcIqydY1fSel4lpR4owMqnM2QtvMqxGqoAnwv314ESJsHKyHAJkTNMe5jg3S1wEQTNfEgau2YOIweN_ROALMFbKgWQMwEJPSWZsESdXwWvLFYfNEg_j91Pw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>当前基于Transformer的高光谱图像变化检测方法通过自注意力机制模拟长距离依赖，能够有效建模全局上下文信息。然而，现有方法仍面临着两个主要问题：一是Transformer模型计算复杂度高，导致模型在处理高维度数据时效率低下；二是现有模型对高光谱图像的波段信息利用有限，在光谱维度上缺乏特征交互。针对这些问题，本文提出了一种基于通道变换和Transformer的高光谱图像变化检测方法，以更高效地...</description>
       <pubDate>Mon, 24 Feb 2025 16:00:00 GMT</pubDate>
       <author>刘文力;高峰;张浩鹏;董军宇;吴淳桐;</author>
       <guid>957c98bb91cec088eab4486be5f19669</guid>
-    </item>
-    <item>
-      <title>无人机语义安全研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukrU1ONmFUTXRYVdD01kzmapJtuvjHJSrRrjui3ql9dLx3QSytxjuTlk56x4vK1X5okQ9YXugnY4WZNul49zfi4dkbZ7AT_KbOacrj0mBghHc0fyAhuXzvhQfLnEPcvFrDL2UTnexcThZH4XezqliEYYpm7yg0zeyBjvKvVetsGpTA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>随着无人机技术的迅速迭代和各类智能算法的不断涌现，无人机安全问题面临着持续的挑战。近年来，无人机语义安全问题逐渐引起了国内外学术界的关注，该问题超出了传统的软件安全和传感器安全范畴，重点关注无人机系统的行为是否与其预期语义保持一致。语义安全问题具有高度隐蔽性、易被利用且产生的后果难以预测，因此亟需引起重视。当前，无人机语义安全研究仍处于起步阶段，现有研究成果尚不足以全面解决无人机系统中的语义安全问...</description>
-      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
-      <author>邓余婉祺;王越;杨超;冯鹏斌;杨嘉慧;王利娟;李兴华;马建峰;</author>
-      <guid>975b38dfd643076db923c67e7b110a81</guid>
     </item>
   </channel>
 </rss>
