@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 09:26:04 +0000</lastBuildDate>
-    <item>
-      <title>第一</title>
-      <link>https://www.cup.edu.cn/news/sx/714f976fffe241669b860d33ae2b2da6.htm</link>
-      <pubDate>Sun, 16 Mar 2025 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8天会期，2位院士委员，22篇媒体报道！</title>
-      <link>https://mp.weixin.qq.com/s/4-u5t-nZ7GNKojevCuWFtA</link>
-      <pubDate>Sun, 16 Mar 2025 14:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大党委理论学习中心组专题学习贯彻全国两会精神</title>
-      <link>http://www.cup.edu.cn/news/sx/ea078aeab5454c26887a3a69244ec42e.htm</link>
-      <pubDate>Sun, 16 Mar 2025 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办 “绿动燕京・产聚昌平” 校友联谊活动</title>
-      <link>http://www.cup.edu.cn/news/sx/4268c13b1f604eac9a19877c32e34697.htm</link>
-      <pubDate>Mon, 17 Mar 2025 02:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大入选2025年度全国高校示范“一站式”学生社区</title>
-      <link>http://www.cup.edu.cn/news/sx/d2ec80347418483d981742cd512dd4b9.htm</link>
-      <pubDate>Mon, 17 Mar 2025 03:26:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大克拉玛依校区组织开展“天山迎客来”2025年春季学期援建教师迎新活动</title>
-      <link>http://www.cup.edu.cn/news/sx/6427523718b749ca8f128f29ba11f89e.htm</link>
-      <pubDate>Mon, 17 Mar 2025 03:26:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 04:20:46 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）、东营市政府、胜利石油管理局、宁德时代共同签署零碳应用场景合作协议</title>
       <link>http://www.cup.edu.cn/news/sx/715a356027ae4ec0823e74d466d8fcea.htm</link>
@@ -63,9 +33,19 @@
       <pubDate>Wed, 19 Mar 2025 02:27:00 +0000</pubDate>
     </item>
     <item>
+      <title>中石大召开2025年网络安全与数智化工作研讨会</title>
+      <link>http://www.cup.edu.cn/news/sx/f0d8264e04624e809c1eebaee3a3e111.htm</link>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大召开2024-2025学年春季学期本科教学院长会</title>
       <link>http://www.cup.edu.cn/news/sx/bfd3f09dbeb3415f90e4657905debb81.htm</link>
       <pubDate>Wed, 19 Mar 2025 06:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）联合多家单位举办2025煤层气勘探开发年会</title>
+      <link>http://www.cup.edu.cn/news/sx/ba11d9f3bad84f77b3676848623f25e6.htm</link>
+      <pubDate>Wed, 19 Mar 2025 06:23:00 +0000</pubDate>
     </item>
     <item>
       <title>中石大举办2025届毕业生春季五校联合双选会</title>
@@ -106,6 +86,26 @@
       <title>【学习教育进行时】中石大部署启动深入贯彻中央八项规定精神学习教育</title>
       <link>http://www.cup.edu.cn/news/sx/d9c8224e6c4646cf8a9aba5a6ee73630.htm</link>
       <pubDate>Thu, 20 Mar 2025 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于观看《“传承红色基因 争做时代新人”红岩革命故事展演》的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/fa811ecbab6e432ab779aa6770eaa577.htm</link>
+      <pubDate>Thu, 20 Mar 2025 07:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展国家安全文创作品设计大赛的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/68a89efcd9014b2ba2d62993e9994454.htm</link>
+      <pubDate>Thu, 20 Mar 2025 09:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于东校园停电的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/a11907da43214e82bf7bd9c6c3c170f7.htm</link>
+      <pubDate>Fri, 21 Mar 2025 00:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年春季校园花粉治理的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/cbb93726a970408187782e91011b9040.htm</link>
+      <pubDate>Fri, 21 Mar 2025 00:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
