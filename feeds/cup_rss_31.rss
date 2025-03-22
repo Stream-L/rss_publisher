@@ -6,13 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 09:26:07 +0000</lastBuildDate>
-    <item>
-      <title>地球科学学院开展2025年春季学期初实验室安全检查</title>
-      <link>http://www.cup.edu.cn/geosci/xwdt/11fc222ab5f94ab3b7eb471d9f4cf13c.htm</link>
-      <description>为确保学院实验室的安全运行，地球科学学院于2025年2月19日上午组织开展了内部实验室安全隐患自查工作。此次检查由副院长罗情勇带队，安全员师生宝、孙海霞及督查组成员李壮、李焯共同参与。</description>
-      <pubDate>Fri, 21 Feb 2025 01:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Mar 2025 04:21:35 +0000</lastBuildDate>
     <item>
       <title>2024年启动的科研项目（纵向）</title>
       <link>/publish/geosci/docs/2025-02/2025-02/ab0a5d3c749948c7858ca60d91600594.xlsx</link>
@@ -113,6 +107,11 @@
       <title>地球科学学院2025年硕士研究生复试细则</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/add9a321bd0c40858aeb5a95993e098c.htm</link>
       <pubDate>Wed, 19 Mar 2025 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院2025年硕士研究生复试分组名单（一志愿考生）</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/b241e1f7660946cf88c5cbedb49794c3.htm</link>
+      <pubDate>Fri, 21 Mar 2025 09:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
