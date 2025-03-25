@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 09:26:01 +0000</lastBuildDate>
-    <item>
-      <title>2024-2025学年春季学期正选结束后部分课程停开的通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/a349c19b811543738a60fbad553e70b7.htm</link>
-      <pubDate>Wed, 22 Jan 2025 02:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于2024-2025学年春季学期本科生电子注册的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/7f76afd8214449788709f62572911880.htm</link>
-      <pubDate>Fri, 21 Feb 2025 00:16:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Mar 2025 04:19:48 +0000</lastBuildDate>
     <item>
       <title>2024-2025学年春季学期开学初补退选通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/4eedaf8e069a4ad2a89495f40a25fe16.htm</link>
@@ -106,6 +96,16 @@
       <title>2025年秋季学期赴海外名校交流项目通知</title>
       <link>http://www.cup.edu.cn/jwc/gjjy2/471db9c73de845b382d6f0a201cacc6f.htm</link>
       <pubDate>Fri, 21 Mar 2025 09:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开2024-2025学年春季学期校本科教学督导专家组工作总结暨新学期工作布置会</title>
+      <link>https://www.cup.edu.cn/jwc/zhxw/1ac84e9aae35444db7bfa51cf1df4bcb.htm</link>
+      <pubDate>Mon, 24 Mar 2025 08:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开2024-2025学年春季学期本科教学院长会</title>
+      <link>https://www.cup.edu.cn/jwc/zhxw/1f6951ee099742189c8fb5a80f623f4e.htm</link>
+      <pubDate>Mon, 24 Mar 2025 08:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

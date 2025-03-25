@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）石油工程学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 09:27:55 +0000</lastBuildDate>
-    <item>
-      <title>吴克柳</title>
-      <link>http://www.cup.edu.cn/oil/jsdw/yqtkfgcx/169268.htm</link>
-      <pubDate>Wed, 26 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>刘广峰</title>
-      <link>http://www.cup.edu.cn/oil/jsdw/yqtkfgcx/165858.htm</link>
-      <pubDate>Thu, 27 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Mar 2025 04:21:47 +0000</lastBuildDate>
     <item>
       <title>东晓虎</title>
       <link>http://www.cup.edu.cn/oil/jsdw/yqtkfgcx/143240.htm</link>
@@ -106,6 +96,16 @@
       <title>石油工程学院召开班主任协同育人工作专题会</title>
       <link>http://www.cup.edu.cn/oil/xyxw/ba4520a9bb1946a3b1692d9b6e287e1b.htm</link>
       <pubDate>Mon, 24 Mar 2025 02:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）举办第十五届全国石油工程知识竞赛校内选拔赛</title>
+      <link>http://www.cup.edu.cn/oil/xyxw/67880149a05b41f38d9694e4add81c5b.htm</link>
+      <pubDate>Mon, 24 Mar 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）举办第十五届中国石油工程设计大赛校内赛</title>
+      <link>http://www.cup.edu.cn/oil/xyxw/ff8df381dc7c47ad900756105ef4ee85.htm</link>
+      <pubDate>Mon, 24 Mar 2025 09:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
