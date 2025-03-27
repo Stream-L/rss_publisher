@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/QBLL/detail?uniplatform=NZKPT</link>
     <description>情报理论与实践</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 26 Mar 2025 09:36:14 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 04:22:50 GMT</pubDate>
     <generator>情报理论与实践</generator>
     <image>
       <title>情报理论与实践-CNKI</title>
@@ -15,8 +15,24 @@
       <height>166</height>
     </image>
     <item>
+      <title>我国iSchools学院信息资源管理学科研究生课程设置调查与分析</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUQsUCFt635Nv5B_x3ujQbVOo5uyeSudW_jzFflT2Gb4nXNxnhfLw3XG-r05yDIN5qN1jWg-Dr_TFACQOugNtTxh8UeYWSKqjo3Fcq-FrwLSPCZ0DptCdOipCcyJuEA75i3C1hxC4Vl2FbVgeEXs1_XxJs_sx29jXqfVzZZb-Ymqyw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义] 以我国14所iSchool学院82个研究生教育学科专业为样本，调查学硕、专硕和博士各学位类型的专业课程设置，为推动我国信息资源管理相关学科的发展提供参考。[方法/过程] 采用网络调研和文献调研法，检索iSchools网站，进入我国iSchools学院网站，对各类型研究生学位课程进行了调研，分析信息资源管理类研究生的培养目标，建立课程分类标准并进行课程类别分析，对当前我国iSchoo...</description>
+      <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
+      <author>张弘;曾瑞琛;吕浩;谢笑;李力;崔春;</author>
+      <guid>a950f35bdb05601089d2f82ef9fa58b7</guid>
+    </item>
+    <item>
+      <title>面向生成式AI的用户交互路径识别与评价研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUQrNias24OFWAHL7EbOmKEZ3_34EvXjfM1uYWIpOxfR55k7eUPK9f9EZYcdCVhwWW5hHOIp_2jLF_scsp5cOH7CeTcR_KnMzCptpppvXKKKBJ0pqMmZ10YsFfA3A4O-N_vk5n4F-0z6pUDGPZ78oporLSpUWjOzm7xVyYamkK8u1A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义] 探究用户与生成式AI的交互行为与路径模式，有助于理解其在日常任务场景中的适应性和优化潜力，同时也为生成式AI产品的设计与改进提供实践参考。[方法/过程] 采用实验研究方法，以GPT-4为实验平台，招募24名参与者，通过Morae分析用户与生成式AI的交互过程，识别交互行为并提取交互路径，从路径效率和用户体验两个维度对不同类型的交互路径进行评价。[结果/结论] 共识别出11种交互行为...</description>
+      <pubDate>Tue, 25 Mar 2025 16:00:00 GMT</pubDate>
+      <author>韩龙;郭晋成;盛怡瑾;张晓芳;周群;</author>
+      <guid>c8bc3fe7f21af4e4450591eafc46bda4</guid>
+    </item>
+    <item>
       <title>动态视域下融合深度学习与专利地图的新兴技术识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXGGArckMHikhfqOIPeMJxLzn1cQhD-GREC-xk7orO6JnZHIj6IbIFsJXj9DQ0nrq2wIRsTcC3MCCmSZzdCZE_7KrnTqnrpzgtga7QoR4HOiGIJUMq9hYtEhNM7Klwe9D-v_PK4nO9hb82XZuYcLoYdaFfTsT6ErMdYC6b5ELOdSGQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUQrNias24OFWAHL7EbOmKEZ3_34EvXjfM1uYWIpOxfR55k7eUPK9f9Eew9-VqGDCFkVDSyNTDcDxn7w9Tssz30u__jFT6SIL_xEEswqZpOe2mGxamK_AqeFDCxKxoUx8ssHUSULnY7Na5ltn-1jD7W0iQ_OI6W0TLD10F-7tWjSvA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]准确识别和理解新兴技术，对于制定企业战略决策、建设国家创新高地具有重要意义。[方法/过程]基于动态视角，融合深度学习与专利地图，开展了新兴技术识别研究。首先，提出融合BERT-BiLSTM-CRF深度学习模型与BIO标注的实体识别模型，以获取细粒度表征语义关系的实体内容，并结合TF-IDF算法提取了技术要素；其次，划分时间窗口，运用GTM算法构建专利地图，依据新兴技术的持续性特征分析...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>李尽法;许灿;张珂;周炜;</author>
@@ -24,7 +40,7 @@
     </item>
     <item>
       <title>融合学科与主题多样性的数字人文领域跨学科性测度研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEsP24Mod1ylqdyHU-G17vIXSZAPZ2JJFkZcr3uVch_JJ_VbW0An5--_Z4H9_dhSHMsnmAs6vtNcASi52c8K2jkt_ifbbjq99VWu1knrNyn6KIKcqffZQXcnwrPOH8cFaJvv9KSFIKbcYEoJ_VcSiqXMT2AZ85DFTOBfDgSOUnyvg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURWLUUm0jC4q43Zo66ivzagjmUNQKbelGoPleXLtUskrCsqYGNGgP27s-ug24m7pdCdNsa4qH3ngWKe9_RAngP4BlPJC-N-S9oI4Eb6ky97Zr76Nx9Dep5qDrHk0p_uG2jVrdVsZ4P0gS_tOF7rHHE1hx2waWcMjz3xL-fbBQEwnw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]对数字人文研究的跨学科性进行探索性测度，呈现数字人文领域跨学科生态的演化过程和社群特征，为新兴交叉领域的跨学科性测度与评价工作提供参考。[方法/过程]以Scopus收录的数字人文相关期刊论文为样本，在设计针对性学科分类体系的基础上开展作者所属机构学科标引和主题探测工作，并融合学科和主题两类多样性，从科学合作和研究内容两个维度进行跨学科性测度、分类与分析。[结果/结论]数字人文领域的跨...</description>
       <pubDate>Thu, 20 Mar 2025 16:00:00 GMT</pubDate>
       <author>胡志伟;刘江峰;裴雷;</author>
@@ -32,7 +48,7 @@
     </item>
     <item>
       <title>数智协同，颐养共筑：智慧养老数据资源建设的多主体协作机制探究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHAx9TCa6Fyv1NvULznWoukkRhELm96jMaI1JKrA7-wMlZQ0viN5SskDb6MOJzF-A_u_3865NvFiqi7jXJ2ZlECodtBMv67Z4uYucCbZw5qNyyPeazxgWg1LhPgt3mzVFqcOYowRrhovspcICvjt1H65r55XlX-eXDkGvscbDGJng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURWLUUm0jC4q43Zo66ivzagjmUNQKbelGoPleXLtUskrCsqYGNGgP27X7WY0gzFlgBO0wB1NfcvKR2t6S-uKD12_jp4o9GHFbJZD98hTCOAj2ODzjbMsrz55a8QYtc9zPWMoA4tGWuHE637mj1a-TEIW08jp1H8YSPyHbAENuYUPg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]探究行之有效的多主体协作机制，以期促进智慧养老数据资源的高效建设与价值释放，从而助力智慧养老服务与应用增效提质。[方法/过程]运用探索式单案例研究方法，以烽火祥云网络科技有限公司的实践工作为研究对象，通过实地调研、半结构化访谈和网络调查等方法收集多源数据以实现三角验证。基于协同创新理论和“三体两向”模型构建理论分析框架，并在这个框架指导下，采用内容分析法对数据展开深入分析。[结果/结...</description>
       <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
       <author>练靖雯;李新月;赵宇翔;朱庆华;</author>
@@ -40,7 +56,7 @@
     </item>
     <item>
       <title>基于图神经网络的跨学科引文推荐方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHAx9TCa6Fyv1NvULznWoukkRhELm96jMaI1JKrA7-wMlZQ0viN5Ssko6WA9mWrmFE6NeZqd3OWzalhCigN7r3Ga4v1CrtHhfCR8mCIorI2-tZ5sacs76KPFbzZ8VVb3iJoOTp4iAwVZETWdZTfJYZ6_ar8EJ2Pu5Pi37coVw8FcA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTyy6iIczQn1EH7zuyNJfZ3nHACyipVlDkQJumhk6O1r-9tNhMrBHmc2OZWiM_P3UWsnD-LceYkNhhBWghNwaTMwy6oxdicku4Y-zpBmLAhJw3zrvNdBLEuVb00_qkbGIrN51-tqVtvgfzATWH_5YWgP_TppFawU9tcMGJvqJ60mw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 跨学科研究对于科学创新具有重要的推动作用，但是如何从海量学术资源中快速获取比较相关的参考文献，尤其是其他学科比较有借鉴意义的文献，并转化为自己的研究基础，成为跨学科研究领域的难题。针对此问题，文章强调从引文推荐的角度为学者推荐其他学科的文献，助力学者开展跨学科研究。[方法/过程] 鉴于现有引文推荐鲜有关注跨学科问题，忽略了学者对其他学科文献的需要，文章构建了基于GCN、GAT、Gr...</description>
       <pubDate>Mon, 17 Mar 2025 16:00:00 GMT</pubDate>
       <author>霍朝光;但婷婷;罗飞;夏天;</author>
@@ -48,7 +64,7 @@
     </item>
     <item>
       <title>区隔与融合:社区信息空间异化及其消解——《信息资源若干问题研究》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEfmvt-RoFGzaAvKi3U80lcPAWYEEcVtNEKAy_uUpuh2ol-BJCFhB46HExFNCfYe9Ok__TUnAq-gmOPewLC-psv7bzYP-kmMcfGoCSUGqtpIVXq9oUb9egdQAAAbUVIn41vmsYOiSSD-kOzIip1XQbqgmzkSWhm0HvgrUFgfZxloQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTyy6iIczQn1EH7zuyNJfZ3RmZgoUvXjeXQVrZmhIZP7DAZlUxLkpN0a9uUlVTdaXdtyadwH-kh_F_Rl5kvMafpVAaCWKS7AP945se40kVXYNW76i9HIXqLL1yjcWgDKPvlyKZRlj4mKNGGAmUbRFvetsInkmRMnoZ0-L_OhyFEHA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;传统的社区公共空间是由亲缘、血缘和地缘构成的“差序格局”。基层治理重心的下沉,谋求结构变革和价值重塑促进了社区治理与信息技术的密切绑定,传统的社区空间架构发生了颠覆性的变化,一切的人和事均以数据化、信息化的方式存在,“键对键”的信息传递逐渐取代“面对面”的信息交流,网络信息空间俨然已是人们开展交往活动的重要场所</description>
       <pubDate>Thu, 13 Mar 2025 16:00:00 GMT</pubDate>
       <author>林榕;</author>
@@ -56,7 +72,7 @@
     </item>
     <item>
       <title>专利引用科学论文的数量与专利价值的相关性实证——以安全应急领域专利为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEfmvt-RoFGzaAvKi3U80lcPAWYEEcVtNEKAy_uUpuh2ol-BJCFhB46cMQ_bpn0hgk82Qu6k_HOwYasRx73uAMyYeLPBNyIF5Eh7BZxYUWn0vjsdATVB2sKiUHrksZLjXNCALR05_fvLpTqaZK8aHbxDQ3z06zB6XlXBBjOEsb-cg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSjH8hxropnEPSqMEebfLWgpulVPAyoSIXD5lHrkYeqgb-IiWX1hmP0KxofL5zydsH5T9ZJrAK2wfljxCggFscl2ekvh5tdZEUmDZaXyH7BpQ0Uy3xsnQW0VPYH7x0uPU7CAhvA6HY7le-hzsiqxFGTAQW8sGY7MlWXaMBqIRX_YA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]专利引用科学论文的数量由国际权威专利情报机构CHI公司命名为“科学关联”(Science Linkage, SL)之后，被业界广泛应用于专利评价。通常的默认逻辑是SL值越大则体现专利的科学基础越雄厚，专利的价值也就越高。然而，此默认逻辑究竟是推测还是真相，鲜有学者进行过实证检验。为求证这一基础问题，文章设计了逐层递进的实证研究。[方法/过程]运用统计学的相关分析方法，研究专利引用科学...</description>
       <pubDate>Thu, 13 Mar 2025 16:00:00 GMT</pubDate>
       <author>李睿;苟扬;</author>
@@ -64,7 +80,7 @@
     </item>
     <item>
       <title>企业内部竞争情报弱信号传播仿真研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHdJdU_bMLqqZOSubVDbu6b4yj-VAX7ehWaYCDaMcBcsGQxF-sodR8r12TX0XRDaL-we3YbH_HFp7FNrqVrQB_HdWUgfFVjT7YzN3LTxTmG_YD7cSgDEd15RgaiaZq0SQP6p9W5q57pesWwXxnBxMttNhRjxYKPaU6kTN0bEwoIxg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSjH8hxropnEPSqMEebfLWgpulVPAyoSIXD5lHrkYeqgb-IiWX1hmP0hzyv4Cn9WEXgpI3f0nhG4xewFpDW5PXNu_tv928tbXIpnp1VJpo6cOv2B88jb3bloIIpxrpTlrUJswQFYsOMXnegZtozPN4e2B_wiiP7f_WIK3nPkDVICQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]竞争情报弱信号作为一种具备预示功能的早期迹象，对于提升企业的战略预警能力和市场响应速度至关重要。对企业内部的竞争情报弱信号传播进行仿真，分析其传播效率与成功率，旨在为后续更深入探索企业竞争情报实践提供一定参考与借鉴。[方法/过程]基于5W传播模式理论识别企业内部竞争情报弱信号传播要素，分析其传播过程，构建仿真模型并使用MATLAB进行模拟实验。引入可调节参数，探讨各节点进行参数调整时...</description>
       <pubDate>Thu, 13 Mar 2025 16:00:00 GMT</pubDate>
       <author>支凤稳;潘蕴涵;陈佳琪;常恭元;郑彦宁;</author>
@@ -72,7 +88,7 @@
     </item>
     <item>
       <title>大语言模型+检索增强方法的关键技术及其在情报任务中的应用流程</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEQ-LoQf6HJygqT8L8eTfYNzSVRIDWrtHhR6boin8-_AWR1K7UcmITaav0OR2J6CHfbnvNX8YmcUk5_FT7o9-lcjQsrrIOhEJU6Q1FO4j-Z4HzDRZdujnyTW0mceSzV5Ee1aAMike0SkSIpXtj9qUZHgEgxvZXHAXR5cfn5AY_2Bg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURNK2F6M-fxXWgZ04uxg26ewPZjR2VZx7prKDhE5ebm2hwiIOVvOq2VvEpbne6SgQPNYmb17C5YANUea4u9642fMqQe8p8jVlraItlzoZwLrIp05TTTyJwmfk44y-wlqmSlyfNidYi2APiedQxwVNvvFYp5dV9uy6GtGD0XGHfeiQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]探讨大语言模型+检索增强方法在情报实践中的应用路径，为利用其能力推动情报工作提供参考，进而提高科研情报工作者的效率。[方法/过程]梳理大语言模型与检索增强方法在情报实践中的应用探索，从敏感数据保护、检索方式、增强模式和提示工程4个部分讨论大模型+检索增强方法的关键技术，并阐述大语言模型结合检索增强方法在情报实践中的赋能环节以及在情报任务中的应用流程。[结果/结论]大语言模型+检索增强...</description>
       <pubDate>Thu, 13 Mar 2025 16:00:00 GMT</pubDate>
       <author>魏宏程;杨建林;</author>
@@ -80,7 +96,7 @@
     </item>
     <item>
       <title>差异与同构视角下数据跨境流动治理政策注意力研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEQ-LoQf6HJygqT8L8eTfYNFaKbCEkaSSeJQrQJcWPaPNwkRAVpT4060CrUbY8xjerGZxxTm0ZbIc69XxQU-VFueeQ3crytP_LA09QpS_ObDpFFw_WMhzEYKEe3-klELcr172HntBI-qqKkq7LIU8_QjHleVLQwQrg9U-wXypCAqg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURNK2F6M-fxXWgZ04uxg26e2wlQ9a3qg_2VWplzzuKD_caHsapIQOANk13927d66RzFD7j4nNpY6PNc08cOtKGbyJLM3AGrVu1YVVGJ4e92UE_bfSwo20jGCXHcVWNDrK9Rl3HIJE_jV0Nwc_NLzLaEx0bJ9HDwg2Kae6xXOUq98w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]随着全球数据竞争的不断升级，数据跨境流动治理面临诸多挑战。差异—同构的视角能够揭示不同国家数据跨境流动治理的逻辑与路径。[方法/过程]以G20成员国为对象，利用主题模型等内容分析方法，解读数据跨境流动治理政策的注意力分布及其特征。[结果/结论]数据跨境流动治理政策的注意力主要聚焦数据主权、数据分级分类、本地化和管控模式等4个维度；主要呈现出制度主导、弹性策略、主权强化和技术驱动4种治...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>董克;陈星源;吴佳纯;</author>
@@ -88,7 +104,7 @@
     </item>
     <item>
       <title>情报学领域典型文本主题聚类算法比较研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXE4vpmsUfPyamIrNWyR002zoyOyE9jaofxBPKjaJZn7odZGy8YVmsuTrEZcvTcMpibVpkWbXjQ5HDYS803c_mwyQ_PpyH6W_IjraLYDPeu3YW6RRoiBbrj06eI8sC7ba3616gqwml26hz9EYETsVKC_bYO51RI6By_NZzMiHZlu4g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURdJaqIkZ4bEphs-zKg1ADMOjZH02zCzrJUxgBircaW_2dJKUZ-egDJAXk9J78rgeLnTEIVOFLMYMenM4CWe7tygcVOHz2muwguUiRkSBMmd539sbmqSLqFSYrTOTPVYzWQQuaxvVaA9k8ltACDOfm_VlJM3DjB2nGo-_-5XXtBsA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 主题聚类算法是情报学领域研究中重要的方法和工具，对主题聚类算法进行比较研究，有助于研究人员选择合适的主题聚类算法开展相关研究。[方法/过程] 首先，系统梳理情报学领域研究从传统到融合语义信息的典型主题聚类算法；其次，从主题语义连贯、可解释和主题结构质量层面构建主题聚类算法评估框架；最后，基于评估框架选择经过验证的政策、媒体和学术论文三类数据集进行实证分析。[结果/结论]①K-mea...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>崔文波;张涛;许鑫;</author>
@@ -96,7 +112,7 @@
     </item>
     <item>
       <title>木版年画的资源管理与文献开发——《高校图书馆木版年画的资源管理与文献开发》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXE4vpmsUfPyamIrNWyR002znKuhJYVf8ImpZWzkIJ1fYtrWwesX9_FCmX47WmML2Yi-ywiFehLsekmeGJ2fiMzFw0CvTGI1J6hjzucbimb_UXhpf2pETkMLJY89At_SZcHxNakvpYe0nj_JC7nbBHynSjVA7AsxDREvASYdcqYKFw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURdJaqIkZ4bEphs-zKg1ADMfelFu2HMF14gPUE_K6y-CYj5xac75AwKdyzPvi7gzi5EJS95-ZqcivEbYS_QzuDOfLJqYOSaAqljqP2CxArvqjoteFi4YHfyJvKeShPoPmcL_rtNKALm1ihjsOA125BgIf8sRRAaa14jByluIt_fKQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;木版年画是承载着民众的理想憧憬、心灵慰藉、乡土生活记忆与情感的年画图像,是中国历史悠久的传统民俗文化艺术形式,在礼俗互动的民间生活中传承中华民族优秀传统的文化基因。利用图书馆的保护文化遗产、开发信息资源、提供文化娱乐服务、传播科学情报等职能优势,对木版年画的文献资源进行系统管理、科学开发、有效利用,既可静态保存木版年画的相关资料,也可推动木版年画的活态化传承,让其重回大众生活,达成“见人见物...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>祁楠楠;李永莒;</author>
@@ -104,7 +120,7 @@
     </item>
     <item>
       <title>新媒体时代网络话语的分析研判与引导机制探究——《网络舆情的分析研判与有效引导》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHGtQMBKs2AtdquE-mtiCndBhYxmioYglxRh0v4SwG4bFBh4MRb3okwBSEG0GIiH8de2U7Hcc7T_m30rez1AckDS6O8kiDY_bBd6xHN3yUeCayC6yI7V_d2Vj2LMN47Two5RS6sAgwMeMk_audr3SJg3t2ZtS9ngu0iXFmSvfhnMw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTOKA1lYdchDjGJt89hOervMozd1tmtw0GnuEFiqgL4egttxo6umK_tRWMPjAkYqIOlQgyTWDySoDOyFjg1GaaLxTAJcn7xNQGlN0s0bvEUZK7fYanPpECkaJ9bW-kPj_M3pryAEN-3RXegdE8zWQpnvaORzYo5qKmuMWU5L2iI7Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;当前,随着新一代信息革命的快速发展,各类新兴媒体平台层出不穷,极大地丰富了人们获取信息的途径和方式。同时,网络空间的虚拟性、开放性与离散性特征也使得网络言论泥沙俱下、真伪难辨,甚至存在大量的网络谣言和虚假信息,对新时期的网络舆情管理工作带来巨大挑战。在这一时代背景下,亟须进一步加强对网络舆情的监测收集、分析研判和科学引导,最大限度地压减负面言论的滋生空间。《网络舆情的分析研判与有效引导》一书...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王熹;齐宇心;</author>
@@ -112,7 +128,7 @@
     </item>
     <item>
       <title>基于D-S证据理论的多证据融合社交机器人识别方法——用户行为与用户资料证据</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHGtQMBKs2AtdquE-mtiCndKbrajjRk3jjwOyBr8_2KZHPJEKq32-_SlzK7Fh0nq3Tx1DnUL4g2pbN7kZTBHQs-r71lj0g9S-7LiZPxFPLD3_xETDF9CXSFSWaNKpqMRckgeB4qIgvYXmtaqgiPblY33U9PWervPXnEoAPD_xmzcA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTOKA1lYdchDjGJt89hOervaxNeFQN8xGObmydJQxn8lX0stZvUN3KLWY06ECia1Ybn0FXK8VWlwJ3xoTO-9cPhXRaFk-V04pigfZbe3yQ5-znV7S1MdcyZ_PqVKjMisQdNQt50XJokDxpXrC1UvUbIAk-dgYYEsg2N6PEcX1Wl9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]在计算宣传时代，社交机器人的认知操纵将严重影响到意识形态和国家安全，精准且稳定地识别社交机器人已成为一项关键且复杂的任务。现有识别方法都是基于某一截面数据的单一证据，却忽视了用户行为的时序逻辑性以及多证据的融合，而难以达到精确且稳定的识别结果。[方法/过程]首先提出一种基于用户行为序列数据的社交机器人识别方法，然后基于D-S证据理论实现基于用户行为序列数据与基于账号截面元数据的社交机...</description>
       <pubDate>Tue, 11 Mar 2025 16:00:00 GMT</pubDate>
       <author>郭路生;杨智禹;</author>
@@ -120,7 +136,7 @@
     </item>
     <item>
       <title>基于图神经网络的学术论文被引频次预测研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXFBEKHsjdDsZ6FneuqPEK4-WA3l4ksaHR8PESEbke7Mh85w8e3OHzQPn-fohpEzR6yn27H3ImsDt89WJP-QURlt0atpOooZz9ntu1hJLir_2hHRHCa6Mgb13z7aWwZqNlH39tGdUMCTxiyFIUX8KONMwU00oqI7DmJ8ejgX5o-flw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSQpo8vbeNT6cyMZQBHbsTRpNGTaW84CWrbf1DPV8_Hd5xtgy9TyTFAHwaGXjlVQGfGlD2KIGBGY9NQVZU-Yo2FX769jbjTDEgeQzXK6VWR7ClqMzze0ehakVomvYT2WAohVfnMRTEqejoCo3TyccPc7N6gKYerZsgf5e6_iVvGXw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]学术论文的被引频次预测是评估学术论文质量和影响力的重要内容。[方法/过程]引入图神经网络（GNN），基于S2ORC数据集构建包含论文、作者、期刊的异构网络，利用GraphSAGE模型的采样和聚合机制提升预测精度，并逐步在引文网络中纳入期刊和作者子网，探索引入子网在不同学科领域的预测中可能呈现的异质性。[结果/结论]GraphSAGE模型相较于GCN和GAT模型在高平均度数网络中表现出...</description>
       <pubDate>Mon, 10 Mar 2025 16:00:00 GMT</pubDate>
       <author>段宇锋;叶雨彤;尚渡新;</author>
@@ -128,7 +144,7 @@
     </item>
     <item>
       <title>基于政务热线平台民生诉求数据的社会风险事件识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXGlIUTgz9LJh2c63zYE1bdRf-bB1Ey-0delQO-2Z4d0VxDkInE2RyPPDoLfeu6kqtl1n9OV7dqFWfNHFBAnAqioTmE9wkkDNtrPSntuSDXcY9Sxw-NU2LK0GIdsodm4nr4fMjovfLYylQ1kYymR_Au-vRiyhD7OHtMaKBN7kxAQHQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSQpo8vbeNT6cyMZQBHbsTRpNGTaW84CWrbf1DPV8_Hd5xtgy9TyTFA-ioWVbk-U1lUcxH4Vaz4fhyo8UfuAON5C4zuPhoBt14aRAEJeKaVXb4l6wCnx-LOQjU0Dy57x3BJG3UXCwOJxJ2_NY94lR8-k6QmMSbrRlbA7lALPqI6Cw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]立足新时代社会治理精细化、智能化需求，构建基于政务热线平台民生诉求数据的社会风险事件识别方法，旨在解决当前政务热线数据挖掘不足、社会风险识别理论与实践亟待深化等问题，进一步拓展社会治理创新中政务数据的应用路径，为政府提升社会风险预警与应对效率提供科学依据。[方法/过程]首先，对政务热线平台民生诉求数据中的潜在社会风险事件进行分类；其次，构建基于BERT-BiLSTM-CRF架构的风险...</description>
       <pubDate>Mon, 10 Mar 2025 16:00:00 GMT</pubDate>
       <author>张子成;申姝婧;张天舒;杨建林;</author>
@@ -136,7 +152,7 @@
     </item>
     <item>
       <title>新兴产业科学—技术—政策知识网络耦合与共生演化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXGlIUTgz9LJh2c63zYE1bdRf-bB1Ey-0delQO-2Z4d0VxDkInE2RyPPXJFRCne5f_tURr9BWnEzTQb7ycXR-jaFbX1LPeXklJKrJokB1S29lMw9JLniHb8bs6iK6t5lbacZVa0HqoUBBQIb8JpbhPsjuztvOn9LIWlmqzwTf6sLkg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS7kSDPvpvy28uayxFFEdsl_1CYfk5VxfXb8V1w9eFYVG8W6UNsYAU4uf80jEC37fZqhweEdndz3yDDK6EVMVl4rOSyg3rFNV3oH5ZCyOCFezvkCtOEEqmSH6NV_EFiiYoc4JV2iLL54kOsUWAbXlLcdup-117Ro5zp9R-lvGSHCQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]探索科学—技术—政策的关联互动与协同机制，有助于发现三者协同创新的共赢条件和效能最大化状态。[方法/过程]从知识网络耦合视角出发，将科学论文、技术专利和政策文献知识结构体系转化成知识网络模型进行表达，探究科学—技术—政策之间关联互动和共生演化。首先，基于实体抽取方法识别三类核心知识元并分别构建时序知识网络；其次，利用多尺度主干分析算法提取核心网络并采用肖像距离计算科学—技术—政策知识...</description>
       <pubDate>Sun, 09 Mar 2025 16:00:00 GMT</pubDate>
       <author>巴志超;孟凯;张玉洁;夏义堃;</author>
@@ -144,7 +160,7 @@
     </item>
     <item>
       <title>基于价值导向的多维因素联动效应对数据要素定价的作用机理研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXGXkYTn5zzXdew_nNV_1O9vdECNif3xp13GeLMCkfdOyl6OwsjcDiefgW6u0YOys4tnlnW0SXvz_GUt3PJaWpu1H3AWIokjyM0EVNcPqdRXHJH5RX3EOtwYGPmdIa_TnTKAp8Lma-E7LXbDtHaJRDHoE2zb28N-UCGLUraGvQpZvw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS2f7WyVkNIyLGCcKQ8fZ8HFPWsVs5loCFElEgHZfCKmT3XTRC_pQWfYUwwPW-V8FDWf3HkT7Nf3TRnFIcPGGjd4OMdMlj_6QXZTqBaS3QoPcA82Po56NtH6ovehUMK3qAaJGq6Qpaf35kokS6SqAXlMH9Ch4ixCDcQm210BBrejw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]数据要素定价是推动数据这一新型生产要素在流通中不断完成价值创造的关键环节。鉴于数据要素定价受多维因素的影响，阐明因素间的复杂关系，对实现数据要素合理定价及价值发挥具有重要意义。[方法/过程]首先，结合数据生命周期理论挖掘数据要素定价影响因素的层次结构及相互作用关系，构建数据要素定价影响因素多维层次结构体系；其次，采用层次分析法计算因素初始权重，运用系统动力学方法构建影响因素因果关系模...</description>
       <pubDate>Thu, 06 Mar 2025 16:00:00 GMT</pubDate>
       <author>高晓宁;杨蕴琦;金燕;房子;耿瑞利;</author>
@@ -152,27 +168,11 @@
     </item>
     <item>
       <title>人机协同视角下的观点演化模型及其在“回音室效应”研究中的应用</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXGXkYTn5zzXdew_nNV_1O9vdECNif3xp13GeLMCkfdOyl6OwsjcDiefP1V1tXaePlVKICRB3Dxu1rw_iwGhZMJbcKiA3j_sdaTXETmXN5gKdMqa871FvBs5Q5D509WVMg2P_Xq5m0G2v9MaLZHbzFkBDTjfta8mOpmc5bUjo8mLuQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS2f7WyVkNIyLGCcKQ8fZ8HFPWsVs5loCFElEgHZfCKmT3XTRC_pQWfwSlSk4ZBDV2J-Hy_DljQqZmkGn0l79jqi8N47mSYIl0wPbetN1itCq64ix7SzY1X_aWHqSi18FkFzO5uXmhBmZyES3sHdhCMq2t6o0EWkHQeoJ7yLkvoZg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]通过研究开放式平台中人机协同视角下的观点演化机理，为理解社交机器人对人类用户观点的影响，提供理论支撑和量化分析工具。[方法/过程]首先根据社交机器人的交互特征，将其决策模型简化为常值函数；然后利用马尔可夫链，建立群体观点演化模型；最后运用群体观点异质性指标检验“回音室效应”，并结合新浪微博“比亚迪汉”协同交互数据，探究社交机器人不同因素的影响，验证模型有效性。[结论/结论]该模型可以...</description>
       <pubDate>Thu, 06 Mar 2025 16:00:00 GMT</pubDate>
       <author>岳芳;戴文慧;潘崇林;李琪;郭剑锋;</author>
       <guid>451c606ed7e6a86167280301b5257bcb</guid>
-    </item>
-    <item>
-      <title>大语言模型的事实性问题研究：评估、增强和展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXEDa_FiccGPH_vXwZgYGaeS8co3LwCXpdSRV1UkYI85nUpMNb2PEr0DyqNULIWTSCMXOTsisX890v4jwJgf3jrFxcI9SFnWKve_ekZyMGwO96ic08A9zh-Ew5doFRT2SvWGCNPamDEgicv_vK48xBlKbBuij2rX0APsS9NHUeI76A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>[目的/意义]分析大语言模型面临的事实性问题，提高模型生成内容与事实的契合度，推动大语言模型的可靠应用。[方法/过程]通过文献调研法对大语言模型的事实性定义和问题成因进行界定和分析，从评估和增强两个角度归纳事实性问题的整体应对策略，给出了度量大语言模型事实性遵从能力的相关数据集和自动化评估方法，并将提升模型事实性的手段统一为训练增强、输入增强和输出优化三大策略，以改进生成效果。[结果/结论]大语言...</description>
-      <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
-      <author>仝鑫;夏天;杨孟辉;赵群;金波;</author>
-      <guid>ba5cfad5cc35c24497183637b290ae6d</guid>
-    </item>
-    <item>
-      <title>大语言模型驱动的科学数据自动分类研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=uQzRnDzoTXHN8FXU8eWpIAZJVroOXTFA58PBv4dYVXjXUKovco0WnEb9UUt3OLNn3jFXuSjLmSdt87NdPNqfjje4tWGm2Y0z3LvWcxAl7MNWpYeUnSd_-qNuR74wPvRG-wrpMoaeI68hDYHGoWwWe1GoRkkYcLzbKNNJ5yTdTG5dx8JuLPs_yQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>[目的/意义]将科学数据分类到特定的学科领域，可以增强信息检索效果以及提高资源的可发现性，不过以人为主体对科学数据进行分类已难以应对海量数据处理的需求，因此有必要探索科学数据自动分类的有效方法。[方法/过程]提出大语言模型驱动的科学数据自动分类的研究思路。首先，利用数据期刊“Data in Brief”构建高质量标注数据集；然后，设计提示模板和遴选少样本数据，使开源模型Qwen2.5-7B快速适配...</description>
-      <pubDate>Tue, 04 Mar 2025 16:00:00 GMT</pubDate>
-      <author>黄永文;马玮璐;鲜国建;李娇;罗婷婷;孙坦;</author>
-      <guid>6ea07a0e7c5e3cb1d2bad5a5ba0e02b7</guid>
     </item>
   </channel>
 </rss>
