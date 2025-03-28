@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/XDTQ/detail?uniplatform=NZKPT</link>
     <description>数据分析与知识发现</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 27 Mar 2025 09:27:08 GMT</pubDate>
+    <pubDate>Fri, 28 Mar 2025 04:26:46 GMT</pubDate>
     <generator>数据分析与知识发现</generator>
     <image>
       <title>数据分析与知识发现-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于视觉线索学习的多模态命名实体识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTLcxnbqzBk9y3v_B_U808HVS2x079tUODw1HhYxCaEVIQZVrmSifQN7jhUjGmz0rjAcnxwOUwKscH5HXuGLer-jmSM_2byZwkBn6mDiPRiv-zwf_p-gAC6iZsMuRtN2KW01Gn-t6IR9aEjQ56e1CUA8ZwwDE1M7BHDx1hmvigh_w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0Rx3_HdJs90rgY-z1zlgAZjYqRdD44wrh3NPGI3yDneIYu56xuiWZoQEjlltgsjH8hxB4uerQvp4vLMQO4qZoYSaXeR1XwsU4bUj3EYhvPjVNYEL9nyKLFQnqjfuq6hsQVlZGXB5HSxh27RQ7EbgJoY3v8tw3UkK7rnNH6aPJGWrQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为提高多模态命名实体识别的效果，本文通过计算实体锚文本与图像区域的语义相关性来过滤不相关视觉区域，达到消除视觉噪声的目的。[方法]使用提示词代替类别词作为实体锚文本对视觉区域进行语义相关性评估，通过降低无关视觉区域的权重来消除无关视觉区域对实体识别的影响，采用多层交互式Transformer进行文本-视觉的模态融合，并通过CRF层实现实体识别。[结果]在公开数据基准上的实验结果表明，本文方...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>白宇;王连吉;刘翔;袁金福;张桂平;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>融合社交关系的流行度偏好感知序列推荐方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS-wx3vkTnEoWr7lYTTWCeoTw4p3Rp39kY1dYfT4CM4xxRTClVGJEmQ9vjfcLNW7g_TwqPobA6V9Wzy-kFuWxbHSI1sZ12DFRBY599rlrR8z7TMC_bo6kOYSAqoOkA0JuLPnIo09hiA4kkDOIlKHglyJiqbUeMI3Y4pZ4o4-lCn-w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0R5ldp-7mCXKXQghNWtBP32sr_4ZPXle5vH35dtXe6DEmz-4P1NGkN_xfAAxyHufFilXKpdgxJceejb9wP5CR5Mu6Q5v3IfZsxfaWe0lSBkbJWv1qHGoZP8uctcosNG50bY73A3Z5xlQbcXoAMy2M5WqHvRo6hjXPibylySAdGaAQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]感知用户个人及其好友对流行度处于某一阶段的商品产生的偏好，实现更准确的推荐。[方法]首先计算融合贡献度和影响力的项目流行度，使用注意力机制和循环神经网络捕捉个人的流行度偏好表征，并使用卷积网络和图注意力机制获得好友的长短期流行度偏好。[结果]在Douban数据集、Deliciouse数据集、Yelp数据集上进行了对比实验，本模型的评价指标均优于次优模型DGRec。Recall@20最高提升...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>吴亦凡;马崧捷;李树青;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>短视频广告观众参与影响因素研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS-wx3vkTnEoWr7lYTTWCeoTw4p3Rp39kY1dYfT4CM4xxRTClVGJEmQEQTt3qSeZO-Y40KLVJv1LtbavRS9mJo_NTNULjiWl16nG232Q6iOzXzOJZT-kII04KpghNz3rJD4uGDQmyR7Mokxbhm0TG4PtOeTBCOqc3vYJU5OtD8bOw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0TtpfxKyhEQoZ_keHaBZ_IzdxDkR2PkcJGTeTbw6TXrglQnlp1NraePRcJI1WQ6Pf6FVHBgBbYvYjkA2djQOyl3jmM9bupS6Lny-VGzEQQrC3d3n1qguEZwdZy40FUAzG8LfPT7NEFJsoTZLzZk1xw3pzqSxHl5S_UVsBIrum92-A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]以短视频广告的观众属性为视角，提取观众的心理属性和人口统计属性变量，探索其对观众参与的影响。[方法]以自我效能理论为基础，利用数据挖掘和深度学习方法构造观众心理属性和人口统计属性变量，通过多元回归模型分析这些变量对观众参与的影响以及产品类型的调节作用。[结果]观众对广告披露感知、消极热评占比、女性占比以及Z世代、中间年龄层和中老年观众占比对观众参与均有不同程度的影响；产品类型对主效应均有调...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>张治鹏;张李义;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>基于度量学习的人工智能专利应用领域识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUT-hSql2ZnDpnKievsNcBbBEByxnaQTUPBJqk2joKBut-ihRRHsaa2vYDu5IiM98YwdZZCffVKM8JEEfPbkfWtDTPp1X7ZUdc0PSsUqbadah1yweNSNbMqMZg68gMvCZ_enNguNA4ebV_69Vrvjw_i9OsmXXhNSXC0hiqjw0DQeng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SLMUPm_qf5hamECIJym3hUiWI7OcTRbfoWFvYy8sbj4pCDZ1mPviqeLsJWFNLRNJxJVk2nKJP6zR88eF6gkoPr3YCMzEo3nU9KURmO3E7DoA1feLcz7lBthPWm1_KgYkMF7uf093DeM-Yu2BXIsczsTKaPIowybauVi5gr7Ntfgg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]对人工智能专利中所涉及到的应用领域进行识别。[方法]在度量学习的框架下，使用基于BERT的双编码器分别对专利文本与应用领域标注文本进行编码并联合优化，获取能表征人工智能专利应用领域的编码结果以完成识别任务。[结果]在人工智能专利应用领域多分类测试中达到了0.947的准确度，在人工智能专利应用识别中获得了轮廓系数为0.36的多层级聚类体系。[局限]尽管质量中等的标注数据可以通过大语言模型获取...</description>
       <pubDate>Tue, 11 Mar 2025 16:00:00 GMT</pubDate>
       <author>温晓波;化柏林;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>基于多视角融合表示的多模态方面级情感分析模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUT-hSql2ZnDpnKievsNcBbBEByxnaQTUPBJqk2joKBut-ihRRHsaa2v977zQfH_Aqwi6lX2Fr9lhiaWYx0J2qkYDbZJzwxrkJfDN5E8-1AgCuJmVjqGewKntvqHllZOXPJ0ql7Bnegpv--tqEkz_ezqVEOqrYXJl8MyagzI8fMbXQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0Qg4TXhNE5MOW-P0iepXNt9Su9uP0EcpoabJ4DH10OTTUQ8yJlsYOrYteG9j5uB9utZGYpV1IB7aXJiIvRM73xLPvdybHHTpOSt7r9okHgLKknNxjadakH9PkuxbNpN6Qw4CH9Zj2bhgcBoUmPguO-hZcgyfh91tmFn1Alg-LsdQQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为减小跨模态语义鸿沟，并增强与方面相关的图像特征提取，本文从全局与局部视角获取细粒度的跨模态情感表达，提出一种多视角融合表示的多模态方面级情感分析模型。
 [方法]首先，从全局视角出发对文本与图像描述进行联合编码，并结合多头自注意力机制捕捉跨模态全局语义特征。其次，从局部视角出发构建两个图结构挖掘文本和图像的细粒度情感信息。通过文本图结构引入语法依赖图增强文本语法特征提取。在融合图结构中，...</description>
       <pubDate>Tue, 04 Mar 2025 16:00:00 GMT</pubDate>
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title>融合提示工程与图卷积网络的机构名称对齐研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTf3siNRu1n8dSaGSvRn8oJCPvihJEVz1GJtXzIxfCctWM7G6GrMjLhqqkHW8qqc-h6pqqfvJ8r9yPA2x9Z259efUxHuaU4u3KQ7dSIMietgRozrScl_BCciD7sh8ElsSm8zI4EmGfQtQfBzkqrTp8VS9Ou97Iudmz_N_Ze2FXcpQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SSUqORpeDUOZATHDuXQ0gX65L6VNVRqDtZRVaOIn4F1UeBb5Sm2fSXu79KkwGHc2gs5Tboy3IrlEo8bii_TC-Io9Qm-gHCgqXHGNS04W5amvU4GvcH4pQGV5beLCaFiF_PRf28Ph_yCucI7sTzkiZaeWMScPQT4-W0CsTtu2TOAg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]提出一种面向科技文献的机构名称对齐方法。[方法]利用大语言模型结合提示工程，从科技文献著录信息中识别机构及其相关实体并构建机构知识图谱，通过文本嵌入和图卷积网络，基于构建的知识图谱实现不同表述形式的同一机构名称对齐。[结果]与直接通过文本对齐的方法性能相比，在不需要额外训练的情况下机构名称对齐效果Hit@1，Hit@10和MRR分别提升24%，7%和12%。[局限]处理复杂信息结构文本中的...</description>
       <pubDate>Thu, 27 Feb 2025 16:00:00 GMT</pubDate>
       <author>王茜;方安;娄培;杨雨生;王蕾;</author>
@@ -65,7 +65,7 @@
     </item>
     <item>
       <title>基于图神经网络的学科交叉文献识别方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTf3siNRu1n8dSaGSvRn8oJCPvihJEVz1GJtXzIxfCctWM7G6GrMjLh9ThZdzuKWlzeq0ypB2R5fhjPExgBzwp961_UyfYkPXZAPJ8nPvcA2is8kfH68G1zQRqwm5lW53WFJsQ79yhDCTOzWcoMqCwzG7WCcVE0K9wRyI0KSYzDvA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0QChWaAqT82scf6kKRrlQhwzC_3Gat86_T0kLk-metXH5PkUSjprYQXAJYwCCjJMLnoadjn5-vkbEkCJ1wx3dN_61H2XYi4fJ_XZRAK7EzxtMdhmWIksg-y_Ms-ZCdKGNNotYfkDTdODrrzwVoKnNW3dN4BgzuEKTgzr9GFVyB0cQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]识别数据集中的学科交叉文献，以准确地把握学科交叉的前沿动态。[方法]提出了一种基于图神经网络的学科交叉文献识别方法，通过选取的代表性文献，训练基于图神经网络的多标签分类模型，以用于学科交叉文献的识别。[结果]在仅标注了5%的文献作为代表性文献的条件下，所提出方法在整个数据集上的学科交叉文献识别的AUC值最高达到了0.843。[局限]对于多学科交叉文献的识别问题，还需要对提出的方法进行改进；...</description>
       <pubDate>Thu, 27 Feb 2025 16:00:00 GMT</pubDate>
       <author>冯岭;潘云涛;</author>
@@ -73,7 +73,7 @@
     </item>
     <item>
       <title>基于集成学习的颠覆性技术早期识别研究——以量子计算领域为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhURWERkfch7RVy2c-cX0LvKtOtEDXR5UpZxb-ZPhLTblhZIciw0-JrKp8RNmygALoH6qlGmvAwtGjzh1riiV45-LuQQ_d65HJrxyvuOzXtX-QL9bIax-I5BMC6UGDTXREKtsufI3OR2t_hSshpuSjaJKVoEumBU2dUur4BOGK-bsGg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SzUv03hX_u8vxLsGZvidKvPQ5sgQ4ROqu4oPk3Ci9-k-i9V8C8lvv-0zVw391GqFdG1zB1d_s-7NeiGMufKIJciSoFvL0VptgZSdUpdtE7mi8PqcYlbflMh8TLaEpP_4HOGQb8K890yQg2lIcgjHghIVIyels3amUy4hSrVCgg3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]通过分析关键技术领域下的专利数据，对具备高颠覆性潜力的技术专利进行早期识别。[方法]基于技术生命周期理论搭建颠覆性技术早期识别指标体系，以智慧芽专利数据库中量子计算领域的专利数据作为研究对象，搭建集成学习模型对该领域具有高颠覆性潜力的技术专利进行早期识别。[结果]通过BERTopic主题建模框架发现五个相关颠覆性研究方向：量子加密技术、量子处理器、超导量子比特、半导体技术与量子神经网络，验...</description>
       <pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
       <author>赵一鸣;刘顺生;吕璐成;</author>
@@ -81,7 +81,7 @@
     </item>
     <item>
       <title>大语言模型场景下个人数据定价研究——基于隐私补偿的方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTGq1UhlFPP8idGMnF5mwjwxmjmnx4SIeIWpSbgOsVkG9IKMKhoMKBAOrvgn1MaN3NBVY6LLtaEdiE_osysR20JP8Nh7HRKiAYwflJQfAo2N1f80NkPxaqS4PP0yksWhUeCeM2mWtU6REr6fAkDyzM9s72MUyAQ6popfOXo-kborA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0RYFlNx5sQf4wJSQQ0jVsEobhxUHbHt3NO6KWiXr-lWhDDS5x667hNB4WwDmIY5BJ0NuhTr89IJH8EW4PnCld4idXAKcx2acQAPgMiKfR4ZtN9VDK5FLAdDwqit0DIhm8ZRcJ1vyd5GDvZcbSMxM0OIGkjcrvBNb8uiHMofG2MbVA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 为大语言模型场景下的个人数据定价提供一种量化隐私损失、补偿隐私价值的方法。[方法] 基于前提假设，结合差分隐私，以方向统计学为基础，提出一种能够评估数据隐私值并量化数据价值的方法，并利用SST-2数据集对方法进行评估。[结果] 在隐私参数与准确率、预算与准确率的关系方面，随着隐私参数的增加，或者预算的增加，模型准确率均会增加，证明了方法的有效性。[局限] 数据集和模型架构的选择较为单一；...</description>
       <pubDate>Wed, 26 Feb 2025 16:00:00 GMT</pubDate>
       <author>刘晓慧;陶成煦;许葳;吴江;</author>
@@ -89,7 +89,7 @@
     </item>
     <item>
       <title>一种基于富集区发现的科技论文创新句识别方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTGq1UhlFPP8idGMnF5mwjwxmjmnx4SIeIWpSbgOsVkG9IKMKhoMKBAlOdKk-eaU2nNx1Fg4BTyY1RN9WHCBXnC8Y1HMJrvwmaCiorTKXrlM1DnI-7UHeKpl53rja_WcIMK1DxtL1uUhCrXcuvRrqJtZnnI3sNS80PdpFwJSvzILg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0Q5jECsq83hYFnYSNZRthsl6KZ_ggHvD-b66ayUAt87PtcLB2lMLE16nk0SZGVZX65Dl0v2hzYQmdXe8U-K2E71vnwq7PHD33o_IegtoAlRB9EizsdGpGih0rZ7wdHlFZmCpQQMNwW88vkGrvjMyhdL_SF2RjYMiwdHSXOWNMtTNQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]创新句是科技论文主要研究和核心贡献的集中体现，自动识别科技论文中的创新句对于揭示论文的创新思想、把握科学研究的前沿动态具有重要意义。
 [方法]本文提出了一种基于富集区发现的创新句识别方法，通过两个阶段识别科技论文中的创新句：首先构建创新句富集区特征词表，并采用滑动窗口打分的方式定位出创新句富集区，以有效缩小创新句的识别范围；而后设计融合上下文语境信息的Context-BERT模型，实现富...</description>
       <pubDate>Wed, 19 Feb 2025 16:00:00 GMT</pubDate>
@@ -98,7 +98,7 @@
     </item>
     <item>
       <title>LLM-PKE：一种集成大模型与多特征网络的专利关键词提取方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTJS7m2R-F6kpHLJFv-uhaDo1rb9CowlPlsr-Llmxk6zWV_ren-CtJtCwNDQLrUXgPnSBXrCCpJN6o_FF_KCHG3htJf7J056j8RwZpqGLn7tYzH6UOP8JPGF3IZPuYTtiyHe6-mmME7zCjaN5EjscmGar20pc2IfCUPoZszL33G8g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SlTC-393SMb5hTqguOSP0WxAg9Qh7OpJCpWSQMvFf-yBYHaBZmtVV4Mxx3OVQu0aDrVLBwFp3vIXw_kAQO1dFhV4CRPz08Hh7SWJWkcbneL3PF849AOGreZVL1gzstb5mkVmJlCh2X9Ycc8aKGCH7hygiTVvElifSoGwkG0eaTyg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为改善现有关键词提取方法中注意力范围有限、语义表征能力不足以及生成能力受限等问题，提出一种集成大模型与多特征网络的专利关键词提取方法（LLM-PKE）。[方法]LLM-PKE由三个模块组成，其中在抽取模块中，通过将主题信息融入Transformer注意力网络，并结合图卷积网络，以提高模型对主题词的敏感度以及对文本特征的提取能力，从而有效抽取关键词。在生成模块中，基于大语言模型生成与专利文本...</description>
       <pubDate>Tue, 18 Feb 2025 16:00:00 GMT</pubDate>
       <author>吕学强;万甜;马登豪;才藏太;陈玉忠;</author>
@@ -106,7 +106,7 @@
     </item>
     <item>
       <title>基于深度学习的学生理解度预测模型在在线教育环境中的应用研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUTJS7m2R-F6kpHLJFv-uhaDo1rb9CowlPlsr-Llmxk6zWV_ren-CtJt9xOHKwm0nbHI2dmrBVMnUGp2w5wirTBZVmEGyx0Nb1zqpfl9kxG1gnnZXBGsZ1bNRjQTKQITz2-JtByYerT2DOb0GNZskv0Or9_J2GXaF97yZgXH75NY3g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0TwgfPwB4f2vLMjot3XRLfQm5W2OpWDRPZK8rLdq9VndujWrqnFdUxSIKpvmu1gnZoE5Oh6tQESvM5JRxGUdp6D70qUvIzKe17uyGkOD2gqGYnQyPorVvGlpDFr4zJ6sr49CDz33khHH1FJOdQ2FR7uWNvFmBuGyEv32FF1kQdncQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]通过构建有效的学生理解度图像数据集，设计基于深度学习的学生理解度得分预测模型，克服当前公开人脸数据集与实际课堂状态不匹配及使用专注度测评局限于仅捕捉学生课堂直观表现的问题。[方法]基于真实的在线教学课堂环境采集学生表情图像数据，建立适应理解度预测需求的学生表情数据集，结合加权知识点得分和自我理解度评价得分提出理解度标签的主客观联合计算公式，并设计了融合三种模块的理解度预测模型。[结果]理解...</description>
       <pubDate>Tue, 18 Feb 2025 16:00:00 GMT</pubDate>
       <author>王楠;王淇;</author>
@@ -114,7 +114,7 @@
     </item>
     <item>
       <title>基于NE-GraphSAGE和大语言模型的前沿研究热点自动探测研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSnUA04cJGrPb1impxApKRhkgtPUDEwBZ32bh_Voi9_H6K5jRyGXXVG1AbahhLFldFVp5ARqey6V03jysiFpKKGdY0iZ9mSvYWqx0zoz8wYovASbHPFbV1ME8gSkmbCIMqHo7ANX9b7TjjnBuAhls8Js0BId1bSGRUjkyv0omhDrA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0ScewujZqPN4RZu3HyrdSKYLwjCWTgx3zoRXiv63pSc8lRUOKsihaqdK8FTXXbvVmC_zLokU-TNAidibTcZKsqqkyks4_Y7ARkgm6I3iPjVlUCgeav7_TzH-VRVblXui9IzBOsqbQEp7vraTGuoMLmbFZKSEJa3Izzuv8yzwdiXxw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为解决前沿研究热点的自动探测问题，本研究提出一种利用图神经网络和大语言模型实现关键信息筛选与总结归纳的技术方法。
 [方法]利用节点和边同时聚合的NE-GraphSAGE模型筛选出更可能揭示领域前沿热点的关键论文，以此为输入，综合采用结构化提示、思维链提示、少样本提示三种提示技术引导大语言模型探测领域前沿研究热点，并采用相似度度量评估其探测效果。
 [结果]相比于基于节点聚合的N-Grap...</description>
@@ -124,7 +124,7 @@
     </item>
     <item>
       <title>科研人员知识创造节律测度方法与特征挖掘——基于精英科研人员与普通科研人员的分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS8NgvRejA8hRoonwt6vCh5y03kfjepOZO8QXtEytE0ytUgZqu5iHLDqN3yoQI-xdFQofMS6hPaXRnDbfBi7IqoNcwGkW3OfP54WJ6Okt8KtV8HiLGwDxuKqcvNcNv8LcbKR6QvCKERthWmJdTxd4BiX2cDsD8Q_U4LgMEzma1nvA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0RfgnyrEWLeRtjqehe9ycdW-gON4mu07EsVp97EgnoNFNJctoN1MTiPbUIvr9GRq0t7kwevbyeZVV0PJ7arkZeGJ7HjvGJkNqsN7V0UZVKO2qsXYON1bInA8fu9tMT2XBwhngpM4CHSTD02wYmPSWcvrA5S01aUYldfwwb3a-CKcQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]研究精英科研人员与普通科研人员的知识创造节律差异，揭示学术生涯的本质特征。 [方法]通过知识创造能力矩阵，分析19个学科领域的科研人员，关注知识来源与扩散，计算活跃期与沉寂期的节律特征。 [结果]精英科研人员的活跃期个数显著多于普通科研人员，且持续时间更长；中期进入活跃期的概率较高；发文量、引文量与合作关系与活跃期显著正相关。 [局限]研究未充分考量学科间潜在的复杂互动及不同文化背景对科研...</description>
       <pubDate>Mon, 10 Feb 2025 16:00:00 GMT</pubDate>
       <author>郑碧丽;侯剑华;</author>
@@ -132,7 +132,7 @@
     </item>
     <item>
       <title>融合多维情感特征的中文仇恨言论检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUS8NgvRejA8hRoonwt6vCh5y03kfjepOZO8QXtEytE0ytUgZqu5iHLDl-8-o2UouQqpLUNM0SW1dbvA4Sp9R3csZQtsmn2610JxJL7ARyBswHhsGV2mhq_8rUEvXKAWcFJNDncrx65Az3lUkeeIacahXRUp3qeszgAsRCu0YQr8lw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0Sby0wWuxcEyEzs0iNjK6KfCHRhzIxzfK8Cc20ur3jcGSkVRBialwOyLSB2lPDgf7eGieYqrsvUJ7vsZq3eaapuT0U2VrQWqqTSO7xHfSsZFXDSJm6DefyTT9CMqC-sREC2h6asYvJQvKW6SyQKBDhJgZAsn54JvfME62cdHbySvQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]针对无法有效识别中文文本中存在的不包含明显恶意词汇的仇恨言论问题，提出了一种融合多维情感特征的中文仇恨言论检测方法——RMSF。[方法]首先，使用RoBERTa提取输入文本的字符及句子级特征，并使用情感词典等工具提取文本的多维度情感特征；其次，将字符特征及情感特征进行拼接后输入到BiLSTM网络中，学习更深层次的上下文语义信息；最后，将BiLSTM的输出和RoBERTa提取的句子特征拼接，...</description>
       <pubDate>Mon, 10 Feb 2025 16:00:00 GMT</pubDate>
       <author>但志平;李琳;余肖生;鲁雨洁;李碧涛;</author>
@@ -140,7 +140,7 @@
     </item>
     <item>
       <title>大模型特征增强与多层次交叉融合的多模态情感分析方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUQXpyeP8yK2F8Yvm8Ca7qt6C9bQRzu0oEqhfa-_wx-mUfmLBEQQWc8A-i1aBknonuAIhMWISxHsHI5TH5FzXk7soZLsbjEUmLYBMAj-XMupThYqBFDMyF8zUVm0eJrICGYQKXgOluy06UgoA1hWqIiiqUtqUmnTW_zSXGHzJ5r2Hw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SoS1-lnXpgfKjawiphgTKDEW2Obyxv1t6tDtx8E4kmKrpspt-pB4WH-t5psLa21Ks2VNrstQfukcpp6c7slEhHcArxrvG6onx1qCPTSK9gq28K069KOkhQWELtxa2AOkLPmhavf0jz6gU1F01h6JVOF6M88LFcga5lBaEywGbNBQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]多模态情感分析中存在不同模态之间情感表达不一致的现象，抑制了多种模态协同决策情感的效果。针对该问题，提出一种大模型特征增强与多层次交叉融合的多模态情感分析方法。[方法]为了缓解各模态之间的冲突情感信息，提高共性情感特征的表达，借助多模态大语言模型提取模态内部辅助性情感信息。利用层次化交叉注意力机制学习模态间的共性情感特征并挖掘模态内的辅助性情感特征，以提高共性情感语义的表达。在融合阶段，提...</description>
       <pubDate>Fri, 07 Feb 2025 16:00:00 GMT</pubDate>
       <author>张乐;陈岩松;张雷瀚;</author>
@@ -148,7 +148,7 @@
     </item>
     <item>
       <title>大语言模型赋能“问题与方法”学术图谱构建与应用研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUQXpyeP8yK2F8Yvm8Ca7qt6C9bQRzu0oEqhfa-_wx-mUfmLBEQQWc8AQL2RXe0pn_f7s7uuaTp2t1xBQx5L7IB4ajcnUVEzDVmG608y6MERqJOHLqXAXaJzHi0Vs96j6c7S_4e3pYuek2e89ki_FeN3UaOfbqAQAh0ySl1CXuNkSg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0SCh8_E9V89hBzYaKwqbfmyCrP1wRmxOnI6TOxYpcaapEVLsLsZjb7K3PgxNfyegnHJ9pxeR7n4Jjzr7Co0czf7KmbvNStuto13cW79gZFZuBqe2nM_3viUeQg2KTe4X8Tq2j8Uu5YuzJnzUKOoj6GmTZ54ehkPqgM8KmwWf79HYg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】解决传统文献分析工具不适合开展文献内容细粒度分析、不能进行文献研究问题与研究方法体系构建的问题。【方法】提出构建一种面向“问题与方法”体系生成的细粒度学术图谱，提出了针对问题体系与方法体系表征的本体设计和融合上下文信息的多关系联合抽取方法，创新了大语言模型在信息抽取和图谱问答任务中的应用方式。【结果】本文提出的三元组抽取及增强方法可以分别将实体分类和关系抽取的F1值提升9.18%和8.07...</description>
       <pubDate>Thu, 06 Feb 2025 16:00:00 GMT</pubDate>
       <author>刘启刚;王尹凡;牟立峰;徐伟;孙向阳;</author>
@@ -156,7 +156,7 @@
     </item>
     <item>
       <title>融合边界特征与注意力序列结构的传统技艺实体识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUT4x0Nf86zudp83vR5u5CpgxNAG7F6mBVAJXvVj2ZePkarHiMqyAWezVii2_Bfml00QDB_eYY8gDOAUdSgNJNFxDQSx570KwCt9sBDAxjzE_Ev8LweSrmAL84iubjpTJnE0ksIT7ZyfgYyE7OQieWRTtmh7bfjfHUR6kz2KgyKBPg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0TgiAEVG5lJeJfto9rI7CRo9Kq3Z2PayJ3WFOHbnoqzYJbJ5_p6xrzUt3LGmW7nOljPL8iBPMFbmAUxvBE7qE-Fk558gVwpcPDj7z6HyRowPF9qt8q8NpY9tVetGjYium7oJu8KWjuhrk1jEf64ba2WgGfwE9iwMxPputw6GYsNpw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]实体抽取过程中可能遇到实体边界属性模糊、语料数据稀疏、手工标注限制等问题。本文将传统技艺文化与命名实体标注相结合，提出一种融合边界特征和注意力序列结构的实体识别模型ER-BFAS，对文本语料进行技艺实体标签的识别预测。[方法]将实体边界属性特征融入到文本标签联合嵌入层，通过注意力机制生成特征向量。同时，利用双向LSTM捕捉技艺类实体标签关联信息，增强模型对不同标签的识别能力。最后通过CRF...</description>
       <pubDate>Thu, 06 Feb 2025 16:00:00 GMT</pubDate>
       <author>张新生;李江;王明虎;</author>
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title>AI医疗语音助手声音特征对老年人感知可信度和使用意愿的影响研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUT4x0Nf86zudp83vR5u5CpgxNAG7F6mBVAJXvVj2ZePkarHiMqyAWezKu_ohaG_LXQ29hG6yayIZHYAOFP17L9f2zDx6u2VGjYwc7EHfT4_kOGYbpVlSamMLZOCk6H4uQzkjDwjBCMfR7cKH9BErnIOfyhlcuIOCySdJA-baa97Gw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0S-74mJj3Jxs-HseVwTKbrx8KjOfx8ihUIXTliwriSAapA0d-OmKYivS5TUVbAHO9BPb9WFD8JzP6ZEr9B2cOWCw3XrDjGexD97XmvyMO5nqDqbwz018z7SxoENhvLdbYzD53f7QXxEUlrM306DHx3jXb9Ozr1swpTgAVDM2Qappg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 基于CASA范式及刻板印象模型，探索AI医疗语音助手的声音特征对老年人感知可信度的影响机制。
 [方法] 本研究开展3（声音性别：女性/男性/非二元音）×2（沟通风格：专家型/伙伴型）的被试间实验，以考察AI医疗语音助手的声音性别和沟通风格对老年人感知可信度和使用意愿的影响，以及在感知温暖和感知专业的刻板印象维度上的作用机制。
 [结果] 结果表明，老年人对男性专家型和女性伙伴型的AI医...</description>
@@ -174,7 +174,7 @@
     </item>
     <item>
       <title>基于知识增强的多模态用户生成内容主题识别与演化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=KlmjsyJjhUSkYU5Ta_Yz7wkHaAGKuB8pSjgsthAk2TZuPXFr6iDj1v-rv-Vq1tnaJktcry5YIYbo2j6i4MWLvmuh2Gihs0TQ0r0fEfZFBJu_IADYHo9dquWY8MZQzZl4hJR2CYlBBeTMADbEtqNHhH0HaxB8YBnSh4n7qES4MIAI_rb1-1QR5A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=sFOWa-sRa0RYPW1kyvkBtmvEn0ty7JP734XZ3lREPzkRqaz2dMGWbx4UzXAIrs5qa1Pty7Qky3C1pySx4774BOPdkGmbvYjlfzgpzkGuDROsGk7jkxZ8S_8F_sFGlcAMh29bh1NBmglyFUrK1tvjLEuWlM3rDusa9FoG26mIzl7_soUA67Wkcg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]深入挖掘价值性用户生成内容的主题结构与动态变化，旨在有效提炼与分析共创知识，促进多模态知识的高效归集与利用。
 [方法]综合考量多模态用户生成内容的文本语义与图像特征，基于“模型驱动+知识增强”的研究范式实现知识聚合与主题挖掘。首先，综合BERT、Doc2Vec、ResNet和K-BERT模型以捕捉多层次文本和图像的深层向量表示并完成知识增强；其次，构建距离矩阵以刻画多模态内容间的内在关联...</description>
       <pubDate>Thu, 06 Feb 2025 16:00:00 GMT</pubDate>
