@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 09:23:45 +0000</lastBuildDate>
-    <item>
-      <title>理学院2024年12月志愿时长</title>
-      <link>https://www.cup.edu.cn/science//xsgz/xkjs/e437f0b9f9dd4d16adb45a07ee53b767.htm</link>
-      <pubDate>Thu, 02 Jan 2025 03:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Mar 2025 04:22:30 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）理学院开展企业导师培训会</title>
       <link>https://www.cup.edu.cn/science//xyxw/ba6b57b66522471abff54005a86aeaae.htm</link>
@@ -106,6 +101,11 @@
       <title>理学院关于做好2025年6月研究生学位工作的通知</title>
       <link>https://www.cup.edu.cn/science//yjsjy/bss/6190872c384e427d8615ed3e589c4522.htm</link>
       <pubDate>Tue, 25 Mar 2025 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院2025年3月志愿时长</title>
+      <link>https://www.cup.edu.cn/science//xsgz/xkjs/2514d4a2008241dca7736495fbdaff32.htm</link>
+      <pubDate>Mon, 31 Mar 2025 01:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
