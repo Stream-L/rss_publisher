@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 09:27:39 +0000</lastBuildDate>
-    <item>
-      <title>四川残疾人励志报告团走进中国石油大学（北京）</title>
-      <link>http://www.cup.edu.cn/news/sx/d0483f40b9dc4c85a7b30fd5d7b009c6.htm</link>
-      <pubDate>Wed, 26 Mar 2025 02:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Apr 2025 04:21:25 +0000</lastBuildDate>
     <item>
       <title>中石大与孔庙和国子监博物馆联合开展“太学问道·共鉴儒风”来华留学生社会实践与国情教育活动</title>
       <link>http://www.cup.edu.cn/news/sx/26a0310463ef49e090e9223c622e85f6.htm</link>
@@ -106,6 +101,11 @@
       <title>哈萨克斯坦萨特巴耶夫大学校长一行访问中石大</title>
       <link>http://www.cup.edu.cn/news/sx/3249216ba062415bbb938179cdfccaaa.htm</link>
       <pubDate>Fri, 28 Mar 2025 11:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大21位学者入选2024年爱思唯尔“中国高被引学者”榜单</title>
+      <link>http://www.cup.edu.cn/news/sx/69a3875b368242cbb495a7fe09d62c2a.htm</link>
+      <pubDate>Tue, 01 Apr 2025 07:58:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
