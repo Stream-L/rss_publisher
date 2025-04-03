@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 09:26:21 +0000</lastBuildDate>
-    <item>
-      <title>关于三教两侧道路临时封闭的通知-更新</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/35c0175eacad48458f927f620c3cd953.htm</link>
-      <pubDate>Tue, 09 Jul 2024 03:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油大学（北京）新生床上用品供应商公开遴选结果公示</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/5e8cce631cdc4c9c920f56eba7dd2ed3.htm</link>
-      <pubDate>Wed, 17 Jul 2024 08:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Apr 2025 04:21:26 +0000</lastBuildDate>
     <item>
       <title>关于全校高压电气设备维护检修的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/103f43c9045d48c9a9509b664d67fb39.htm</link>
@@ -106,6 +96,16 @@
       <title>关于东校园停电的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/a11907da43214e82bf7bd9c6c3c170f7.htm</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于中油大厦北侧道路临时封闭的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/68cc2f69620f4177ae06c0df559d25b4.htm</link>
+      <pubDate>Wed, 02 Apr 2025 09:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于中油大厦北侧道路临时封闭的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/68cc2f69620f4177ae06c0df559d25b4.htm</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
