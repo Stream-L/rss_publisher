@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）规划处 高教研究所 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 09:25:43 +0000</lastBuildDate>
-    <item>
-      <title>国内外高等教育动态（2022年第6期）</title>
-      <link>/publish/ddp/docs/2022-10/2022-09/e1013138c03046bd83eb66ada82c85d6.pdf</link>
-      <pubDate>Thu, 29 Sep 2022 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国内外高等教育动态（2022年第7期）</title>
-      <link>/publish/ddp/docs/2022-11/2022-10/8672e3dc2a34422095daa4d3e4b26378.pdf</link>
-      <pubDate>Fri, 28 Oct 2022 10:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 04:20:53 +0000</lastBuildDate>
     <item>
       <title>国内外高等教育动态（2022年第7期）</title>
       <link>/publish/ddp/docs/2022-10/2022-10/8672e3dc2a34422095daa4d3e4b26378.pdf</link>
@@ -106,6 +96,16 @@
       <title>国内外高等教育动态（2024年第7期）</title>
       <link>http://www.cup.edu.cn/ddp/trends/3155cd65ddb4406885a9a62aa2477a02.htm</link>
       <pubDate>Fri, 06 Dec 2024 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国内外高等教育动态（2025年第1期）</title>
+      <link>http://www.cup.edu.cn/ddp/trends/7a70c9428ecc44ac86c4dce4e86ce6f6.htm</link>
+      <pubDate>Thu, 03 Apr 2025 09:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国内外高等教育动态（2025年第2期）</title>
+      <link>http://www.cup.edu.cn/ddp/trends/b111fd2a331548518240dbd26f3f0688.htm</link>
+      <pubDate>Thu, 03 Apr 2025 09:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
