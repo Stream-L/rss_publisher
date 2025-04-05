@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Fri, 04 Apr 2025 09:27:43 GMT</pubDate>
+    <pubDate>Sat, 05 Apr 2025 04:22:34 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>面向Rust语言的形式化验证方法研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTxIXzF7uF1hR1UfkR0SOr4PhSkM0hygIWDJVba4wp2FVaezp5cV6FCuZY_k2g0fQObBr2o4rjTvR6I0sHwDKQMvFUdm4mG-d33wjd2C5qGQko5DKyCRzdyBNQuc9P7UDuYxcIRtQIcwsxM0Mok-DP1NG3UckJkfZtdob34ey-n0Nw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd4eec-b1lTZDgQc7p8Oj7eDGVNC3ZPKW0NSufNuVvhsguI746oo5qhz5cvn0p-VBalldsID_Ca3berDHGaSbk53uqt8R8UWs1ht20rQFnZdBeUCYgyo8yAsIO74iPMRY7Va4fJiT3ihR29EjMhmXVNf6A95qhXfDr1PIa-o2wuQ4Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Rust作为一种新兴的安全系统级编程语言,以其创新的所有权模型和借用检查机制提供了内存安全和并发安全保证.尽管Rust的设计宗旨在于安全性,但现有研究揭示了其仍面临诸多安全挑战.形式化验证作为一种基于严格数学基础的方法,为Rust安全性提升提供了强有力保障.通过构建精准清晰的语义模型,可以证明遵循Rust检查规则的程序满足安全性要求;借助Rust自动化验证工具能够帮助用户确保其Rust程序的安全性...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>张卓若;常瑞;杨申毅;陈芳;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>基于混成自动机路径过滤与动态选择的CPS系统反例生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTxIXzF7uF1hR1UfkR0SOr4PhSkM0hygIWDJVba4wp2FVaezp5cV6FCuIsNGzpy9FSvKK2Tc5IcplbmVdDV3O-OP4ggjMB9Di2f0ZNmpvP9-mr8An2KHRNyyJzhIiX5hsZCPMhXLXmg3vTMxueOEDuilBh7ELTRwODfiCP1cTwdbPg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd4rdSK0FZ3joHiojjYJCi1uY4wbdxjMybl27G_cIy4Ciz3uirKBgMD-VwPqmz8BmFTt0NNvGBZGKHoHJHKK1zR5DVeVbBm4k0YS07t99nVp_ybpbjUiW-v5u0XBAjycFPNUGkUbe99DrVwVXlpy76goimjcOXeBj3YO2B4iPGsypQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>信息物理融合系统(cyber-physical system, CPS)在安全攸关领域具有广泛的应用,保障其安全性至关重要.形式化验证是证明系统安全性的有效手段,但在现实世界中的复杂CPS系统上应用仍面临挑战.因此,反例生成的方法被提出,旨在通过寻找系统中违背安全规约的反例行为来证明系统的不安全.现有的基于路径的CPS系统反例生成方法采用分治策略,针对系统模型中各条路径上的行为空间分别进行探索,能...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>王佳宛;刘熹橦;卜磊;李宣东;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>深度学习编译器缺陷实证研究:现状与演化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTy3cHiUV8VhhIfW89ZZYTFpRb8jNYAt7Vs8myRaSP0Ni-QmU27JqzsId4bCoDnaTRzr-jYEsAPWLGjvlI9l9qLSBVz2kdg3Ez70734_xabJHV6IYE3KqFZ2AXeUobWcNVOvK46KIwvbThH_F2V38JODMKFARlpHdJOit9Ue6ZUs_A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6VDbQQqz5ktYeYWP7Jzd6umVNLVmQpbIllVzlu9melgJtfWyKIzl78PJvEw3Gvi9Ymz25HztN4U_DVrtylQNlk8m_Oo9522DMftLpBrW3Tm_C3k4qino6HrIRaK2nvhroUkSia7dqNRvHXOSXhXVaComc6S4j-VySjN3O135CeJQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>深度学习编译器已被广泛应用于深度学习模型的性能优化和部署.与传统编译器类似,深度学习编译器也存在缺陷.存在缺陷的深度学习编译器会导致编译失败或者产生错误的编译结果,甚至有时会带来灾难性的后果.为了深入理解深度学习编译器缺陷的特性,已有工作针对深度学习编译器早期的603个缺陷进行研究分析.近年来,深度学习编译器在快速迭代更新,伴随着大量新特性的引入和旧特性的弃用.与此同时,一些针对深度学习编译器缺陷...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>沈庆超;田家硕;陈俊洁;陈翔;陈庆燕;王赞;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>操作系统内核权能访问控制的形式验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTy3cHiUV8VhhIfW89ZZYTFpRb8jNYAt7Vs8myRaSP0Ni-QmU27JqzsIMBogk2lpY2O0Rr-3vUzA2z7PqqBIvXErOvuBJXUnusX-2tpt78kZosQyf2lO6KXpuGF9Zs7b4EPyIUkxfv9S7_0TgjfBZEnyXbPFNboWAySG0RZNt8dwHg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd5zBdbdzGm22ixjiUzaVDuaQ0B95-qDDZpYSejme95h2FmpOGH6ed9BTHbrKEawaXzXUJQzJVqwW9SA5We2d0ueGp5hTTCZMtXECGhwXANI8SiKq_bWleHD41AJdXzsJ_dXVpKmqcw8ck9Aok4hDYqHs7nuLuyEraLduLbfWxmxdQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>操作系统内核是构建安全攸关系统软件的基础.任何计算机系统的正确运行都依赖于底层操作系统实现的正确性,因此,对操作系统内核进行形式验证是很迫切的需求.然而,操作系统中存在的多任务并发、数据共享和竞争等行为,给操作系统内核的验证带来很大的挑战.近年来,基于定理证明的方法广泛用于操作系统各功能模块的形式验证,并取得多个成功应用.微内核操作系统权能访问控制模块提供基于权能的细粒度访问控制,旨在防止未经授权...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>徐家乐;王淑灵;李黎明;詹博华;吕毅;代艺博;崔舍承;吴鹏;谭宇;张学军;詹乃军;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>动态顺序统计树类结构的函数式建模及其自动化验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzcU8qXzAHGsRSpkQdUkp2w8Aw8K4ArnNQIoR1Qfoc0VskhgprryNxs2XOxEWKBLZXZ6bY1U76aIAMae2rGlXwfXkDyRQ6dozn_0l68wAGV70RTm5CmFleTGTVRNPQI049fyyg62lA9SY_eUqUe9Bjfvkcd_gR7HTAy4sLDSe0XPw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd4KeXWmRnOc7cwDud159q1jB2q2xh55aWOK0ZycOsfWAfkEtXgMIovDFX5kP-x9LtkrMagN7x7IinTjPrpeqIVY4hTf2NNJhZhLs-m7Ml_EZHzGW0LZy1iOoHY7dtKAO5dR_5IJGhC5IBcHaaNyJIFHa-W-bRywm2krkG1aADTLhw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>动态顺序统计树结构是一类融合了动态集合、顺序统计量以及搜索树结构特性的数据结构,支持高效的数据检索操作,广泛应用于数据库系统、内存管理和文件管理等领域.然而,当前工作侧重讨论结构不变性,如平衡性,而忽略了功能正确性的讨论.且现有研究方法主要针对具体的算法程序进行手工推导或交互式机械化验证,缺乏成熟且可靠的通用验证模式,自动化水平较低.为此,设计动态顺序统计搜索树类结构的Isabelle函数式建模框...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>左正康;刘增鑫;柯雨含;游珍;王昌晶;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>GhostFunc:一种针对Rust操作系统内核的验证方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwO2d5LvRwOn9a6U24m59Bu6k_WMa3AKgafSKZlrHluXNRIufvziXTVbMq0fmpsXeddpzvIqzsQEyclSxetUnlVG-K0hULYDZtCl5hH0LaITJ_xDuOiHijycgm4919OH9Soo4BadiW-lI4VCptEspEonfZ6dVxCGL0ST5vLVokTYA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd4KeXWmRnOc7cwDud159q1jB2q2xh55aWOK0ZycOsfWAfwYcVgjnTBhx2juytqlNbfsGDeCj7BDcQnZBRPmSYimiMUX4DBZTjrV0Q_2iUPTOuVRL_9W1qHIlr08nT2wt47jdSzeVsk1XZGAkbD6fOrPWzo1Uu-KOLLdfwI98op71A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>操作系统是软件的基础平台,操作系统内核的安全性往往影响重大. Rust是逐渐兴起的内存安全语言,具有生命周期、所有权、借用检查、RAⅡ等安全机制,使用Rust语言构建内核逐渐成为当前热门的研究方向.但目前使用Rust构建的系统多包含部分unsafe代码段,无法从根本上保证语言层面的安全性,因而针对unsafe代码段的验证对于保证Rust构建的内核正确可靠尤为重要.以某使用Rust构建的微内核为对象...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>何韬;董威;文艳军;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>干扰惰性序列的连续决策模型模糊测试</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwO2d5LvRwOn9a6U24m59Bu6k_WMa3AKgafSKZlrHluXNRIufvziXTVEnPaBhLgtpPfTnkVFMD8LOxLRDTni-rvHJ76HNdV_kZ4Vp22l-u2tRbH_Mb9JqeEnfA112G2p9AcYGdDCILaShzek2Z7wRvGFNWDGsGR475eSzzGxmvt2w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6Mc6kzJUVjTPyBtBL6vzWkUClkTDE6ey40VaU3d_zfpSXoZJdRb5YqeyljzghM_We1JS15IouHjATved3OCSb7Q_hHZ3xj8lpyAZsiwRhDx233InWG5Hom1kI8bH9hdGJ0J7qwnfAamcZZ9pIrqo1HJMTPUEepMypgNmgEkXB6LQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>人工智能技术的应用已经从分类、翻译、问答等相对静态的任务延伸到自动驾驶、机器人控制、博弈等需要和环境进行一系列“交互-行动”才能完成的相对动态的任务.执行这类任务的模型核心是连续决策算法,由于面临更高的环境和交互的不确定性,而且这些任务往往是安全攸关的系统,其测试技术面临极大的挑战.现有的智能算法模型测试技术主要集中在单一模型的可靠性、复杂任务多样性测试场景生成、仿真测试等方向,对连续决策模型的“...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>吴泊逾;王凯锐;王亚文;王俊杰;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>基于代码控制流图的庞氏骗局合约检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzeifiZUVNmExLnLrp5AQdi5yu9HcCFzMsRLb8Lc53J53Lmk_QRMU2iG-FIij44qfSwMX1uOtgbb2p1RvYLsfTEdmtBSNAO0FvGxthBYqqg4zdO49tkl8a89KQ3a4FZVMxzLwgYX0OJ8TXgQNB8QnRWEFpddSam-CSu4vnYalQ2bw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6HWWOXtHLNdyzNNgC0BuMJ6XIKttKrfuba53FmVMukuG_EJEUD7d5_y5lhpyky8SGO3NMiMikbnKUtIAx3Eud4bo31oVI0wYlTHkdhVNqoeAmBkEXe-Lfdw3Q0FmF9NBoFd-_gh8m7Vl8hgiWI415okfBpdURWLWhxW9bhojZ4DA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>区块链在加密货币投资领域展现出强劲的生命力,吸引了大量投资者的参与.然而,由于区块链的匿名性,导致了许多欺诈行为,其中庞氏骗局智能合约就是一种典型的欺诈性投资活动,给投资者带来了巨大的经济损失.因此,对以太坊上的庞氏骗局合约进行检测变得尤为重要.但是,现有研究大都忽略了庞氏骗局合约源代码中的控制流信息.为提取庞氏骗局合约更丰富的语义信息和结构信息,提出一种基于代码控制流图的庞氏骗局合约检测模型.首...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>黄静;王梦晓;韩红桂;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>移动应用GUI测试自动生成技术综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzeifiZUVNmExLnLrp5AQdi5yu9HcCFzMsRLb8Lc53J53Lmk_QRMU2iwqfUj2dyukYbQYIdGG1ZW1-68YBxHhJruG0VGghV6sMfSNhK9w3TzHoScSC9kWDP0QzxzO3EwY6Tij6wD96vBCwEqpRirLxaF2PM8TJqUNJ98BuZqjQFWQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6l6rWWqNNI8Eu_zOLaliWpaRE9L6uHzqsA02BNscv43_F2Wiy_p2y54coc3ERBfYDsrAiELpXmp4UflJGk0Go6YKGrJ1nX3-PBpWg_UKw9kOgX9ipFOl_n_vkuzjJoxCYc_43Ji6gcc0KYWviQUP2UJDc6LjB-Gv-xrjsIbIfTLg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>移动应用是近10年来兴起的新型计算模式,深刻地影响人民的生活方式.移动应用主要以图形用户界面(graphical user interface, GUI)方式交互,而对其进行人工测试需要消耗大量人力和物力.为此,研究者提出针对移动应用GUI的测试自动生成技术以提升测试效率并检测潜在缺陷.收集了145篇相关论文,系统地梳理、分析和总结现有工作.提出了“测试生成器-测试环境”研究框架,将该领域的研究按...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>王博;陈冲;邓明;董震;林友芳;郝丹;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>LLM赋能的Datalog代码翻译技术及增量程序分析框架</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTw1xncVhNHLKk1b_8tqFW-miXyr03MK_456EELhM0c7SHJtwAcPbSpgqwHxO8OdEgs9GG-sMgpwPEnXk4wT0QC-HKR-OLoAxRYhB2fnDta0gipKCGBiw4VR1gynRUwCk3zEDcAvd5HwnGA0XAZHrna1AiatQiR4z9MwsTtgEbQxmg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6l6rWWqNNI8Eu_zOLaliWpaRE9L6uHzqsA02BNscv43_F2Wiy_p2y5y49k9cHmWn_OHaMcsx5VpHUPZC7iZPfDcXlU5QHwH-6uFQOuUsv62eHcmWktfy2C3ZQjytZNAIunyxYO0NUwuINfJ_UcPm2y00bP6DcM7mNM80EI5zF9bg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Datalog是一种声明式逻辑编程语言,在不同领域得到了广泛应用.近年来,学术界和工业界对Datalog的兴趣高涨,设计并开发了多种Datalog引擎和相应方言.然而,多方言带来的一个问题是以一种Datalog方言实现的代码,一般而言不能在另一种方言的引擎上执行.因此,当采用新Datalog引擎时,需要将现有Datalog代码翻译到新方言上.目前的Datalog代码翻译技术可分为人工重写代码和人工...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>王熙灶;沈天琪;宾向荣;卜磊;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>软件供应链SBOM关键技术研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTw1xncVhNHLKk1b_8tqFW-miXyr03MK_456EELhM0c7SHJtwAcPbSpgZBmI8JRM0ok1JaSnyXE7kD_zjPJ_omZjlpFSNV3ZDfiX9buqe3A2ixejBKY_DeFbo_faOcefe19zCKbENC4kt-f-0Ty6XYDcSa3BIfAj-_GOpaNesmcdYQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd68Hdt-GeOl6XqCmDKNthVb_Nl0bcJ2zFCdt6gafFZYeCjz3WqFPKiymVXlw26_zk_n6SwtV-dsZeVm-QSeD1-y8bsuiBW_LplpNcStU81rJcLVchgrMI7sItiQKFNGxAkCnVdnSu0W6W6Uq74s7IB2a2_adCmeZl1uT7pHQZHNqQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>供应链级别的开源软件及组件复用是当前软件开发的主流模式.该模式避免了重复开发,降低了研发成本,提高了开发效率,但是也不可避免地存在组件的来源未知,成分不清,漏洞不明,许可证违规等问题.为解决上述问题,研究人员提出了软件物料清单(software bill of material, SBOM). SBOM详细列出了构成软件的组件及组件之间的关系,揭示了潜在的和已知的威胁,使软件透明化.自提出以来,国...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>孙泽雨;吴敬征;凌祥;魏怡琳;罗天悦;武延军;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>基于大语言模型的长方法分解</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzTzhwh8_ub4NWmNkv2JlyysywhihNw1Rvu92p-MfPH0XfZphbBJzPOkxBzFlZD-sbt8S3v197ogApKZqMheJqY9Ppc9eeQilMYbvIXRvAioC_hFGz9cscxiCypdAxucn4xlzGtzLS9jxh4s-dvBkHuUuOTTxb2hoXfLbuYP5qDVA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd7qbkwvbizVT3jrxSEVl_liDccdw6sthpwruHBspqhKRnd9b-WgsDFhb47OzkBeO_DF44XmbcBwIb59tI0mnvCDxdHH91gFt6rL4NF0jcUfB8pA4VbvueHAnHacOLFwtkKM8dBdS9nATa2SXFJ6DAw9eJmtRl108VWx7cflFA4nKA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>长方法及其他类型的代码坏味阻碍了软件应用程序达到最佳的可读性、可重用性和可维护性.因此,人们对长方法的自动检测和分解进行了广泛的研究.虽然这些方法极大地促进了分解,但其解决方案往往与最优方案存在很大差异.为此,调研公开真实长方法数据集中的可自动化部分,探讨了长方法的分解情况,并基于调研结果,提出了一种基于大语言模型的新方法 (称为Lsplitter),用于自动分解长方法.对于给定的长方法, Lsp...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>徐子懋;姜艳杰;张宇霞;刘辉;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>基于大语言模型的多智能体协作代码评审人推荐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzTzhwh8_ub4NWmNkv2JlyysywhihNw1Rvu92p-MfPH0XfZphbBJzPONt7Rzu19bzHejvX2l0HfxMKiFrKWHMfZX1pJDyVaImUwhMk0G82rhT5DDXN4_WhBeC0nlXlJVpo0iijgWrdXhjR89eQNAol2aQSJinGSBZcrE-6V3hs4nw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd5GGBL4vMHjTOITmGivYCSnHCs3CX19Lo7GF-6sUvKSTCqzWB2mfYwStiYprrigyoASD4Z3gruK9WmzK_TR5cfwZE954p4X1jmpj-gthuhON94AU_DH_JkKe4LJBtjwq2pUONTDcuMscvqqwvbEogRU6YGta2U_vd53O2_AqcxdGg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>基于拉取请求(pull request, PR)的软件开发机制是开源软件中的重要实践.合适的代码评审人能够通过代码审查帮助贡献者及时发现PR中的潜在错误,为持续开发和集成过程提供质量保障.然而,代码变更内容的复杂性以及评审行为固有的多样性增加了评审人推荐的难度.现有方法主要聚焦于从PR中挖掘变更代码的语义信息,或基于审查历史构建评审人画像,并通过多种静态策略组合进行推荐.这些研究受限于模型训练语料...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王路桥;周洋涛;李青山;王铭康;徐子轩;崔笛;王璐;罗懿行;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>安卓恶意软件对抗样本攻击技术综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwlorXQmEnCFHzfTwqGJPSg9bWYSblJirCEnK8tKY8DCohKkRKCEMc1U-jw_z7ZvAa5MxIit4G0SB7PwwZnW2UWhVIoIbZgKadUQOLVv6u9fhcoOy6arrmo-0Em0PNoGHKV36mQZD8kkclRMFce4ghVAqPuO_R2Xjc2ggQA9Krpng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd43kwNTa21sysdzTjjZ0V6-8OXD0Aa6yQGAoqsigxmcXkXenNl9e9Zy0Xul1NdVuDpnCY4-2yIZAUTTrazgUbKdRGQaxcX5ltTM0ZgrtrLgfR_ThjOPv-NuLyST5hh0-JMARFDBhOlUlZFIcga63OFgMhFxRxnxc-yvvZepTno9mA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>面对Android恶意软件带来的严重的安全风险,如何有效检测Android恶意软件已成为工业界与学术界共同关注的焦点.然而随着Android对抗样本技术的出现,现有的恶意软件检测系统面临着前所未有的挑战.Android恶意软件对抗样本攻击通过对恶意软件的源码或特征进行扰动,使其在保持原始功能不受影响的条件下绕过恶意软件检测模型.尽管目前已有大量针对恶意软件的对抗样本攻击研究,但是现阶段仍缺乏针对A...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>李珩;吴棒;龚柱;高翠莹;袁巍;罗夏朴;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>大模型生成代码的开源许可证违规风险洞察与分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwlorXQmEnCFHzfTwqGJPSg9bWYSblJirCEnK8tKY8DCohKkRKCEMc1SBGp5kQGoJW5c2lxi7OCudUwxL8wYm47UWgdxQc_hML0aIWs-FYWtpJIQzbf_PXObF0dGc_4Mupqzh0aPBKsdqFFcjHGh3NC2SU8Mr8tnHaKu679z4BbpQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd7kFBqTeNfbd-pX0qyVdpW049SeKfdi_N5Q4Gf-yqexf43q5gEO8ldXeRGif8aNw-8nafYfrDH4-Quil1w4z0yIfu1Q_M3CxgXpxwQD9_vIYz4sGu9eILYTg9nF7jc-bFL1IUwYCplmFPYKEiQW5QZmkTbe4IOmvj3davBN6nWcuQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>大型语言模型的快速发展极大地影响了软件工程领域.这些模型利用大量开源仓库代码进行预训练,能够高效完成诸如代码生成和代码补全等任务.然而,开源软件仓库中存在大量受开源许可证约束的代码,这给大模型带来了潜在的开源许可证违规风险.聚焦于大模型生成代码与开源仓库的许可证违规风险,基于代码克隆技术开发一个支持大模型生成代码溯源与版权违规问题的检测框架.针对9个主流代码大模型生成的135 000个Python...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王毅博;王莹;余跃;许畅;于海;朱志良;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>浮点时序数据压缩综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwqGg3mnIr7lWpPQdUrRPAEaAsjC5W1W6SiOuWGSjUeJkUYBJHv3gCOzC1dPhEmmCcTcNRqZbrS4_KQU8CkVOEWMWqWwd9Pmnfl-eEVAX6PW7zhdW27AcJ55vRsyIJ2MbTXsfxkW7X-jBKehGpMV_g487WTpTgZVIsTJQEvomBwQA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd7kFBqTeNfbd-pX0qyVdpW049SeKfdi_N5Q4Gf-yqexf43q5gEO8ldXYUvW3j5W21MHrS-jSxTTBy1eQTeowdFg7S4sow5rMJy7jyXTl5pXbcZwTq0rtBrLGBtYuashqCq-qbniGxYv2H9pk10jUITVNsEQatSQWwa2_O-N69Dpng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>物联网技术的发展产生了海量的浮点时序数据,这给数据存储和传输带来了巨大挑战.为此,浮点时序数据压缩变得至关重要,其按数据可逆性分为有损压缩和无损压缩.有损压缩方法通过舍弃部分数据信息以实现较好的压缩率,适用于对精确性要求较低的应用.无损压缩方法在减小数据大小的同时保留了所有数据信息,这对于需要保持数据完整性和准确性的应用至关重要.此外为满足边缘设备的实时监控需求,流式压缩算法应运而生.当前时序压缩...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>朱明辉;李政;李瑞远;陈超;郑宇;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>大语言模型在代码优化任务中的能力探究及改进方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTwqGg3mnIr7lWpPQdUrRPAEaAsjC5W1W6SiOuWGSjUeJkUYBJHv3gCO0O6PV9LTDfWcvkgWwI0muWe8r5EYmDEb51qJlbowraNfnEV09ijsargz5gRQZ7I_ooHyOXrnZhmXfW0J5NPqMVTUl5kzmN-q_Gy04_cFkvQKXGvuh26FlQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd6wBHnoV7VQDCGzfTeXaqE-RaD_cIaa70HaVceSB6pEjK1y_NjXurv0DWU5bggJy231kgIVia_1FcpVXiRYaCIJpFJzsE3E3jJL5qOAZ5OZ5HWdg6XOuovApS88loAhERPsSpPWEyC4CZZ0SrJx9KCnzZT6flAnvKQQGjDkMCCo9g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>代码优化任务作为自动化代码审查的关键环节,有助于提高开发效率和代码质量.随着大语言模型在软件工程领域中展现出远胜于传统小规模预训练模型的性能,旨在探讨两类模型在自动代码优化任务的表现,以评估大语言模型的综合优势.通过使用传统代码质量评估指标(例如, BLEU, CodeBLEU, edit progress)对4种主流大语言模型和4种代表性小规模预训练模型在代码优化任务的表现进行评估,发现大语言模...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王志鹏;何铁科;赵若愚;郑滔;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>异质图表征学习综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTzP2osfEY-XJWnV0WY1EN4JFRs3c4qgUj8PxT6z7VU3WSt47EePRNLbPCPDt_ebE1RvGPLRgMImspBcyCtdszsJXtGrvkLFuepb0OBLxiJ2HnaqFHdzYN8BnjhzYDIiFfhQ9Wbk8KPnY0KJTV1trEySUmbK1Nz2DFmH4bhMWblH5A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd77HTMfsXRgbbgFR7Mg5l4eWyH-CHYCxH4N-9zob0a0BIRZO2XrZSPrHeoi_WlvanHfONufJ6AxO1f2RsXLoSCD1-I7VpW_-eZg19yBycMrIm9r4S_0UAt3Vai6dKSFRrv5qL4Mcdm0QWmsb-e95tqBmp769G3KdJSNnOsRitOpkQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>异质图因其能够反映现实世界中实体及其复杂多样的关系,而在诸多领域中扮演着至关重要的角色.异质图表征学习技术,旨在将图中的信息有效地映射到低维空间中,以便捕获和利用节点间深层的语义关联,进而支持节点分类、聚类等下游分析任务.深入调研异质图表征学习的最新研究进展,涵盖方法论和应用实践.首先对异质图的基本概念进行形式化定义,并讨论异质图表征学习的挑战.此外,从浅层模型和深度模型两个角度,系统地回顾当前主...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>李亚聪;刘皓冰;蒋若冰;刘聪;朱燕民;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>基于视觉特征解耦的无数据依赖模型窃取攻击方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTx9fzMN7szZ3b60uHT4Lj4bNFKOYCPp13toq2YFa-fsUsvlVWP9_SZ0df5hDRXOU6FowMQ_45vYYAmp91pRtcpSaKO1ajS1f87e2fZN3_gw1IufpEy3fpN4yPKYcvoMFaBjxX7Y2bF28xZI9e61R-_T05X498AEFnpBnGQbnCh7hQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd4Ae-W0oLWmVI_Nzbf3OyiqelOxjxWFCVUk4F7CSt7py7Y6T6-nqrHzKylvxyciMZufYy3HAdbZq9WLBrhRjiiI_qtPwjd8V_AE7zuxMS_XQ5ZuigFwyVcACxdtL_LqmdEDw6ESa9jSuGmmkuG2ghPRo--0lxcSSpMXuGJyB-x59w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着深度学习模型安全性和隐私性研究的不断深入,研究者发现模型窃取攻击能够对神经网络产生极大的威胁.典型的数据依赖模型窃取攻击可以利用一定比例的真实数据查询目标模型,在本地训练一个替代模型,从而达到目标模型窃取的目的. 2020年以来,一种新颖的无数据依赖模型窃取攻击方法被提出,仅使用生成模型生成伪造的查询样本便能对深度神经网络开展窃取和攻击.由于不依赖于真实数据,无数据依赖模型窃取攻击具有更严重的...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>张锦弘;刘仁阳;韦廷楚;董云云;周维;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>软件设计模式检测技术:现状、挑战和展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=B-gnKLjyiTx9fzMN7szZ3b60uHT4Lj4bNFKOYCPp13toq2YFa-fsUsvlVWP9_SZ0pS6OddYH_uX7Z0Jnup6fAm-3zj3zNvUBV801fDDBz8z-9b0Mb7qyoG4w788glMkaMPL1pvs9S81ckczXKb0Y3hI8NL0XI6pUP9iZTgraJNJHMhwY2MEP3A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zKiEFAutMd7Ac-ZTqqBfXQXk5wP7WPoPurw6CXJaY7zyFkfiYY9uWHXcuqwuDZMF9J45hz5oTrwyZEx-BfHcD7FhNHQxsOz7cMGC6F2HpwxHhFqVOFEfz_PoSGXJucgAUL-xvx75OuhlexkcUx2tJPi0gXvGW5KLH0GEnyKPlFzemZ0JfFzazA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>设计模式检测是软件工程领域中非常重要的研究课题.国内外很多学者致力于设计模式检测问题的研究与解决,取得了丰硕的研究成果.对当前软件设计模式检测技术进行综述并展望了其前景.首先,简要介绍软件设计模式检测领域的发展历程,讨论并总结了设计模式的检测对象和特征类型,给出了设计模式检测评估指标.然后,总结了设计模式检测技术现有的分类方法,引出了分类方法.根据设计模式检测技术发展的时间线从非机器学习设计模式检...</description>
       <pubDate>Wed, 12 Mar 2025 16:00:00 GMT</pubDate>
       <author>王雷;袁野;王国仁;</author>
