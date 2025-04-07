@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 09:23:36 +0000</lastBuildDate>
-    <item>
-      <title>双代会</title>
-      <link>https://www.cup.edu.cn/news/sx/efaf7193e12347e48bfc083b97414dad.htm</link>
-      <pubDate>Fri, 28 Mar 2025 02:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Apr 2025 04:21:52 +0000</lastBuildDate>
     <item>
       <title>双代会</title>
       <link>https://www.cup.edu.cn/</link>
@@ -106,6 +101,11 @@
       <title>减肥</title>
       <link>https://mp.weixin.qq.com/s/rfpyU7_t2xJy9oWA9WnDtQ</link>
       <pubDate>Thu, 03 Apr 2025 10:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大在第十三届中国大学生电视节“高校思政创新发展主题活动”中获佳绩</title>
+      <link>http://www.cup.edu.cn/news/sx/1a7b6b47ee1a4dd4b301e2d3ded29d7e.htm</link>
+      <pubDate>Sun, 06 Apr 2025 13:18:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

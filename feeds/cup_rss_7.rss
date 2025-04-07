@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 09:22:32 +0000</lastBuildDate>
-    <item>
-      <title>关于做好2025年度中国化工学会科学技术奖推荐工作的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/cgl/b78fb27c95854b93ae619fb54f1a8120.htm</link>
-      <pubDate>Tue, 25 Feb 2025 03:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Apr 2025 04:20:44 +0000</lastBuildDate>
     <item>
       <title>【二号通知】关于召开“2025煤层气勘探开发年会”的通知</title>
       <link>/publish/kjc/docs/2025-02/2025-02/7d8cf79eff44433da41a528e9ea0f7b6.pdf</link>
@@ -106,6 +101,11 @@
       <title>关于教育部工程研究中心2022-2024年度报告公示的通知</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/6ed52fb4673c4366bb83b92c8a731a1c.htm</link>
       <pubDate>Wed, 02 Apr 2025 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于申报2024年度自然资源科学技术奖候选人的公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/84417e6864714296a89e6a19e3477ebe.htm</link>
+      <pubDate>Mon, 07 Apr 2025 01:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
