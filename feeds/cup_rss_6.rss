@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 09:26:05 +0000</lastBuildDate>
-    <item>
-      <title>关于2025届本科毕业生信息核对和学历照片补采集的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/d450333dc2a7425aaf16fa33df32b73b.htm</link>
-      <pubDate>Mon, 03 Mar 2025 02:14:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2025 04:20:07 +0000</lastBuildDate>
     <item>
       <title>关于北京市中小学教师资格考试期间封闭第三教学楼的通知</title>
       <link>http://www.cup.edu.cn/jwc/notice/b25aebde8ce5419e9ee0c2704fa59608.htm</link>
@@ -106,6 +101,11 @@
       <title>关于公示优秀本科生班主任、优秀本科生学业导师评选结果的通知</title>
       <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/77e79846d8484d5689e31a950ecec164.blk.htm</link>
       <pubDate>Thu, 03 Apr 2025 09:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于第五届中国石油大学（北京）教师教学创新大赛结果公示的通知</title>
+      <link>http://www.cup.edu.cn/jwc/qbtz/c54b83c95bc14d66aaf7c7a207a17e1d.htm</link>
+      <pubDate>Wed, 09 Apr 2025 02:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
