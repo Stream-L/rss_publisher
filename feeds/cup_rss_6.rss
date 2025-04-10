@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 09:26:16 +0000</lastBuildDate>
-    <item>
-      <title>关于北京市中小学教师资格考试期间封闭第三教学楼的通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/b25aebde8ce5419e9ee0c2704fa59608.htm</link>
-      <pubDate>Mon, 03 Mar 2025 07:54:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 04:20:18 +0000</lastBuildDate>
     <item>
       <title>关于推荐参加全国高校教师数智教育创新大赛教师名单的公示</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/b0dd97231d81420ea620c3e9123df6ae.htm</link>
@@ -106,6 +101,11 @@
       <title>关于第五届中国石油大学（北京）教师教学创新大赛结果公示的通知</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/c54b83c95bc14d66aaf7c7a207a17e1d.htm</link>
       <pubDate>Wed, 09 Apr 2025 02:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于推荐参加第五届北京高校教师教学创新大赛教师（团队）的公示</title>
+      <link>http://www.cup.edu.cn/jwc/qbtz/53f8aaf01f1e4945bfcd38d436130f8e.htm</link>
+      <pubDate>Wed, 09 Apr 2025 09:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
