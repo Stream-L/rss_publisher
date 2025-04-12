@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/JSJX/detail?uniplatform=NZKPT</link>
     <description>计算机学报</description>
     <language>zh-cn</language>
-    <pubDate>Fri, 11 Apr 2025 09:30:27 GMT</pubDate>
+    <pubDate>Sat, 12 Apr 2025 04:23:29 GMT</pubDate>
     <generator>计算机学报</generator>
     <image>
       <title>计算机学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>轻量级密码TweGIFT的中间相错统计故障分析研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOUcwpGO0VMMUN-t5hLML1xJ-Sys1u0KDo3xrw3sTmcTCI1CKKBYvpRAlgIIndZJaPP-byUgzK0VLaWtY9XYb00qWP9B_C8RGMnddl2Rg7mni4agk1HYeIfMxBPot-ij06i2q4IGYEU6rsOewQPYRyzxxjgwbeXYa4aLaFa7R3HXA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eiqtSO4VLOeRySlOKLrDcBP0bQ0JimHAnz05Kks7nq-kvk7bLA5FMu_pyGfCcZzHyJF7zSUDMCG_o1FUtgAVapf1ATwQ74SEob7n0f3XrNqZOIWH8r5F6FizfVyWFk-M36oqCxRU1EzCjSTTg60QCY16lZbUoBYGqfxQxnKbrGl8UA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>TweGIFT算法是Chakraborti等学者于2021年提出的轻量级可调分组密码算法，旨在保护智慧城市、智能制造、智联农业等领域中物联网设备的数据安全。本文基于唯密文基本假设，采取随机半字节故障，提出了一种新型唯密文故障分析方法，即中间相错统计故障分析。该方法基于中间相错策略和统计故障分析，通过随机注入半字节故障，获取故障密文并进行统计学分析，设计余弦距离-汉明重量(COS-HW)和余弦距离-...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>李玮;刘源;谷大武;黄佳音;陆海宁;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>基于知识蒸馏与动态调整机制的多模态情感分析模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToMCD20KXsbvuTGLVwJ9wBZrBsroa4oseyU_5kNkAHmPhIMitAnAX0gEwDs6P1P7pch2MnctOzst9VqvSzCYPpKMb9RIM_g43HfPllFOq4nfgL31vm-F-9edtyMPnwTtQNEFuCnxaiYkNFgsJhZfLxXM1Ma-qRzU-QLwcMmn2OUoWQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eip02gnpatqzK3CIfIQu_isfjEs3cygsnYDU-bdV7pvaPLULUvlnmYe6yNSzgPc8-jEkRuIeI97PryXTv393mnUcIHABLlEQlJ7EAfxAdIMtQfd8-TkuIkuYMu-gEW3vQ7NqA7V1CW06Z-4ONFfc8CGIpmb84nwb1H-T9V9TJzPScg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，模态缺失已成为多模态情感分析中的重要挑战。然而，现有研究无法有效应对模态缺失场景，导致模型性能显著下降。为解决这一问题，本文提出了基于知识蒸馏与动态调整机制的多模态情感分析模型（Attention-based Uncertain Missing Modality Distillation Framework， AUMDF）。具体而言，设计了一种模态随机缺失策略，以增强模型对不确定模态场景的...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>王楠;王淇;欧阳丹彤;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>社交媒体优化综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToMCD20KXsbvuTGLVwJ9wBZrBsroa4oseyU_5kNkAHmPhIMitAnAX0gEXuL57iVYBv3_3NvJLQTLafRzBYYE8C_NM5FF-kna_Qg1_IGZIZIbTkP1-0AmfqxYjcXHUntL5IM-oXRA3gS0CZQjQY272XlMRtezq9J0bsDhsPtHD0jIyQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eioJN3DsVROMqMxS3pR9P50Xala3jFOGTHK_7EG1QArM6KcNEo3p1Cch2MfWJglkeejuLyrA7yk-Qa499JlsdKv7iWspqIrZy1ZWFSUnAY6ucgsDrfwc-v6dO61xeSOT9L2k9EcklJ1ERjwObaH_xKBkTxkctu9Gt6JQjjNZ0UcwcA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着移动互联网的崛起，社交媒体在信息传播中的重要性日益凸显。同时，大量证据表明，基于社交媒体的优化被广泛应用于商业营销、政治宣传或传播观点，尤其以ChatGPT为代表的大语言模型技术正被当作工具进一步降低社交媒体优化的门槛，优化技术及其带来的潜在风险引起越来越多研究者的关注，但现有针对社交媒体优化议题的研究主要集中在证实恶意优化现象的存在，或揭示量化特定事件中的优化行为，缺乏系统全面的介绍。本文从...</description>
       <pubDate>Tue, 01 Apr 2025 16:00:00 GMT</pubDate>
       <author>王晓诗;景少玲;孙飞;尹芷仪;沈华伟;程学旗;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>基于协同决策的SDN交换机迁移方案</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToPznsnEsOQHeoU7PfV6UEOa32ZxQuusBdkp3sOidYEnjOo9-ZK3YdnjXM8Do-aQgRZMXHRwvYMOwxfHQDEwC315-Ob8J6K3X1l_fS5Us_iGwrPgxiP1tCj2uIifh2s2UNmM_dsrVVoIisjhf1ZwJaK9DI_OGp0EwyBUCHC3Za0GbA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eioJN3DsVROMqMxS3pR9P50Xala3jFOGTHK_7EG1QArM6KcNEo3p1CchNS_RKjfYsGDGWirKAmbkBwvaC8fJLaDmXqgG0qkQvPBdi_egV1HO2EnRIWKj8rwSHwG1vJBSsWmTNWmVJoLNqn_O_vHQHu3oKyUMciqjGhhG5XV8pww6WQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在软件定义网络(Software-Defined Networking， SDN)中，为解决控制器负载随网络流量波动而变化引起控制平面负载不均衡，甚至控制器过载的问题，本文提出一种基于协同决策的SDN交换机迁移方案，在保证控制平面负载均衡的同时，尽可能降低控制平面和数据平面之间的平均链路距离，以提升SDN网络性能。该方案首先在全面感知SDN网络运行状态的基础上，以需迁出交换机的过载控制器为中心，将...</description>
       <pubDate>Mon, 31 Mar 2025 16:00:00 GMT</pubDate>
       <author>熊兵;夏红芳;赵锦元;张锦;赵宝康;李克勤;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>区块链智能合约隐私保护技术研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToN1AilRWyI2iP9GDFo3b-4f5kgkHD3AtjHgNgFpo9Fu2pwqrvQuLi8TBIRikhgvWIufftlgupqstfpnHCRrZJSZsTdL6NEs9VbkPSg4dvr1RU_VQBYHpwfgL3CBcib1GRCXW6tD1cT5s4xVtbeiNAdTHn3EuxQIiHHck9gkE8zz8g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eioJSQUhJ7-kP1pDGrLI28sr6hHSwDwP5MG3i9RJ3GWK_J_iyP3oM-OwO1Hkt_r30pJR65G4-RCDloa4lve2TSmN9NNymmBllpsNYFwVLdL_2xplxQt9a5V8ehPIRkh1lfzYSIR5lZ6VXhEJPvTCnRknOdcPYu_F1l5ij1XtWQwVIA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>区块链智能合约因去中心化、自动执行和数据可追溯等特性，已在多个领域得到应用。然而，其透明性带来的多维度 隐私泄露风险，已成为规模化应用的核心瓶颈。尽管已有多种针对智能合约的隐私增强方案，但技术路线碎片化与 评估体系缺失，使现有研究缺乏系统性梳理与评估。本文通过定义理想化隐私模型，构建四维评估框架（性能维度、 经济维度、易用性维度、通用性维度），系统梳理和分析了四类技术方案（可信执行环境、零知识证明...</description>
       <pubDate>Mon, 31 Mar 2025 16:00:00 GMT</pubDate>
       <author>王有恒;冯开开;李汝佳;段斯斯;陈庆接;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>人工智能赋能关系型数据库优化技术：现状与展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToN1AilRWyI2iP9GDFo3b-4f5kgkHD3AtjHgNgFpo9Fu2pwqrvQuLi8Tw6kgZD9spdX9fRQuxxyi9kPGMcNYN-Rpl0z4Z7X0wXg4-A4W1pCWPaQcmglXM0L0t8g5zpk6T4lZmZUTdQA4ICmz5pQe567EK_1k-1KJyGm82CTdsHNnvA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eir2otBRTTGIQCiqfO0TCGTAoSYze95DyG4R6uaumn6BrHJTPpBvWvbgnjXeZ4UhJqbEHiiaXQJI5-AukzqmVp5oYQdFYkXUYrswI81-v8nNa6VKlyl11I286qD6LYPTMdhNbQdK3xRWfmxRS9BDuw33oPNuuIO3aK-dkeM2kLrmxg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>传统的关系型数据库优化技术(如连接顺序选择、节点调整、成本估算、索引和视图选择)已经无法满足大数据时代各种业务的高性能需求，尤其是云上的需求。由于人工智能技术拥有学习能力，所以在数据库领域展现出了巨大潜力以及研究前景。首先，综述介绍了人工智能应用于关系型数据库的主流方向。其次，探讨基于学习的数据库优化过程中可能遇到的挑战。进而，综述关系型数据库优化的现状及具体技术，并对数据库优化技术的发展进行了展...</description>
       <pubDate>Sun, 30 Mar 2025 16:00:00 GMT</pubDate>
       <author>乔少杰;李洲;韩楠;徐泉清;吴涛;袁冠;吴信东;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>面向开放世界的半监督特征选择算法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOsSCpizqeXql_AKjHR4g9pwgNgBeUhZH5mrb6GqIwMx7kSzgJw_Ux99VbQyzWAo7uYCMs03_W5CtXkJFUpKFIOfNgr0sdIiCQG2e6PQMSn297qaIz53A6h5YWecwzG8acRrErfW3_LDucx0StDsJ8UeD0WbcHOaZY-cowNnIMeEw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eir2otBRTTGIQCiqfO0TCGTAoSYze95DyG4R6uaumn6BrHJTPpBvWvbg2lu2nt-_Dl1KoI_lmkfL4zclpAQidP_t_EvdE83Fwh1Sh6H0Pf6GyJbpZZYCK5Tet1tTU5ee_dkEmqG8lALKIlAc4Co7eVdrLtBqLrqYxbfV10yqX7cMJw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>现有的半监督学习方法大多遵循封闭世界假设，即在模型训练过程中类别信息保持不变，标记数据可以覆盖所有类别。然而，在实际应用中，这一假设往往难以满足，未标记数据中通常会包含大量的未知类数据样本。为此，近年来研究人员提出了一个极具挑战性的研究方向：将半监督学习推广到不仅能够有效识别已知类的未标记数据样本，还能对未知的新类样本进行学习，从而构建面向开放世界的半监督学习机制。为应对这一挑战，本文基于符号型数...</description>
       <pubDate>Sun, 30 Mar 2025 16:00:00 GMT</pubDate>
       <author>王锋;武文强;梁吉业;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>海光处理器上后量子签名算法的AVX2优化实现</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOkRjCI-18Sg88vGD8rgxvJWIFlaxqsazDZkHOddQtDldh_qh9ztidezpL5qZtNTxegQwgakFzjJ6xjPSbA5oV9C3e5NeIjHf5-FwZRNN6GvS7jLkS_kYMUvZZzLrUh3DpcE0rYZRcpB-SsnhPJP7jG7Fs0mCRr_gOEoNpzOUEwsA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eiq6Udwhkld2OjXyeR65aKv1PBy6Kr8R2T1IpsijXqKgPcuf1QdWzYeEgZZIBrySUTM9bCoWHA_hprH3p2tPpPQdzOb1yTYG-YvdjC_D4n88Gqqs7kyGJz_Cm02tioFNzcAXQP17tzLLjrtan9WUVdvPeWdmMhhbmj0xn2jf_U0UWA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着量子计算技术的快速发展，传统密码体系面临着巨大的安全威胁，后量子密码学(PQC)的研究迫在眉睫。在此背景下，格密码凭借其出色的抗量子攻击能力，成为后量子数字签名算法的重要基础。HuFu算法是我国自主研发的后量子数字签名算法，基于格密码学中的通用格问题，具有良好的安全性和应用前景，目前已提交至美国国家标准技术研究院(NIST)进行标准化评估。但HuFu算法在性能上仍有提升空间，特别是在算法复杂度...</description>
       <pubDate>Sun, 30 Mar 2025 16:00:00 GMT</pubDate>
       <author>王悦彤;周璐;杨昊;刘哲;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>面向去中心化环境的数据所有权安全转移协议</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOkRjCI-18Sg88vGD8rgxvJWIFlaxqsazDZkHOddQtDldh_qh9ztidep9h13x2GHeYXttSqRqGyx5MBZcUc9cNOYb4kthZ48jMRgAyb_NNN2oJz2_kN0cK4OPvQZqFR99iFgKl8DSDMOZv9qIyj3zRGFVS0DlZG1L_v5L3SZDERTA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eiq6Udwhkld2OjXyeR65aKv1PBy6Kr8R2T1IpsijXqKgPcuf1QdWzYeE6d4mAT-Ej7IkH190DNFX4uIRDxLSW2gMj2nasHLnc_EOTTsN9s0Fk4RSJMwPrFvkkiKlmgvLP6362_Ml3jmzo-9za_duUrBgtbCj0fWqz4uHTq18X8ot5A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在去中心化市场中，大量数据资产通常需要长时间锁定在智能合约中，直至交易完成。尽管这种锁定机制对交易安全非常重要，却严重限制了数据资产的流动性与灵活性，导致市场参与者交易效率降低、机会成本增加，阻碍了去中心化应用的广泛推广与规模化发展。为解决上述问题，本文提出了一种面向去中心化环境的数据所有权安全转移协议。本协议在不额外增加区块链网络计算或存储负担的前提下，实现了锁定数据资产所有权的安全转移。首先，...</description>
       <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
       <author>禹勇;姚宇超;史隽彬;阳昊辰;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>脉冲深度学习梯度替代算法研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToMCkGOtklauylWVrO2FEbEr2uMOOjEuJK0uC9IR06eeANePtDGnT7IXTylmddJPWP0bLF_J44DcpFUSzV4h21Y_aExFGqR9pRkwJy5YvUSMF_h1zXGwgcJHjs0qMn0H7NFVk5xFCXt-GjCiVHHAwGSQ25o_BEaECh3RTlTmtgeVJg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eipNHRFghg6HEWMZgZwdHPUTWal8fURL1YxQ7eW-3H5uNUh_CbT3_zRFD6iHiQayQ2gE_HrGE_S7ySPEdcXQ4SQ5uxDt0WGQXT0dXN2w0mfrAhulJRA1IyWr9pcOTTLke5ZhS_y2Mc_wm9VQ7hb7VCJkqYY5mSYj4W-YvPtEedZOQQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>被誉为第三代神经网络模型的脉冲神经网络(Spiking Neural Network， SNN)具有二值通信、稀疏激活、事件驱动、超低功耗的特性，但也因其复杂的时域动态和离散不可导的脉冲发放过程而难以训练。近年来以梯度替代法和人工神经网络(Artificial Neural Network， ANN)转换SNN方法为代表的深度学习方法被提出，大幅度改善SNN性能，形成了脉冲深度学习这一全新领域。本...</description>
       <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
       <author>方维;朱耀宇;黄梓涵;姚满;余肇飞;田永鸿;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>面向SW26010-Pro众核处理器的新型矩阵存储格式及SpMV算法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToPbFGXO1l6Lc3LNyTY5ddd5SziFtFFd2Xkx7Hcav9w9fBC4j8vVxHXTMCp06NTctMJPR0jt6nfjXUDxEtjCBAHDB4b4eSqoJdOeWUEI8CFERqZn1rajrUU6ZgxNFADrMZ8F47vpWrw6ptEgP4UuS570kvFF_0XPQWIk85V52_KS3w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eipNHRFghg6HEWMZgZwdHPUTWal8fURL1YxQ7eW-3H5uNUh_CbT3_zRFJH9nRAIBTwpThm0lIKnIhx7sXs_b1avdbjfwOAD0PZFUD-lHw0J2se6UWjziSesHMU_AVhPP46vhN8mk510o37Qiv1iDQtjC8K20xEDFFIblTaqF3xifkg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>稀疏矩阵向量乘(Sparse Matrix-Vector Multiplication， SpMV)是许多工程和科学计算中的核心操作，其性能通常对应用程序整体性能的提升具有重要影响。高效的稀疏矩阵存储格式是影响SpMV性能的重要因素，然而，现有的稀疏矩阵存储格式主要通过压缩零元素以减少访存，未充分利用非零元素的数值规律，因此仍有进一步压缩和优化的空间。本文通过对压缩稀疏行(Compressed S...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>王萃;刘芳芳;马文静;赵玉文;胡力娟;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>机器视觉编码技术研究及其进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOUyct5wpajkKyzE8-ajmm9MUIjdArx1QV17urTQVVhtx8MXirL4k2Ncw_q6B4HvZEfseN2Eeb6P9hbCe0eoaS_Am6XFyPIgdZr7dtQTL2kGWcQKa1Lea4NKjd37JOCFvEuHHEL4MblADFZT5J-Fna8qPdUo9iqTTIZEyOW5JldeQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eiqRo8WT_qGNNHIb1mxFf6NngszUpKfVws5IfOlSzanEKiLqs1_pB-CJL0QImyEfUx0lV30cFnykxEpYuUlNOzBjMhFuPRbRYIz2L7_uf3ZNMgozbZhEhbfyNbwZLd5NC2G_8arnIHEU6jsjVtuiCj-GFYRwu7gcIJosBN5AT1sWIw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>机器视觉编码技术的不断进步，在工业制造、遥感监测、低空经济以及智慧安防等领域展现出广阔的应用前景。然而，现有的机器视觉编码技术和算法结构仍在不断演进，不同技术之间存在显著差异，导致研究人员对其理解还未达到一致，未能形成统一的标准和体系。因此，迫切需要对机器视觉编码技术的发展现状进行系统梳理，为未来研究和实际应用提供参考。本文从机器视觉的信源数据和编码原理入手，首先深入分析了机器视觉数据源的生成过程...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>田港一;纪雯;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>软件定义物理层反向散射系统的OTA配置方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToOUyct5wpajkKyzE8-ajmm9MUIjdArx1QV17urTQVVhtx8MXirL4k2N04yziAaWc3Z7YR9N8fXyYDmcWRvySqmEmhO4n_kN7PnCbAwfd5I6HO6NVbOhq7LwGgD88Dr4wcRYUXErD2JeghCDP9OOyDewaxm15RDTC5cREfgswje_eg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eiqRo8WT_qGNNHIb1mxFf6NngszUpKfVws5IfOlSzanEKiLqs1_pB-CJydjxwe-2qS9QqpOYBVvA-REmzdHJlRCYK8Gve4uqKEeXF0dFvF4Lfc3QmCjCcS58zM1puz4LbCkNwDAkeMLjH_9MZ3-uAXLetG8yQ67f6kEe5jYkLMMHBA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>反向散射通信技术是物联网领域近十年来受到持续关注的重要研究方向，为物联网设备提供了低功耗、低成本的上行通信手段。现有的反向散射研究主要集中在实现符合商用协议的反向散射通信。这些系统与早期的射频身份识别（RFID）系统相比，无需专用的RFID阅读器，节约了部署成本。尽管这些工作在支持Wi-Fi、BLE、LoRa和ZigBee 等日常物联网协议方面取得了进展，但存在着软硬件固化的缺陷。这导致技术一旦芯...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>朱丰源;狄麒龙;柳卫星;田晓华;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>面向隐私保护的用户评论基准数据集构建与大模型推理能力评估</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToPtf6DkH_Q6b91Ld9-bHx36cUZfjs3FuSnaVdCGZXDI9cH8Ts77RxHtJ317M-2IymjBSUehNNgmz_cs0icykNZ40PM4ZacTViQadNTF-8W5puECRx1lW_5yeMh2kOY3MsxhC6F9WC7X1JDr_894wDlZprnOnw60GQ3-ddyYrEJ1Ig==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eioVDcekDB3Ey4hRjbUWR7GA4YnDQAHt6hVr_pWDIhcqKKD7Ke8twp2s8oaq6kiomO0qQEq_AcRYG5dkHrC-cg7r0oCtYI0eqC_osMb1By2mAW2dr96DhE8ohfKkr-Apo6meQeMB5Dpinp24x_ZJ6y95eQp_ZnJkCGOB2d9hYlvBbQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>以GPT为代表的自然语言大模型展现出的推理与情感分析能力引发了空前的个体隐私泄露风险，亟需对其隐私数据推理能力进行系统评估。研究的首要挑战在于数据集的稀缺，现有英文数据集数据规模有限且真实性不足，而中文隐私保护数据集稀缺问题更为严重，这意味着大模型在中文隐私推理任务中的表现尚未得到充分验证。为此，本文首次从哔哩哔哩平台收集超过五万条评论数据，涵盖40名视频博主发布的评论数据，经由10名志愿者标注，...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>杜梦瑶;李清明;张淼;陈曦;李新梦;尹全军;纪守领;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>曲线曲面局部光顺渐进迭代逼近</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToNfOvZe-8M5uwGzLVlYvtnpwSvz9gSen5zRvhLs5JT9XUAxQ8C-x1NYWNky4WnmDsP5tHHZLgXm45NCIiY4SGs4aszIgxFatKW7Eiw-gXaoiv0gKkadtA_syMIOIfdkw1wMB78UVv-6rDBQqoqjW4FEIn6EsqlamOFZl8V4QSOPAw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eioVDcekDB3Ey4hRjbUWR7GA4YnDQAHt6hVr_pWDIhcqKKD7Ke8twp2sv9MTcjkG-PhHQkyEirRH2PVGkxP_I2bYJeOq01N8Pdyyuc4qm8PGanOg8YlD0i7hceGM-T6VGjCxBksYgJnfZxT3rU1opO6_rbKRUQuSvoA4ur-WGT5B1Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>曲线曲面光顺问题源于工程设计与制造加工的实际需求， 在汽车、航空航天、船舶制造等领域具有重要意义。曲线曲面的光顺性直接影响产品的质量、物理性能和美观性。因此， 曲线曲面的光顺处理是计算机辅助几何设计中的一个研究热点， 具有重要的理论与实用价值。国际上关于这一问题的研究可以追溯到20世纪60年代左右。传统的曲线曲面光顺方法主要包括基于能量最小化的全局光顺方法和修改选定"坏点"的局部光顺方法。尽管现在...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>林佳;蔺宏伟;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>基于D-Wave Advantage 量子退火算法的 90 比特 RSA 整数分解研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToNfOvZe-8M5uwGzLVlYvtnpwSvz9gSen5zRvhLs5JT9XUAxQ8C-x1NYaDcTIqeH5VkI8ya0Eeg5op1wbpGAkkt4mH5DDw5VOeSdZInsjls6twVIS5RU9OmmVWBAveLWXMwjtQ1_74zjrUcnuIDGJ2V0Q1aA-bdokFvJqY_r8GjFsg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eirIqFsTxwezfkY9ibFiSF0TNdtlfp_xBIuey92kjk23XUbCf1n7lbf_Vzt22Ad5EhkKSvlvn6agWOTqI0dtzUfjUa9ZXWL46WlSZqwIbRENV34M3IAl_K6rhv7AqGKReeDPYtdiJ8GyfWkiQ4Mvp_RPQovWYgsx7mxUa94dvIfS5g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>业内认为在当前量子计算攻击密码整体进展缓慢背景下，RSA整数分解进展每提升1比特都面临挑战。根据《Nature》文章报道，2019～2023年谷歌不断改进其量子芯片，但依旧不能用于密码破译。谷歌等公司近期研究表明：尽管亚线性量子资源方法分解RSA整数可以降低量子资源的消耗，但是即使“完美的量子优化算法+Babai算法” 也不足以有效地分解80比特以上的RSA整数。量子退火算法凭借其独特的量子隧穿效...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>洪春雷;裴植;王潮;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>基于可编程数据平面的网络防御技术研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToN0xPqeDarLobypA9TzVrJy1GfRXCF1e0OslYHSbL1gfK8b9La7nsqLWSXdzP0xZv-5IpIsFUBQkxVFHGXRYeJISCvHFGP9XkRkdkCcXVeepyPeDgwB5qKZ1J_7RckDhlmkT3SK_b_NLhuPbVR2Unyuiycgvt6z7P6otcL51Alv3g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eirIqFsTxwezfkY9ibFiSF0TNdtlfp_xBIuey92kjk23XUbCf1n7lbf_vqhP_BwKGKBVucUTkIhBJBnEQxr-fwtl4xFkFjggn6xmXHKlE3b6J5y7O2jApocxDp0uiwOgDGcgijwVgJyeUDdZCxlGRP2lSs5R9FrtLQe6Os9IsnTYGQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>可编程数据平面（Programmable Data Plane， PDP)允许用户自定义网络设备的数据包处理方式，支持定制化网络操作，利用PDP的特性实施网络防御在实时性、灵活性、扩展性等方面取得了良好效果，近年来受到学术界和工业界的广泛关注。本文以基于PDP的网络防御技术为主要研究内容，首先介绍了PDP的基本概念，并结合典型案例阐述其应用于网络防御的优势；随后根据实施网络防御的阶段，将基于PDP...</description>
       <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
       <author>胡宇翔;潘璠;崔鹏帅;田乐;常德显;崔子熙;夏计强;占奇;邬江兴;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>叙事工坊：交互式叙事场景的自动生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToPSjXNcYLpZ-4lq8Y-733uGkL8gjUVG3Z-TCmlxgclx9LLucbSvtWOxI5w4hETg7Lqy5JMTmiVc6oaotVjxrlrNe-QOGWdtSC43pJsiNalPLVxhD4kEgVGyI5rsZvGYZp_5H1kt-lCrzItmasT_4ffh3EyapQgrCxUFprwCk1UC2g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eirlDkIt8uTRM6rjHwF1ob24208KsuTR5X8ry2QP4lTsihA38yP8QDnsKwe0qQuLMEFo6piZ6DXJDZhRJ3wnzW907qQ2pUeZEy_79ttEEZbfL45SCiy4mCze0klCvYHC9Fr1KHT7ga7zLZLZ_sud2021olEFelIWHaW17P1ltQoGWA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，随着交互式数字环境的快速进步，现代技术使用户能够完全沉浸在交互式叙事场景和游戏体验中。尽管静态3D场景构建技术已相当成熟，但人们对于叙事场景中能够增强叙事体验的需求却日益增长。本文提出了一种创新方法，通过将构成叙事情节的单个事件（故事点）巧妙地融入场景中，从而构建出引人入胜的叙事场景。本方法通过优化故事点的空间和时间布局，综合考虑视觉显著性、叙事节奏和场景布局合理性，从而构建一个动态且交互...</description>
       <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
       <author>朱晗希;高可隽;陈小雨;李怡珂;覃诗睿;赵乐朋;张少魁;张松海;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>基于探针引导的视觉语言多模态解释方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToPSjXNcYLpZ-4lq8Y-733uGkL8gjUVG3Z-TCmlxgclx9LLucbSvtWOxuPsE8s-zUQflfq06AyRkR-nYPxKW4iYAqjU64-KhrNJ86dmTLoAY3LegG8t9KnqqWyjMWV-gt2Mrfs0Uyr4iChMrKi8xXfQ1JJ8H1Lfmb2wBUZsEXknEtw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eipaaJjg6Bda6akeuvSnIQuawgODCxUJdEBd3bvxR2wmnXbW8T26etkWB6Gp6sz7HhpIy1hohMjariD9meJ27u8hdyxl_R4IdwZamr9_BYJ3Nt_EoIPrYYZUWhyTS3D_mLBSFMhPxpv4HEDr1l2n62lwpT-4suEd4jI92vKcIQxgbg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>现有的视觉语言模型大部分通过具有“黑盒”结构的深度神经网络实现跨模态推理，然而网络内部的执行过程难以被人类直观理解。因此，本文侧重于研究面向视觉问答(Visual Question Answering，VQA)任务的自然语言解释(Natural Language Explanation，NLE)方法，旨在通过生成的自然语言语句来解释模型的推理过程。虽然现有方法已经取得了一定的进展，但仍面临以下挑战...</description>
       <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
       <author>索伟;吕家齐;孙梦阳;刘乐;王鹏;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>BEKO：大语言模型与知识图谱的双向增强</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=_dzes7vZToO8yUqPlAddsk4l4VDWea0KLztz1eTBwt0Y92URn_P_uYZ362t5r7A5nlRP0lwBxFmie6qdBegsTqsGkTSiDQvHznGeT_LfC7xqtSHX15zLRvcytO74uRcTUbPKYdjOMb3mTXQEQZDd-h6a0SJe-OAlqMrLXnHB-yzYXSwfGNkaUA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=O_n6o0K2eipaaJjg6Bda6akeuvSnIQuawgODCxUJdEBd3bvxR2wmnXbW8T26etkWCN-axQLRChw-0u5Oiy8C_XOltdLKq4hsFJJ2MB5-Q5DjaQ8NGzijmcNIlu3aJD-DnwwDuTQB44sZkkx4waLfoff6TMe8DiYaUWM2eeRIIsw1bQvQQAX6oQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>以ChatGPT为代表的大型语言模型（LLMs）在多种任务中展现了巨大潜力。然而，LLMs仍然面临幻觉现象和长尾知识遗忘等问题。为了解决这些挑战，现有方法通过结合知识图谱等外部知识显著增强LLMs的生成能力，从而提升回答的准确性和完整性。但是，这些方法存在如知识图谱构建的复杂性、语义丢失以及知识单向流动等问题。为此，我们提出了一种双向增强框架，不仅利用知识图谱增强LLMs的生成效果，而且利用LLM...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>吴信东;黄满宗;卜晨阳;</author>
