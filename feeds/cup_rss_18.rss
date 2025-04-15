@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 09:27:55 +0000</lastBuildDate>
-    <item>
-      <title>【服务简介】WPS 365服务</title>
-      <link>http://www.cup.edu.cn/nic/ps/WPS365/9657502f1ebb4c28b99b96a1f5dd257a.htm</link>
-      <pubDate>Fri, 29 Nov 2024 02:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Apr 2025 04:21:59 +0000</lastBuildDate>
     <item>
       <title>【使用教程】下载激活教程</title>
       <link>http://www.cup.edu.cn/nic/ps/WPS365/e611cf8a3747415abc2d3c64b6d01900.htm</link>
@@ -106,6 +101,11 @@
       <title>关于第75次计算机等级考试准考证打印及模拟考试的相关通知</title>
       <link>http://www.cup.edu.cn/nic/info/2aecf7c5479546efacfa96a2a3c0584e.htm</link>
       <pubDate>Tue, 25 Mar 2025 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年全民国家安全教育日</title>
+      <link>http://www.cup.edu.cn/nic/gddt/81d6fb74bc7f429cbd30854cae2a1dbd.htm</link>
+      <pubDate>Tue, 15 Apr 2025 02:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
