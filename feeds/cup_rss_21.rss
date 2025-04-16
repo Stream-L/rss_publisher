@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 09:27:50 +0000</lastBuildDate>
-    <item>
-      <title>校领导受邀参加人民网论坛并作主旨发言</title>
-      <link>http://www.cup.edu.cn/news/sx/af9f9ff188104f119edd21a0726e3748.htm</link>
-      <pubDate>Thu, 03 Apr 2025 06:20:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Apr 2025 04:21:34 +0000</lastBuildDate>
     <item>
       <title>清明节</title>
       <link>https://www.cup.edu.cn/</link>
@@ -106,6 +101,11 @@
       <title>中石大举行2025年“晨光行动—石药奖学金”颁发仪式</title>
       <link>http://www.cup.edu.cn/news/sx/0901a8d358ed4536941c8ddd282f0a60.htm</link>
       <pubDate>Mon, 14 Apr 2025 11:37:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办“多巴胺计划·储力强身”5.4km校园迷你马拉松挑战赛</title>
+      <link>http://www.cup.edu.cn/news/sx/e77e4e9871b74d76a27a8b9518c8ae8d.htm</link>
+      <pubDate>Wed, 16 Apr 2025 00:15:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
