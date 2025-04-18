@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 09:27:39 +0000</lastBuildDate>
-    <item>
-      <title>关于举办第七届中华经典诵写讲大赛校内选拔赛的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/468278beb6714d068c6cbbdcb944c13d.htm</link>
-      <pubDate>Tue, 08 Apr 2025 00:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Apr 2025 04:21:22 +0000</lastBuildDate>
     <item>
       <title>中石大与阿联酋哈利法大学签署学术合作协议并揭牌联合实验室</title>
       <link>http://www.cup.edu.cn/news/sx/62f78067e00a417b9cea48fb8fb778a4.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大举办AI赋能大学生就业竞争力提升师资培训</title>
       <link>http://www.cup.edu.cn/news/sx/71a452d690524d1b9e7ab4e1f1f8f470.htm</link>
       <pubDate>Wed, 16 Apr 2025 09:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>北京高校青教赛承办经验交流暨工作部署协调会在中石大召开</title>
+      <link>http://www.cup.edu.cn/news/sx/ac4868d6a3684b61a06ea240eb5a0e17.htm</link>
+      <pubDate>Thu, 17 Apr 2025 09:11:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
