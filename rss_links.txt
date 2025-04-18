@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cnki_rss_QBKX.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_23.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_25.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_33.rss
@@ -9,10 +8,10 @@ https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/c
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_9.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_15.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_8.rss
+https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cnki_rss_XDTQ.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_20.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_11.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_12.rss
-https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cnki_rss_XDQB.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_34.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cup_rss_21.rss
 https://raw.githubusercontent.com/Stream-L/rss_publisher/refs/heads/main/feeds/cnki_rss_RJXB.rss
