@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Sun, 20 Apr 2025 04:21:55 GMT</pubDate>
+    <pubDate>Sun, 20 Apr 2025 09:28:50 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>面向自动驾驶系统的场景建模及边缘关键场景生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTDhiw3-jp6L9w3Ga2u0ZNw4q9dicj71WmOWqeWqwr9NATmbt3dljsS6a3g48CADh2PbMkrtJnt-1oHlZem5fm99sh66JZ-vlQTivo8Cv_kdeX0vbQzPyJ0BH3yJVvfdEuWMSQ1y9UHdmFMPtkbIqcAMGXcDynnhKA6-xNGaWqgaQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTTIXpzDrCrzXtQKfK02Bq0j_rbuzvzNL_BMYMTaPBR3_WqKSFWu_Zfmx9ykwIL_029gdgwd_Kgdj6Je3MxGtan_q8tsjw51y19wlpBQX-TC__RtNXEd6iHUFOKe5a9LIWCi3SwpdObm-egZHYXdy-DtSghRorz80cpbDsYla6ILA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>自动驾驶中极端的场景、无法预测的人类行为等长尾问题逐渐成为制约自动驾驶系统(autonomous driving system, ADS)发展的关键要素,因此有效地生成安全关键场景对于提高自动驾驶系统的安全性至关重要.现有的自动驾驶场景生成主要依赖于大量的路采数据,采用数据驱动式场景生成方法,并结合场景泛化技术生成相应的驾驶场景.该方法耗时耗力,成本高,而且难以有效生成边缘场景.而模型驱动式场景建...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>杜德慧;叶振;郑成行;朱珍珍;李家蕴;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>因果时空语义驱动的深度强化学习抽象建模方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTDhiw3-jp6L9w3Ga2u0ZNw4q9dicj71WmOWqeWqwr9NATmbt3dljsSq-T4SNPs3YB5kbrUY8xkKqVVnWJhPsI_gb9u2U28vV9HANzrH8_H4ZbRj12KRph0cELhXpiuRcSXsPX97ci2a4NZrz4abSTG5MxFyXDtWTeOC57WDHxytw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRVX7LxX_EYtpbtk4WfdQ147M1Mp_zziRNTmfl0DC-wv2QvZziKQiHiTrxzPKh3CjW9-A0nWyajYwToenCfY7WedhVVedQ_iMaUya_NtKKZQqp309ZNddjvng1oWes9L90yO9cQaxo6vyl3UAMv_L0-hdP0IasyLPh-V8zzk_2nAA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着智能信息物理融合系统(intelligent cyber-physical system, ICPS)的快速发展,智能技术在感知、决策、规控等方面的应用日益广泛.其中,深度强化学习因其在处理复杂的动态环境方面的高效性,已被广泛用于ICPS的控制组件中.然而,由于运行环境的开放性和ICPS系统的复杂性,深度强化学习在学习过程中需要对复杂多变的状态空间进行探索,这极易导致决策生成时效率低下和泛化性...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>田丽丽;杜德慧;聂基辉;陈逸康;李荥达;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>面向智能体路径规划算法的动态随机测试方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRWGwRHj1NHJirNK-2RmJ0D4Y-3ctY4w1kgJa4afjdb6VCm4QRz18mq6zbj5ZjJBDUF8G6d-z5Pn1CQGAqRTrvlB8aHotBuOYT6FJpNJxdvlKT9HtnV0Q0pwliMvcVCO7mBN4ZzABqF0iIj4o5_XMSXMYGCfeYQdFZoYoYuFIxbtg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRVX7LxX_EYtpbtk4WfdQ147M1Mp_zziRNTmfl0DC-wv2QvZziKQiHiYhK8c4yIFT8vM_lsS4XE3X_Yc3QglO1ZGVzWZcdGQfJyburRlvLM8NMeZyqbDt1LbllJsxsZ6-xZMif-t4KhLvc_u8umW2vL1LaQrluDHGt4tKUQU24Y0w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>智能体路径规划算法旨在规划某个智能体的行为轨迹,使其在不碰到障碍物的情况下安全且高效地从起始点到达目标点.目前智能体路径规划算法已经被广泛应用到各种重要的物理信息系统中,因此在实际投入使用前对算法进行测试,以评估其性能是否满足需求就非常重要.然而,作为路径规划算法的输入,任务空间中威胁障碍物的分布形式复杂且多样.此外,路径规划算法在为每个测试用例规划路径时,通常需要较高的运行代价.为了提升路径规划...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>张逍怡;李幸;刘洋;郑征;孙昌爱;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>基于下推自动机的同步数据流语言可信编译</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQS7Nagb_1OzvxPFwmdOqE98MT1wOBcR41LSHRPsb7KGN7_9Xmp_st9BgPENRLemI5VUXQBvp1x11lFNFby2ThTekRtXvfmkEaAOpsK0owmbkDQeCxIZlHZUCF1m8sQIMvOpmntAQZim7OD0vOmVZYUrOatn4GCVdMhqU9QxNRQWDg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTd-NIFVcBGLpk8nfZgQFukFy3EPUoKWkhuj16_B9rzHoD5mIJY0B9QKb0JgkinttXlXxy4PWbM2cPLm5iHsslRvIbcSyX65JQSJ3N_FgA96IXwS9Ecmjl4Pv8vFwst0cv55QVDyqml0G3w6JXilY7ux9EGb4jPV5vvx3g_fg-ZfA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>同步数据流语言Lustre是安全关键系统开发中常用的开发语言,其现存的官方代码生成器和SCADE的KCG代码生成器既没有经过形式化验证,对用户也处于黑盒状态.近年来,通过证明源代码和目标代码的等价性间接证明编译器的正确性的翻译确认方法被证明是成功的.基于下推自动机的编译方法和基于语义一致性的验证方法,提出Lustre语言可信编译方法,能够将Lustre语言转换为C语言并进行形式化验证以保证编译的正...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>于涛;王珊珊;徐芊卉;董晓晗;胡代金;罗杰;杨溢龙;吕江花;马殿富;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>基于函数间结构特征关联的软件漏洞检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSmg-0VbrJ0ZjNr7lHYB5eGjx--dr1ODgTVFNPgJwblPRCgWk97zrVhzaL7Sm6oWv7OOqSiBurW7r9gcHFfM0-055G4_vv3rUulWJwQ70zvRW6jVN2yawa7fqxfDP9kIw9F5xkdtnJiH2sX9rsHLb7OBnDsbiHcguzTDm-wSESPlQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTAyWRnDKQeHJdJvHkmtQesqBy0l1Ek0KjB8GcYNfu54tW3NY7jPWo0ddb3kaD8xCG3bUtbe8AIOFXezhdFZM09MlAh0K4kpyEeTSQM_3gWeCn1IAmQRRq3RHQX0AkP7l8ShkKiggkKmui4IK3oU1EvNXNvlGDNb7GOTSOSqJr0IA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>漏洞检测是软件系统安全领域的关键技术.近年来,深度学习凭借其代码特征提取的卓越能力,在漏洞检测领域取得了显著进展.然而,当前基于深度学习的方法仅关注于代码实例自身的独立结构特征,而忽视了不同漏洞代码间存在的结构特征相似关联,限制了漏洞检测技术的性能.针对这一问题,提出了一种基于函数间结构特征关联的软件漏洞检测方法 (vulnerability detection method based on c...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>邱少健;程嘉濠;黄梦阳;黄琼;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>单球驱动平衡机器人运动学和动力学形式化验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSmg-0VbrJ0ZjNr7lHYB5eGjx--dr1ODgTVFNPgJwblPRCgWk97zrVhvnBn8QSSwubLKs1Bi1Ngx8wQ1n_nPOFgLPCsZRIdxzycZrZSwkIByOiLMMAXUHS_ZYJnYOwilvhRWawQUjDp1r7TED0IXuFaRynVGkXfevic6UpZYPI3KA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTAyWRnDKQeHJdJvHkmtQesqBy0l1Ek0KjB8GcYNfu54tW3NY7jPWo0wVYKKETO_8Eb60-1_eMwh3DsAK6r2xdJRGHXRszIV2SbFCPT3OlpRo_LQrXgPidCFyW89svam0yGebPQk1mxLdwfx2xMSe0PVjOADrnz5cU-2ksHqEcPgg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>单球驱动平衡机器人是一种具有全向运动性的机器人,其灵活性能在狭小或复杂环境中得到充分体现,因此受到广泛关注.在该型机器人运动学和动力学设计过程中,保证其模型的正确性至关重要.基于测试和仿真的传统方法难以穷尽系统所有状态,因此可能无法捕捉到某些设计缺陷或潜在的安全风险.为确保单球驱动平衡机器人满足安全攸关机器人的正确性、安全性验证要求,在定理证明器HOL Light中,基于实分析库、矩阵分析库、机器...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>张善强;张景芝;施智平;王国辉;关永;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>面向函数内联场景的二进制到源代码函数相似性检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQEniGhGk7p5x2QOFyOfUB-PbXMnSaXAeOw1zdRWR2WciAmDf9cL69wFSLG9E-W1hqnWatVAup5LXxDpmaoUalOXSIOTneGvo3tO-8qpNH3IbyxdfEE2RSV9mbTap-pSUaC9uz_e5iL4eCtFGQPNF0cNSi4v-MoTCzwICscmottbg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQT1qeZvCE0QV5_Rw67AwjUoTDYO7poUJk255K2r6JLdZXpAYxbY60zFcKKQOoi0i5Gw_jVNGFthZVcd0UBXwGWbMZ6EQdKO-1ByxAAjrlBqcZUsepWnR_eTl5pCH4lm_-HiKN_1KkLe9nbaOJbd-Up1hGe_WjilY-O_c1EvduZrXw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>二进制到源代码函数相似性检测是软件组成成分分析的基础性工作之一.现有方法主要采用一对一的匹配策略,即使用单一的二进制函数和单一的源代码函数进行比对.然而,由于函数内联的存在,函数之间的映射关系实际上表现为一对多——单一的二进制函数能够关联至多个源代码函数.这一差异导致现有方法在函数内联场景下遭受了30%的性能损失.针对函数内联场景下的二进制到源代码函数匹配需求,提出了一种面向一对多匹配的二进制到源...</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>贾昂;范铭;徐茜;晋武侠;王海军;刘烃;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>结合特征生成与重放的可扩展安全虹膜识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQEniGhGk7p5x2QOFyOfUB-PbXMnSaXAeOw1zdRWR2WciAmDf9cL69wbi_4gIvotfYHSrWKfY280uy70vEUHZGZKTSKPUsxvwBhJdqHZKQneWPhgdz6RZ-RcO-xFQ1o_ZMZfjr2dZbFcOHl4hSmRNxeGAeL7SY7FQT2TB2xbv-Sog==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTAPmQGLSYjD_2c-UOoOdmTCE_pq5B1Z1Q7lz6ifJf-VgUsw8wJZmJO7PSqFPSSHXoYNjykwRu2-vWx3g5pOlFRGCpNrtCiTbYWGj9cKjoAIaPn0b1tDJphLEGB8UnFlOYR5hjwozXGGwYvCKmkvwGu4jLpOpLfkQVZTbKxlh5XLw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着信息技术的快速发展,安全认证技术成为个人隐私和数据安全的重要保障.其中,虹膜识别技术凭借其出色的准确性和稳定性,被广泛应用于系统访问控制、医疗保健以及司法实践等领域.然而用户的虹膜特征数据泄露,就是永久性丢失,无法进行更改或者撤销.因此,虹膜特征数据的隐私保护尤为重要.随着神经网络技术在图像处理上体现的突出性能,基于神经网络的安全虹膜识别方案被提出,在保护隐私数据的同时保持了识别系统的高性能....</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>赵冬冬;宋宝刚;廖虎成;闫江;向剑文;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>分布式系统动态测试技术研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRA-Dph6y-g-Jcp7iOwVWO9PtGh_-z2EOp61ekkAM02zhpvCH-30zB703LMdwsd3UHe8a3dGa6Hw7jKqgQLUDgZDh_F0PXfk_jYExbkey1eOYOHOZLn4iZe7Zy6z7WfdLuKb6swVDTpJWRpX4LpRtYhS27UfXVUzn5hasBALjr4Ug==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTAPmQGLSYjD_2c-UOoOdmTCE_pq5B1Z1Q7lz6ifJf-VgUsw8wJZmJOAlgt9lh-ziEqmq_28Ug1ZtDRzMgJCBaGkKxahMUg3pcO7jc4Tk205rpJxy_KUFFQW39CtarUdHHf4oQ3ErJsnKtDvUO2fe7CYAB5I_XKQRW4XZ0zRQqIiw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>分布式系统是当今计算生态系统的支柱,它使得现代计算更加强大、可靠和灵活,覆盖了从云计算、大数据处理到物联网等多个关键领域.然而,由于系统的复杂性,分布式系统在代码实现过程中总是不可避免地引入一些代码缺陷,从而对系统的可用性、鲁棒性以及安全性造成巨大威胁.因此,分布式系统的测试以及缺陷挖掘工作十分重要.动态测试技术在系统运行中进行实时分析,以挖掘其缺陷,评估其行为和功能,被广泛用于各种系统应用的缺陷...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>陈元亮;马福辰;周远航;颜臻;姜宇;孙家广;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>面向Rust语言的形式化验证方法研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSWE4Wpee8qaoOoeFx-h_CWSZTV5eBiVkjlJNOL6X4QsPHm2WRyhabdrq5Lx94YuDJ1Qf9nAWdXhCy3nq41s2Vbiu5HqAAWhb3vat-Y-QGY62YYI5CpjvIMxzi_myqn-HgNc2yOizJWnX9G6ZF_oejlWXwtX22XqmiQurVP1HTWgg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRhJQQv-1zhOqFXkDKmyh7OERw2abWt4A0--lz_Y_2Y-n0iHJydQLeo6CsJwOLV6_k4c0tbfropUJWCRa_uI0kc8pgmrQtP1J0t0WsP9UXOdgeFIXegYqfECwx031eF36vkfOBu6Hzer4p5ao_7u32MufXqKHxkwaIKTup4_BEiDA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Rust作为一种新兴的安全系统级编程语言,以其创新的所有权模型和借用检查机制提供了内存安全和并发安全保证.尽管Rust的设计宗旨在于安全性,但现有研究揭示了其仍面临诸多安全挑战.形式化验证作为一种基于严格数学基础的方法,为Rust安全性提升提供了强有力保障.通过构建精准清晰的语义模型,可以证明遵循Rust检查规则的程序满足安全性要求;借助Rust自动化验证工具能够帮助用户确保其Rust程序的安全性...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>张卓若;常瑞;杨申毅;陈芳;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>基于混成自动机路径过滤与动态选择的CPS系统反例生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSWE4Wpee8qaoOoeFx-h_CWSZTV5eBiVkjlJNOL6X4QsPHm2WRyhabdQh3fvyO1Rp-rWiJPQ8JMU7ig55Yhcl1Qfivjy4QAmyL6UdU9IM0YtQUzXLLDo1JA4Uf7RwxgmyfoVMei3yxhmViSKdS50jAil9VbruEoWHRHZKHbVjTYzA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRhJQQv-1zhOqFXkDKmyh7OERw2abWt4A0--lz_Y_2Y-n0iHJydQLeo4H24o55_dFkmLSgjjlA7Z_WFW5u5FYRuElmKKj2OAhOXAscDSQzFBnd2rFjRVGD1BKPDWkWF4iigDmkja23kC_dt6MIcJTIYlKTo3Ef8n2jeI9j0urAwYA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>信息物理融合系统(cyber-physical system, CPS)在安全攸关领域具有广泛的应用,保障其安全性至关重要.形式化验证是证明系统安全性的有效手段,但在现实世界中的复杂CPS系统上应用仍面临挑战.因此,反例生成的方法被提出,旨在通过寻找系统中违背安全规约的反例行为来证明系统的不安全.现有的基于路径的CPS系统反例生成方法采用分治策略,针对系统模型中各条路径上的行为空间分别进行探索,能...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>王佳宛;刘熹橦;卜磊;李宣东;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>深度学习编译器缺陷实证研究:现状与演化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTTmIf7taatBngDcKdHkE70PhoKPIeuhPSO6-jPK2j5guJpWldoPpA_y2K7aGiPHWeR1UlTc28BPczPXpr7R_fvpFoQWuO5YPwgN1CJkKQoOrV-fht6M-D9IuP39rkw9JSAQ3xHAetOSalGYHEy_p8Z-OOKP8lcmv7rckfIdwgajg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSFxSD-MPZ09GoDKoCGP6XHbdcWSllrzzSviD6KNCucC4O5lPI_HvLnCtf0bEiOii7T0EvINsR-8FkGaset_hFSuRXWwHrvIvij2DvXBX88_GIZLbk8ySl5_-q2a2jcKzpeqo8gD8JgBX3rrYPSLCLqlvyynjGOb_Ymp1TAfVpWnQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>深度学习编译器已被广泛应用于深度学习模型的性能优化和部署.与传统编译器类似,深度学习编译器也存在缺陷.存在缺陷的深度学习编译器会导致编译失败或者产生错误的编译结果,甚至有时会带来灾难性的后果.为了深入理解深度学习编译器缺陷的特性,已有工作针对深度学习编译器早期的603个缺陷进行研究分析.近年来,深度学习编译器在快速迭代更新,伴随着大量新特性的引入和旧特性的弃用.与此同时,一些针对深度学习编译器缺陷...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>沈庆超;田家硕;陈俊洁;陈翔;陈庆燕;王赞;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>操作系统内核权能访问控制的形式验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTTV-4AT6xiMEOXyolBpKoV3H7H1eD6ElSctBq7e2bSSAFSSdQIkF-xBwQ9nLKnCLQ8nhwfDGHG-F1rKhhdLAs4EXWdrrDsy_f61uCJF_8gLMrF7pd3VY2CG7Q5MnD-mZZVfb6P_W6z1GtYa-6rHCPEQocB9_RKyTCopdKoUszjdg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSFxSD-MPZ09GoDKoCGP6XHbdcWSllrzzSviD6KNCucC4O5lPI_HvLnG3B0NKKo5jkUjiyNwroz9GWzMcSQEmSHGRafLNmL2uLk6iJbfXmcAJVxWujeSkC-DbgOzssRmVsnNSrcv_sdleOn5SLbD4LbLk8oDoLntOx4k47YfjWtWA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>操作系统内核是构建安全攸关系统软件的基础.任何计算机系统的正确运行都依赖于底层操作系统实现的正确性,因此,对操作系统内核进行形式验证是很迫切的需求.然而,操作系统中存在的多任务并发、数据共享和竞争等行为,给操作系统内核的验证带来很大的挑战.近年来,基于定理证明的方法广泛用于操作系统各功能模块的形式验证,并取得多个成功应用.微内核操作系统权能访问控制模块提供基于权能的细粒度访问控制,旨在防止未经授权...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>徐家乐;王淑灵;李黎明;詹博华;吕毅;代艺博;崔舍承;吴鹏;谭宇;张学军;詹乃军;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>动态顺序统计树类结构的函数式建模及其自动化验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQTTV-4AT6xiMEOXyolBpKoV3H7H1eD6ElSctBq7e2bSSAFSSdQIkF-xpwX-kTa-jojZe7CagCXmrrs9ldtN3WAC5zbhciIvEjrP4-GB4qgjWCdDc-Fs2iTjxs6qfioG4F-tqY1Ofhmj0fPdtUQVNoanWweAmOgoDAoQ_pPO8IKUyw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRKg1CW6BwNl5XXAra8savXmOBJMEoUkReJBvWJMa6Zp6dUYwUrWK8I1uHdg_-991YTbdLiqIAD7s9jIpbfj6Shuhsq2Cr2Z692hhT0dmYLDhyuAL06dZg9MOFsou9-ntZ34I3gtl3k-ncSKzhcyoA7_QC0Q58Vs-02df5wnioy9Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>动态顺序统计树结构是一类融合了动态集合、顺序统计量以及搜索树结构特性的数据结构,支持高效的数据检索操作,广泛应用于数据库系统、内存管理和文件管理等领域.然而,当前工作侧重讨论结构不变性,如平衡性,而忽略了功能正确性的讨论.且现有研究方法主要针对具体的算法程序进行手工推导或交互式机械化验证,缺乏成熟且可靠的通用验证模式,自动化水平较低.为此,设计动态顺序统计搜索树类结构的Isabelle函数式建模框...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>左正康;刘增鑫;柯雨含;游珍;王昌晶;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>GhostFunc:一种针对Rust操作系统内核的验证方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQR5Cir5xhf3CkuXWCFwX_dW0LVZggtFeF1L6k30FDBsDH9F0Yamdo2MDzPvi6x8KCPsRqwckigOKrPRBFhsyZgcVv8zXg2NWPKXsrflnuBpD1-JXdLXoiQh29siDwFYd_22MIrlwZsnEo-ifjaacuH6QVkVD2es7rwsVwiqjtpJSQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSBXeXhZUlH2H6SYP46OOBwb3hPdzzl4SCxdOVr8ZEpRGs06seIgyDuIlldEa-JQVRVXAw8aawQAJLol3IqtQjkeGo3TssXM4O0HjbzwNg2OhARlLimOJF49g96LkB0dK4_HSxe-v8kNf9xuEk3X23Dxc_k3yAa_RG8hsybDF9Ttg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>操作系统是软件的基础平台,操作系统内核的安全性往往影响重大. Rust是逐渐兴起的内存安全语言,具有生命周期、所有权、借用检查、RAⅡ等安全机制,使用Rust语言构建内核逐渐成为当前热门的研究方向.但目前使用Rust构建的系统多包含部分unsafe代码段,无法从根本上保证语言层面的安全性,因而针对unsafe代码段的验证对于保证Rust构建的内核正确可靠尤为重要.以某使用Rust构建的微内核为对象...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>何韬;董威;文艳军;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>干扰惰性序列的连续决策模型模糊测试</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQR5Cir5xhf3CkuXWCFwX_dW0LVZggtFeF1L6k30FDBsDH9F0Yamdo2MyWWkDjzKKa5JKCrtuuMai7fgBWgu-HwPUSBVFqcLgI2RM5nxcvtyzF5fDma44ps4kQkgZ18Gg0IDGPppO6Q9FvjItgAY-LxVmnqzqMrd7BPVzMH0wPpd8Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQSBXeXhZUlH2H6SYP46OOBwb3hPdzzl4SCxdOVr8ZEpRGs06seIgyDuNVg1v_3uk6vMqdG6D-42LzT03WbJ21A-bh4SmDPd8FXw3fImK-oKj5OoG2HRReOH9frLjAXlV9E7Ey2MFvVrHIWy9a-s7ac6oVAyCf8FnyCVOFZ-rPT_fQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>人工智能技术的应用已经从分类、翻译、问答等相对静态的任务延伸到自动驾驶、机器人控制、博弈等需要和环境进行一系列“交互-行动”才能完成的相对动态的任务.执行这类任务的模型核心是连续决策算法,由于面临更高的环境和交互的不确定性,而且这些任务往往是安全攸关的系统,其测试技术面临极大的挑战.现有的智能算法模型测试技术主要集中在单一模型的可靠性、复杂任务多样性测试场景生成、仿真测试等方向,对连续决策模型的“...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>吴泊逾;王凯锐;王亚文;王俊杰;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>基于代码控制流图的庞氏骗局合约检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQMMdDuH0Fyr9vbksmgGtVjFWIvPAfk4c2_YIHVZD41_wsakOv-Eues_6gW9sOys-ZI4StBZTk9Cp0FEEsFlmnHtJCtQYYzCWz-wllMvBwt-L6NYil2KQT_NyT4T-OTR-zxHDMhB9Ssc0Ql6f_oETnZBh-ZfouP_c3MOFpNTnB2Ig==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQq9Gq4wfgLCYk12ibWQEg5gWjEcR5pcv3n2_ThifPv90X8z18dKhe4OprIHD4nUTlO8A7kkVev4LUiSDvJg4xNthqBnhtkErsAQkDimTYZD_eAJjKPAztlfV-XeIhqc3LeqAvJBbKnqfGYgxSmln8TzobGqeO5W9pEXq5fcq28mA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>区块链在加密货币投资领域展现出强劲的生命力,吸引了大量投资者的参与.然而,由于区块链的匿名性,导致了许多欺诈行为,其中庞氏骗局智能合约就是一种典型的欺诈性投资活动,给投资者带来了巨大的经济损失.因此,对以太坊上的庞氏骗局合约进行检测变得尤为重要.但是,现有研究大都忽略了庞氏骗局合约源代码中的控制流信息.为提取庞氏骗局合约更丰富的语义信息和结构信息,提出一种基于代码控制流图的庞氏骗局合约检测模型.首...</description>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
       <author>黄静;王梦晓;韩红桂;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>移动应用GUI测试自动生成技术综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRUzTjhAuJLJ_s9ZtHMEYfZi90A6hUpW2Kwv9n2m8abuX83KJzbd1YQmZbIgA5g7GEI4EXJXs0vwp8qrQm3q97OLhFfNyq4HulNMhFfPkvp8ZUZsfN3M-WHXsNCdkWkKp8ZfsJ-e7i7xM45ytN36OcOkMfOPr3-OjJTSlETeWeLFg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQq9Gq4wfgLCYk12ibWQEg5gWjEcR5pcv3n2_ThifPv90X8z18dKhe4JGjtLWO9I02y8IUj-LjLXup1z9JQ5oYrFqS55eZ5E1s_Ml7DuxKE_VrsCUe5kLj1z4xodVMvZkIF-6sILHeOPatE_51SLhSSBQm1-0tORTMlo9j1cndfpg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>移动应用是近10年来兴起的新型计算模式,深刻地影响人民的生活方式.移动应用主要以图形用户界面(graphical user interface, GUI)方式交互,而对其进行人工测试需要消耗大量人力和物力.为此,研究者提出针对移动应用GUI的测试自动生成技术以提升测试效率并检测潜在缺陷.收集了145篇相关论文,系统地梳理、分析和总结现有工作.提出了“测试生成器-测试环境”研究框架,将该领域的研究按...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>王博;陈冲;邓明;董震;林友芳;郝丹;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>LLM赋能的Datalog代码翻译技术及增量程序分析框架</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRUzTjhAuJLJ_s9ZtHMEYfZi90A6hUpW2Kwv9n2m8abuX83KJzbd1YQDTGdAOrL8YMQh4gi_CoTIcuw8-WfbBLBX4ryrklcvSr70HaLTmZcU-kkKPs6FdZDUQaqswF74RD9eT3rshmyq5s8cwq1so4xCC1D6abYMN45niAWszcbgQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQiKiifnEpMF3LLsxIsQaPw1NuszjmeS22Uqt8eEQ8_aI_PqpEBO01FgcJuauHaOia4KoAMrzbujJgzOPQxIDY61PD8Z_ps4TOAuXph-RvcbqHGbEVD-YX7YShAEN26B7peHM2aMDJj6h2H-RQSJ88K6UDzbKwnwEtGI4xC5MHOfQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Datalog是一种声明式逻辑编程语言,在不同领域得到了广泛应用.近年来,学术界和工业界对Datalog的兴趣高涨,设计并开发了多种Datalog引擎和相应方言.然而,多方言带来的一个问题是以一种Datalog方言实现的代码,一般而言不能在另一种方言的引擎上执行.因此,当采用新Datalog引擎时,需要将现有Datalog代码翻译到新方言上.目前的Datalog代码翻译技术可分为人工重写代码和人工...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>王熙灶;沈天琪;宾向荣;卜磊;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>软件供应链SBOM关键技术研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQRbRzh3_ieQnmdscCje4Jd4bUeEWAEtktbdmZK8iEpWb0sY59C3cOyJ7CqbwS7fllyJe1xvr6-haiUnZiCCmGvAeJvEuOO6hpyfET6b_WE4nIEFh7oZXPGmQPqkX3f5syQlelZy79ctJqYChCAzO9lyBqZS1TU5aTWbPGtcUsNK2A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Eh6WGTKUEQQiKiifnEpMF3LLsxIsQaPw1NuszjmeS22Uqt8eEQ8_aI_PqpEBO01FmL5VRWuua3ZwMhB57XYU8NXErtWj1fFRmc6NvrfQe1jroRkWYlAsLue8Vp8vni-9w3UFztSc4NQgsjS4fTn6tGNtUBdXW94J-qa7rSnhDevbvd4qquxJMw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>供应链级别的开源软件及组件复用是当前软件开发的主流模式.该模式避免了重复开发,降低了研发成本,提高了开发效率,但是也不可避免地存在组件的来源未知,成分不清,漏洞不明,许可证违规等问题.为解决上述问题,研究人员提出了软件物料清单(software bill of material, SBOM). SBOM详细列出了构成软件的组件及组件之间的关系,揭示了潜在的和已知的威胁,使软件透明化.自提出以来,国...</description>
       <pubDate>Tue, 18 Mar 2025 16:00:00 GMT</pubDate>
       <author>孙泽雨;吴敬征;凌祥;魏怡琳;罗天悦;武延军;</author>
