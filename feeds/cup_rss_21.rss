@@ -6,42 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 09:22:58 +0000</lastBuildDate>
-    <item>
-      <title>中石大与阿联酋哈利法大学签署学术合作协议并揭牌联合实验室</title>
-      <link>http://www.cup.edu.cn/news/sx/62f78067e00a417b9cea48fb8fb778a4.htm</link>
-      <pubDate>Tue, 08 Apr 2025 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于南北校园停水的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/1d3cc3f1202d410a9d753b4017a2eabd.htm</link>
-      <pubDate>Tue, 08 Apr 2025 09:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>辽宁石油化工大学党委书记郭长义一行到中石大走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/960ba670459043e48aac5bff3c5a9741.htm</link>
-      <pubDate>Tue, 08 Apr 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大学子获评2023-2024年度“中国大学生自强之星”</title>
-      <link>http://www.cup.edu.cn/news/sx/c07ad47ff2e644458867b2c8de3d2fe4.htm</link>
-      <pubDate>Wed, 09 Apr 2025 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展第一届“最美劳动者”推选宣传工作的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/9cba3dddc57c4d1185dbb570b031dd36.htm</link>
-      <pubDate>Wed, 09 Apr 2025 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开本科分省招生宣传组成立会议</title>
-      <link>http://www.cup.edu.cn/news/sx/dc95fff90d7344089202c4c4ee78c3d0.htm</link>
-      <pubDate>Thu, 10 Apr 2025 02:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展校内业务办事流程满意度调查的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/72daf250b9854ce2b7dcd95e3a3b6cfd.htm</link>
-      <pubDate>Thu, 10 Apr 2025 06:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Apr 2025 04:20:16 +0000</lastBuildDate>
     <item>
       <title>中石大携手昌平区多部门共建青年人才创新创业服务站</title>
       <link>http://www.cup.edu.cn/news/sx/b8070ac208e642cfa4098477c54edcd0.htm</link>
@@ -106,6 +71,41 @@
       <title>北京高校青教赛承办经验交流暨工作部署协调会在中石大召开</title>
       <link>http://www.cup.edu.cn/news/sx/ac4868d6a3684b61a06ea240eb5a0e17.htm</link>
       <pubDate>Thu, 17 Apr 2025 09:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学四川校友会第二届理事会换届大会召开</title>
+      <link>http://www.cup.edu.cn/news/sx/2c3b3db262a7400c97ee3f7be44fbc6e.htm</link>
+      <pubDate>Sat, 19 Apr 2025 03:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导带队赴中石化西南石油局走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/039ca90e946e4cecaf900ca6f6eabe30.htm</link>
+      <pubDate>Sat, 19 Apr 2025 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第十一届全国大学生能源经济学术创意大赛北京赛区区域赛在中石大举行</title>
+      <link>http://www.cup.edu.cn/news/sx/76e6459d00304f6cb2de8164f605ec49.htm</link>
+      <pubDate>Sat, 19 Apr 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大组织开展2025年国家安全主题教育系列活动</title>
+      <link>http://www.cup.edu.cn/news/sx/c381411f0bad4414a405886c899d39c9.htm</link>
+      <pubDate>Sat, 19 Apr 2025 06:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>昌平区人民武装部来中石大调研指导国防教育和征兵工作</title>
+      <link>http://www.cup.edu.cn/news/sx/710f79fb3f664b4c864688e120b83abe.htm</link>
+      <pubDate>Sat, 19 Apr 2025 08:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开国家卓越工程师学院理事会第二次会议</title>
+      <link>http://www.cup.edu.cn/news/sx/4fa5575d6da04e60ad953d2a9bb5d8eb.htm</link>
+      <pubDate>Sat, 19 Apr 2025 08:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）成立研究生导师发展中心</title>
+      <link>http://www.cup.edu.cn/news/sx/f876354572c74c5a95ba442f952b8549.htm</link>
+      <pubDate>Sun, 20 Apr 2025 00:28:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
