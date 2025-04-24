@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 24 Apr 2025 04:23:52 GMT</pubDate>
+    <pubDate>Thu, 24 Apr 2025 09:30:34 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>Java依赖异味的实证研究与统一检测技术</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLDDnGf4IgRV16ZjzMLZkrry5ZaSlikZkUVfuBQMZPDK0yQwKxNvwVLxSAcOZ4KCn_YqgAo_ujCdMkYW4C0iL59ZvhX8-pjja_vQbH0XjBdnk8APzbBRB751ZWvg7J2bnEev2i5gwQw6BMtvjWF6Y2NkkBTqd2oYEpMJCJRc4Bsww==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIpWTlG2o72yOil3nbfHMVtY10-2Ao3Px6DFEbylbHEXW_18WCTmo8PU8dVtzxStzFscVj2AtlPHR4tj8d0IfkcpRZ2Q3E0HxRdKgDcMdBfaCeZu1gmAnmFIy08cVOIYYUvhprlM1eJfSeefryMd-G9b2OAuq9LXpsLnJRpvRg37w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Java语言因丰富的依赖库和便捷的构建工具(如Maven和Gradle)已成为当今最流行的应用项目开发语言之一.然而,随着依赖库规模的持续增大, Java项目的依赖管理变得愈益复杂,也不断超越现有工具的管理能力,其潜藏问题容易在未预期情况下触发,严重影响当前项目及所在Java生态中其他项目的构建和运行,如造成构建错误、运行崩溃或语义冲突等后果.针对现有调研和技术工作对Java语言依赖管理问题分析不...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>孙伟杰;许畅;王莹;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>基于结构熵的属性图异常检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLDDnGf4IgRV16ZjzMLZkrry5ZaSlikZkUVfuBQMZPDK0yQwKxNvwVLJZbWQFRqZeMVGBUQOJV9UB5pramrCzWIOqF0rU5LB88bGNsbHNgHlOMgdTl1PN9U11JVk2EaV1UNPn8kAgAlYY4g_wrf9GCjp9KCO7Ro8k3z0WBctzGSOA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpI18dpsQLSIeeGGOtFCamgfjMbCVTH6I3g2vbi0ghLN1keGsy5NrswTg6OTUlS9qsSNHZ5ioOD07BtYdN89qd5ewNKSiqvTkuQETjQG1Mo7tpFSqwbWr71_idTFc6-u6IyiVtmuY_SAPBX8FAqyfv7PpJ2IYHmMjsa8CVP4Xnm4tg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>属性图越来越多地用于描述带有关联关系的数据,其异常检测日益受到关注.由于属性图具有属性信息丰富、结构信息复杂等特点,存在全局、结构和社区等多种类型的异常,且异常特性往往隐藏于图的深度结构信息中,现有方法仍存在结构信息丢失、异常节点检测困难等问题.结构信息论使用编码树表示数据中的层次关系、通过最小化结构熵生成不同层次之间的关联,可有效度量图中所蕴含的实质结构,研究基于结构熵的属性图异常检测方法.首先...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>吴江豪;段亮;岳昆;李昂生;杨培忠;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>基于Issue检索增强大语言模型的补充性代码注释生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLyUc7jgYmC9GkvhIeroYTC6em2l5dOdoN4GQJMnbSyQotRSZluQ4SzUJpixitllIDl2HQH7kBxNvYUg51Q6ta6awmZnCl3hyrTT4rJsoOARu77Jl3M7T396XDfbOu3tPNyF6fR811V2lCdaYckuOT063-_Fq6NZBSDrZ8WX6uC4Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJApV37U1o18rapP9oVzuN-zSnLCMDm0LI69neynNO-DQNToeDRncYvJSX_UDhZS4ri9qOY1bxrmvhjfjzmkGmRh6v8XwCdfhHXr6BfU35pfegYXrQiuzx-1aWhf5Z6gd8JY_G-Rh7Yjtgt8Tklir73nPB0XkyORtvZD3bvL--15w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着编程命名规范的普及和自描述代码的深入实践,传统与代码字面相似的摘要性代码注释逐渐失去开发者的青睐.开发者更关注在理解和维护代码过程中能够提供额外信息的补充性代码注释.但是,补充性代码注释的生成往往需要代码之外的额外信息源,且注释中呈现的补充内容复杂多样,给现有工作带来很大的挑战.将软件开发中开发者之间的Issue交流记录作为额外信息源,提出一种基于Issue检索增强大语言模型的补充性代码注释生...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>潘兴禄;赵衔麟;刘陈晓;邹艳珍;谢冰;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>TaGNN:基于趋势感知图神经网络的耦合噪声水质预测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLyUc7jgYmC9GkvhIeroYTC6em2l5dOdoN4GQJMnbSyQotRSZluQ4SzPXD6aVq6U8Cn0J4xdDPs3h9F3a2I6VSwlq2dTsR7RviR-Pj-M1kSQVQY09RlxnqDz0A1vcHoWvMfzpU7YyfxiVw4iSTRJzHiMJHfDY4WGc1OU9lxQYqwHQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJApV37U1o18rapP9oVzuN-zSnLCMDm0LI69neynNO-DQNToeDRncYv9pQ9R8--c_FxIxviD5_qQkqdF3Zh71wKSfwdm76z6Vz02Fngf2nCHLCMx3LBBjDFptLY0ln8oRQWH7n9V_YKGPSzKC6dI-TyQ_Ia61vOarBB-CYqvayN0g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>未来水质预测任务根据各个观测节点的历史水质数据及相应的拓扑位置关系,预测未来水质变化情况,是图神经网络辅助环境保护的重要任务之一.然而,采集数据的数值和节点间的拓扑结构均存在噪声,且噪声存在耦合现象.同时,污染物流向的不同导致数值噪声与结构噪声的耦合现象更为复杂难以解耦.因此,提出了一种基于趋势感知图神经网络的耦合噪声水质预测方法:1)利用历史水质数据趋势特征,挖掘原始水质数据指标的局部相互关系,...</description>
       <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
       <author>孙建明;徐宇扬;仝硕;应豪超;张啸;庄福振;吴健;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>基于结构感知图神经网络的多类别漏洞检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJKXenWG9KwQmauSVurMvssmIdsp5iNWJfBqJIsRn8D9B_-PGg8GryhPjdu6ne3vwglBGNaQaFHN3fa1DZ-eYm7sykEjtw8e-BLvLS1CUnlwVOI7XaWvo3iOIPose8AZoQ-dMF-5a0Yqjm1DaBZXl-QhbJ-mBPhXGS9Nh_Nnj0_oQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIKsSJoM7dwgXtutagh6uW5hMHjsIh1EhakCSW7D7312GIhaJtLh5aeSusdU7IRrh647xFROb2Ql6lpA5xZPLhyd7w4e_XSLwHccodF5pB6x4ym-I3r3EJYmslcV61kLYoMhfgIeWGxj_1macJbHgpXw91uqkte8QJPHIYnga6hjA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>软件漏洞威胁着现实世界系统的安全.近年来,基于学习的漏洞检测方法 (尤其是基于深度学习的方法)由于其从大量漏洞样本中挖掘隐式漏洞特征的显著优势,得到了广泛的研究.然而,由于不同类型漏洞之间的特征差异和数据分布不平衡问题,现有基于深度学习的漏洞检测方法难以准确识别具体的漏洞类型.因此,提出一种基于深度学习的多类型漏洞检测方法 MulVD. MulVD构建了一种新型的结构感知图神经网络(SA-GNN)...</description>
       <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
       <author>曹思聪;孙小兵;薄莉莉;吴潇雪;李斌;陈厅;罗夏朴;张涛;刘维;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>神经网络的增量验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLpjsQwR1sAKAWEQJQb00BvtNiySZ0gMuqhf6Dn7UfCyF23zg9q9VFHYLeq8irjhc8FXuIWLq7x0e0eaxp_lOIC4-omZuhJM9Dva6GVRL82gzsRJBOu15DqU40l_vwApUFXp6SRAqaBSA5e0eA5bGW99wGLRIqonTJyPBE53vui4A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIKsSJoM7dwgXtutagh6uW5hMHjsIh1EhakCSW7D7312GIhaJtLh5ae0ZYNNEDiU5nLFQtd2GOq2_bEYBbxDdQUGop01pIJxVDSC5_YIQwNf78jUDyPVphVlxUdEeOcFAwIG9flNBk5xyf9h1k-JeYs-pscdHySt0Pm6SODrRvy2w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>约束求解是验证神经网络的基础方法.在人工智能安全领域,为了修复或攻击等目的,常需要对神经网络的结构和参数进行修改.面对此类需求,提出神经网络的增量验证问题,旨在判断修改后的神经网络是否仍保持安全性质.针对这类问题,基于Reluplex框架提出了一种增量可满足性模理论算法DeepInc.该算法利用旧求解过程中关键计算格局的特征,启发式地检查关键计算格局是否适用于证明修改后的神经网络.实验结果显示, ...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>刘宗鑫;迟智名;赵梦宇;黄承超;黄小炜;蔡少伟;张立军;杨鹏飞;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>Fast-USYN:从酉矩阵到高质量量子电路的快速合成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpL3-ix_Ynk6Pb7oXNKhTu2xL9lc6cYYmyMOSv8aKe3fziWtYVugQ1odDOFceXTIfhISvsGlVf35MUrVbRX40gm7t-eAfIiHo1j8Khcl3ey4bghU9SBp1EE0qyc-QooVE7zd9wR9u9pza6fck8lK2bX2rS_5HkiWEVBWAWa-XOVl-w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJTmmi4N_VR0RUX_q18HpwFPypKGxMDzjUml9Dl7RgXnaX4sidZEtug0L94ZrkaxGmzs-5xpHQlKr_Gr6GnMhj6sxSX-cGvL0r4SVUzxewTQNDalRLozh2MCZ9xrgZiPnwhMeiQ3lzgnUdKl9E5hi9lKUJjjmF7y8wM7ezvw8hs9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>当前的量子程序一般由量子电路表示,由多个量子门组成.如果程序包含了被直接表示为酉矩阵的门,需要将这些量子门转化为基本门所构成的量子电路.该步骤被称为量子电路合成.然而,当前的合成方法可能会生成包含数千个门的量子电路.这些量子电路的质量较低,在部署到真实含噪声的量子硬件时非常容易输出错误的结果.此外,在保证门数量较小的情况下,当量子比特数量增至8时,量子电路合成需要数周甚至数月的时间.在这项工作中,...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>谭思危;卢丽强;郎聪亮;陈明帅;尹建伟;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>语义可感知的灰盒编译器模糊测试</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpL3-ix_Ynk6Pb7oXNKhTu2xL9lc6cYYmyMOSv8aKe3fziWtYVugQ1odiN3uBhu9Md3ptJPJKsrMcRKrSyCWyr8HgVAl3s2eRycbGU4FbdjRblgzTkW3en-xPWSrdffkqYUWPEW9nXmFNgxyhJiJ_cz-53vmPreE2iVeef2xZ4chhQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJTmmi4N_VR0RUX_q18HpwFPypKGxMDzjUml9Dl7RgXnaX4sidZEtug8jeTkQ8zup-jf8U1Z3GnFQq9skBoV_KG3v2wJ7ka1Up3GbREM60KMtNUpQqh78AemmpaZUAbtNhM7zxZkoFcYCAgwhymP3NG2orMolw2MMvXsVccpBWQYw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>模糊测试技术在软件质量保障、软件安全测试等领域起到重要作用.然而,在面对编译器这样输入语义复杂的系统时,现有的模糊测试工具由于其变异策略中缺乏对语义的感知能力,导致生成的程序难以通过编译器前端检查.提出了一种语义可感知的灰盒模糊测试方法,旨在提高模糊测试工具在编译器测试领域的效能.设计并实现了一系列可保持输入语义合法性并探索上下文多样性的变异操作符,并针对这些操作符的特点开发了高效的选择策略.将这...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>欧先飞;蒋炎岩;许畅;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>基于归一化的自适应方差缩减方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLR1GGQNudTQLW6BgL8gowsSU-lH-S1lk40o7L4vNCZs7R7F6hXIgx3zy8OQNfdRvRuairOHv4qn38K_beEOHRWXmOnK7KclsP_gsWaKfabpcYZu37lV-wvj-IkwYNQtFBopSq3QNcTK4m0QU8ogF1GxAxf4Jsod0MBNKt0E_QDiQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIsOTasek4sdpEYPDXpKulPG7Mrgc912HGJZaLeMDc3RjlehKPrUPBSUuOnlRhQvu-51DuJeK8dT6OZHAL4xTwPqS5UZLocWKG7pFNIwVgg9qvXbNcXQG4FyATNCcvWyKrZ3-JBufunKNnW3uIvuqhku56mS0yLBVWUr7zkGL02Ew==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>摘要:随机优化算法是机器学习中处理大规模数据和复杂模型的重要方法.其中,方差缩减方法（如STORM算法）因其在随机非凸优化问题中能够实现最优的O(T&lt;sup&gt;-1/3&lt;/sup&gt;)收敛速率而受到广泛关注.然而,传统的方差缩减方法通常需要依赖特定的问题参数（如光滑系数、噪声方差和梯度上界）来设置学习率和动量,使得它们在实际应用中难以直接使用.为了解决这一问题,提出了一种基于归一化的自适应方差缩减方法...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>姜伟;杨斯凡;王一博;张利军;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>基于记忆策略的元解释学习</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLR1GGQNudTQLW6BgL8gowsSU-lH-S1lk40o7L4vNCZs7R7F6hXIgx3dYhTTARnXAcHbw6wu_L5YWhFj8fh9ZW8OOBz5ZWuX5HxUwXFike2iMCBudsIc2w3miMRzbycOKbkfKMr62UMDuAwYHkoOFZCQ15oqMDzzC32zbJNqTAtpA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIsOTasek4sdpEYPDXpKulPG7Mrgc912HGJZaLeMDc3RjlehKPrUPBSdFVmyvu85SePOo6oWxjuuIvBAbiD4Ug0y7jSqCYq1lAz--G4Hi0BGtD8Bzd86hb44IirL8DrG4RbWM5nrhU8hok7uHqXFcrpHb848Ms1NhVJwRFd86mWuw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>元解释学习(meta-interpretive learning,MIL)是一种归纳逻辑程序设计(inductive logic programming,ILP)方法,旨在从一组实例、元规则和其他背景知识中学习一个程序.MIL采用深度优先和失败驱动策略在程序空间中搜索适当的子句以生成程序.事实上,这种机制不可避免地引发了对相同目标重复证明的问题.提出一种剪枝策略,该策略利用Prolog内置的数据库...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>王榕;田聪;孙军;于斌;段振华;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>eDPRF:高效的差分隐私随机森林训练算法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLrMRwFbo8HYjTEQLwQcqVsnQKREI9aKjdPI9QV9qJWmO-v-j6Kbrd79HLCzY65K5BvH-eQNTObcWi2YeefXu-HP_ajKFO4X5xvAXQZ7RHHModO_EesuOzb2GW3LHthCh6fgHIrhP5duv__jz7gKfaa764fJpMmrk1sSyFoUP6n1g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpID6llzTmK4ICDBH4k4nrKceqMlradlfpMgzDXCh1p20DtJymZ28U9L917TZcrQ8IMfEhCRjWP3V8LEWiFTpILpWvm4IJbl5M1C-wWuXxMdQ2DcYLgh4ZvKBgvoLHd4D-oGH-hG419OwkOE1PHrQEHp92rzh5MdpsKYLeE38VS1VQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>差分隐私凭借其强大的隐私保护能力被应用在随机森林算法解决其中的隐私泄露问题,然而,直接将差分隐私应用在随机森林算法会使模型的分类准确率严重下降.为了平衡隐私保护和模型准确性之间的矛盾,提出了一种高效的差分隐私随机森林训练算法eDPRF (efficient differential privacy random forest).具体而言,该算法设计了决策树构建方法,通过引入重排翻转机制高效地查询输...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>王树兰;邱瑶;赵陈斌;邹家须;王彩芬;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>面向自动驾驶系统的场景建模及边缘关键场景生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLrMRwFbo8HYjTEQLwQcqVsnQKREI9aKjdPI9QV9qJWmO-v-j6Kbrd75GCBPEDXNTo0amD_1GYTC5lCpoj0BnzsTT6g2MsZh6CJHHH3xl0cXwA3jcmse8J7nvnuxT3McLRlwwhyPAVVu4pWVO_9myPaIKEYq3UN_1WMB84Ov7M22Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpKKsmdRNC_eDy4dsK_xdP_843OT4yKCYbKeth9otLcOxwi-PlHO4v004o5EfqKS1nyA5DFV4assARoj4-uRMaoM-MXVnCdJn5VJCQoKDRSugyBh8o-iY6YghLHOTxrMliVpxwvcb_3mk4dOnPaHjH4h2qAB5cylgWGlVPHRHGW3vA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>自动驾驶中极端的场景、无法预测的人类行为等长尾问题逐渐成为制约自动驾驶系统(autonomous driving system, ADS)发展的关键要素,因此有效地生成安全关键场景对于提高自动驾驶系统的安全性至关重要.现有的自动驾驶场景生成主要依赖于大量的路采数据,采用数据驱动式场景生成方法,并结合场景泛化技术生成相应的驾驶场景.该方法耗时耗力,成本高,而且难以有效生成边缘场景.而模型驱动式场景建...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>杜德慧;叶振;郑成行;朱珍珍;李家蕴;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>因果时空语义驱动的深度强化学习抽象建模方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpK4DTmMM6KzOS7dMKnFyoDdALNhl1g10Ity7xC1zPABtDngPApLIpfmkUr7FlEKZ7weax28d42KFxRU9cKtlXxZkzwv4QuYiGi9Abxj_jCy9jSR9nZWdOUBwkKqwa6GkfNtqo_gjafdmX9OXfx79E0mgtdnE0Fk1qNnletH7x1LDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpKKsmdRNC_eDy4dsK_xdP_843OT4yKCYbKeth9otLcOxwi-PlHO4v00Q9qMz7fJEPYNZq6_7W5wul9vXyIB5NDxDcKAGX3LOvp5KTH5RnRhOof2H8c8cRfr7Kd2gt6BhdYWuXmDwYRV9cwEliPMwo1iihQ_FFzW6nqorQO5T9I0Rw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着智能信息物理融合系统(intelligent cyber-physical system, ICPS)的快速发展,智能技术在感知、决策、规控等方面的应用日益广泛.其中,深度强化学习因其在处理复杂的动态环境方面的高效性,已被广泛用于ICPS的控制组件中.然而,由于运行环境的开放性和ICPS系统的复杂性,深度强化学习在学习过程中需要对复杂多变的状态空间进行探索,这极易导致决策生成时效率低下和泛化性...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>田丽丽;杜德慧;聂基辉;陈逸康;李荥达;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>面向智能体路径规划算法的动态随机测试方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpK4DTmMM6KzOS7dMKnFyoDdALNhl1g10Ity7xC1zPABtDngPApLIpfmUOUlD_zRrXtjMjBaJe25GO05X2jhyP2a62e9IT-YaghBwZCk9f7t3iTLWqf7WQ3bJ4v6GgUvSTP_4aDtAUCAtCo4JIoxwr9wu8EuFWinFA7V313wifLfHw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJwrKU5NYsKGveTr4C9DiWh3RBTw8y8iweLQCf__XwGgR9uvarYJx1UOVQidj6yd_0hpVcFjJMBILvsO_7aLKxEAGtQQ6hfYnCRT7yurm5axjkoWWqxGZ9JTSPesjOlFoOgU77WVj0UPD0zeuqx15NKNKmHKSgdt5zqGim0b9VMSw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>智能体路径规划算法旨在规划某个智能体的行为轨迹,使其在不碰到障碍物的情况下安全且高效地从起始点到达目标点.目前智能体路径规划算法已经被广泛应用到各种重要的物理信息系统中,因此在实际投入使用前对算法进行测试,以评估其性能是否满足需求就非常重要.然而,作为路径规划算法的输入,任务空间中威胁障碍物的分布形式复杂且多样.此外,路径规划算法在为每个测试用例规划路径时,通常需要较高的运行代价.为了提升路径规划...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>张逍怡;李幸;刘洋;郑征;孙昌爱;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>基于下推自动机的同步数据流语言可信编译</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIdiUZEgOMEhebjZl9ATKJKsL3-6Gl66PtDYlOAoU6GJj2AQdQ8mmmE6jfU72PNo8HcfJzk-JDPOReT4sONzMbaQLw0u6zZdzou8DqvZCkJB9j8XC6mNUbic_GCGPAWQJtf61F8lhvppW2K7ivWw6SMnvM2m0VeduMoAOst4SQYRg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJwrKU5NYsKGveTr4C9DiWh3RBTw8y8iweLQCf__XwGgR9uvarYJx1Uvpr7mcZgPVaF_Q8QCvq4GgpZTbizPCXK08go1OuwERuMFILfu7Z3z_-N2fdEC9DDPjfuWSZq3n69b_n3-YQqtRlQzUxCetBthXKGFamsZKknKdZbrBXzfw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>同步数据流语言Lustre是安全关键系统开发中常用的开发语言,其现存的官方代码生成器和SCADE的KCG代码生成器既没有经过形式化验证,对用户也处于黑盒状态.近年来,通过证明源代码和目标代码的等价性间接证明编译器的正确性的翻译确认方法被证明是成功的.基于下推自动机的编译方法和基于语义一致性的验证方法,提出Lustre语言可信编译方法,能够将Lustre语言转换为C语言并进行形式化验证以保证编译的正...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>于涛;王珊珊;徐芊卉;董晓晗;胡代金;罗杰;杨溢龙;吕江花;马殿富;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>基于函数间结构特征关联的软件漏洞检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpIdiUZEgOMEhebjZl9ATKJKsL3-6Gl66PtDYlOAoU6GJj2AQdQ8mmmEkoKutePXsaIpvPgD0CWvIHsSsOsSRYNP_njPBQWMazeXTrpo0Ot-Yr3kZoDj7BULJVK831WWkPlKuL_dDaIIEaeLY-3qWswIQ8H2KYHaMwAuPnYR6MpT6g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpKN9t3gMyKh16Y33HLshYURlJKjR-Nkd0O7D6akcAMoPFj4tGI9FKjFIiB-E8fzCOkzjAS6wloissTzS5_S3_186O10rjN85fvhpBAsXwYh0zWS_Nct4n0uGiNZN2wQmp_jeygshZ9AzWED_MQkMuknfOtVVKlQWQ5DeLEbyK0H5w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>漏洞检测是软件系统安全领域的关键技术.近年来,深度学习凭借其代码特征提取的卓越能力,在漏洞检测领域取得了显著进展.然而,当前基于深度学习的方法仅关注于代码实例自身的独立结构特征,而忽视了不同漏洞代码间存在的结构特征相似关联,限制了漏洞检测技术的性能.针对这一问题,提出了一种基于函数间结构特征关联的软件漏洞检测方法 (vulnerability detection method based on c...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>邱少健;程嘉濠;黄梦阳;黄琼;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>单球驱动平衡机器人运动学和动力学形式化验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpKzmdMhX_xoloPd8xsO1MOXCCWdCiDYIx95IMezGXgqaKuWY8NtLUqGGJPP8-6hChDoQD1Ere_443F9DxETaFc30pIek0ZA-XgIdYVZJhtHRegsbx-AmuK4eKwKfFFktAAAJlmYrU6F0ia-Oz1xh6JrOHRO-4P2dHfuY8TekZ12yw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpKN9t3gMyKh16Y33HLshYURlJKjR-Nkd0O7D6akcAMoPFj4tGI9FKjFI0kyfyjag0ZikacD1ZWmITwApIZ0Vt-YyqMnuuBV08Awn4GG9-29eLQah0km6qPBI-5hkzDfIKolW0t9vTv3XFt6mXQOD8Z72DL3ZtXDEPXTaQ8VlvanxA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>单球驱动平衡机器人是一种具有全向运动性的机器人,其灵活性能在狭小或复杂环境中得到充分体现,因此受到广泛关注.在该型机器人运动学和动力学设计过程中,保证其模型的正确性至关重要.基于测试和仿真的传统方法难以穷尽系统所有状态,因此可能无法捕捉到某些设计缺陷或潜在的安全风险.为确保单球驱动平衡机器人满足安全攸关机器人的正确性、安全性验证要求,在定理证明器HOL Light中,基于实分析库、矩阵分析库、机器...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>张善强;张景芝;施智平;王国辉;关永;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>面向函数内联场景的二进制到源代码函数相似性检测方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJItVydmwu7kOHwtXG0Ie5VXRn1cAjfWddCSav5CMTpeeAtURdDTd8_cIlmQvn_N_bZLJJEiir1GtqCso4IN4XkZZ2pRWBhcWqTgBT_C1SSgwI5QldD8ag9L35jQLW07T3zZamWhDjBNRaE6DLYGBves0AyjK9iZ9FuV9vdELsbHQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJRlQ5z8bF7zFvjbeyL4Kd_qnOkTPDJcegqGcDF5k3HWvBS8gTIbM8YA1k0pX11Bk-6Oaq7FzoAM8HDBGuIev6V6F2Hi9H2W_rpj34JYzQ-UwYCAQ7nocxJt58i6KvSjNgGhvYaA5Ayf37v-fRGsgQD1sp6j5Zk6tZNE25Wq39qNw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>二进制到源代码函数相似性检测是软件组成成分分析的基础性工作之一.现有方法主要采用一对一的匹配策略,即使用单一的二进制函数和单一的源代码函数进行比对.然而,由于函数内联的存在,函数之间的映射关系实际上表现为一对多——单一的二进制函数能够关联至多个源代码函数.这一差异导致现有方法在函数内联场景下遭受了30%的性能损失.针对函数内联场景下的二进制到源代码函数匹配需求,提出了一种面向一对多匹配的二进制到源...</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>贾昂;范铭;徐茜;晋武侠;王海军;刘烃;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>结合特征生成与重放的可扩展安全虹膜识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJItVydmwu7kOHwtXG0Ie5VXRn1cAjfWddCSav5CMTpeeAtURdDTd8_HmX0GGbEx3rk3Lu4yt4MCFpJmjuEnz0nuQBM21xFerG6RNDnr765GfJJUTLOsH3uGzQHbGL_FPKSmwvXJB5eXWoR4oHSjlydUoJnXtwlKZXQWP3U0JlAig==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpJRlQ5z8bF7zFvjbeyL4Kd_qnOkTPDJcegqGcDF5k3HWvBS8gTIbM8YqaEA6u5TVXLxtbSR3n0QsLsyb8fgTyEvPQS-OPY4MBep0IDvLtAX2eR7NdeY5h9G4WyjXS7JaEjuae7H3IcTonquBTocfUNGWB8QIuMKh8HQ_QqDfY0quw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着信息技术的快速发展,安全认证技术成为个人隐私和数据安全的重要保障.其中,虹膜识别技术凭借其出色的准确性和稳定性,被广泛应用于系统访问控制、医疗保健以及司法实践等领域.然而用户的虹膜特征数据泄露,就是永久性丢失,无法进行更改或者撤销.因此,虹膜特征数据的隐私保护尤为重要.随着神经网络技术在图像处理上体现的突出性能,基于神经网络的安全虹膜识别方案被提出,在保护隐私数据的同时保持了识别系统的高性能....</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>赵冬冬;宋宝刚;廖虎成;闫江;向剑文;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>分布式系统动态测试技术研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLa_ZwcgPv5ME_bWv6K8zX0g2PTHdvE50Owss5-Bp8eGT2lfyMuAmbkWI9mdsbTzK38CFNk-b1sKfQfCGHQv6r_X-Xg7qZr5rTvb6ng3x0-u-1N6fP3opqkDhG-3Tz8J5cEyR_0kuQXdGqtK2YcahVUiCIL8boCjcrsMJTcU5BGDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=N5Mfx_KcSpLGtKx__8kS6VbE8YSiYyJ57VQtDZPpPKbPhnG1eGBt3fI3fMn_J-cetUjYfyWD3H1MFCbZW_I9C72GYRKtvEI6eziA2BgwvNAvkZNRQJjqvvJkFTssJOcVAiRLxdjto9GzEIE4qTU34BMtQvx00f88IYtexX6_ewc-Mzv8jMgQzQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>分布式系统是当今计算生态系统的支柱,它使得现代计算更加强大、可靠和灵活,覆盖了从云计算、大数据处理到物联网等多个关键领域.然而,由于系统的复杂性,分布式系统在代码实现过程中总是不可避免地引入一些代码缺陷,从而对系统的可用性、鲁棒性以及安全性造成巨大威胁.因此,分布式系统的测试以及缺陷挖掘工作十分重要.动态测试技术在系统运行中进行实时分析,以挖掘其缺陷,评估其行为和功能,被广泛用于各种系统应用的缺陷...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>陈元亮;马福辰;周远航;颜臻;姜宇;孙家广;</author>
