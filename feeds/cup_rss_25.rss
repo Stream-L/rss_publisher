@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 09:27:31 +0000</lastBuildDate>
-    <item>
-      <title>关于2025届硕士毕业生杨明硕违约的公示</title>
-      <link>http://www.cup.edu.cn/sba/xsfzgb/rcgl/7f2816ab0baf43e3af4ee1dc1306a688.htm</link>
-      <pubDate>Tue, 08 Apr 2025 09:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>经管2025年学硕调剂考生复试成绩</title>
-      <link>http://www.cup.edu.cn/sba/tzgg/fbae74279cc944f9a8f63117518d50dc.htm</link>
-      <pubDate>Tue, 08 Apr 2025 11:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 04:22:14 +0000</lastBuildDate>
     <item>
       <title>经管2025年MBA调剂复试成绩公示</title>
       <link>http://www.cup.edu.cn/sba/tzgg/70e69f4daabd44559c891fc943072bd5.htm</link>
@@ -103,9 +93,19 @@
       <pubDate>Mon, 21 Apr 2025 02:15:00 +0000</pubDate>
     </item>
     <item>
+      <title>【经济管理学院】关于2025届硕士毕业生王超然违约的公示</title>
+      <link>http://www.cup.edu.cn/sba/xsfzgb/rcgl/213d8b7c9fa04d7e8669fcb6fbd6d699.htm</link>
+      <pubDate>Tue, 22 Apr 2025 06:24:00 +0000</pubDate>
+    </item>
+    <item>
       <title>经管院申请2025年博士研究生资料审查合格名单-第二批公示</title>
       <link>http://www.cup.edu.cn/sba/tzgg/832b2ca8005849d5bfbb2bb3e861289e.htm</link>
       <pubDate>Tue, 22 Apr 2025 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>经济管理学院2024级本科生专业分流结果公示</title>
+      <link>http://www.cup.edu.cn/sba/tzgg/fbde8f1bfe484bdc80f4388cd68e64e4.htm</link>
+      <pubDate>Thu, 24 Apr 2025 02:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
