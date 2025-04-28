@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 09:23:42 +0000</lastBuildDate>
-    <item>
-      <title>经管2025年MBA调剂复试成绩公示</title>
-      <link>http://www.cup.edu.cn/sba/tzgg/70e69f4daabd44559c891fc943072bd5.htm</link>
-      <pubDate>Wed, 09 Apr 2025 00:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Apr 2025 04:24:28 +0000</lastBuildDate>
     <item>
       <title>经管2025年学术硕士调剂拟录取名单</title>
       <link>http://www.cup.edu.cn/sba/tzgg/36a1485791e5401a9bca62cdb3774b17.htm</link>
@@ -106,6 +101,11 @@
       <title>经济管理学院2024级本科生专业分流结果公示</title>
       <link>http://www.cup.edu.cn/sba/tzgg/fbde8f1bfe484bdc80f4388cd68e64e4.htm</link>
       <pubDate>Thu, 24 Apr 2025 02:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>学院首篇案例获评全国MPAcc优秀教学案例且三篇案例入选MPAcc教学案例库</title>
+      <link>http://www.cup.edu.cn/sba/xyxw/f58ac5d23e4a4aea83c9c8eef8492149.htm</link>
+      <pubDate>Mon, 28 Apr 2025 02:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
