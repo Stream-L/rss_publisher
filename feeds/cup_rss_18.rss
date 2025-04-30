@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 09:27:38 +0000</lastBuildDate>
-    <item>
-      <title>【使用教程】下载激活教程</title>
-      <link>http://www.cup.edu.cn/nic/ps/WPS365/e611cf8a3747415abc2d3c64b6d01900.htm</link>
-      <pubDate>Fri, 29 Nov 2024 02:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【常见问题】遇见问题怎么办？</title>
-      <link>http://www.cup.edu.cn/nic/ps/WPS365/b552d433b1f84e9898e636d8f1ee0fbd.htm</link>
-      <pubDate>Fri, 29 Nov 2024 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【使用教程】云文档下载与文档迁移</title>
-      <link>http://www.cup.edu.cn/nic/ps/WPS365/1b84eced5935486a8f56ba82ec097a01.htm</link>
-      <pubDate>Fri, 29 Nov 2024 07:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Apr 2025 04:21:48 +0000</lastBuildDate>
     <item>
       <title>【使用教程】文档交接与团队交接</title>
       <link>http://www.cup.edu.cn/nic/ps/WPS365/2cc6dcfa63754d5eb9a20f8e2fcdab47.htm</link>
@@ -106,6 +91,21 @@
       <title>2025年全民国家安全教育日</title>
       <link>http://www.cup.edu.cn/nic/gddt/81d6fb74bc7f429cbd30854cae2a1dbd.htm</link>
       <pubDate>Tue, 15 Apr 2025 02:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大组织开展2025年校园网络安全知识竞赛活动</title>
+      <link>https://www.cup.edu.cn/news/sx/d6fd832286854efb8d8c1baaea7dee76.htm</link>
+      <pubDate>Tue, 29 Apr 2025 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处开展陶然亭春日游园活动</title>
+      <link>http://www.cup.edu.cn/nic/news/510d7b9e5ff5483e95161a37b10c2fdb.htm</link>
+      <pubDate>Wed, 30 Apr 2025 00:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大信息化管理处党支部联合昌平联通行业网格党支部开展主题党日活动</title>
+      <link>https://www.cup.edu.cn/jiguan/jgxw/463a9eb0794346d8a32bee8023486dcd.htm</link>
+      <pubDate>Wed, 30 Apr 2025 02:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
