@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 09:28:20 +0000</lastBuildDate>
-    <item>
-      <title>校领导带队赴西安走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/5a7d3882fe4a48dc91bf8de7d9f31131.htm</link>
-      <pubDate>Tue, 29 Apr 2025 01:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 May 2025 04:22:02 +0000</lastBuildDate>
     <item>
       <title>中石大经济管理学院首次获评全国MPAcc优秀案例</title>
       <link>http://www.cup.edu.cn/news/sx/9c9a899e73fd40dd9bf1d89c6daa4692.htm</link>
@@ -106,6 +101,11 @@
       <title>青年先锋奖</title>
       <link>https://mp.weixin.qq.com/s/0IAvELeAgARl2cRdBh05Iw</link>
       <pubDate>Sun, 04 May 2025 13:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于主楼B座南侧部分道路临时封闭的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/78e6a2be6be64e4d9d0569d1c114ee1b.htm</link>
+      <pubDate>Tue, 06 May 2025 02:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
