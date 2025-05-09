@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 09:27:22 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开第八届“实验室安全文化周”启动会暨实验室安全评优表彰大会</title>
-      <link>http://www.cup.edu.cn/news/sx/977026203127464ca84b056ab2788497.htm</link>
-      <pubDate>Tue, 29 Apr 2025 06:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大徐春明院士获评“北京市先进工作者”</title>
-      <link>http://www.cup.edu.cn/news/sx/915f274a3c2345ac874f930bf04308d9.htm</link>
-      <pubDate>Tue, 29 Apr 2025 09:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 May 2025 04:24:19 +0000</lastBuildDate>
     <item>
       <title>中石大4位校友荣获全国劳动模范称号</title>
       <link>http://www.cup.edu.cn/news/sx/01e81a8091d944dd8ebab47dd8414d79.htm</link>
@@ -106,6 +96,16 @@
       <title>卓越杯</title>
       <link>https://www.cup.edu.cn/news/sx/43f434d449604b6da7bb9eec66aea96d.htm</link>
       <pubDate>Thu, 08 May 2025 02:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办全球青年多维对话之“能源文明 青年共鉴”专场活动</title>
+      <link>http://www.cup.edu.cn/news/sx/5e98daedfdcf498ebb75c6eb5c115a80.htm</link>
+      <pubDate>Fri, 09 May 2025 00:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大科技创新项目亮相国家博物馆“青春之歌——全国大学生创新成果展”</title>
+      <link>http://www.cup.edu.cn/news/sx/d0b653939c974cf493da5f1edbe104db.htm</link>
+      <pubDate>Fri, 09 May 2025 00:23:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

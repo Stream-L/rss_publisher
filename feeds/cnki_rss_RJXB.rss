@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 08 May 2025 09:30:17 GMT</pubDate>
+    <pubDate>Fri, 09 May 2025 04:26:02 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于抽象语法树变异的漏洞样本生成方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh-7jcIMuANCAphWspAqlpDvgvVwlpGmtZH9t9mcVaz5CFkm3XYQMYU2e-PH2HiqEIqpuf-V8KT6SBQyi8b4n8f6_aoE0NQw8PIaNGSPr35tcQLQL-UUnjhXgd_gb6VdOMHHTZFNTIby3nLfXWZCuE7xkMYXxAtV_okz3K6qWuTYzA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7izZbmDhZryWWp_XJwh38D_vr4bEvxljHYEE0YtNksSf3WLTbVtmg3-sdcFBu5Tmesikf8MO2AAHgEBjD6SPyKX_AoGTx63EwD_7ueVZZbmEBWKIvOHXUIY6NXIoqrGtAZoWieqGWhiyoW0rBbU3rEeRG4GdEatTVWoNooWI4O_9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着信息技术的持续发展,软件产品的数量和种类不断增加,然而即使是高质量的软件也可能存在漏洞.此外,软件更新速度快,软件架构愈发复杂,这导致漏洞逐渐进化成新的形态,传统的漏洞检测方法和规则难以适用于新的漏洞特征.由于零日漏洞样本的稀缺性,软件演化过程中出现的零日漏洞难以被发现,这为软件安全带来很大的潜在风险.提出一种基于抽象语法树变异的漏洞样本生成方法,能够模拟真实漏洞的结构和语法规则,生成更符合实...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>郑炜;李云帆;桂奎;吴潇雪;陈翔;邓沛然;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>面向联盟链的智能合约行为可信验证机制</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh-7jcIMuANCAphWspAqlpDvgvVwlpGmtZH9t9mcVaz5CLeOkO6tvTfodGSV7c6OIjPvfpaFFM9VXCzta8wTwy-VSlWs7H8hTy4wyTEw3PyVSdOAy2b2_vxWaaQioQGqxJRZwxBgxt2P3hpmaYdAwegm9xD13GpzOIh86swF6tUHOA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hbMAj3N4yeCOGPStZhAbZtLXU-sLJYOqqDqWcxAcjl8QuWl4tGBY0AjZxYQM7Yhrb3gxl-gTxIAq_N79aNXqYVW0v6UR_Lhk-z7IsrKX2zdTammj5lskj8AEHTsOFbDA9UlurKVhi3Q1Ja_c7vJymRMl1X4Y3iNLsC-2tnpd2mBw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>针对联盟链系统中恶意攻击者利用智能合约中的安全漏洞带来的行为不可信问题,提出一种面向联盟链的智能合约行为可信验证机制对合约行为完整性进行可信验证.首先以系统调用作为最小行为单元,以基于系统调用的行为序列描述历史行为状态,然后在确保合约代码发布和执行环境可信的前提下,在合约运行时根据预期行为规则进行可信验证,最后对该机制进行了理论分析,并在Hyperledger Fabric环境下进行实验评估.结果...</description>
       <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
       <author>张建标;康双;张兆乾;刘德田;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>基于释义知识浮动注入的汉语成语误用诊断</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh9bJ--fgmAHGnJqgHtNtzgMwufA3LAX6VjuX7n6nHiIx9shjjubby0FwRRgFF32jd73uaANKMSx9tZHIV0kLLb3G9NStsCOfNwPJ_ng1_0b7JBbiLjtc6PCKmrg2VcbzFhuPkLKfedGRutIoFFR40Q3eUpmujn14K86pn5c3eLGOw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hbMAj3N4yeCOGPStZhAbZtLXU-sLJYOqqDqWcxAcjl8QuWl4tGBY0AAEeTcQK-zctl9J_l8OXIIkjfg2k0JosUyzcj_TPrbhlb_PIy9yn-9cwfX74RuLX8YcXPbpAtQXaJPK1PbKmlZyV_6ERcOi6RE1f3x-UUvHtNVhCFKaR8lw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>汉语成语作为汉语写作的重要组成部分,具有凝练的表现力和深厚的文化内涵.它们通常是经过长期使用而固定下来的词组或短句,来源广泛,含义相对固定.然而,由于汉字的形意属性和汉语词汇、语义的古今变迁,成语的字面意思与实际含义往往存在偏差,呈现出特有的非组合性特点,这种特点使得成语在使用过程中极易产生误用现象,研究显示,某些成语的误用率甚至高达98.6%.与其他语言不同,汉语成语的误用通常不会导致词法或语法...</description>
       <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
       <author>何亮;曹永昌;黄琰琛;吴震;戴新宇;陈家骏;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>区块链测试基准综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh9bJ--fgmAHGnJqgHtNtzgMwufA3LAX6VjuX7n6nHiIx9shjjubby0F4MdqOH5HNwha1DN42k_H8Y70I2dJp7Mw6I-52v4AZWoQFZNrWjjUA_kH95KNzkjRhLp_EunGa8ayhz42ADXhIAJqrQ4FfcrbORJoyzUvoQOep_2P3ii0sw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7iFQQ93L-hmyDxnMarh_YWilg9ZRUBNV4A0hXlqQQOOshFH7BVOYe7wofb2lExlutQfLwE4uI7joNxnf8WpAzvruWdRJaS7pa7Zk1wE70Fut9hYHeVPFEkDYSBOnHyPBon50PYypRBC23ZJPyp5cdaNBSi7Hw2Zzi9xm29SzKL0JA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,区块链技术已经广泛应用到数据要素流通、金融、物流、政务以及司法等领域.随之也出现了若干区块链测试基准,以评测不同区块链系统的性能.然而,现有区块链测试基准内容差异较大,缺少统一的区块链测试基准框架来规范基准的内容,也缺失统一的指标体系来明确区块链系统在性能和安全性方面应具备的能力.从数据库发展历程来看,统一的、可重复的、公平的测试基准规范可以更好地引导行业发展.区块链本身也是一种特殊的分布...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>张孝;秦春玲;王文收;刘昊;陈晋川;杜小勇;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>综合实体语义和本体信息的多源中文医疗知识图谱实体对齐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh_GvqiJLEuz4RmsWM5leEXTNRiNUxivouj4tCtpCLcC6i5VnJgst6vDh_VqxIx56Ib7EQSxVh84enBKGv5SW896EbHozeA7G2BQ7g81AWrGm_4Hqm8bhZOkLNBOByLGY9z6-7pHmAJdLiAlTqMk6Xh-oVuXhKTzfomg4fk3ZoTejA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7iFQQ93L-hmyDxnMarh_YWilg9ZRUBNV4A0hXlqQQOOshFH7BVOYe7wpkm74Ez8f8nBZupCUfqhwxYXcO59vXlceo6EosslPe2E7a_iH-l3pQC8Nt6PMIe8_vkWUAOiSU9Ycg0dNM_zPnV9N9hyd4j-1heWEpfTvremP84dDqKCIQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>知识图谱作为结构化的知识表示形式,在医疗领域具有广泛应用.实体对齐,即识别不同图谱中的等价实体,是构建大规模知识图谱的基础步骤.尽管已有大量研究关注此问题,但主要集中在两个图谱的对齐任务上,一般通过捕捉实体语义和图谱结构信息生成实体的向量表示,之后计算向量相似度以确定等价实体.在发现多源图谱对齐过程中存在对齐错误传递的问题的基础上,考虑到医疗场景对实体对齐的准确性要求较高,设计综合实体语义和本体信...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>丁瑞卿;赵俊峰;王乐业;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>面向深度学习的后门攻击及防御研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh9LdYQgLXY_ygBKh4N30oF_sbxjeS1eJitV5lFdb3TAqA8Uil77Vmu51SCpO16dhNYR1PeWChp_sKciofd0FjWyIJLU5cpDT5FlcImFQZrGXdwMhzoC4W6-2QKtzzFTIhvFyVYMnFSx6U2xYgl_emN2PSXo-xu6bSIAg1cN7a4JGg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7grrqmXuWvVFlx3Ak-axM8Usz7oC55TZE-YbXsIaxryzDggJWlQ0C1iO_I-BHcg7p3OdUq4mVzf_7FRW81HrY1QOwysirOm_3XzxjXygpSb1StikYTpn0YB1Q8UQiDwgV2zZIxRKzd5gRSPfWFrYWvxkBBtFaVCSHFc1HezmemRvQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>深度学习模型是人工智能系统的重要组成部分,被广泛应用于现实多种关键场景.现有研究表明,深度学习的低透明度与弱可解释性使得深度学习模型对扰动敏感.人工智能系统面临多种安全威胁,其中针对深度学习的后门攻击是人工智能系统面临的重要威胁.为了提高深度学习模型的安全性,全面地介绍计算机视觉、自然语言处理等主流深度学习系统的后门攻击与防御研究进展.首先根据现实中攻击者能力将后门攻击分为全过程可控后门、模型修改...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>高梦楠;陈伟;吴礼发;张伯雷;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>Java依赖异味的实证研究与统一检测技术</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh9LdYQgLXY_ygBKh4N30oF_sbxjeS1eJitV5lFdb3TAqA8Uil77Vmu5YDUctLCeSWchSpF_XlayeicF8UIFy21s1oL8U14RdTJZVH91vIMzAnmW5hdvfpDxBBl9Bknqh1hSepiMOmmtB_rPcctlyJdRgM_SD16T9t3fihf53xuTmg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7grrqmXuWvVFlx3Ak-axM8Usz7oC55TZE-YbXsIaxryzDggJWlQ0C1iLtrfCf5BU8ygAAGJFxvC_TbbOWOz4ieg1Ds9aKVM6_-oBcYCbPoQAZRDdkUQjUCpzwnIQbssnoorKt5MoqpOKbOlNa4C89dNCx8SXGQG5xUb6MlnXFukMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Java语言因丰富的依赖库和便捷的构建工具(如Maven和Gradle)已成为当今最流行的应用项目开发语言之一.然而,随着依赖库规模的持续增大, Java项目的依赖管理变得愈益复杂,也不断超越现有工具的管理能力,其潜藏问题容易在未预期情况下触发,严重影响当前项目及所在Java生态中其他项目的构建和运行,如造成构建错误、运行崩溃或语义冲突等后果.针对现有调研和技术工作对Java语言依赖管理问题分析不...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>孙伟杰;许畅;王莹;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>基于结构熵的属性图异常检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8AcutI5SVXA5lLzoa7xiUaVlRo8umN0GlovqEMSaMlVF7EHZggAY-VkVUEBosG9rSuwb_mxUWt-vzbw7EPeDh6Knf4k-dBvhtRdicIprb8CnfTqCk9cTFiQ7A0dV0xxlTL7zIQVcic6pBWJuiPnXUk1wyVgZiMqQcm_1FLZY3URA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7giQ65biZ3rzumRjSxTTrYJuiLCh2bncs8l2hJHLB2G-lz0Ng0FoevhSQEwdTAaODPuaRnY7mcn4yNDrTy19CygPY53_8lAvRAevvi3GKw90p236O-iqbWrM4cMsDiqKTd9-enc516XBKMqOyM67z8pd1oDZM3cU-DEa4sGIj46Iw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>属性图越来越多地用于描述带有关联关系的数据,其异常检测日益受到关注.由于属性图具有属性信息丰富、结构信息复杂等特点,存在全局、结构和社区等多种类型的异常,且异常特性往往隐藏于图的深度结构信息中,现有方法仍存在结构信息丢失、异常节点检测困难等问题.结构信息论使用编码树表示数据中的层次关系、通过最小化结构熵生成不同层次之间的关联,可有效度量图中所蕴含的实质结构,研究基于结构熵的属性图异常检测方法.首先...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>吴江豪;段亮;岳昆;李昂生;杨培忠;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>基于Issue检索增强大语言模型的补充性代码注释生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8AcutI5SVXA5lLzoa7xiUaVlRo8umN0GlovqEMSaMlVF7EHZggAY-VeWdiQse8r3U_0MAA4c9q1w7k2YXOnDJNCThZi_H2FiMbNQnMa3i8amzoYC58yEK0P37Cdh5z7TNsPROMSpw2QcZS70dOc80E90_Rl2ZMzWYuM8KMGWIGJg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7giQ65biZ3rzumRjSxTTrYJuiLCh2bncs8l2hJHLB2G-lz0Ng0FoevhR2008THOS4ndQVzYUETwbP6vmj-a9t0tXBT1CNvmsFUZYMbnkQocUH4xWjHc5hrRcbpqQFlsWXBmbMgNQaj81PYt1nf9wItrZ3yK3IULGbrv8CyOZbcf7g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着编程命名规范的普及和自描述代码的深入实践,传统与代码字面相似的摘要性代码注释逐渐失去开发者的青睐.开发者更关注在理解和维护代码过程中能够提供额外信息的补充性代码注释.但是,补充性代码注释的生成往往需要代码之外的额外信息源,且注释中呈现的补充内容复杂多样,给现有工作带来很大的挑战.将软件开发中开发者之间的Issue交流记录作为额外信息源,提出一种基于Issue检索增强大语言模型的补充性代码注释生...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>潘兴禄;赵衔麟;刘陈晓;邹艳珍;谢冰;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>TaGNN:基于趋势感知图神经网络的耦合噪声水质预测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8p3uUoXNOFdvHMuIgng5y0NkCDr3I6tfDmoV-PWmKlAsGj6BgfxUb-eokseG_5gbAA8zk-hs2WyN1JWkT_3RFUrN8JBjYdTwgR2aML_kaTR7nzV1AwKp16NbkBAubwciCialxDWJ0QD6zvuc1uEtqfmkL_z34azC2YaD1Rq1lbnQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jpWFkDrZQx6V6y0Dg-M5IHZzKcwxngZbvRa5JIlTr07QTXnYIlexHjC5JBU5wM-YyeKgp3E3sT2BuqKjl-TwjrFKWU6MtUpU8WKsrLdg2vqHIYkNIKwV_hNU-Al_R6gGMJTeNPdPmFdgfeGWysRImOqJK6QTryNsNHBPmBCYFNgg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>未来水质预测任务根据各个观测节点的历史水质数据及相应的拓扑位置关系,预测未来水质变化情况,是图神经网络辅助环境保护的重要任务之一.然而,采集数据的数值和节点间的拓扑结构均存在噪声,且噪声存在耦合现象.同时,污染物流向的不同导致数值噪声与结构噪声的耦合现象更为复杂难以解耦.因此,提出了一种基于趋势感知图神经网络的耦合噪声水质预测方法:1)利用历史水质数据趋势特征,挖掘原始水质数据指标的局部相互关系,...</description>
       <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
       <author>孙建明;徐宇扬;仝硕;应豪超;张啸;庄福振;吴健;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>基于结构感知图神经网络的多类别漏洞检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8p3uUoXNOFdvHMuIgng5y0NkCDr3I6tfDmoV-PWmKlAsGj6BgfxUb-8bPTeHjJpE2zoOOel71GD5elBfIPx4mBVusUsX4jHUQ0FLBk12pPT0NTwOcGPGqfhWWCtyRajz3othOGRml-WbucsuHKYEisb9PpqAMdAb6P8228U2t-SQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jpWFkDrZQx6V6y0Dg-M5IHZzKcwxngZbvRa5JIlTr07QTXnYIlexHj8g49L7kf--ZIGXExMHvpvUeCbf9BrXBQcIDqrLAfsY9JU5yTvDjfvqCro-amSNuDNx2Dx3mn07KAO3PlyAGtLAt1IrI80A1ER2lIGUr5AsSBzfUrgC19tA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>软件漏洞威胁着现实世界系统的安全.近年来,基于学习的漏洞检测方法 (尤其是基于深度学习的方法)由于其从大量漏洞样本中挖掘隐式漏洞特征的显著优势,得到了广泛的研究.然而,由于不同类型漏洞之间的特征差异和数据分布不平衡问题,现有基于深度学习的漏洞检测方法难以准确识别具体的漏洞类型.因此,提出一种基于深度学习的多类型漏洞检测方法 MulVD. MulVD构建了一种新型的结构感知图神经网络(SA-GNN)...</description>
       <pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
       <author>曹思聪;孙小兵;薄莉莉;吴潇雪;李斌;陈厅;罗夏朴;张涛;刘维;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>神经网络的增量验证</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh_VncT8_VwYOcGixyb-dtJTORI5o-vOG-g4VUg_m7uaP2y8ottblHRftmndVTAmB2-AiZphT_JZpSxSPA8wPc7D_zxHolUKcCgDFwgEv7E8sn_blIaTfTI35ty244TkGEZvbkWcZlgRXh7exuI92PqBWaXuPXDiTZnvr4guOc9RJA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jRsKTDszCjTIBWqqVLO6a2jkYNaJNkxzQw3Gq5aB8W5lNuknFDqIr9ZRyzi3nI-o9N9vHRmUe8ZLsea-bU40MzFKpe_0QyKbfpGmNQuFam0WW7yO8xENdJ7dHgxFCcOvoqv1Pov3a7EbA5vFP-znqj2rYZg2OHTNIvmoXsk5bhDw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>约束求解是验证神经网络的基础方法.在人工智能安全领域,为了修复或攻击等目的,常需要对神经网络的结构和参数进行修改.面对此类需求,提出神经网络的增量验证问题,旨在判断修改后的神经网络是否仍保持安全性质.针对这类问题,基于Reluplex框架提出了一种增量可满足性模理论算法DeepInc.该算法利用旧求解过程中关键计算格局的特征,启发式地检查关键计算格局是否适用于证明修改后的神经网络.实验结果显示, ...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>刘宗鑫;迟智名;赵梦宇;黄承超;黄小炜;蔡少伟;张立军;杨鹏飞;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>Fast-USYN:从酉矩阵到高质量量子电路的快速合成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh_VncT8_VwYOcGixyb-dtJTORI5o-vOG-g4VUg_m7uaP2y8ottblHRf8g8X1IVFbC5qxGZiGy7KDQKPnsG4HOy-UPW7IPhBtuX3CYuKw9YdHBAG8SO_w36SbLQcNxo9GytB_T3mUV2IVROs04EtY1LSQAix-p4g2cK8_5X8DkNEiQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jXPjldtjwJ5v26-bvO3467XK7FRRs2G-9mjVf9NkpILKvyTB7dAv8PIU3y38tUvkE3juriqGJ8B5qj-w4PR97gi7oZJVYpoLbEWOtxxs7eCCGjJlm2zfruVjjUNDXPFZc0iwMQSaxNASDhR3yFEOBhLG79WRv4vhx8Ein-FoIV_Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>当前的量子程序一般由量子电路表示,由多个量子门组成.如果程序包含了被直接表示为酉矩阵的门,需要将这些量子门转化为基本门所构成的量子电路.该步骤被称为量子电路合成.然而,当前的合成方法可能会生成包含数千个门的量子电路.这些量子电路的质量较低,在部署到真实含噪声的量子硬件时非常容易输出错误的结果.此外,在保证门数量较小的情况下,当量子比特数量增至8时,量子电路合成需要数周甚至数月的时间.在这项工作中,...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>谭思危;卢丽强;郎聪亮;陈明帅;尹建伟;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>语义可感知的灰盒编译器模糊测试</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh_bgJUkU1AnrTFmLmbIlly6KU9HYje2BBLltX3kbee3PQyT2Yaozay08mfRBAS87XSEsXmdSbfQdGxWSMYiwOt9w-R4w-JoFaQHAoUh69JolDpj2TlaDUDga5FnEiChBf7Xw1KWFMdNIl2zt7OzgBwXxkwQmtW_JMkFqVbf9z9MmA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jXPjldtjwJ5v26-bvO3467XK7FRRs2G-9mjVf9NkpILKvyTB7dAv8PxBjVxKEitSJQQhnR_asQbL709ilR5mngTQB0dWp-AYKYB6AW6Pt5a2nrMbKCjBXTt0M2baxcj1Qz9IGx98BgckZtkJeHh0llrOko723PcghezyexP8ottw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>模糊测试技术在软件质量保障、软件安全测试等领域起到重要作用.然而,在面对编译器这样输入语义复杂的系统时,现有的模糊测试工具由于其变异策略中缺乏对语义的感知能力,导致生成的程序难以通过编译器前端检查.提出了一种语义可感知的灰盒模糊测试方法,旨在提高模糊测试工具在编译器测试领域的效能.设计并实现了一系列可保持输入语义合法性并探索上下文多样性的变异操作符,并针对这些操作符的特点开发了高效的选择策略.将这...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>欧先飞;蒋炎岩;许畅;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>基于归一化的自适应方差缩减方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh_bgJUkU1AnrTFmLmbIlly6KU9HYje2BBLltX3kbee3PQyT2Yaozay0YgW4uKH7cJvtX7pV6gWA2PbRbp3WwJRvLoRWi_G4MJJKtz7RikkZsERn9WMSuW4S7s3CPAlGqMyrj_L0v7dp-5saTP3JsL87mUU2lZ65l78N79cbfkUqgg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7jXPjldtjwJ5v26-bvO3467XK7FRRs2G-9mjVf9NkpILKvyTB7dAv8PnayQ7jeMiP4eapwAALTjgPUvlkKXW_CdOgqZKgCeI43gb9zz4rtJGGQEhXcYnK6-yZLEaLAW7Z_KMLPSjjTjbLQGLaKXu-kVwxel7hU-GP7l8R9e2TkCsQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>摘要:随机优化算法是机器学习中处理大规模数据和复杂模型的重要方法.其中,方差缩减方法（如STORM算法）因其在随机非凸优化问题中能够实现最优的O(T&lt;sup&gt;-1/3&lt;/sup&gt;)收敛速率而受到广泛关注.然而,传统的方差缩减方法通常需要依赖特定的问题参数（如光滑系数、噪声方差和梯度上界）来设置学习率和动量,使得它们在实际应用中难以直接使用.为了解决这一问题,提出了一种基于归一化的自适应方差缩减方法...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>姜伟;杨斯凡;王一博;张利军;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>基于记忆策略的元解释学习</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8EyFVHdjsgUrFVg2BTZj_BhdYV56aTFMHO7zlQruriSzfUDePNEjwPNdbRfJR67WwotlDPUgPQ88t6RaZK_0mOKbrV1id5ZVzMEdj8c_gAVvdUp4q6SwbGYXqv51coU098dqoUKjO_cPAsbPR6PVegs-WnlFm7V0-IHlP5Pm9T_A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7isqizIntA_rfvfah9tnrvziUa_f5Y9uhomWUTeTbUpug1FQaAHZqaQA26-KQuFyCRw114Sb29_KDuESKeS1lfxj6_9pDbu25BpYeDb7Dop7r43RJGWJNWFr0NeAIHZiVCrWbgBnOUEGn6QLCTrpC5gr6P0zZTohNv86-zax6KviQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>元解释学习(meta-interpretive learning,MIL)是一种归纳逻辑程序设计(inductive logic programming,ILP)方法,旨在从一组实例、元规则和其他背景知识中学习一个程序.MIL采用深度优先和失败驱动策略在程序空间中搜索适当的子句以生成程序.事实上,这种机制不可避免地引发了对相同目标重复证明的问题.提出一种剪枝策略,该策略利用Prolog内置的数据库...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>王榕;田聪;孙军;于斌;段振华;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>eDPRF:高效的差分隐私随机森林训练算法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8EyFVHdjsgUrFVg2BTZj_BhdYV56aTFMHO7zlQruriSzfUDePNEjwPuJrEAQi7V_BqZBNSjU_Ya5NnY1c7GB7PSGmvVUp0Z9vis8Jkh4wvyCtjIXu1ltlPIifzrpJfuEwT9pxmbQsGXI7532UIb_lAIdQnLstAeDdByxa-sIIWmg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7isqizIntA_rfvfah9tnrvziUa_f5Y9uhomWUTeTbUpug1FQaAHZqaQaesNKV5n-0xowCuzc0RC7bcFhjE5rXgyw5pYnrv8Ms-ekW54gXCUJNDRCsin5GdS8dpJfxgXyRyG4IwhdcOExfvkyTWOY1p3h-p-Cz6W52SLwA__RO0egQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>差分隐私凭借其强大的隐私保护能力被应用在随机森林算法解决其中的隐私泄露问题,然而,直接将差分隐私应用在随机森林算法会使模型的分类准确率严重下降.为了平衡隐私保护和模型准确性之间的矛盾,提出了一种高效的差分隐私随机森林训练算法eDPRF (efficient differential privacy random forest).具体而言,该算法设计了决策树构建方法,通过引入重排翻转机制高效地查询输...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>王树兰;邱瑶;赵陈斌;邹家须;王彩芬;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>面向自动驾驶系统的场景建模及边缘关键场景生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh-6wqBDJzFiPfVbd5p8GT-HgyU6XQLnDiPNlBRGQTZmuS1Ht6zMct5RLwAg-CJGcBvicRgwqDy8-S-nof9fPGDp7pzbzjMRiZqz9s40UXmLDUwcpNlhHuQbq98mXpDQl2hjTYyCM7CxEr_UsA_DXfoEZCD_zC6GBhKYMpsGOEMqUw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hT3XxUkQbLXz3vKMonqplWosY3kJigw6CN4Toi60amP7Nsst2e3y0VPyZqfJEPfmXeYrc8SqsvUFEZyz_LTwW-W9aphqaUJ6pE-XH4oUlAEhMU8Ub1mKMKO2OpUHRLPP5PCoBnfipmxnzaEt6gw4zIoyeb6uYY3TuwCqGb2HrFNA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>自动驾驶中极端的场景、无法预测的人类行为等长尾问题逐渐成为制约自动驾驶系统(autonomous driving system, ADS)发展的关键要素,因此有效地生成安全关键场景对于提高自动驾驶系统的安全性至关重要.现有的自动驾驶场景生成主要依赖于大量的路采数据,采用数据驱动式场景生成方法,并结合场景泛化技术生成相应的驾驶场景.该方法耗时耗力,成本高,而且难以有效生成边缘场景.而模型驱动式场景建...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>杜德慧;叶振;郑成行;朱珍珍;李家蕴;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>因果时空语义驱动的深度强化学习抽象建模方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh-6wqBDJzFiPfVbd5p8GT-HgyU6XQLnDiPNlBRGQTZmuS1Ht6zMct5RRzYY2XM_PG3oeNCfilfYCzcrG4yUDkKJZUFCC71uqNtg2aPpNhMja0n32teUJW0F7KQL8llbBhNbu8ehNoEGZNjRzsBKvHyjRcw21CTWdNnMR6Xf-V3XbQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hT3XxUkQbLXz3vKMonqplWosY3kJigw6CN4Toi60amP7Nsst2e3y0VpiYRKTLg2-xeONixVt9lxQJug0XS8HjdYV9v_spX7T3SXqgWZr5EOWHl6KNbwRhgKZvDq-1TDC1atuYxB9uQcfIXSDpsTZ7QvCHl0NDELUQSksUVi42Tlg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着智能信息物理融合系统(intelligent cyber-physical system, ICPS)的快速发展,智能技术在感知、决策、规控等方面的应用日益广泛.其中,深度强化学习因其在处理复杂的动态环境方面的高效性,已被广泛用于ICPS的控制组件中.然而,由于运行环境的开放性和ICPS系统的复杂性,深度强化学习在学习过程中需要对复杂多变的状态空间进行探索,这极易导致决策生成时效率低下和泛化性...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>田丽丽;杜德慧;聂基辉;陈逸康;李荥达;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>面向智能体路径规划算法的动态随机测试方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=PCBa4GjaZh8UMrCU0YmD6S7k95KVyGN3MiRUVLQmeqjiPbGhORrqM4v2MMOJqHv0U_B4ZYFkgmEMl2OyB6P_aUU7dabq5fg5BxUDqfxTt3Lsw3RqIyxqthhLNtmBMI1Z8P3M-pqOdP6A15KbtX3Sl9J4AETU6ei_QZdeGqg4okue8L5l_O6ifQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7j61SqxXujW9CwOmeh_X7O7fC6f6eFkveG_srnMIlTQ0eJWnk7Ji9MKEnzSiyqpic7yAUzr_6gtDgp-y7vH_DZcaR6DCymxbpq6LIFbs6R2s2A4zSfo3OXKFCbGKwYUqrJ8_9pte53JsPTfw76g-7gonAY2XjUU9skiPDixHg_1xw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>智能体路径规划算法旨在规划某个智能体的行为轨迹,使其在不碰到障碍物的情况下安全且高效地从起始点到达目标点.目前智能体路径规划算法已经被广泛应用到各种重要的物理信息系统中,因此在实际投入使用前对算法进行测试,以评估其性能是否满足需求就非常重要.然而,作为路径规划算法的输入,任务空间中威胁障碍物的分布形式复杂且多样.此外,路径规划算法在为每个测试用例规划路径时,通常需要较高的运行代价.为了提升路径规划...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>张逍怡;李幸;刘洋;郑征;孙昌爱;</author>
