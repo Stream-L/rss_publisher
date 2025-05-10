@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/XDTQ/detail?uniplatform=NZKPT</link>
     <description>数据分析与知识发现</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 10 May 2025 04:22:05 GMT</pubDate>
+    <pubDate>Sat, 10 May 2025 09:25:32 GMT</pubDate>
     <generator>数据分析与知识发现</generator>
     <image>
       <title>数据分析与知识发现-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>面向短文本-多领域科技实体抽取的提示工程构建研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nX6u0dw0tRHKE1saOSLOKLtjeKDwD8sCaViW3cRHF74Vesdwwadwedxk0XENHRrdsEdjhWg2RVNfBfl3h8brsQRY1aZ3V2t3TGZd62i66MK0EeKbl0BogksdwLhB052TAGo6lXYJS3otZ3Znb44MhB8HSEWrXbljLIY0CAAfZDDNQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUW_U1jXY5PEYLsxPtUoWOsSJe_ctTrZp9q6d4InCYdpzJ6QzhuGPWqU2gO271wv98bQC_vzRLpL-jQ8hVshAuhPH1CqGg3D19s174hM3nOtNuwrfFHo-_4dugmfnX1WZX3-afVUueSXUL09zuAw8OMqUuGDjfnB0wGoadrWPscSw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 本文以科技情报短文本为实验数据，研究大语言模型在多领域科技知识实体抽取任务中提示工程的构建方法，旨在解决短文本语义不足和领域多样性对科技实体抽取的挑战。[方法] 针对科技情报短文本语义浓缩导致的上下文信息不足、知识实体领域跨度大、以及实体边界模糊等问题，本文提出一种基于知识提示学习的Scientific Prompt知识实体抽取策略。该策略结合BERTopic方法，将领域知识动态引入提示...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>孙蒙鸽;王燕鹏;付芸;刘细文;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>基于用户兴趣聚集性和层次性分布特征建模的序列推荐方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nX6u0dw0tRHKE1saOSLOKLtjeKDwD8sCaViW3cRHF74VesdwwadwedxsQrV1M6p7JzXJ5vWk9gachiQxzPLTbJ7SLwAWAMCezfNU6qoMjriQLgP6Z_UYDeJPCbhTpKeQh21MUki1e-VxrgwIJ0GV6Pw4FSQBWk5dQgGIl0GMQsegg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUW_U1jXY5PEYLsxPtUoWOsSJe_ctTrZp9q6d4InCYdpzJ6QzhuGPWqtCrpprgKPNI6TpKdiwX6-Oyjo3Q87WCYSBJqVryb4Xn4kiUFXzsFNK8ZQrvyuEsIBiwwLQ1AbQgs36MofPQgqsEGH4z-dN4jhtNdIGXUkvwPRMwTqx_OGQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】为解决深度学习推荐方法缺乏对用户兴趣分布特征建模，不能充分刻画用户偏好的问题，提出一种基于用户兴趣聚集性和层次性分布特征建模的序列推荐方法。【方法】利用注意力网络和LSTM从行为序列获得用户和项目的向量表示，学习用户兴趣分布的位置中心和边界半径，通过双半径刻画兴趣分布的层次性和聚集性；通过拟合候选项目特征与用户兴趣分布中心的距离与交互概率预测用户偏好；融合基于神经网络的行为预测和基于兴趣模...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>马莹雪;甘明鑫;胡磊;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>面向AI换脸诈骗的受骗风险识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nW8LxPNd0Ey5CnM1O1TZQaDfRe2hd-EnEP54otNulcUT52ocGYqMlqYuZtwMx7x99TswGwEXssjbwFULCvENZUBen88ZJDN7Hifnru6bQYTNrcR9cD7uko70I159C8nBqOBQt_NOnIGTdFmxXcO_SEtZteGuUL2B-_RqrlCyluMlQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVRaT9KBFiACLyDilu3qhyR_Ne-HnxCiYXDeXluT1j-ZkBYCzv5MrU7xoNyP0Tu1X3oHXUQ1-G1OizuHdOH7ULTt6R2Mo_fkiwfnooWGQjo4PWK-vn_hjdB5Q-kiEHke_on4Anxagpc8cMLcSfOfHjSJyxEPFybbC08DYNybjIuZw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】为解决AI换脸诈骗过程中多模态特征表征不足的问题，提出面向AI换脸诈骗的受骗风险识别模型FSFRI，有效融合多模态特征提升受骗风险识别效果。【方法】FSFRI综合欺诈信息的生成和传播过程，从中提取伪造人脸视频帧特征、流量描述特征、流量负载数据特征和流量时序特征，再通过特征融合模块实现跨模态特征的互补融合，最后通过风险识别模块实现受骗风险的识别。【结果】在模拟实验生成的数据集中，FSFRI取...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>周胜利;徐睿;陈庭贵;汪邵杰;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>基于实体关系协同推理的零样本关系抽取模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nW8LxPNd0Ey5CnM1O1TZQaDfRe2hd-EnEP54otNulcUT6auqc5w4uBSdwC4fNxWo-LnBrfGH_kBNsBxs4hlLE10EyoMr7YWHbNkMnhODAQHOj7rurkV9tTfdudwdvmt6Fok_yEf3r8U6INGgS_D_kob_NI66YY355XLfVrR6ZNMrw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVRaT9KBFiACLyDilu3qhyR_Ne-HnxCiYXDeXluT1j-Zi06HJLDFCUXeA6RXjaelQxSf6qarCyAIXcq38MgiYutl5ZMn93pZl6dvydrZpailZoiZBov-pkUVBlivOapaWFJC5L-7B-sSlgNI8ee5X1IlQ-FAhbPNSEvO4g79kP-Ng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]运用深度学习与对比学习方法解决目前零样本关系抽取任务中完整实体信息与关系信息交互不够充分的问题。[方法]提出了一种基于对比学习的联合实体关系信息的零样本关系抽取模型(JCL)。首先，使用数据增强技术对原始的输入文本进行处理，增加模型得到的有效信息。其次，通过增强交叉注意力模块将实体对深度融合与关系联合处理，提取实体与实体间的交互信息和实体与关系语义间的交互信息，放大不同关系在嵌入空间内的细...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>谢威;夏鸿斌;刘渊;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>跨学科术语语义差异现象研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUkN1hKX_EKyY0m_XWgjzJPv_0sdKSmPA5f32JHna5uQ0GHSuiCkr7oUfAJJ97pzfk5OEx7bE_Y7HLIyYDEUabePXjps0DJZbOVsXIKjmiMxNVFW2BXbePQ5E2I6OKd04-OpivPHbYK5pOgB3f5CDJvu54V9hHRUWmQ9WyMIsRIZw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWaOxN6ol2fpYZPqOyDAXIonf6yuvSOgRT9O-CNNxZC6F_52A9V8MrNBpSqHTJllm1bDbonNq-JkJ1o8cev3YTxGER0yUT3zQYa8pUxLsemsuGWCJMHGogb259LVKzMxPmU0mhR4ub9klCitDxVEOTGVHBfmQafLZs2gCVccPE9mg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]分析跨学科领域的术语词在不同学科间存在的语义差异现象，挖掘语义差异现象的原因。[方法]使用预训练深度学习模型实现自动化地识别和量化术语的语义差异，设计构建语义差异程度指标定量衡量语义差异程度，并对术语所涉及学科进行共现分析。[结果]基于预训练模型的语义差异现象识别准确率达到0.8193，所构建度量指标能够对语义差异进行有效量化。[局限]研究局限于中文术语的语义差异，选取术语学科跨度范围有限...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>姚元璋;徐健;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>基于交互式语义增强的中文文档级事件抽取模型研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUkN1hKX_EKyY0m_XWgjzJPv_0sdKSmPA5f32JHna5uQ0GHSuiCkr7o1DtUc4JTekv0mqg0w3qeMCSxQLRgAU3m_WKhHDtYiUZ0vMZDlYmGtlzyRuRyV1wGJcRYGGRUSi-3rsYszrA9RzjEzLfuUJEIMTUfQ-jciRnKQZm-iifsgQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWaOxN6ol2fpYZPqOyDAXIonf6yuvSOgRT9O-CNNxZC6F_52A9V8MrNZe-KVKRPqDnD3wRk78PrVd42sM0x5Zp2TTOq2loCK0T3S8oeOpz2uz3812Nce47ax8nbiRPG5E-6QYCTrhFKuRgFEOESEVSDhLo9CY2RuT7OcxVfVtw4Nw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为充分挖掘中文文档之间的语义关联信息，实现基于交互式语义增强的文档级事件抽取效果的提升。[方法]本研究提出了一种交互式语义增强的中文文档级事件抽取模型CSDEE，利用注意力机制构建跨文档的交互式语义网络，增强实体识别性能，再经由文档编码与事件抽取信息解码完成事件抽取任务。[结果]实验结果表明，CSDEE模型在事件抽取的精确率、召回率和F1值上分别达到80.7%、84.1%和82.3%，优于...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>张双宝;成全;曾艳;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>面向美国国会听证会的中国科技安全风险智能化识别——基于大语言模型等技术</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUEMSv6ZLJrav_pLMz-9GA8oMj9yeTqjM_S9FHd-pKxWZkAxvzKAQ0a_JVEAXtKTUrutDXGWNh7eAwaKt5k_pax9WHAa7r7Nbd5DkLl187DYudjNwi-ESfaBAUfO7zLKXEks0qQTebXH_-5NVahkXT6sLkUj31_o59fG7PwydagLg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUH0T7qHCwmCMwrvPQNo8hRrYpnbu2uUcAd77nk_3TH8iqmQfaMnMHwYPaRLtgm2MBmCooNNPQ46rqOGL66ucE4xX5ldvxfpBFV3bo-EgiFi2hNIgD1EsqAzy0t2Wepb1ry_cXJq0SYS3TfuKV_8I2k4LQbt-3rkXZ-JO3vanBIVw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]针对美国国会听证会文本数量大、涉及范围广、口语化表达多等特点，本文提出一个智能化识别中国科技安全风险的方法流程。[方法]本研究从听证会数据特征与情报分析人员实际需求出发，利用大语言模型等技术实现文本过滤、摘要生成以及智能问答等模块并将其有机结合在一起，从而达成高质量的智能化识别。[结果]本研究以第118届国会听证会文本为对象验证关键模块的有效性。文本过滤的F1值、摘要生成的ROUGE-Ls...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>邓航宇;唐川;蒲云强;敖丽娟;王婉婧;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nXAjEwf5M0YisbaFyEvzcvgDyxgknTu55ulNsLeDElagsEV3Zmi2I13ZiFxqCVzKZOabP12E30n3gWz7qvvcZX_PsvcdfIk48Euk-w-J-g7PayJVj2ykGovhP-ospZAQ--lIBqleNy7W1SkUNiHzM38vReXdgs--VSCmaWQCCLpBg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVteoskd2iu-IJ0BPOHyrpF4qdpvyOBpKzhEzxvVwqWJvNdc8YqKDXsnaifYBGuSY5wg_07xcPGYyA9BIQWKg3kpe4K6Br8azpA3VTL7fz99Fm0_fqS84JJ-VC6qgkXnvdTyH8-lbKxUsSu8kdjAepQFnIY986U0x-t6gDYMYVIFA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]现有政策分析方法依赖大量人工标注和对齐比较，导致效率低下且易出错。本研究旨在通过构建结构化政策知识库，提升政策信息检索效率，实现政策智能分析与对比，为政策制定提供精准决策支持。[方法]本研究以惠企政策为例，提出了一种基于大语言模型的框架，用于高效比较相关政策。该框架包括以下步骤：1）知识库构建；2）检索与存储；3）答案生成。[结果]通过对国家、北京、上海、深圳四地惠企政策数据集验证，本文提...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>段永康;赵广宇;耿骞;曹涵维;靳健;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>基于重叠社区的谣言抑制最大化研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVBs8HrmEWMBRuKtv8QVIqpjSGLFK5GGgImQjG_TC2-OZXlmFWpQ9bSp3htwDij_Y2vAEMTqxCq5rBBok7hHkYJ24G_P74MXBzBCr4zolgsBREbqje9lwo3paYN61ZSvtYbqoYXHaw_dpPKz5id28aesuxugz77n5HJJN_xr6eXVA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVteoskd2iu-IJ0BPOHyrpF4qdpvyOBpKzhEzxvVwqWJvNdc8YqKDXskB2FvPOF2TDYvh9QDNWzPPpiLjYfcZjEWQzvd1ZVpMwpKWv5RXzNuh_B5-rDdj_dStUhOnPTjTUb7RMs5Cfbntt0zHOfpmwcMAQj1ZCUiw3RrFYG2vd8-Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]针对谣言抑制中对节点位置与社区重叠特性考虑不足的问题，提出一种谣言抑制框架RSM-OC。[方法]该框架创新地提出使用信任中心值来精准识别关键节点，结合重叠节点构成候选种子集，最后利用遗传算法优化正种子节点集，并采用单向状态转换的线性阈值模型模拟谣言与真相的博弈。[结果]在四个真实数据集上的实验显示，RSM-OC方法相较于基线算法的谣言抑制率平均提升23.3%，真相传播范围平均扩大两倍，特别...</description>
       <pubDate>Thu, 17 Apr 2025 16:00:00 GMT</pubDate>
       <author>徐梦瑶;孙斌;江涛;崔家豪;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>考虑样本语义特征与类簇结构特征的IDCCM文本深度聚类方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVBs8HrmEWMBRuKtv8QVIqpjSGLFK5GGgImQjG_TC2-OZXlmFWpQ9bS159kD_ngf7HbXWuDNwpFoNzV4nyup-M2UrXvVILh_aCtvjC2Xo76QFLDMHULafXJnnRJSF9BDj7Fs1lQ7E1cn2BkUDxU26B_zEAVOiBGwLaWxSJ59voFLg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUnIUhuHOM89M2D6VGfIASoYQUaBeBSRtbsrOH5U2FLPBytVC6asR2LacT3X1mbVckFEQ6bGoDCc18YXZo1PS-JGGVu2pNhArMykIHb9P7EiVY8JBJrbh9M14y_xUgXyEtVHJZH-zYqqeny5kdyNdHbzmsbagbU8rGJldoQzodJIw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]深度综合关联挖掘图像聚类方法DCCM局限于基于样本语义特征进行聚类，无法充分利用类簇结构特征中蕴含的具有高判别性的类间结构关系，制约了DCCM聚类性能的进一步提升。
 [方法]本文提出融合类簇结构特征的改进模型Improved-DCCM。首先，以DCCM作为基础聚类模型，引入基于高斯分布的文本数据增强策略，继承DCCM的样本语义特征挖掘能力。在此基础上，通过样本变量与类簇变量之间的互信息损...</description>
       <pubDate>Thu, 17 Apr 2025 16:00:00 GMT</pubDate>
@@ -97,7 +97,7 @@
     </item>
     <item>
       <title>生成式AI对话中的提示词策略有效性探究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUs8Amtsv4hsgOXm9Jt9yLDz9Uv9OWBo-LaoF1WbbCSgk6Wh52aeTdIODa6ppUH4JLLNFjQJkh2IiL4p5HvJscN3v-11kmOjJirq-RrBgr5X8qFAubdGxQS4KD9UaU7hjyciWow6XxqPy50BF1nzqektZNZ7xKMwxU3fPIVIXusVw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUnIUhuHOM89M2D6VGfIASoYQUaBeBSRtbsrOH5U2FLPBytVC6asR2L5N4Zq1PW6cHiMIKqpg9k3dgmTQvPAg798GDgDX1yspSgAQjML73G06Pk-Q1L-d2NcBi0_FfSboay9XvcEJqsis6wyDBhvW9O9WCK7Ds_javWqsXlZTImkA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]本研究旨在探索普适的生成式AI有效提示词策略，以提升用户的交互技能和优化使用体验。[方法]采用Q方法，邀请用户根据其在通用场景、跨任务及跨模型的生成式AI使用经验，对不同提示词策略的有效性进行排序，从而识别出具有普适性的有效提示词策略类型。[结果]研究发现，最有效的提示词策略包括明确问题、明确目标和提供背景信息。普适性有效提示词策略可分为三类：明确需求与精确指引型、清晰解释与逻辑排序型、拆...</description>
       <pubDate>Thu, 17 Apr 2025 16:00:00 GMT</pubDate>
       <author>周洁;王东毅;代沁泉;夏苏迪;</author>
@@ -105,7 +105,7 @@
     </item>
     <item>
       <title>基于可解释自适应加权Stacking集成学习的电影IP衍生品开发效果预测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nXsDF3UZlwlhtuaRZdNhqUsVY1yUtoYMXXkS4fpjMQJEsGRA3XBUApyJhhxiweWTSgG6qb8bHw9JcxgHjYytUusiXAt93zPQEGdBDMzDCNGTFlrbG36lwe8FwkhZrG0h1DQOXDFqJzdsr29zGcj6rqSyflpssWlNiS9Jw0hJ7knWw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVVT3G412GPvzkRLWBNrV3UPpXTH8XKOxfRZZJUiC2hQpVB3GUxFTAaTzfdc0LZarIoBBNpsDxWK84402E-lLVX9I3qDeBESDGTupv4kFkgTT9vl-RnNFK24sCSPgW8HCMO3P6W8gUvggXJwFQBqs2LbpMuiJn0HFJl4tOqz5X9yA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]构建可解释集成学习模型，为预测电影IP衍生品的开发效果提供新的决策方式。
 [方法]基于价值链理论解析电影IP衍生品开发过程，构建预测指标体系。基于KLLB模型对影响因素进行提取筛选、构建预测标签。提出基于AWStacking的开发效果预测模型。
 [结果]以XGBoost、CatBoost、RF为基学习器，LR为元学习器的AWStacking算法预测效果最好，宏平均精确率为0.8699，...</description>
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title>基于多源数据间主题时序扩散网络的研究前沿探测方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nXsDF3UZlwlhtuaRZdNhqUsVY1yUtoYMXXkS4fpjMQJEsGRA3XBUApyT2HVFciuabIR3ELD0oP3eaanrJU8W5SEfGxhdo5z831QwIIcZvInRq1aGz52AVejlSgZMD7b9ZXrErXGunu4b0D7Q6XokIZpZiVdwt7Ohg55ZcwG0Ggqsg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVVT3G412GPvzkRLWBNrV3UPpXTH8XKOxfRZZJUiC2hQpVB3GUxFTAaAtMZES00kilaw8nKCSEl4F_JRv_bqAIH-zvrCL0kAAJLm9izYrNfgDvfPSX_xtpva8KsVfd310BnOVAc8OOWtGXN_Y53HGAFZxZWuqnMQJ-Pepu0Yelc0A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 设计基于多源数据间主题时序扩散网络模型，进行动态计量数据源权重的研究前沿探测。 [方法] 通过分析前沿主题的时间、扩散和网络特征，提出基于主题时序扩散网络的研究前沿探测方法体系、指标体系和立体判别坐标图，最后在人工智能领域进行实证分析。 [结果] 动态计量出多源数据权重（战略规划0.301、科技报告0.234、基金项目0.124、专利文献0.122、会议论文0.113、期刊论文0.105...</description>
       <pubDate>Mon, 14 Apr 2025 16:00:00 GMT</pubDate>
       <author>李广;吴新年;宁宝英;</author>
@@ -123,7 +123,7 @@
     </item>
     <item>
       <title>基于时空图结构学习与路线特征增强的行程时间预测研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nXvSSV4zw3s8t9qRcW8gd-kLzy5u__KrPTp0a0aSKNaYV_YY6kbN_2AKvcEVIAJX3mID7lt6FqBg4KSQwgIiMWSil3F4poKcie6qmqTYLb-0SG0O0s_-G70FtAEFOr_4cyY7-eZhgq1wfiKRbhJIKaT6TL2gsNY0R4fcyCX5wTU0A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nX4k2ri9R2UCRz9W3VE9mmDq0hLX4TOrvWvRoZAqZKrZBzwStLrnuYF0shyZIojdBlpUaiNp_e39mofDuL7IuRNSB0gm1bPRoiwJkASwkJU_b72_6LZb_HovRS3Kzf3J08G7y8qjh33N5uyyL4nxw3RH-hkCRIlYE7X9OAbB1tY8Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]针对目前多任务行程时间预测研究中，存在的刻画路段波及效应影响范围的灵活性不足，以及在标注数据受限情况下模型学习能力较差的问题，提出一种基于时空图结构学习与路线特征增强的行程时间预测方法。[方法]该方法首先利用自适应机制初始化基础的时空图结构，并构建基于Encoder-only的学习组件，灵活且深入地捕捉全域路网范围内路段间的时空交互依赖关系，从而生成高质量的波及效应时空图及相应的时空特征表...</description>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
       <author>潘晓;董慧;陈晓;</author>
@@ -131,7 +131,7 @@
     </item>
     <item>
       <title>基于Rank一致性与假设检验方法的专利语义相似度测度效果评价方法及其应用</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWHdPl7cubyR5t7PC4QYeURFs_JENt9tFZGaaY6KJ8Xu26qcpnoxixmXRvjzCNCsyPczP0avuEvLIQ8ApXffzqWf4lHDBKMNdUCyUPlQFQwQvp5FbmRI1q6nLrRuOnuCXLDhWB9IrNnRxHI56DZCwrFeFHdO8NGjjfh_OPioSpuGg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nV9DMo9pUxW0F0_TliLXkgoH4XYFLASAuOaL3w53uZALLnWFrviSmeEhEatPNOxYUeIX2dspnE5f2_wRzK6gDRUNpeIFv1XJhOvLuqPVeRfJGr43b_ycDtRlspVacTJHX-V3QNehath9rsteSpWZxqPS3sQkwFx2JQoOHHN0Qsf_g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】构建专利语义相似度测度效果量化评价方法，实现多种专利语义相似度测度方法的客观评价。【方法】基于同一分类层级下专利语义相似度更高的思想，兼顾时间与技术领域因素自动构造测度效果评价数据集，设计Rank一致性指标指标和假设检验方法来构建针对不同向量化模型的专利语义相似度测度效果评价方法，并构建中文和英文专利数据集进行评价方法的实证。【结果】本文选择基于L1距离的Rank一致性指标与U检验进行了实...</description>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
       <author>周健;吕璐成;李佳政;赵亚娟;</author>
@@ -139,7 +139,7 @@
     </item>
     <item>
       <title>基于RF-ISSA-SVM和SHAP的疾病诱因可解释性模型—以肥胖症为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWHdPl7cubyR5t7PC4QYeURFs_JENt9tFZGaaY6KJ8Xu26qcpnoxixm3od3swhXUZ2TAGgqMH5C18lmXLSn-yOa9B9HjWgRYsCL08AmKjpKhSYb3QV8MmSFg17I8cML6shz3Ogu0KFP9BZuFfxM3Wm0lhLePxtvhYDiEOK4qS7Bfw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nV9DMo9pUxW0F0_TliLXkgoH4XYFLASAuOaL3w53uZALLnWFrviSmeEFolhPjSLHh2MmmXCAFfo2U19lu2QfD_Cx2b1nfjxiYZbdZ9fzsiHxw-j3o1yhkX9fQmfB8SohMTXB6ShovaY9JRlRhXNNKuWmAx40vRKU31uhTdkIKUwXw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]本研究旨在构建具有可解释性的高质量疾病预测模型，通过识别影响疾病形成的关键诱因，并进一步分析诱因对于疾病的作用方式，从而为辅助诊断和精准医疗赋能助力。
 [方法]以肥胖症为研究对象，首先，利用随机森林模型在疾病数据的多维特征中筛选出最具代表性的特征子集；其次，通过构建增强型麻雀搜索算法实现支持向量机核参数与惩罚系数的自适应获取；然后，同步应用优化后的支持向量机模型对数据样本进行预测分析，并...</description>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
@@ -148,7 +148,7 @@
     </item>
     <item>
       <title>科学数据推荐研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nXytIGrPBNwU_8h5-I1s0G0iRnMRny9fwN-W8k5XtK77g76XucyqfTckGwpONuB0oYvynNXslOLPffd1427kTYuk_0rS_b49ImVRqND4lqmBDaHVP1PI0JhsLI-n6v5-gQh96duCp6am0ohmFss7gBYydaCBT-GsGLmg1IZdKi3ng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWKg3_O4pBd7aTDjIdfd98GSJasminMQ4A2swJ-sX8ll4vrXOekKmcbZsyb5_a8_uYc1VOsocKVaVrinbZdQ6u-S4vLbr4_7s7nYaC4--0XrDFSrvxcEJFCKXeCFc4t6aLEBKJ1g6ZGi0K5xkaxS8Cwaw8f-Wlp9rFzFGI67SxSWQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]总结国内外科学数据推荐的研究现状，为促进科学数据共享研究提供理论基础。 [文献范围]在CNKI、WOS、Google Scholar中使用“科学数据推荐”、“科学数据集推荐”、“Scientific data recommendation”、“Scientific dataset recommendation”等关键词进行检索，并结合主题筛选和追溯法，筛选出71篇代表性文献。 [方法]基于...</description>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
       <author>张博睿;杨宁;张鑫;文奕;</author>
@@ -156,7 +156,7 @@
     </item>
     <item>
       <title>专利策略视角下基于深度学习的专利商业化潜力预测方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVS3aXKmUrBOW0SHbuUfQNXKZA45Inwm3EXv72sUK3TgTT36ocAYX-aj0V1bTL66MUaJDpbgZAW7mB9GQtvuVn9K_zHW6ZYy6CpxrbgrZ_ohuISzlsGyekkTpG6FD2r3kfjB3OiWhS_1td_OxGHiXmMm8wAy4hMolYURyRJ-Z4qJQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nWKg3_O4pBd7aTDjIdfd98GSJasminMQ4A2swJ-sX8ll4vrXOekKmcbD5jT45mKbUpwWGERljfya_SQ_VL41kLN6T4bgGf2nmmwbyi2oIiT_OsOaC7Rivsq0ot9X6I2nXybXT-_L4EgiXoP46rrBmlDnI3v93VzgjQ6JimTWc_KYg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]就现有方法替代指标选取、特征体系构建、模型结构设计上对专利商业化潜力与专利策略关联利用不足的问题提出一个新的专利商业化潜力预测方法。[方法]将专利实际维持时间是否超过设定阈值作为判断商业化潜力的标准，提出由特征处理模块与多任务并行预测模块构成的LSTM+MTNN模型。特征处理模块拼接数值特征与Bert+SimCSE及LSTM模型生成的文本连续特征形成多任务并行预测模块的输入。多任务并行（M...</description>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
       <author>向姝璇;毛进;李纲;</author>
@@ -164,7 +164,7 @@
     </item>
     <item>
       <title>多维细粒度政策知识图谱构建方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVS3aXKmUrBOW0SHbuUfQNXKZA45Inwm3EXv72sUK3TgTT36ocAYX-a6H1KJXEKhr-Vr6wvXm5wXnh20oBRlyyTlmYGRiBsd_rw0h4jx2hq281JynbsP6g8cQqQmlAvlJwRzqH1TcSDtAe0mLMznRYI3eUiwrTitOd2T_RYU3QuSA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nUHXtAgrlmTKjzOPiwdbP0Mm8hYSgN7ptDoFWrCx7dVhPtfI--fyRe0o4HaKfQ85J-MTCqfpD2WkoaNdyOCJOkoZNghqE424WlooqBJtXoIAgwU629_C68L0PUxB3mKVnLaEM71zXj5kZYH8tjBu29sYH764v3yxFNW5JA-k284WA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]政策蕴含丰富的信息资源，加强政策知识图谱顶层设计，构建适配领域特性的通用政策知识图谱，可将碎片化政策信息进行高效融合、共享和利用。[方法]运用解构主义观点，融合对齐多理论与政策要素定位，实现多维度政策知识表示，形成模式层；结合网络获取、索引匹配、全文解析、实体识别与文本分类模型，设计细粒度知识要素抽取方法，获取数据层；利用Neo4j图数据库实现知识存储，可视化形成知识图谱。[结果]最终构建...</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>赵雅洁;冯凌子;袁军鹏;王立学;</author>
@@ -172,7 +172,7 @@
     </item>
     <item>
       <title>关键核心技术识别的研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nX0NtGkIse7rCryTLUG57RK49VKbTgVGIxU5p32MBXtFWmZqT568CJNjtpDTmVgIscuBFmRaD6CC0yrs90N1ziTf1ATQbDjzmx_0TRC5jAX9HR-ZJygEcMtfC9RVuzrjwHvwbF-ndF01KwdkLNtJdjPd0TGRGD6n5UM19zeWxdKCA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=Jy1bRTva-nVErLT9WUiSCJRtxPR2GlgGMlr8kKSvxmtOqM4rnEUm7yJIvC4QfQoP9mFN_erSkMNIzUskEkTX3zW0xjzpVFcxMeXWQZJYD0VzRIuQ_8ZEArM1_i6psvdkQhT-Y3ezNzZxooHifmfHx9zBC3NwyKOz3w_efMbMGSFISd5y-FwH7w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】对关键核心技术识别相关成果进行系统综述，厘清其研究重点与发展脉络，以期为后续研究提供参考。【文献范围】基于关键核心技术的系统分析制定检索式，在Web of Science和CNKI数据库中进行文献检索，获取661篇论文进行定量分析，经人工筛选得到60篇代表性文献进行综述。【方法】首先，归纳关键核心技术的概念特点及检索策略以明晰综述范围；其次，分析关键核心技术的特征体系及识别标准以厘清研究思...</description>
       <pubDate>Tue, 08 Apr 2025 16:00:00 GMT</pubDate>
       <author>仵轩;李广建;潘佳立;</author>
