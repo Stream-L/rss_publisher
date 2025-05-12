@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 09:23:58 +0000</lastBuildDate>
-    <item>
-      <title>中石大学子获评2025“北京榜样·青年榜样”荣誉称号</title>
-      <link>http://www.cup.edu.cn/news/sx/eec54c97f09a470093b5084550539a50.htm</link>
-      <pubDate>Wed, 30 Apr 2025 07:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 May 2025 04:25:55 +0000</lastBuildDate>
     <item>
       <title>四个校友劳模</title>
       <link>https://www.cup.edu.cn/news/sx/01e81a8091d944dd8ebab47dd8414d79.htm</link>
@@ -106,6 +101,11 @@
       <title>中国石油大学（北京）考点关于第75次计算机等级考试成绩复查申请的通知</title>
       <link>https://www.cup.edu.cn/nic/info/85fd2f14a6024346b717425713eecd87.htm</link>
       <pubDate>Fri, 09 May 2025 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校史里的中国</title>
+      <link>https://mp.weixin.qq.com/s/sprjCJ79iQEsChMy3GTegw</link>
+      <pubDate>Sun, 11 May 2025 14:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
