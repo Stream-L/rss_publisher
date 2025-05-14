@@ -1,178 +1,354 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
+
   <channel>
-    <follow_challenge><feedId>123806396083705881</feedId><userId>121829151542567936</userId></follow_challenge><title>情报学报-CNKI</title>
+
+    <follow_challenge><feedId>123806396083705881</feedId><userId>121829151542567936</userId></follow_challenge><follow_challenge><feedId>123806396083705881</feedId><userId>121829151542567936</userId></follow_challenge><title>情报学报-CNKI</title>
+
     <link>https://navi.cnki.net/knavi/journals/QBXB/detail?uniplatform=NZKPT</link>
+
     <description>情报学报</description>
+
     <language>zh-cn</language>
-    <pubDate>Wed, 14 May 2025 04:33:49 GMT</pubDate>
+
+    <pubDate>Sat, 15 Mar 2025 19:38:22 GMT</pubDate>
+
     <generator>情报学报</generator>
+
     <image>
+
       <title>情报学报-CNKI</title>
+
       <url>https://c61.cnki.net/CJFD/big/QBXB.jpg</url>
+
       <link>https://navi.cnki.net/knavi/journals/QBXB/detail?uniplatform=NZKPT</link>
+
       <width>120</width>
+
       <height>166</height>
+
     </image>
+
     <item>
-      <title>基于大模型微调的生成式文献层次分类标引</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaMxL0-YhQ4O5kErBBSSuEWidJGCfzFpYD8uGMsmDGTPOuJ8PTJ4wFzZN4v3r7CVNvkqy5Ws-DJR_1Iwjj-gYKUEnikqsUtfW6UfDDbVwwmTbpn0W00IlNj-bMXbGZzJH5Rhf1BobM3D6Er6rVQmtTYJ-A23ib9IfMzP3iXYD9hQ-A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>对文献进行自动的分类标引，有利于实现文献的分类存储、排列和检索。已有研究通常采用判别式模型对文献的浅层类别进行自动识别，而在深层次类别划分和准确性方面能力不足。鉴于此，本研究将文献的层次分类问题转换为文献层次类别标签的生成任务，并构建了基于大模型微调的生成式文献层次分类标引框架。首先，该框架采用自然语言的形式对文献的层次分类号进行标签解释；其次，采用高效微调技术对开源大语言模型进行有监督微调；最后...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>胡忠义;税典程;吴江;</author>
-      <guid>6aa02ee3db69c31192ffde2337611db1</guid>
+
+      <title>智能时代情报学学科建设与情报工作未来发展</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3yiWOjFYoG0yt-hMx2qjW0kmgZf5rVepOl3kXI836q3eKYLzP7dvknWzqVKtHL3g9It5IM7bTVxrDLxw2VtRzU53qpuY50UDrHar-X7vA12zqXE8-ZP4sxvmEbs5tEazSC6-Buo10G-t_uZAVauKb9oUcS13x_fEYzTKFa71M7Qg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>针对人工智能对科学研究引发的变革，根据国家安全与发展战略对情报学与情报工作新的要求，本文对人工智能时代情报学的发展进行了理性思考，强调人工智能环境下情报工作基础建设要能将人工智能与情报工作无缝衔接；由于人工智能带来的情报能力增强，需要重新定位情报工作重点；还提出了建设大情报体系的构想。最后，本文对人工智能环境下情报学学科构成与建设进行了论证，认为人工智能环境下建立情报学一级学科的条件已经成熟，并发...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>苏新宁;</author>
+
+      <guid>bca4cf0369f6de6a8115cd7b9bf6564d</guid>
+
     </item>
+
     <item>
+
+      <title>基于认知同化学习理论的在线健康社区知识共创机理研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl0PKobeAv3cLoqZ85w6YzdtdNwynJ_73NkxIyme8YpvCRXtHfJTyIdjdgJk80k7XonYRgW2KgoKgeWINzJvMH-rauEmUfOkneLiQ-B5U_7psLSbiVq-6JopniheDFGOSK1Q3q5msXhEpS051vKxx-W_kUuqLJXLXJtLMJIzdQoASQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>本文将在线健康社区知识共创过程简化为疾病治疗方案的提出，由此将主意类发言作为群体认知分析的关键对象，利用认知同化学习理论揭示群体认知规律，由内及外映射在线健康社区知识共创行为机理。依据从认知同化学习理论提炼的隶属和派生两种典型的认知方式，通过对主意类发言数据的不同处理，构建了包含宏观和微观两个层面的群体认知分析框架。在宏观层面，以研讨帖中所有主意类发言数据作为分析对象，设计算法挖掘初始发言和主意类...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>易明;许炜卓;周阳;李晗;</author>
+
+      <guid>15330d574b80ea05c2947d7fe529f039</guid>
+
+    </item>
+
+    <item>
+
       <title>投稿须知</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPhb9YltKpPU6V1yx6fzPWTTkF7S9MVK6Mrl_NWhf5tkfCSjnkmDnb3PTOUZRjqybw3x65QxYqTyivxuR0fidA12p5r8uvDXNg_Z-z6gOyOTFlkf1znBgjKIAf6Se5di7lQScN6Br8Qjs05meiGiN8k7uXtekE-CIHkkiyQV_LujA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>&lt;正&gt;《情报学报》是中国科学技术情报学会会刊，由中国科学技术协会主管，中国科学技术情报学会、中国科学技术信息研究所主办。本刊创刊于1982年，现为月刊。办刊宗旨是汇聚情报学领域的科学发现、引领情报学学科发展、培养情报学专业人才、打造情报学高水平交流平台。主要刊载情报科学领域的原创性学术论文或高质量的综述评论，重点关注信息、知识、情报相关的理论、方法、技术与应用。投稿要求：1.网络投稿地址：qbxb...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl0VbUPJwUSCkTvMY1QIJhRu5KcOFUhX2Qifyi2LI7svaAF8SGWtehSJSA0793ocyTTKEdLeLkGiwjWeWSicokCZtIFqWo4XeA1hTYVFonSbwvxP-R1rGKUa5Pn0buNZdfyUrYy4BsKQt3KFkuPm7lOmX6vq79_rzK7WMXDwTHD1rw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>&lt;正&gt;《情报学报》是中国科学技术情报学会会刊，由中国科学技术协会主管，中国科学技术情报学会、中国科学技术信息研究所主办。本刊创刊于1982年，现为月刊。办刊宗旨是汇聚情报学领域的科学发现、引领情报学学科发展、培养情报学专业人才、打造情报学高水平交流平台。主要刊载情报科学领域的学术论文或高质量的综述评论，重点关注信息、知识、情报相关的理论、方法、技术与应用。投稿要求：1.网络投稿地址：qbxb.is...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
       <author />
-      <guid>d7efeecf89178b38c4c8ef1091654775</guid>
+
+      <guid>a70a8860b17cbb0922d19e5c1fa7f7b4</guid>
+
     </item>
+
     <item>
-      <title>融合语义增强和知识蒸馏的学术文献知识实体抽取方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPhb9YltKpPU6V1yx6fzPWTTkF7S9MVK6Mrl_NWhf5tkfCSjnkmDnb3AmgYewgeC3wkHaLjNdGq-QslsRhnxD-DR3Xu-P8KeBJuPdpV5d1Wuv7Ke57dfTsgEh46LeCVIYi5Hl7hyJDTWzHWgHkSLiz2jYgC7m4ZEe7OMOAomyKtqw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>准确识别和提取海量学术文献中蕴含的各类知识实体，对于精准满足科研人员的知识需求、促进细粒度知识发现具有重要意义。针对学术文献中领域知识实体数据稀疏和不均衡等问题，本研究提出一种融合语义增强和知识蒸馏的知识实体抽取改进方案。首先，本研究提出语义增强的教师模型。一方面，通过构建融合SciBERT (bidirectional encoder representations from transform...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>王玉龙;秦春秀;马续补;吕树月;李凡;</author>
-      <guid>19572e2754395c6dfb1f6ec39972f4e0</guid>
+
+      <title>科学基金团队合作流程模式对项目绩效的影响研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl0VbUPJwUSCkTvMY1QIJhRu5KcOFUhX2Qifyi2LI7svaAF8SGWtehSJYINkpMNZfqLVmLxkEJxO_wHsdZ7lT764APXGKItg7QbuVcjsOX1DRtF93-L01p47T0tnKFdfDhq6pyBTI-ofUpK5mORSDE4aztU7D7XroNIbx8jpIY3ohw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>复杂工作的顺利完成往往取决于合作解决问题的能力，科学合作使科学团队能够解决单个研究者或单一学科无法解决的复杂问题，从而在推动科技创新方面表现出更强的潜力。以往研究主要从静态结构或网络视角描述团队成员之间的合作关系，没有强调如何动态协调以解决团队绩效提升的问题。本研究通过对科学基金团队科学合作过程进行动态演化建模，直观分析了团队依赖关系和协调机制，并进一步探索基金团队科学合作流程对项目绩效的差异性提...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>姚志臻;荣国阳;黄晓明;张斌;马费成;</author>
+
+      <guid>e256d77844432c9c6ac3d7beedd12f2b</guid>
+
     </item>
+
     <item>
-      <title>基于汉字多模信息与象形视觉对齐增强的古籍文本命名实体识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPBC9taKYLvshLBqV6iMb2pEjcYzHYPRPe781Z6oTGI3HR8A6pu7J4ZXGqnbMfKLbCKmeTvwkbAWEqW3XGZlTYsxK8p5nLZE_DmwZ0fhlriuJlkhYU9PsLLYQlCdau8pU1hgba_j69_gveLpFc1_AlXxUemewCGLmoHIuunOqCfaw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>古籍的语义解析与人文计算是建设文化强国的重要组成部分，而古籍文本命名实体识别（named entity recognition,NER）是开展后续古籍知识发现与组织的前提和基础，设计一种适用于简体化文言文特性的命名实体识别模型具有重要的研究意义。汉字本身具有大量象形特征的视觉信息与发音信息，这些更贴合汉字发展历史的知识能够为识别古籍中的实体提供更多的信息以提高模型性能。基于此，本文构建了基于多模态...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>郑旭辉;王昊;裘靖文;</author>
-      <guid>419d56214419db1940a2f6b5534e4bd2</guid>
+
+      <title>结合学术网络与内容信息的文献语义表示方法研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl39cW8e0vXZbsujaszIqKV8AHCaclJMYNYyEss8Gsl8LV8mJUeAPLj5zeesztBkdvNbHt6BkdnP9o2BtduRVTRm5RsUo63OoewWlfJL3mKmAELfw0pUDeqeI1nBJOD7uFy75eAqJsBLJ2_Lri25vkivThzb92_il3G1trM0QhcGNg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>随着科研工作者人数的不断增加，科技论文的发表数量呈现快速增长的趋势。面对海量的科技论文，文献的归档、录入和分析工作变得越发繁重。当前，针对文献的分类模型主要关注论文的内容信息，而忽略了论文相关的关联信息。为此，本文提出一种融合内容信息与学术网络的论文表征模型PAITKG (paper analysis by incorporating text and knowledge graph)，引入知识图...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>石斌;王昊;李晓敏;周抒;</author>
+
+      <guid>fa532f6f1a9144479b5848f35dcf5e8f</guid>
+
     </item>
+
     <item>
-      <title>在两个IS融合基础上夯实新时代情报学的学科独立性</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPBC9taKYLvshLBqV6iMb2pEjcYzHYPRPe781Z6oTGI3HR8A6pu7J4ZFrqCvum25EL1KuIUaOInTFYhyylfmONlrvaitT9OL1o8goYZipzG_j4L8u5b-C8g56ALWjziai-723f8ynlxqSX-oQnW2lyyGaeZrZhYX0ulzunP4_S4iQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>针对国内学界围绕“情报学的学科独立性”出现了质疑观点并由此引发争论的现象，本文强调，明确且夯实新时代情报学的学科独立性对于实现该学科可持续、高质量发展，尤其具有现实意义和紧迫性。在新时代情报学学科建设中，应当正视同时存在着两个IS研究这一事实，在实施有效策略推动两个IS深度融合基础上来划清学科边界并明晰专属研究领域，沿此路径进而识别确定专属核心研究领域，即“人类智能主导的、专门为解决特定问题及时提...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>肖勇;</author>
-      <guid>fa2dd9876873079e06e4407f6cdc3f11</guid>
+
+      <title>AI for Science推动科研范式革新：创新知识服务视角下的“平台科研”范式</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl39cW8e0vXZbsujaszIqKV8AHCaclJMYNYyEss8Gsl8LV8mJUeAPLj5u_PMlF95VY0O0EzG-uXxt0_gJTZRl-vZiMnq8EsPX3TbtFyWIV1a-XBm5yndf3QJPZdgApogR57ne8dtEa4H6vbVfF5VvaMem166b8jUy1kLCxPPKGMLMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>立足科技情报知识服务视角，梳理AI for Science (AI4S)推动的“平台科研”范式内涵与框架。根据库恩范式理论论述了AI4S推动科研范式革新的必然性，采用培根归纳法总结的科学研究流程作为框架线索，阐明创新知识服务与“平台科研”范式的互促共进关系并作为理论指导。创新知识服务视角下的“平台科研”范式以服务科研创新活动为宗旨，主要内容包括知识表示视角下的科学数据管理、知识融合视角下的通用知识...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>毛进;周凡倩;王卓昊;</author>
+
+      <guid>7fd3ff7dd84ef3010bc799645b7a7215</guid>
+
     </item>
+
     <item>
-      <title>基于PU学习的科技领域文献集自动降噪方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaNu1RChXwl8mg3R9d9sBwJZf0NZXwXKyJZIe34j-mEw45DXxNAtaJrBlBsvnQazt-ycWCXGlzGKYPPkALfpVjNV5EB5zKm0CjhRRqYPqXk165XjyO0tIFGkFSN922zWn7oYzLPkTAxTVpF0vVKe8kI_iAGWZoSV9xLYADVmcEBndw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>在开展领域文献分析时，通过惯用方式构造的文献集普遍存在相当比例的非领域相关文献，降低了最终结果的可靠性，因此，有必要对其开展降噪以剔除杂质。如何实现在无人工标注的前提下开展文献集的自动降噪，是保障降噪方案的领域泛化性、实践应用可行性的必要前提。本文在充分利用原始文献集自身特征的前提下，将领域文献集降噪任务转化为一个在自动构造正负样本集基础上的分类问题；其思路是利用文献集当中自然存在且易识别的一批绝...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>陈果;杨泽雨;陈晶;邵雨;</author>
-      <guid>79aac733116614eae0c77deb3e8c09d3</guid>
+
+      <title>融合新颖性和学术影响力特征的论文创新质量测度研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl2gLZ67rvRc52U_FbgWhN174szeAe-kIdjIqEtwWirsfV_SB87oE6DTij1GRMOSOKCfc0j-V95v1daWqEgy2xvz54fkKMwqISSpSGsy_4-qY3KlcZWr7UKE93DtOzFlEk2QeNaHsSpQfjU8jAFR1Pbb04hYyfWF9WOsqA78rEy40A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>在强调科技高质量发展和科技评价破“五唯”背景下，对学术论文创新质量的准确测度将为完善科技成果评价体系提供方法基础。本文基于AHP (analytic hierarchy process)层次分析-熵权-TOPSIS (technique for order preference by similarity to an ideal solution)法，同时考虑论文新颖性和学术影响力特征，提出论文创...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>李晶;邱昕鹏;</author>
+
+      <guid>a6bd3b46880e16609954eb534d3fc995</guid>
+
     </item>
+
     <item>
-      <title>多模态特征影响下辟谣短视频互动效果研究：基于意见氛围中介视角</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPW7PGAMLOOw5CQrEyz4TK_MYe_UTDXvlAPhkxg6FWZ1m4cCOqaFuH42Y3Vz0KtbpcJT9mVIXAHr-yauoOfOBYt8O0vOaBWuHzI_beAv4ESZPtHFm5cUwY1n4VfxiEUFyI5i9csc5OH3FTckm4kfp2YsoRJDGej847UYWjQCi7e4Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>短视频辟谣的关键在于提升辟谣信息互动效果。为此，分析辟谣短视频多模态特征对互动效果的影响，可为辟谣短视频辟谣效果的提升以及短视频平台内容生态治理提供依据。本研究面向社会认知理论，基于意见氛围中介视角，构建多模态特征影响下辟谣短视频互动效果研究模型。通过抓取抖音短视频平台上2846条有效辟谣短视频数据，采用回归分析，结合情感分析、图像识别与中介效应检验，探究辟谣短视频的发布者头像、内容及标题特征如何...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>付少雄;曾源来;邓胜利;</author>
-      <guid>d558e48983fad1cbd9d36fbf07637d55</guid>
+
+      <title>技术生命周期视角下颠覆性技术早期识别方法研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl2gLZ67rvRc52U_FbgWhN174szeAe-kIdjIqEtwWirsfV_SB87oE6DTkfqcHDi13cMMaaIQq7jj3ck8fZbZiiY0oOe8Y_q0Qgvyq0s-xV4F0xRO3tuU9_cnFrlE95T2yIYXG2zJUuuTyT_srdrcRW7lmKvX8NI2UW10310CAJ-1UA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>针对目前颠覆性技术识别过程中忽略技术演化特征的问题，本文提出一种考虑技术生命周期阶段性和特征异质性的颠覆性技术早期识别方法。首先，采用Sentence-BERT (sentence bidirectional encoder representation from transformers)对专利摘要进行向量化。其次，构建过滤识别系统。第一层使用LOCI (local outlier factor...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>侯艳辉;陈荣;王家坤;</author>
+
+      <guid>3c5e67614b3c7e3623426687b1105244</guid>
+
     </item>
+
     <item>
-      <title>融合学术用户多类行为序列特征的文献下载行为预测研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaPW7PGAMLOOw5CQrEyz4TK_MYe_UTDXvlAPhkxg6FWZ1m4cCOqaFuH4AT8hhdNSOPKsTg44GuOObgOV5yJ7oTF4-0rB40vwAZbxgrvF-ni0EdIgqvymNbjHhMA0HcY1Ok2X8Ib1TGOvRdTCZ_7ZTJUUnZ6Wa_NHh-CACkHZzMss1A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>在学术搜索系统中，根据某学术用户历史搜索行为对该用户在下一时间段中所需文献的数量和时间进行预测，有助于提升用户对学术文献推荐结果的满意度。本文通过挖掘学术用户各类行为序列特征提高学术用户下载行为（下一下载session中的下载次数以及距下一下载session的时间间隔）预测的准确度。首先，本文将学术用户下载行为预测问题转化为时间序列预测问题；其次，分别从学术用户查询重构行为、查询表达式与下载行为三...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>张晓娟;郭佳润;杨诗涵;桂思思;</author>
-      <guid>0b0bd2d37cb5a6ea234e337e97ba2a01</guid>
+
+      <title>基于大语言模型技术的古籍限定域关系抽取及应用研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3JIT-MYCJKiMzGwAyvNUqhdJeZ6LpfWR6xTyD61oUGkoevgraef0KsdyljaADtONKPStG93n_0G-QZiyhX-LLtmM-K-SmntzVGjMKn61LI82_pPh4WhTdIULG3Yn1MP5ecNXgahgOGWrsGaqXHHXKanwVXfe-6vDrmkVfGyuXWGQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>古籍文本中的细粒度知识单元的自动抽取和结构化能够为群体传记、历史地图等古籍数字人文研究提供数据基础。基于判别式模型的抽取方法严重受制于古汉语本身语义的复杂性和训练样本的缺失，抽取效果和领域迁移的效果受到影响，相关研究亟待生成式人工智能技术的赋能。本研究探索了基于大语言模型的古籍领域限定域关系抽取方法和高质量训练语料自动生成方法。通过比较不同提示模板对模型抽取性能的影响，证明了微调方法对模型性能提升...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>刘畅;张琪;王东波;沈思;吴梦成;刘浏;苏雨诗;</author>
+
+      <guid>7aeab9f5273b74633ab90eb035feeb4c</guid>
+
     </item>
+
     <item>
-      <title>政策引用视角下政策核心要素变迁与治理结构演进</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaMZLa93KuKydhEmFAsL-ZJFTLIvYIgCIWLhuPAhFnIj_T6jKjCBd0aVSNJ1x7TKxuo6EIJFiM0uFFKGb9bUlWsuRUqv-96rdc4GyxKkSOI3T9twn1JFnWD9vvoHC9-tgJhshP2uDC-E-qaG51PpfmPwGfWMex39Nb1K1EYj0ISbYA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>识别政策体系中的核心要素与结构有助于追踪政策执政理念变迁与演进规律，揭示政策制定与设计范式和推动政策要素复用与迁移。基于政策内容挖掘和引用网络分析方法，揭示特定领域核心政策目标、工具与措施要素变迁路径和治理结构。首先，构建特定领域政策要素模板库，基于机器学习算法识别与提取政策体系中语境要素及引用关系；其次，引入政策文献特有属性和引证特征，提出节点跳转概率优化的PageRank算法以精准识别不同时期...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>巴志超;范呈镭;刘蕾蕾;李纲;</author>
-      <guid>4892d5205be671c46d50e2146e8f24a4</guid>
+
+      <title>基于投融资事件的技术主题识别研究——以生物技术领域为例</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3JIT-MYCJKiMzGwAyvNUqhdJeZ6LpfWR6xTyD61oUGkoevgraef0KsCwvrNFE2dDtHltgHDQoI-IGm-d8myJ8s9mmnytcZNZhSgrxpBBhlosg32ii-cHz59cUGbuGcN1HqzovJyVaxLa26q0X_BT-pvCq0p_B7aG2rPjnVrr4rhQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>通过投融资事件识别领域技术主题并分析其演化趋势，对于科技界、金融界和企业界进行投融资规划与技术创新具有重要意义。首先，使用BERTopic静态主题模型抽取特征词，通过HDBSCAN算法生成主题簇；其次，使用c-TF-IDF算法从主题簇中提取主题特征词，结合生物技术专业知识及融资企业官网技术细节描述命名技术主题；再其次，利用可视化技术构建技术主题演化路径可视化图谱，通过可视化图谱分析技术主题演化趋势...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>王益成;蒋星宇;秦晴;刘雨农;郑彦宁;</author>
+
+      <guid>eb30749645eb76b0fe1f17a34d32cf16</guid>
+
     </item>
+
     <item>
-      <title>基于系统思维的颠覆性技术弱信号分析理论研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaMZLa93KuKydhEmFAsL-ZJFTLIvYIgCIWLhuPAhFnIj_T6jKjCBd0aVPBpAujeDWGvtFnam1Q9D0wByo-Foc-LZpVjMviBDnNY6GTp0f4kgrOTxO8-WzcN_8f8EGJVG32kJyhDKuKUDiEV9fg7MsX-MqRW1z1fAdlDlW-EwWQKI4A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>随着新一轮科技革命和产业变革在全球范围内加速推进，颠覆性技术的加速涌现已经成为当今社会的一个普遍趋势。颠覆性技术弱信号具有碎片化、模糊性和表现形式多样等特点，这给理解、分析和利用颠覆性技术弱信号带来了极大的挑战。系统思维提供了一种全面、整体的视角，为深入探究颠覆性技术弱信号的本质和规律提供了可能。本研究基于系统思维的研究理念，开展了颠覆性技术弱信号的理论探究，提出了颠覆性技术早期发展模型。该理论模...</description>
-      <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
-      <author>唐虎林;苏成;李旺雨;</author>
-      <guid>e6003082ab2f0a253a9a6b743f02c624</guid>
+
+      <title>大模型对情报学发展的影响思考</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl2dYwXpNHeuFK79f4ptXGom_oV6ICFUr4FU6skuNGvkJjWwQDwkP35L_cVC0kCArof09s1ngo3suH9_vjpJ0d_NKWN0xNHJwxkyMZLiyB8YR0Z2Kb7HgDbrhkLoeUMVvcN2yFf3bJ8W7jMBDdxJgavJ9r3qqXtQVBrCGvOfFcI9KA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>以ChatGPT为代表的大模型应用正对人类社会产生深远影响，世界万物陆续被“压缩”和“映射”到大模型之中。在大模型时代，信息世界呈现新形态，其典型特征表现在3个方面：人工智能生成内容的大量产生，机器地位的不断上升，大模型成为新质生产力引擎。作为对新技术一贯保持高度敏感性、与信息世界同向同行的情报学学科，大模型催生出的信息世界新形态对情报学的研究问题、目标任务、理论体系、研究范式、学科可见度等产生多...</description>
+
+      <pubDate>Sun, 23 Feb 2025 16:00:00 GMT</pubDate>
+
+      <author>李阳;孙建军;</author>
+
+      <guid>3f8226d4eadf41aec70fadedbdfe80e0</guid>
+
     </item>
+
     <item>
+
+      <title>智能情报技术：内涵、边界与体系</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl2dYwXpNHeuFK79f4ptXGom_oV6ICFUr4FU6skuNGvkJiH7vUQqOOEXtTCyr1HMhNfmEsjh4Lx0XFP01Y24M1KphJ1X810qYjXoO0HvuXG9FOpInpB3DDpxNLqsWLvDzHdW96VaLHAokg8EInrb--bTQQoqeTzpkD39LbXS7IOG9w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>情报工作正经历着从传统模式向智能化模式的深刻转型。从早期的智能检索到当前的大模型驱动的智能情报理解，情报技术已逐步从“智能+情报”和“智能for情报”等演化为“智能即情报”和“情报即智能”的新模式。本文详细探讨了智能情报技术的概念、技术边界及其体系建构，提出了面向数智时代的智能情报技术体系架构，涵盖了全源科技情报协同感知与融合技术、智能情报认知理解技术、智能情报监测预警技术、竞争情报智能分析技术和...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>姚长青;程齐凯;王莉军;刘家伟;</author>
+
+      <guid>2d0a3030a536ae937f840bdc85e10980</guid>
+
+    </item>
+
+    <item>
+
       <title>投稿须知</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaOK8DxrMEKxYsmJRZiTfDLLhxAZPmB-DK2NIohkfqO2dwd9lw5PUtvKd5RBquCCl-bOWNbdjBD4PMP0HBxSv73KgCfdjU3Iy8RXluD70MI3vQTD273OYjmgyVx-v-trTdkAr_fh2HgBEbQkousZtQzL3VZt7GWY0JvJhpzGjIBZqw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>&lt;正&gt;《情报学报》是中国科学技术情报学会会刊，由中国科学技术协会主管，中国科学技术情报学会、中国科学技术信息研究所主办。本刊创刊于1982年，现为月刊。办刊宗旨是汇聚情报学领域的科学发现、引领情报学学科发展、培养情报学专业人才、打造情报学高水平交流平台。主要刊载情报科学领域的原创性学术论文或高质量的综述评论，重点关注信息、知识、情报相关的理论、方法、技术与应用。投稿要求：1.网络投稿地址：qbxb...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3nx4ws_Z9CvAIUq_KqdQv2Kb4p5fBATXzo5sKjae6drNb3wCwVyqaIhOLIzBWLog5zmy9mzt-phFZI4Uga0F317ZY819Ir6iT0g64FV3xlS2NBJ7ivXRK9OBTYW_xwHGujItpMr3TsYw0xHA9IJeAe5fF3nm6uXF8PvdiDk3MBCQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>&lt;正&gt;《情报学报》是中国科学技术情报学会会刊，由中国科学技术协会主管，中国科学技术情报学会、中国科学技术信息研究所主办。本刊创刊于1982年，现为月刊。办刊宗旨是汇聚情报学领域的科学发现、引领情报学学科发展、培养情报学专业人才、打造情报学高水平交流平台。主要刊载情报科学领域的学术论文或高质量的综述评论，重点关注信息、知识、情报相关的理论、方法、技术与应用。投稿要求：1.网络投稿地址：qbxb.is...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
       <author />
-      <guid>b2638ad19334de8a2363be63c9cdc9fa</guid>
+
+      <guid>23cef0ace764197d10cb73ea06897182</guid>
+
     </item>
+
     <item>
-      <title>基于IARPA项目指南的智能情报技术解析与布局启示</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaOK8DxrMEKxYsmJRZiTfDLLhxAZPmB-DK2NIohkfqO2dwd9lw5PUtvK3zehCgCxIuPKet2AA-w-sJ71bZMtvARGQ4gAOSmWKKXiu9_voZcoJDw4t1SHfTLqD-c6poekbT6-3hSeEShXNzp0yMhvuAZjGV1k8l-3LRn-jE18VOw_Mg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>明确智能情报技术的内涵和外延对情报机构规划和科研人员选题至关重要。本文探索使用美国情报高级研究计划局发布的87个项目指南全文本开展细粒度技术内容分析，从主题-子主题-技术问题-评估指标四个层级维度立体化揭示其围绕智能情报技术的布局内容和特征，在此基础上总结得出智能情报技术是什么、包含哪些内容。为此，本文提出基于项目指南的技术布局分析框架，设计项目指南描述模型（project description...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>付芸;刘细文;</author>
-      <guid>e10d4afa9357b9b9de22d632895db702</guid>
+
+      <title>基于动态复杂网络的突破性技术创新识别方法研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl3nx4ws_Z9CvAIUq_KqdQv2Kb4p5fBATXzo5sKjae6drNb3wCwVyqaI85hT3xZ06ARF2u9pswbx5I_36jLlNXJQhFy3MZXzFtiHvTuOkqZJRagoDePqpjeRHVVflEi4qAf2KXoETRinkLEl6nR-RORifHqU6ViXLLgvxePgnWj6Dw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>识别和预见突破性技术创新对于精准实施技术干预、加快形成新质生产力具有重要意义，而传统的单一计量指标难以充分反映突破性技术创新的丰富内涵与多维度特征。在技术跃迁理论和知识重组理论基础上，本文基于动态专利相似网络构建了一种新颖的突破性技术创新两阶段识别方法，综合考虑了技术新颖性和技术影响力两个特征，并在982家中国制造业企业的61431项授权专利的实证研究中成功识别出3738项突破性技术创新，占比为6...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>周文浩;吴炳毅;李海林;王盼兮;</author>
+
+      <guid>65ca31d1c415a5b54e497573e7d17e3a</guid>
+
     </item>
+
     <item>
-      <title>赋能新质生产力的情报学与情报工作：2024年中国情报学年会综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaMQPDb__us9PIEwT2RjB1Ko6mLPmmcu7DjhUMz_44M2-Xx3snYH2h2gX0syWqKXMKeB-3GVdglNHJCKa-6u-ye-U1WUJZ2wCMOMqogelYIWw-dglN4yP1QsH_KllR-PRn-jCxLsQiUuvR2lKLV0ntPVPC1dgfC2F0tQ6SSat4Fkkw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>2024年中国情报学年会暨情报学与情报工作发展论坛、第十四届全国情报学博士生学术论坛已落下帷幕。本文着重综述了年会接收的316篇论文，揭示了情报学和情报工作发展的新动向，阐述情报学与情报工作赋能新质生产力、助力中国式现代化发展的新作为。综述表明，本次年会关注情报工作、信息行为、信息服务与信息用户、信息系统等10大主题，从多领域、多场景为社会发展提供了理论与实践参考；技术与社会的发展拓展了情报学与情...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>李月琳;潘正源;范斯诺;张向怡虹;</author>
-      <guid>5c6f19dfa0ddcf7e3ef3b4e3e447c0ce</guid>
+
+      <title>技术人员流动与团队双元创新：知识互补与替代的影响分析</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl13QBwIrFYn4fy8VyUs4UOwol4KBF80apr5lbkKPzuYq9KZCoxT-70m8B7lpmIjmHxNS31jDiTWUwptcZvKLZynN-vXLH0XJv59qNV_nh6CHScDc9b5EZWTcarpzfkeLir0weDF4V-kI_wTDiQJOE2CpelVnVSNzAuw43EUgvHXMA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>技术人员流动及其对团队创新绩效的影响受到学界的广泛关注。然而，技术人员的知识如何通过流动与新团队知识网络进行耦合，进而影响新团队的探索式创新和利用式创新水平，学界对此鲜有研究。本文以从欧洲专利局全球专利统计数据库中提取的108468条技术人员流动数据作为研究样本，从知识耦合角度测度技术人员与新团队之间的知识互补与知识替代水平，利用负二项回归模型实证分析技术人员与新团队的知识互补和知识替代对团队探索...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>王嘉杰;王焘;孙建军;</author>
+
+      <guid>f295cc71bef645471d7568239a72fd48</guid>
+
     </item>
+
     <item>
-      <title>面向重大突发事件的智慧政府情报决策：认知框架与实践路径</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaOdztnHdmI-rsJqbpqCP790DRA5ABjqrYOvGvCTq3uSMZ9007s0qZMwtsX3gX_96mBixuAydVALoxz4kq9vcGp3M7uoeGcGEtsir4lntSL6mdAsCtAekhx-cSSKm_XOVCf6Awj2cGfpUAZ0X2yYAO5UUmzlRlaYbu5Sme6_jcbuOw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>本研究立足于情报学学科视角，以重大突发事件这一精准场景为着眼点，对智慧政府情报决策认知框架与实践路径展开讨论。首先，在文献调研的基础上，结合系统论思维，对智慧政府情报决策的内涵、任务、特征与实践逻辑进行分析与界定，以全景视角构建智慧政府情报决策的整体认知框架。其次，从多模态数据融合获取、数智赋能情报处理、情报决策方案执行以及情报决策质效评价四个方面，对智慧政府情报决策的实践路径进行梳理。本研究将情...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>庞宇飞;张海涛;李依霖;张传洋;</author>
-      <guid>42a39fa69be8ff793cdd91c959b26527</guid>
+
+      <title>探索信息资源管理的跨学科性：基于多标签分类的分析</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl13QBwIrFYn4fy8VyUs4UOwol4KBF80apr5lbkKPzuYq9KZCoxT-70mRm9sUzCI6_8qQOeCIcuqvN-EnPM3JPYvl_huWgHC3ZFfKyiJdYMM-zQw-KnpUTUtckxThpDSOiPBrLvGRDv9Hses2B6i_1PDtspAuTtx9AWhqdSbY8Y51Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>当代社会面临着复杂、多元且相互关联的问题，传统学科的单一视角难以全面解决。跨学科研究通过整合多学科的知识、理论、方法和技术，为解决复杂问题提供了新的路径。为揭示信息资源管理研究的跨学科趋势和特点，本文以中图分类号为学科分类依据，针对文献作者自标注存在的中图分类号不准确的问题，采用大语言模型进行数据增强优化，并基于BERT-CNN算法对中图分类号进行修正，对信息资源管理领域的文献进行系统分析。在跨学...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>刘清民;王芳;</author>
+
+      <guid>f01c699d1ae51ef8dcc2210b9f230f11</guid>
+
     </item>
+
     <item>
-      <title>面向信息治理的生成式人工智能政策法规文本量化评价与优化研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaOdztnHdmI-rsJqbpqCP790DRA5ABjqrYOvGvCTq3uSMZ9007s0qZMw_E_09pg7ShZWwmHYtgi47WJAzqqQzYJ3FLIp2T5IAMoXDVxakok-7OYIl9LeSvbbbCXbsSemGRWoKFrPrVk4Fm6z-92vyeuXk-2vyemTO2F4rl4gCXBb4w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>数智时代，生成式人工智能（generative artificial intelligence,GAI）已成为全球各界关注的焦点，其展现的大语言模型的涌现能力，引发了信息生态中的诸多乱象。量化评价并优化GAI政策法规，在丰富GAI治理学理化研究、助力提升社会风险治理水平与信息治理效能和推进国家网络空间治理等方面具有现实意义。本文首先剖析了GAI内容引发的信息治理困境，其次，采用PMC指数模型（po...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>王旭;刘斌斌;邱均平;</author>
-      <guid>9cd8490915c9e074e614a964a1d82951</guid>
+
+      <title>基于技术匹配与分型优化的企业研发合作伙伴推荐方法研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1V14WnBQNnAOXOdn2NKHAYpORj1K8qUp-GI8tsZwtOwUYbO4jH9Rzn7VRgGSRuILOVfWYncb8idzl2TjyXStvt9ll7mEGLYdCdJlnMGMXnwcd0GOa-y8VqvXjlFcxbQo-kA5qY707tNrZ-iOOskW85tfHfg4z4uGTdNF1p0Ul2Ag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>从众多创新主体中为企业精准推荐与其需求相匹配的合作伙伴，有利于降低创新风险、攻克关键核心技术。为提高研发合作伙伴推荐结果的精准性和可解释性，本文提出一种基于技术匹配与分型优化的企业研发合作伙伴推荐方法。该方法以技术匹配度（包括技术相似度和互补度）为依据，通过机器学习算法识别大规模潜在合作组对，利用波士顿矩阵从技术相似度和互补度两个维度对伙伴类型进行细分，并结合创新实力、合作偏好、邻近程度和品牌效应...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>赵展一;钟永恒;李贞贞;刘佳;席崇俊;</author>
+
+      <guid>a7e224c73d0733974c1d27bf82f45ca0</guid>
+
     </item>
+
     <item>
-      <title>组合新颖性和学科新颖性能否提升论文的技术影响？基于直接和间接技术影响力的双重视角</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaNyQa5l4EgpuZVFJ_xOdA6VX8SHXzFNOvMBqX9ijdjjv8F0bHnHvA0tPdasRq2xh1HRwCFdQIhQbrZ8-gBWWSCHN7qL7Nj3j89jOYCtVmBGwcXQYU_e6jzYnLWkO6oWyAGrSE0z5BqLyyf7XwtC2UTbHXg4oSGOybwSklRBfY73Jw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>在发展新质生产力的背景下，理解新颖性的知识组合以及跨学科的知识融合能否提升论文的技术影响具有重要意义。为此，本文通过真实知识组合分布和模拟知识组合分布的相对高阶指标测度引文组合新颖性，基于学科共被引矩阵和距离分布测度学科新颖性。考虑“直接-间接”双重视角，通过融合“论文-专利”引用网络和“论文-论文”深层引用网络，提出论文的专利直接被引量和专利间接被引量等指标，以测度论文的直接技术影响和间接技术影...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>杨杰;柳美君;步一;赵星;邓三鸿;</author>
-      <guid>74c974513619a7b79efb51a2af7c8f79</guid>
+
+      <title>医疗数据共享利益相关者协同机制研究——基于四方演化博弈分析</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl1V14WnBQNnAOXOdn2NKHAYpORj1K8qUp-GI8tsZwtOwUYbO4jH9RznRc1NNNFRhufSOS2AXKaRGlk8fVwRJ66Au443Dh51W49ZrNJKyJDvJwu5c-tubxZNWn3UzCEovc7MIY0r6iKZCmnBKYQqF50h6ZiRdTuW9Cotb4YtI3KcgA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>医疗数据共享过程中，各主体间的利益平衡是推动利益相关者协同参与的关键。构建医疗数据共享的协同机制，有助于推动医疗数据共享的健康发展。基于演化博弈理论，从利益动态分配角度构建收益矩阵，运用复制动态方程分析各主体在利益驱动下的博弈策略选择机理，利用MATLAB R2023a仿真分析关键因素对系统演化的影响。医疗数据共享从仿真初期发展到成熟阶段，经历了12个演化博弈稳定策略点，各主体合作演变过程具有动态...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>张萌;牟冬梅;邓君;王萍;李茵;</author>
+
+      <guid>598267d8e934531c61f04f3cb9332580</guid>
+
     </item>
+
     <item>
-      <title>基于CLIP-LDAGV多模态信息融合的颠覆性技术主题识别研究——以新能源领域为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaNyQa5l4EgpuZVFJ_xOdA6VX8SHXzFNOvMBqX9ijdjjv8F0bHnHvA0tS3ExZ3yxIw8JqLxEvzWv8F3T7C6ZMeSeAZ0ttUJP8addUxuNmygJd7bZairTL7-GY4wMpIi1UIzEM-2depoHquTf7Hpjhn-_yUZzIRAswYTFWgC0Z6Mkrg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>当前，全球科技创新呈现高速发展和高度融合的态势。准确识别出颠覆性技术主题以推动全面创新已成为科学技术发展和经济增长的关键动力。然而，传统的颠覆性技术主题识别方法主要依赖于单一模态数据，存在一定的局限性。本文基于CLIP(contrastive language-image pre-training)和LDAGV(linear discriminant analysis&amp;global vectors...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>吕鲲;张未旭;靖继鹏;</author>
-      <guid>77668970e0dd5d78572187c52c134f31</guid>
+
+      <title>基于事理图谱的重大突发事件传导链路研究</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl20P-jBVfZlqZA0eZ_e1EL6Zj8809gr5uIW0P409zLx8NUiFqhd0D2rAUlF49vdR2NSjwfa2hMipgaeiUnVyjacsZ4-QoAeX6bVQ2sDkY95hwUfm4WsQdKF264LSAMOWu6TXMfRKocEp6TSGEkax1Ctfkl14wpZll8WGQml8LgMoQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>本研究从科学应对重大突发事件入手，聚力情报智慧，基于事理图谱、网络科学等理论，明确重大突发事件驱动因素、重大突发事件传导链路以及重大突发事件传导链路耦合模型的概念内涵，构建重大突发事件传导链路及传导链路耦合模型，进一步揭示重大突发事件演变机制。在理论研究的基础上，提出构建重大突发事件传导链路及传导链路耦合模型的具体流程，并依据2021—2024年暴雨数据，构建暴雨事件传导链路及传导链路耦合模型，揭...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>张春龙;张海涛;庞宇飞;杨轶;张可欣;</author>
+
+      <guid>668be65a4aa02b3eeec54f6002bb3ff0</guid>
+
     </item>
+
     <item>
-      <title>数据与知识协同驱动的知识发现：概念、机理与模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaNndzCX74l1v8YfW5UNZkgYjaE1sKK4nhBRRibbeAzrDYBrffZLNJ8fc5rPxCbJG_g5X0Q0CReT362nl7RfnN9y_T2jKAczYJWsPLGkiNbn5Wfn9G2WPq944p6_MAYCfL34ACdPom_s8QhcFeYD_DM3iV4VYked96G0fXBp7HFYjg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>知识发现是应对海量数据和复杂问题挑战，促进科学研究和技术进步，并提高决策支持能力的重要情报理论。“数据”和“知识”是图书馆学、情报学和档案学的核心命题，数据驱动或知识驱动的知识发现是数据密集型或知识密集型情境下解决情报学研究问题的重要手段，但普遍存在的缺陷数据和不确定性知识降低了上述方法的有效性。协同驱动则通过数据和知识的交叉互补，为实现新知识发现提供了创新性的解决途径。当前，对于协同驱动方法的全...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>姚苏梅;陆泉;</author>
-      <guid>bb0016a9ef468efc55c85e6c42ea1af7</guid>
+
+      <title>时变网络研究：概念、应用与展望</title>
+
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=HUa8WMVVXl20P-jBVfZlqZA0eZ_e1EL6Zj8809gr5uIW0P409zLx8NUiFqhd0D2ruQNAtZpgpMtx51sE1dBH86_26QAyb3R_z_QBgjC3lVCcgzQf4CdcTAtS17B2s45PK6foymXU5vO0VQt-0g8UvJCFD83MOcMX0lOYjppkU2eYZR0feT5KbQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+
+      <description>时变网络作为一种捕捉动态交互的网络表示形式，能够为网络舆情、科研合作等图书情报领域中的动态系统提供更真实的刻画。考虑到目前图情领域中时变网络的应用仍处于起步阶段，本文对图情领域中的时变网络进行了系统梳理。首先，本文详细介绍了时变网络的概念和研究方法，明确了时变网络的定义，提出了结构种类、输出粒度的度量，阐述了时变网络研究方法的来源与发展；其次，从统计学角度对时变网络现有研究进行关键词共现网络和主题...</description>
+
+      <pubDate>Thu, 23 Jan 2025 16:00:00 GMT</pubDate>
+
+      <author>吴江;于洋;丁宏昊;陶成煦;左任衔;贺超城;</author>
+
+      <guid>d8b282e39a0e32bd4a4b9b764828bb5c</guid>
+
     </item>
-    <item>
-      <title>开放科学视角下的数据论文引用意图研究——以生物医学领域为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaNndzCX74l1v8YfW5UNZkgYjaE1sKK4nhBRRibbeAzrDYBrffZLNJ8fU9kTUfnWctswOYwqbLNj030QIGTGo0GpNegXKrRm9MsAaL7eEml-JxgWeaD7HYMnCkYl-rN90lM6ZlT80JgHjX12CoBkF54UqHSYq4z552ZIuFj_ARYBkA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>基于引文全文本语料库，多角度揭示数据论文被引特征和趋势变化，探究数据论文在实践中发挥的真实效用。本文以生物医学领域为例，在完成数据论文引用意图自动识别的基础上，从时间、空间和期刊3个维度对其引用意图特征进行分析，揭示生物医学领域数据论文的发展和使用情况。研究结果表明，数据论文的被引时间与发表时间具有较高的一致性，得到的实质性引用占比略高于非实质性引用，在实质性引用中，引用位置主要集中在数据/方法部...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>王莉军;刘茹;杨波;刘志辉;郑明;</author>
-      <guid>72a16d48e003ab13493d8f8802c4180c</guid>
-    </item>
-    <item>
-      <title>跨维度特征融合视角下的科技论文新颖性测量方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=Zb3wS6iuiaM9ZjBoZSdBhwgvSRNHqwYtiw5CBP1ebtLkUo3-jG86mrfU-IGrxkjsgTyN6skVYjBhsPr55ZabjObRx-eGe3__vvMDrkXafIdNB1bOG2-vaID8qL-oPtxxHCkXUydjsVjrh6z5rpd5Me8oSSJn4jBkrtsEFpN_id0kg6ok-m67Ag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>准确评估科技论文的内在新颖性，对追踪学术前沿和实现高质量科研创新评价具有重要意义。本文基于科技论文的知识内容和学术交流结构，创新性地提出一种跨维度特征融合视角下的科技论文新颖性测量新方法，以全面、客观地评估科技论文的新颖性。首先，基于“问题-方法”组合，构建科技论文的结构化知识表示模型，并利用领域预训练语言模型为组合赋权；其次，考虑知识内容和学术交流结构，围绕原创性、复杂性和研究热度等事前特征，构...</description>
-      <pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
-      <author>马铭;郑哲浚;毛进;白云;李纲;</author>
-      <guid>9b5728b0815db1d61eb5934828be98cb</guid>
-    </item>
+
   </channel>
+
 </rss>
