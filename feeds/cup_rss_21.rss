@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 09:32:51 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办“AI赋能思政教育”第二十一届学生工作论坛暨第七届就业工作论坛</title>
-      <link>http://www.cup.edu.cn/news/sx/7d67e120734e4a2b81402b2fee680fd9.htm</link>
-      <pubDate>Wed, 30 Apr 2025 13:44:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>校领导带队赴阿塞拜疆、俄罗斯交流访问</title>
-      <link>http://www.cup.edu.cn/news/sx/6bb040b960024fa5b5f951b02f1cb151.htm</link>
-      <pubDate>Wed, 30 Apr 2025 14:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大第一届最美劳动者</title>
-      <link>https://mp.weixin.qq.com/s/4GgziYHQs7OKkSr62RNNLg</link>
-      <pubDate>Thu, 01 May 2025 15:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 May 2025 04:25:02 +0000</lastBuildDate>
     <item>
       <title>党委书记王同奇到克拉玛依校区调研</title>
       <link>http://www.cup.edu.cn/news/sx/da11d056c6124052a74e2477e2d3eb67.htm</link>
@@ -84,6 +69,11 @@
     </item>
     <item>
       <title>校史里的中国</title>
+      <link>https://mp.weixin.qq.com/s/7XfelmmawTl5Pf3pwZr8-A</link>
+      <pubDate>Sun, 11 May 2025 14:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校史里的中国</title>
       <link>https://mp.weixin.qq.com/s/sprjCJ79iQEsChMy3GTegw</link>
       <pubDate>Sun, 11 May 2025 14:36:00 +0000</pubDate>
     </item>
@@ -106,6 +96,16 @@
       <title>关于中央空调系统运行的通知</title>
       <link>http://www.cup.edu.cn/tzygg/0eebc7be002642249bb3a0c23308c711.htm</link>
       <pubDate>Tue, 13 May 2025 03:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开“中国-中亚东南亚工程教育国际合作战略研究”结题评审会</title>
+      <link>http://www.cup.edu.cn/news/syxw/39e3e4a726e44ee7bcef263c22c3df8c.htm</link>
+      <pubDate>Tue, 13 May 2025 06:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大克拉玛依校区穆总结教授荣获自治区“先进工作者”称号</title>
+      <link>http://www.cup.edu.cn/news/sx/07622a9b93154adcaace16d862e95886.htm</link>
+      <pubDate>Tue, 13 May 2025 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
