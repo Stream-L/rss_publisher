@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）体育与人文艺术学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 09:30:37 +0000</lastBuildDate>
-    <item>
-      <title>体育与人文艺术学院2025年硕士研究生复试结果公示表</title>
-      <link>http://www.cup.edu.cn/tiyubu/info/5d4f412f78e44ca1894ef11819816aea.htm</link>
-      <pubDate>Mon, 24 Mar 2025 08:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 May 2025 04:32:42 +0000</lastBuildDate>
     <item>
       <title>2025春季运动会竞赛规程</title>
       <link>http://www.cup.edu.cn/tiyubu/info/35a77e0a0bca4d3b9f22c58cb0b6465d.htm</link>
@@ -106,6 +101,11 @@
       <title>尹彦</title>
       <link>https://faculty.cup.edu.cn/yinyan/</link>
       <pubDate>Wed, 07 May 2025 02:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年“石油杯”射箭比赛规程</title>
+      <link>http://www.cup.edu.cn/tiyubu/info/5c06e7fadcad4c8c8a6363add90fb65a.htm</link>
+      <pubDate>Fri, 16 May 2025 02:57:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
