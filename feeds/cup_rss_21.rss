@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 09:27:10 +0000</lastBuildDate>
-    <item>
-      <title>卓越杯</title>
-      <link>https://www.cup.edu.cn/news/sx/43f434d449604b6da7bb9eec66aea96d.htm</link>
-      <pubDate>Thu, 08 May 2025 02:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办全球青年多维对话之“能源文明 青年共鉴”专场活动</title>
-      <link>http://www.cup.edu.cn/news/sx/5e98daedfdcf498ebb75c6eb5c115a80.htm</link>
-      <pubDate>Fri, 09 May 2025 00:23:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 May 2025 04:21:54 +0000</lastBuildDate>
     <item>
       <title>中石大科技创新项目亮相国家博物馆“青春之歌——全国大学生创新成果展”</title>
       <link>http://www.cup.edu.cn/news/sx/d0b653939c974cf493da5f1edbe104db.htm</link>
@@ -106,6 +96,16 @@
       <title>关于2025届优秀毕业生评选结果的公示</title>
       <link>https://career.cup.edu.cn/news/view/aid/94582/tag/xngs</link>
       <pubDate>Thu, 15 May 2025 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于校园网核心设备及上网认证计费系统升级的通知</title>
+      <link>https://www.cup.edu.cn/nic/info/dc6e188fad924d59b758cf18af7d0a00.htm</link>
+      <pubDate>Fri, 16 May 2025 07:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第四届“外教社杯”北京高校青年人才国际胜任力大赛校选赛暨第六届大学生能源学术英语论坛通知</title>
+      <link>http://www.cup.edu.cn/tzygg/e432c6068666493eae4f2491ee0069eb.htm</link>
+      <pubDate>Fri, 16 May 2025 07:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
