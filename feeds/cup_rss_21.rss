@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 09:23:45 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）考点关于第75次计算机等级考试成绩复查申请的通知</title>
-      <link>https://www.cup.edu.cn/nic/info/85fd2f14a6024346b717425713eecd87.htm</link>
-      <pubDate>Fri, 09 May 2025 09:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 May 2025 04:27:11 +0000</lastBuildDate>
     <item>
       <title>校史里的中国</title>
       <link>https://mp.weixin.qq.com/s/7XfelmmawTl5Pf3pwZr8-A</link>
@@ -106,6 +101,11 @@
       <title>中石大克拉玛依校区组织开展“天山砺志传薪火 边疆讲台谱华章”国情教育实践活动</title>
       <link>http://www.cup.edu.cn/news/sx/fd3b22115afc4199b5cd13a71b1ece46.htm</link>
       <pubDate>Sat, 17 May 2025 06:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于中国石油大学（北京）2025大学生志愿服务西部计划拟向北京市推荐志愿者名单的公示</title>
+      <link>https://www.cup.edu.cn/tuanwei/tzgg/0b913639d75e4230a2a81c2815bf77aa.htm</link>
+      <pubDate>Mon, 19 May 2025 01:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
