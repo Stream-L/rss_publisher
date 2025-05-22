@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/JSJX/detail?uniplatform=NZKPT</link>
     <description>计算机学报</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 21 May 2025 09:32:07 GMT</pubDate>
+    <pubDate>Thu, 22 May 2025 04:27:41 GMT</pubDate>
     <generator>计算机学报</generator>
     <image>
       <title>计算机学报-CNKI</title>
@@ -15,8 +15,16 @@
       <height>166</height>
     </image>
     <item>
+      <title>基于生物特征识别的隐私保护可验证联邦学习</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGtNhB4ZSMRg3uvj4mIwy828RiL2DGBNMvOFZHngwuLrFbe9eVavNlK1Kb2aFNC3BjQPb0Xe5YryaOkXDoea6rQyEuSwxd_86ET0xQaZ4CSA2Ubt0lMVL2XyWfE3EdiuQ48qEq17bJmTIRQRpfkQDfV1bYrYmoz95NIFr3VTK3PoQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>本文提出了一种基于生物特征的隐私保护可验证联邦学习方法（Biometric-based Privacy-Preserving Verifiable Federated Learning，BPPVFL），以解决联邦学习（Federated Learning， FL）中隐私保护和验证效率的双重挑战。传统的FL方法，通常不考虑隐私保护，使其易受数据泄露的威胁，而更安全的方法如基于零知识证明或同态哈希的F...</description>
+      <pubDate>Wed, 21 May 2025 16:00:00 GMT</pubDate>
+      <author>周浩;戴华;杨庚;黄喻先;王周生;</author>
+      <guid>a6bb1eb0def494dd2e399f7399782c04</guid>
+    </item>
+    <item>
       <title>基于动态结构相似度的多源指纹配准方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG87qOsecwdh4OXXdPEXl-LSsOoi3KzxzvoPUDkJPXj5fPMobRtKlZ1_p46ozzNX2ImfqrDNmy-E6yEddP62EiDDF1fjj__cDptzAME4hru47CouftGZLSUqRddNB-a-jsopVGKVUGCrc4c7altMfq1c4L3-lZI2yNADbaGwePeCA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFkxI_B5VwNNFRbCtQGEa4LMQdtHO-xIHWHcH29NBA4oIcfnbrKh9Sf-b50enQDuqi7opomp-qIcozWVrZCmb673AGU2Q3Vj3gFhLyXeU0ixog-5neao6vabvEUBpahAmRARGbk5VbpkN7rH5ehk2kpB4rL7JAZgranUvDuo_2gyA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>指纹作为最普遍的身份标识之一，一般采集自手指表皮。近年来，成像技术的发展成功实现了皮下内部指纹的获取。通常，外部指纹的图像质量较高，而内部指纹完整性较好，内外指纹之间具有互补的特性。将外部指纹和内部指纹图像中的有效信息提取并融合，可以生成信息量更完整、对后续应用更有益的新的指纹表达。由于采集方式的差异，内外指纹之间存在相对畸变，因此，在融合前必须先进行指纹的配准，恢复其在空间上的一致性。然而，内外...</description>
       <pubDate>Tue, 20 May 2025 16:00:00 GMT</pubDate>
       <author>王海霞;颜诗琪;于洋;陈朋;梁荣华;张怡龙;刘义鹏;</author>
@@ -24,7 +32,7 @@
     </item>
     <item>
       <title>空天地网络中异构可靠感知的服务功能链（SFC）嵌入与重嵌入研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGpdwPo-lmdxfJxQ6GUZR2n-FzL21eC5k80I1pNecFgBdgiJNGc6pO6erlLZnJdv-qoPwBy8F4glbNbvrXBW6MfQylxf1TRQYBQSHXQeIVDmccngi-ifeCPsB4m2wW2WSorC-VwhojjLfdGqI6vNrPXAVvUBR7C4cn3jhLA3fF61A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFkxI_B5VwNNFRbCtQGEa4LMQdtHO-xIHWHcH29NBA4oIcfnbrKh9Sf_7uzycxHAmCdnxDgdvYxXnDic5jgiqMWVhkWVUzAgxYKXiZ4q0g8__9Kcvq-ECpv75OboFHvDHK6Nri9uHKaKjDpiw95R6YzhQUPFMVHiZ_XmYIF5h5AAA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着5G、6G的快速发展，在天空地一体化网络 (Space-air-ground Integrated Network， SAGIN) 中提供可靠服务需要合适的服务功能链 (Service Function Chain， SFC) 嵌入方案以保证服务质量。然而，如何在SAGIN 复杂的拓扑结构、有限的基础设施资源以及异构的硬件和软件等特征给现有可靠感知的SFC嵌入方案在提供高服务质量时带来一定挑战...</description>
       <pubDate>Tue, 20 May 2025 16:00:00 GMT</pubDate>
       <author>秦凯鑫;郭松涛;刘贵燕;</author>
@@ -32,7 +40,7 @@
     </item>
     <item>
       <title>融合外部知识与证据的场景图注意力网络多模态谣言检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGpdwPo-lmdxfJxQ6GUZR2n-FzL21eC5k80I1pNecFgBdgiJNGc6pO6vRAC_jVz4uOSjsBwKrizlw7j9saTiNTOsG4VDlgych86UDDa6LAp6EJmDVuC1Kn-WVryNBR_6PvBEMRwt4PvXqiM3hN3AOkZ-TF_DZn0c_kZiTs9Joaudg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VH3aWMieVPxhAKpLeng2wK0-9emgskS-QKGGnUoS2cA1DTknNWV67cNj9fxfjUNECAq_y0g9RiXP2tagFyLWt5FpK1DD-20zXQLB43MldWjM4R1GK_uxHmXTickh0-HgHAMId0sCSwA9gN8HaL_s4uYuTy82V-TPjIMt1aZHOLTyQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>社交媒体上谣言的泛滥对社会造成了严重的负面影响。随着多模态内容在社交媒体中的迅速增长，多模态谣言检测受到了越来越多的关注。目前，大多数方法主要聚焦于学习各个模态的特征，并通过特征融合实现不同模态信息的互补。然而，这些方法存在两个关键问题：(1)不同特征空间之间的跨模态关联难以有效捕捉图文细粒度语义的一致性；(2)单纯依赖图文内容难以识别一些造谣者精心设计的深层语义不匹配的谣言。为此，本文提出了融合...</description>
       <pubDate>Tue, 20 May 2025 16:00:00 GMT</pubDate>
       <author>黄学坚;马廷淮;荣欢;王根生;廖国琼;刘德喜;</author>
@@ -40,7 +48,7 @@
     </item>
     <item>
       <title>数字孪生架构下基于GAN增强的多智能体深度强化学习边缘推理与异构资源协同优化</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGMyxvqloQez_V5LjgpBiudsDsqfAlfA83V1xce9jBgi2byYlTG8lw9WBz6Jqnv0lLJxjE37vt63Bfuwu1Mtwd3BRT5Y592oc8wx4d1O0eb-No3cTexMXdhsBUfzgH5N0FCZhqJ12b5Y_91NtVjtxIE9XtKsJx_tGGj_8JduEaReQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VH3aWMieVPxhAKpLeng2wK0-9emgskS-QKGGnUoS2cA1DTknNWV67cNKlonOywcw8vEo6ZFHsj0k_yVt5PkvdOgjUfvFpkEk_BnET-mjyFyxpkzVZv7RzKerEaEjlWtR4QXrArkCPJ8eHkxMVVID5iQz7RfRmzBaKF4jeqtTFY1gA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>边缘侧大模型应用正成为推动智能健康、智慧城市等领域智能化与数字化进程的关键驱动力。然而，大模型海量智能任务异构性和高动态网络的不可预测性，使得边缘设备有限的算力资源难以满足复杂推理任务对高效且可靠服务质量（Quality of Service， QoS）的需求。因此本文提出了一种基于生成对抗网络（Generative Adversarial Network， GAN）增强的多智能体深度强化学习（M...</description>
       <pubDate>Tue, 20 May 2025 16:00:00 GMT</pubDate>
       <author>袁晓铭;田汉森;黄锟达;邓庆绪;康嘉文;李长乐;段续庭;</author>
@@ -48,7 +56,7 @@
     </item>
     <item>
       <title>知识引导的基于锚图学习的多视图聚类方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGwajHyjBSpsaAqer4WgrjNfTJ7vYtZsZnZ1IVCbI9h55hEDqek7053DyjX8QKuES8L6UaBvIq--LO2nMJ9CYBol40VHZ5TYyTXB-fU_EEo-wtQfE-OKN3gmEryTAHj1ueA73kr1pLoeDQck8wwmXmtZoT_Zx0VRyKBjgGiNFUGaA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VF3RJksjPNS3CEdTMk3NzjOVExcLFOTESVCN59imhjiNFfJJDKLu64IbNrVeQHVyT7EqXHvWMFBX-OtSMUHSFNaVGXVF93XuKN3BkMu2c4croLky53PJnJ17fuSm1tKhp6A8WtUQbLjJG5Zk_HMuVCqiHCHuSZoBI_4dyL231CiXA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>传统的多视图聚类方法采用相似度矩阵以刻画样本之间关联性，然而样本间的关系可以天然地用知识图谱进行描述。但是现有方法既没有观察到这一现象，也没有设计有效的机制对其加以利用，以至于使得方法的性能次优。为了有效地利用这部分信息，本文首次提出了一种知识引导增强的基于锚图学习的多视图聚类方法（Knowledge-guided Anchor-graph-based Multi-view Clustering，...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>梁科;马慧敏;刘溯源;刘新旺;</author>
@@ -56,7 +64,7 @@
     </item>
     <item>
       <title>联邦遗忘学习隐私安全与算法效率研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGwajHyjBSpsaAqer4WgrjNfTJ7vYtZsZnZ1IVCbI9h55hEDqek7053IBddx9cCpIcC7eFEv5cWcVeTkf61wCcUvkeDanXtsu8JuvyaaM-LI_IJ0iLviISCk8Ow_orqByfIgBFJr7FshVQG13H5UOEIziRhlP3CXR5-6i9t2BqdRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VE002hkTVo2a01J6TV5z4hjJzsELOSPGSO81W5m6KYX6_xyXApmnDVv8XtvkdYAx-6flATr0ppD4kCILtKGqR79cTmd9jA6GuUJiayoXRtgpLsv31GwzSUlArGb70CWtxe5123syOfEnduFN8-fJnSJtDGVlShXSzuowjoK99DFLw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在数据驱动的人工智能应用迅猛发展的背景下，用户对其个人数据安全与隐私保护的需求持续提升。联邦学习作为一种分布式机器学习范式，通过共享模型参数而非原始数据来完成模型训练，缓解了用户数据的隐私泄露风险。然而，联邦学习仍难以满足用户从已训练模型中删除其个人数据的需求。为此，联邦遗忘学习被提出，旨在响应用户发起的数据遗忘请求，以擦除其数据对模型的影响，同时保持模型的有效性。但目前的联邦遗忘学习技术还存在隐...</description>
       <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
       <author>唐湘云;王伟;翁彧;沈蒙;张焘;王伟;祝烈煌;</author>
@@ -64,7 +72,7 @@
     </item>
     <item>
       <title>多智能体风险决策理论与方法研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEeWV5Nv5G6Roums7Vlcx1UCQc4G7MihS5ZVIA0dYn-ZzjgHQyv3zhoGm5HrY69CNV1uXDdy6RLcqmB3dwP8ZB6AcYhchp4MWwvEi_YeTuEF7RwkxmkNR29RsULhXmrYnHv49FDKhdwVHJXHqCYA_npuo5kZTC6zXkxU4rS5FTxLw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VE002hkTVo2a01J6TV5z4hjJzsELOSPGSO81W5m6KYX63cuLtVVQjzpjlm6fb0pEmgpVx9iGFsxAT2Pbk1j7jjbakCpJ41eyf3NI2U4SptpWFLKUGGqpvSrMp0R-PhKv6GM2UiS2BFV381ZBH1bx_k3hV5IieDoU_hKgSc6_rYiow==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>目前，学术界已有众多关于多智能体决策的研究，形成了一系列理论与方法，能够有效表达多个决策主体在合作、竞争等环境下的交互关系并求解得到合理的行为策略，在策略游戏、交通控制等诸多方面取得了成功应用。然而，在现实世界中，智能体在决策时可能会面临环境状态变化、自身方法误差等风险因素，使得智能体获得的损益值往往偏离预期值，而且其他智能体策略带来的非平稳性、应对风险的不同态度也会给该智能体带来进一步的决策挑战...</description>
       <pubDate>Tue, 29 Apr 2025 16:00:00 GMT</pubDate>
       <author>李鹏;陈少飞;易楚舒;李顺;兴军亮;陈璟;</author>
@@ -72,7 +80,7 @@
     </item>
     <item>
       <title>联邦学习后门攻击威胁与对抗性防御方法综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG-gn5QdNwL-DLCgJBwHhShx3WHox6kDz5_eVt-F-HMUVG5EA519aKuDBysxuKPI89sqMidiJwdX3VXPDFG3IjDl-hQHyUz4Kd6UhKVxDx5Y-O6cvIEwRWYAC3w76V6zNnHQte4mPbbSYAr1VT2kVfjpKeCJp3yi7wXZEmYs6rx_Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEF3DZ85BleU-O_DdtSKveubw928F21S-WoRV8mfzgMtrdWul9uL-QnMDICL10R20ej4XsOcevWJuHEd88v4VNzQVAj00fXveGhXVLQZbhmGcS5aiO2RaEOXI3wH2ryvp0Q1NwQ9uJU4TP46bCQA7pTqJ0FR2OW0Dcdn8M0HswyhQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>联邦学习作为一种隐私保护的分布式机器学习范式，允许多个参与方在私有数据不出本地的前提下协同训练机器学习模型。然而，联邦学习所面临的安全威胁日益凸显。后门攻击，因其具有隐蔽性强和破坏力大等特点，给联邦学习后门攻击的检测和防御带来了巨大挑战，成为亟待解决的关键问题。本文全面调研、分析和总结了联邦学习后门攻击与防御方法，并展望了未来技术的发展方向。首先，剖析并总结了联邦学习后门攻击方法。基于不同的攻击目...</description>
       <pubDate>Tue, 29 Apr 2025 16:00:00 GMT</pubDate>
       <author>吕晓婷;刘敬楷;刘芷辰;陈政;许光全;罗文坚;沈蒙;王滨;纪守领;陈恺;王伟;</author>
@@ -80,7 +88,7 @@
     </item>
     <item>
       <title>基于类别共享与独有信息双向融合的多类别姿态估计</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG-gn5QdNwL-DLCgJBwHhShx3WHox6kDz5_eVt-F-HMUVG5EA519aKuVblE-230VGWvwk-WsVV_o3Yo0ngXZ5fFsWpPkXAiDc5mYC9OKNWkpnjABNa1iiY4fIu1AQ2_in5Gjb-C9o_7yB5tv-X9h4Qw6SyLaw7f0WQu9lVMNGp1QA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEF3DZ85BleU-O_DdtSKveubw928F21S-WoRV8mfzgMtrdWul9uL-Qnetc6dgI_lMW_xB2Bt4JwCcb1CMsebdC1lJcw3emM8qQoighOwnK8Vvj27H1WIIjM9rXVdv_Uw8n1M3JjefWVzsjXInZ-TqhQDEE_OlBmAQL3Uims9A12qA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>姿态估计旨在定位物体各关键点的位置，是一项基本的计算机视觉任务，具有广泛的应用场景。现有方法聚焦于估计单一类别物体的姿态（如人体），无法较好地用单个模型为多个类别的物体估计姿态。鉴于分类、检测、分割等模型都可为多类别预测结果，从单类别拓宽到多类别是姿态估计领域的必然发展趋势。因此，本文研究多类别姿态估计，其关键问题在于如何融合类别之间的共享信息与独有信息，使得单个模型可较好地兼容多个类别的信息。为...</description>
       <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
       <author>陈俊杰;陈卫龙;方玉明;姜文晖;牛力;</author>
@@ -88,7 +96,7 @@
     </item>
     <item>
       <title>LION优化器的收敛速度分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG06m203gHMgtkHmSU-v_4Xaju79zUHgoU2gz_cOaFdLtz0Mq54cmo6oQmuHX3GzKnKeNkMu330xhiR9pUlv3EIVG1ko68gg-G0jzSs_GRhnX4qrReCyjU-1GFWSVM8PLt8OYaOcoWXFMpE2ggpgN4MpdmjZU35Eg2kNp3gRJwQRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFADREPIo9EW_XJuodKjdNmJ1TDZ_B0I05uiPY3jbvUifu5OyX-u3KhdiPVn89bDaWQgcn_Npcv0tKBgvE2EzVR_e8nwNamLryyrDn2GI5BwIBXTwXipFuauSVRtzbCGrCUlQhNZkNH88cKU_Ve8HKcEfa0_4VKR1Dkl5DX5zs1hw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>LION（evoLved sIgn mOmeNtum）是Google公司通过启发式程序搜索的方式发现的优化器，是一种独特的基于学习的优化算法。LION算法通过在上步动量和本步梯度之间维持两个不同的插值，并有效结合了解耦的权重衰减技术，实现了超越传统符号梯度下降类算法的性能。LION算法在许多大规模深度学习问题中展现了较强的优势，得到了广泛的应用。然而，尽管已有工作已经证明了LION的收敛性，但尚未...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>董一鸣;李欢;林宙辰;</author>
@@ -96,7 +104,7 @@
     </item>
     <item>
       <title>基于稳定替代损失的可泛化平均精度优化</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG06m203gHMgtkHmSU-v_4Xaju79zUHgoU2gz_cOaFdLtz0Mq54cmo6sfkI0sayVnQryjXiUI6n2t25HmU6kB_aGen4UhV8i1MGVFkCvamGhiSgRZ-oV6ZdK4MNSpCePG2mJ2e6AsZykmjrNpNiN2yn5cbfeUWaeclSwa4OGFtS_g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFADREPIo9EW_XJuodKjdNmJ1TDZ_B0I05uiPY3jbvUifu5OyX-u3KhhMuqH78lIx8GwF9JThd_1w-gRalZXREElCEvYpcK5IHptYnE-qx0MpmOZMi5DQ7r6W_vq_KOMhouT1ocNn1DEI-EURcgreZIp4DFiAH2XoqMTkLOyOZrsg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>平均精度（Average Precision，AP）由于其对排序性能的全面度量，已经成为多种计算机视觉任务中广泛使用的验证指标，包括长尾分类、图像检索和目标检测等。为缩小训练目标与验证指标之间的差距，近年研究提出了AP指标的直接优化算法。然而，受限于AP风险的不可分解性，大多数现有的AP优化方法基于不稳定的替代损失，即更改一个样本可能导致损失估计大幅波动。受该特性影响，期望风险与经验风险差距可能受...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>温佩松;许倩倩;杨智勇;黄庆明;</author>
@@ -104,7 +112,7 @@
     </item>
     <item>
       <title>基于时序感知潜在扩散模型的人体交互动作生成</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VG06m203gHMgtkHmSU-v_4Xaju79zUHgoU2gz_cOaFdLtz0Mq54cmo6ykRPd0hON4iGDL_leoxqhI719sXcat2TLcld5t6JxmD6M5SdJW_y-XToPGQbjxlx4eIUA3v_7O9OOe5JFiKxXLUoQSiPUYr1k7itNYn19b97ORSbndMbKw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGfRhKSJdeuzGUgtukMg0OlQ7-JsoLYiouxSKgZOAqne8UMjEHJ4MW_OBvq8NzQuJn0pZzwEBHSK7Q-8o_fvLhz8hhGE4tqFcCrnevk0j67XBfWFCJQreT_5nr49H4vbrGB1zBpmnvV-Svjc94T5uyhzxkzqv9-Ldn1E-uE9oUTEA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，人体动作生成在计算机视觉和计算机图形学领域受到了广泛关注。随着需求的增加，人体交互动作生成逐渐成为一个新的研究热点。然而，相较于单人动作生成，人体交互动作生成尚处于起步阶段，尤其是在生成复杂的交互动作方面。虽然基于文本条件的人体交互动作生成方法在生成符合文本描述的高质量人体交互动作方面已取得一定进展，但现有方法大多在原始动作序列上进行生成模型的学习，导致生成速度较慢。此外，它们普遍沿用对比...</description>
       <pubDate>Tue, 15 Apr 2025 16:00:00 GMT</pubDate>
       <author>石旭;孙运莲;骆岩林;张鸿文;</author>
@@ -112,7 +120,7 @@
     </item>
     <item>
       <title>基于孪生网络和交叉注意力机制的空域和JPEG图像隐写分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFKDrjPRpvRyLUk1-cKDpdncZaVrQnNbcjUpbgRh-No8EgYeSDJD1B1TSDDVj3mYl6cET_Ko6FfK6a0EuifZeLShf6uI4JqPxnE5g4kUcIyBbdFZwRVr1ebRHdV9X5XUqorBubBbpSTN6H30uOiDFGVkpjwqb1S4mBhX0crlW8xNg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGfRhKSJdeuzGUgtukMg0OlQ7-JsoLYiouxSKgZOAqne8UMjEHJ4MW_4yvGoTf7NJY2XqX5hJbSGCvrXvoJ0FLllbrELgBOyNDwOiEStTTaFuz5oqVUJmT_kiqG-ShD6_is-HX1lJei7iPkMeUBi7XdQkS8DTI55tPX8I3XSyxVVg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，深度学习在图像隐写分析任务中表现出了优越的性能。然而，此类方法在捕获图像中微弱的隐写噪声时，往往会因下采样过程中大量关键细节信息的丢失，导致在检测空域和JPEG隐写图像时难以同时实现高检测准确率。为此，本文基于孪生神经网络对图像进行分区域细粒度学习，同时利用交叉注意力机制进一步增强模型全局信息感知能力，提出一种跨通道交叉注意力增强的隐写分析方法(CES-Net)。首先，采用孪生神经网络作为...</description>
       <pubDate>Tue, 15 Apr 2025 16:00:00 GMT</pubDate>
       <author>张倩倩;李浩;张祎;马媛媛;罗向阳;</author>
@@ -120,7 +128,7 @@
     </item>
     <item>
       <title>基于推理阶段的对抗视觉调优方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFKDrjPRpvRyLUk1-cKDpdncZaVrQnNbcjUpbgRh-No8EgYeSDJD1B1O_kqLGgZUJ9yWel4yWnuirX5akol2Fgu7XWBe47HQJOWL7KEfx2ztYjRKzB05UaWlTbEjFUFUPclTflHXD7uJLKNYOhXlr7C-HdFl-6gTr4R-TrFcZA8Ww==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VH1oufYVAM1TtlfXJYRFUKejfxzAOPYyXPypd91CJjMh9RChv57mY3cpJLYTgf8Bw3P2-oWq4UVBgXzhaRXSpV7ik9qnwyx3RMT-Rxkul2at5VQ4PlDD44IiJCr1WPk2u8KPLbF2MmfxGsNPKBoIeC3N2Xh-iP2CsjTDP8IM_KLyg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，大规模预训练视觉-语言模型在图像描述、视觉问答和图像检索等任务中展现出卓越的性能。然而，这些模型在安全性方面存在显著的脆弱性，尤其容易受到几乎不可见的对抗噪声的攻击。对抗噪声通过在输入图像中加入人眼几乎不可察觉的扰动，使得模型发生错误。这种脆弱性在实际应用中带来了深度学习模型的安全性挑战，特别是在处理敏感信息的任务中。尽管对抗训练已被证明可以有效提升模型的对抗鲁棒性，但由于其计算复杂度较高...</description>
       <pubDate>Mon, 14 Apr 2025 16:00:00 GMT</pubDate>
       <author>张家明;桑基韬;于剑;</author>
@@ -128,7 +136,7 @@
     </item>
     <item>
       <title>轻量级密码TweGIFT的中间相错统计故障分析研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VF0zpxZQnNwx48cys2gjsRWgWbuWYcyV3mz8vDOyEqZpWX1YsxGEK06IJ4xWFxaWkT3b85wLiJGr7pMASGNtO-Nr1cn1eL1DGGW6nBSLIcK8YlIFRQB9cV7mG2zYyI1ueNwyxutHwW_eESEZYQNTxitG8g1Oo5g_zqX-GHvM8JfgQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VETMe1cTAv1OVvOmq232Wljmp9nNTfN-ujYxkS1j36mLjF9wvrVcaezIWPuEd3Am9C0UCe33UvaxTo3Jsm5pMP9akXyH35JuozB8Xdr0UOpSEYqjDCFoyLUR6A46U-dWN6f-DJsVAc7vopFfn3yoP-j6ujoXzL9QcDIhoxdqSaWWg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>TweGIFT算法是Chakraborti等学者于2021年提出的轻量级可调分组密码算法，旨在保护智慧城市、智能制造、智联农业等领域中物联网设备的数据安全。本文基于唯密文基本假设，采取随机半字节故障，提出了一种新型唯密文故障分析方法，即中间相错统计故障分析。该方法基于中间相错策略和统计故障分析，通过随机注入半字节故障，获取故障密文并进行统计学分析，设计余弦距离-汉明重量(COS-HW)和余弦距离-...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>李玮;刘源;谷大武;黄佳音;陆海宁;</author>
@@ -136,7 +144,7 @@
     </item>
     <item>
       <title>基于知识蒸馏与动态调整机制的多模态情感分析模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGPGmB90jfZ6I9iQvSYBMWmYjfk6cYAeSpbKFpUMm5xzowFflJtO7TedSuEsNS8Sx8T5adqVz5L_CjixFUbTswrGhLmOnNSWNMf5kJOw02akQhKCQEpOj4IVvq6neNsXRCqVF7XQSajNCAqzLtnd18THtxS4XVcnlzfg5TF6JlwgQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VETMe1cTAv1OVvOmq232Wljmp9nNTfN-ujYxkS1j36mLjF9wvrVcaezNmgK7BPPk1IpTBJ_NE6IWVB-vQZ3IEDl3hFOuFSVkBCZR41ZA-OZvvWyQsjVIMtLoAhUNvblHYk0EvZkQ6YTZ3Oc4dB5PkdmbG9_o2cRK3h2kVFL3RyXtA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来，模态缺失已成为多模态情感分析中的重要挑战。然而，现有研究无法有效应对模态缺失场景，导致模型性能显著下降。为解决这一问题，本文提出了基于知识蒸馏与动态调整机制的多模态情感分析模型（Attention-based Uncertain Missing Modality Distillation Framework， AUMDF）。具体而言，设计了一种模态随机缺失策略，以增强模型对不确定模态场景的...</description>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
       <author>王楠;王淇;欧阳丹彤;</author>
@@ -144,7 +152,7 @@
     </item>
     <item>
       <title>社交媒体优化综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VGPGmB90jfZ6I9iQvSYBMWmYjfk6cYAeSpbKFpUMm5xzowFflJtO7Te7nYuDVTZRUcs20HopVQbKwfQISk9aCPr_Mah1SBt-ogrHe55gJx5qzZ9pMzMH11ibJVK2KYUP-tenWcTbuIfPgddqKc6SkBf8tlqy8SH7nUI3hzck_1AHQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEHrFRXVW2lCQwLxUieqq-uZ1Sn-i9acaEqbaozJ3-TJbzCYPzwBdwCrILginYhqmfzxwvIEEcd6AS1MtQqul3odROm07a3i3skDrmxS3mUyOK5y-Aw12KJ4izEZntGW2UV7fuHcs7RNqNygaoIH4DkhacHVY3zWdy5GeCwp0E3WQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着移动互联网的崛起，社交媒体在信息传播中的重要性日益凸显。同时，大量证据表明，基于社交媒体的优化被广泛应用于商业营销、政治宣传或传播观点，尤其以ChatGPT为代表的大语言模型技术正被当作工具进一步降低社交媒体优化的门槛，优化技术及其带来的潜在风险引起越来越多研究者的关注，但现有针对社交媒体优化议题的研究主要集中在证实恶意优化现象的存在，或揭示量化特定事件中的优化行为，缺乏系统全面的介绍。本文从...</description>
       <pubDate>Tue, 01 Apr 2025 16:00:00 GMT</pubDate>
       <author>王晓诗;景少玲;孙飞;尹芷仪;沈华伟;程学旗;</author>
@@ -152,7 +160,7 @@
     </item>
     <item>
       <title>基于协同决策的SDN交换机迁移方案</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEkTeJRrE59QxHoIB-GrhVBpS--pipkKgY8hul6eKTZj463dkdWnCUkzfhk3U6p2Rw7JNeIsEXvqb2iFHq3Gx3xxIwhqhB42H9ZO1vAyN3_NQGXW1oj4pJzfrqGeMY1bqnWKbH9oEUtgLy3T6U_9ztYki_UIJA3OqieRD_Aal2BPg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VHofsSjR60MFcp3sb8ZzfHds8v_iw4MJCDumLF5D39vVmqbZmRu0HnbpK4Smh6HTgOqUMaVK4QMNoHr0gKeiExBzLB6-5x6dKRWJNAtVLsOj_tXT5WgN1i6X7RSan6zuR3V69tXsLKC_krLhUaKm7wBSAVDe4I2nG8wYWtlGVUjDw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在软件定义网络(Software-Defined Networking， SDN)中，为解决控制器负载随网络流量波动而变化引起控制平面负载不均衡，甚至控制器过载的问题，本文提出一种基于协同决策的SDN交换机迁移方案，在保证控制平面负载均衡的同时，尽可能降低控制平面和数据平面之间的平均链路距离，以提升SDN网络性能。该方案首先在全面感知SDN网络运行状态的基础上，以需迁出交换机的过载控制器为中心，将...</description>
       <pubDate>Mon, 31 Mar 2025 16:00:00 GMT</pubDate>
       <author>熊兵;夏红芳;赵锦元;张锦;赵宝康;李克勤;</author>
@@ -160,19 +168,11 @@
     </item>
     <item>
       <title>区块链智能合约隐私保护技术研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VEkTeJRrE59QxHoIB-GrhVBpS--pipkKgY8hul6eKTZjxWeXigFOUZNBKmHrEJAbnBa7p5V4cJ_gNjtfbzyUycAn-oWd6UyTVxMoog1v7aUx71KIqxiY0GBAI0gxO_BTDLn7DD22DudhwhfhLQJrWR2sORyouOvLuktxib-TlrKbA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VH_XDiHW01___C2X48ScWZU9htbtkw91sINEPVAQny4zTlM44S0uEEI8A4hDx6Gp_azwgQzmnTPgWCwKKKx8J4o5_CGTL58G-QuJUI-KhbE3K8LfcZf0kqKfowV0lJWnr4EtpFQrIBZxBNYzmpxThHBv71STO4kPvbP1GePdVTvIA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>区块链智能合约因去中心化、自动执行和数据可追溯等特性，已在多个领域得到应用。然而，其透明性带来的多维度 隐私泄露风险，已成为规模化应用的核心瓶颈。尽管已有多种针对智能合约的隐私增强方案，但技术路线碎片化与 评估体系缺失，使现有研究缺乏系统性梳理与评估。本文通过定义理想化隐私模型，构建四维评估框架（性能维度、 经济维度、易用性维度、通用性维度），系统梳理和分析了四类技术方案（可信执行环境、零知识证明...</description>
       <pubDate>Mon, 31 Mar 2025 16:00:00 GMT</pubDate>
       <author>王有恒;冯开开;李汝佳;段斯斯;陈庆接;</author>
       <guid>bca3bd62d0b6b6dd9ac3289564de916f</guid>
-    </item>
-    <item>
-      <title>人工智能赋能关系型数据库优化技术：现状与展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=XMmmt_ij6VFJ4y0766eYep_hwBu8VChUSEtEPYPXV-_mAxi4NoJk5jlBNDJ6b4lAwtxd60F-TY1pyVnzQrSvisSlS110WoT0Ffht7Fn-sIgY2ET-BIdMJiw72qPxKloL8vrN9N-UjDB7W9qJIHAJP1ZlEeqfo7SGDxI5c1Vj5o1d4iDVxvINVw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>传统的关系型数据库优化技术(如连接顺序选择、节点调整、成本估算、索引和视图选择)已经无法满足大数据时代各种业务的高性能需求，尤其是云上的需求。由于人工智能技术拥有学习能力，所以在数据库领域展现出了巨大潜力以及研究前景。首先，综述介绍了人工智能应用于关系型数据库的主流方向。其次，探讨基于学习的数据库优化过程中可能遇到的挑战。进而，综述关系型数据库优化的现状及具体技术，并对数据库优化技术的发展进行了展...</description>
-      <pubDate>Sun, 30 Mar 2025 16:00:00 GMT</pubDate>
-      <author>乔少杰;李洲;韩楠;徐泉清;吴涛;袁冠;吴信东;</author>
-      <guid>cab86ba7ef61064427b9b7634699528e</guid>
     </item>
   </channel>
 </rss>
