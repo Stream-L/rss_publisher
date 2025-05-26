@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/QBLL/detail?uniplatform=NZKPT</link>
     <description>情报理论与实践</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 24 May 2025 04:23:29 GMT</pubDate>
+    <pubDate>Mon, 26 May 2025 04:29:53 GMT</pubDate>
     <generator>情报理论与实践</generator>
     <image>
       <title>情报理论与实践-CNKI</title>
@@ -15,8 +15,16 @@
       <height>166</height>
     </image>
     <item>
+      <title>基于政府资助企业产品开发项目的技术主题识别研究</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb3rN9SvL-zb34wjEM2D2XYPmYJqpeXREMqXQ7GASctQoQqmvymDEQ-ywdZIrFOUwWzA9JqY0QLtDR3TKExaPwlhyrdyhp_O8zqXhrrhA3ua5NbQOABYe6I-Ph_38SCWGBNofP39bJjaVrAQmCPW1g_h0Q-k255t-dmZgcxPsQsghw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]政府资助企业产品开发项目数据蕴含着丰富的新产品研发信息，利用政府资助企业产品开发项目数据挖掘技术主题可为政府和企业等市场参与主体制定科技创新发展战略、产业发展规划等提供参考依据。[方法/过程]采用S-BERT主题模型对政府资助企业产品开发项目数据进行技术主题识别，并利用动态主题模型揭示不同技术主题的演化趋势，具体采用美国SBIR计划资助基因技术项目数据。[结果/结论]通过政府资助企业...</description>
+      <pubDate>Sun, 25 May 2025 16:00:00 GMT</pubDate>
+      <author>李佳恒;王萍;凌茗;张博焱;公沛宁;</author>
+      <guid>8a7afcbb4aba4c30a7794dc5c4c00b9f</guid>
+    </item>
+    <item>
       <title>循证决策场景下公共政策文本语义分析的线索发现研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXwQdm32YhnN_l4SowXfy08xRXi1MJdUfJHevWluAn-g038jDs33PqeMx16pNcqiOf0ljC3teKZJD8cuDrcSjhRNMp3FSQTvRe1zKn5S45jO4pi_nytv5PUNajv2E0GL1wLwqyKpuNgozbLxhGjjWMfnG2L6y7B9fDSG6CUJ-OIyA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb3rN9SvL-zb34wjEM2D2XYPmYJqpeXREMqXQ7GASctQoQqmvymDEQ-yGvO7Hly6YnYMrUGDDEMzHWrXtyENzhuwg6WO2aXbvk7irxwt5GKUJv_keTMYtKHRopi-EIQHuxT_IxZ4JSwwDgOhoFcbgOaJJVCo35zAGrDmLuvKH6N1_Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 线索发现是体现情报专业特色的关键情报任务，也是情报理论和实践研究的重要内容，文章围绕公共政策文本语义分析的线索发现进行探索，为循证决策中的政策研究问题提供证据支持。[方法/过程] 以循证决策场景下的公共政策文本分析需求为依据，系统梳理了政策文本语义分析的线索分布，基于情报感知理论，构建了公共政策文本语义分析的线索发现理论模型，提出支撑循证决策场景的线索发现流程与方法。[结果/结论]...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>马雨萌;李鑫鑫;王延飞;</author>
@@ -24,7 +32,7 @@
     </item>
     <item>
       <title>数智图书馆：内涵意蕴、实践特征、逻辑框架与实现路径</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYU6rb9ZiApbYKd0N2YnfSZKbzkgj04UlZ8uVj60W-VqB3Tf2KR5DQFmih_A3ZIrUXEaZdlz_hHbkpUMDZ8o7W4K5CMDiIaovypR_vfXdFivib9mgT-8ATdtKQ2nfYMVnxBBm0I8Xscv8oloVIz5cm6ChSQzLHZI44lFJpVbXdc32g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb09iwMxY4iMFRayLCRhF87XfBRbn-zVx0bNX4sQPpdNRhhwrYqlRWows27QWQYjLjw2w_4F-8WkI-C8HgJg_WDAH4e1Aoc7S5cVfbPXoaHBgCUtkpCxGPAI_SQAqMU3qKi2_OKSIeC7WauRUji-SrB-UnojI7oMZ7-UkDKjrD0NKQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 科技发展与图书馆深度融合，为图书馆带来了全新的机遇与挑战。开展数智图书馆建设的宏观研究，对图书馆事业发展具有重要现实意义。[方法/过程]在分析数智图书馆内涵意蕴的基础上，从数智化技术应用、服务数智化、资源数智化三方面阐述数智图书馆的实践特征，构建数智图书馆的逻辑框架，并分析其作用机理。[结果/结论]数智化推动图书馆重构竞争优势成为图书馆创新发展的关键驱动力，提出可在强化数智图书馆建...</description>
       <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
       <author>袁一帆;卢加文;陈雅;</author>
@@ -32,7 +40,7 @@
     </item>
     <item>
       <title>基于马克思主义视域的信息文明透视——《马克思主义视域下的信息文明研究》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYU6rb9ZiApbYKd0N2YnfSZKuBhs-ynbkN7YrywHicbS0E6Nf-wi8ipQzqPhAabsAT5DbRUgTyiPdKQ__AQL4voI2lv0SaaUTNgPevuEWvfJZCe0XCwUwMpa-NCQcr2g4fWZQDtvueneCQtO9wZksAYf3xAdfvgdwNu-mYXa3EdUjw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb09iwMxY4iMFRayLCRhF87XmASted9_X5uYvaX1IjZqco2xO6P56DyFUTHfC3Y2hdTTuh-1tY8Z6I3Ltd_d3QHC_NBa8yPSeBsjSBzumD-2a10j3w2ZQPs9EpBroDTd7zI6DcoXiRKGb46BiDxVumv_j6LqXkMelIhMkOsHFIGGEQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;书名：马克思主义视域下的信息文明研究作者：王水兴出版社：中国社会科学出版社ISBN:9787522715841出版时间：2024年1月定价：68元马克思主义视域下的信息文明研究，关注信息文明与马克思主义人本质观、唯物辩证法、劳动价值论等核心理论的关联。研究者们试图从马克思主义的整体出发，解析信息文明对人类社会发展所带来的深刻变革</description>
       <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
       <author>苏比努尔·阿里木;</author>
@@ -40,7 +48,7 @@
     </item>
     <item>
       <title>出口管制相关信息资源及其应用研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYVmEeuqVwT1Grp5nGhU6ZlHy2Ak2xvWtt-Iwe33tvVaBPxDwBkB4CwAtLTp5WC3Gr46aY7aqCgD6Z4pHACTpNpFjGexYVeqAvs31Fw-2DoEehcPfOqse6OWkSmMeQ-CqfOWc2twB2STtP7xsMHQpuEtS7FQ359P68VCm7o5ogmkTg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb3n4YKUWmmu47sWyW7FR8zYbv23vL2NoXQZpkRRcA6xR0A86NfQp2rLiFQalm5Q8pkXm6Gyq38wjGG4XMLUIrXSlvXQv-b7cvkaIgpheoXVM351lllLQRTT2ruM8E5TJT6o0uYmj_NNDBFxowcwfjcJ-IovLbWYruC5Ah_zWY9qsg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]出口管制是由多部门、多法规、多机制、多清单等共同组成的综合体系，多源管制信息相互关联和交错，对多源信息的全面梳理可为对我国科技发展和产业安全潜在影响分析提供数据支撑。[方法/过程]对主要国家和地区出口管制所涉及的法律法规体系、管制工具和手段、管制机制、政府机构或智库发布的相关报告等多维度信息进行全面调研和梳理，总结出口管制资源的特征和关联关系及出口管制信息体系的应用需求。并以美国出口...</description>
       <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
       <author>郭红梅;陈雨贝;陈星宇;潘佳立;仵轩;李广建;</author>
@@ -48,7 +56,7 @@
     </item>
     <item>
       <title>互识、互鉴和互补：两个IS分析方法整合的初步构想</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYWceJLM5fDytz7wqneHMkP1hbzHinRex_PrbLEor1GZQI-gQNt3jAt5Cp9Vi43oacF10GiQ2ArunkaJ9rc2vvbxwjOOp4aB5QmP4sD71wtJuEeneNGtlmP-ZRvrrDwl5rA3RnPlXfGQacg5fIp3Hq76_QRqarn_rtfffy1KS5vWVQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb3n4YKUWmmu47sWyW7FR8zYwN_m0wHmKlNm5U6l21q1QYbSmQyqidZ3GdSWQLI4PtThTs5itLqW1UZX6OQBZnXEFoKCr0Rh6J4iPzlAXOJLr6mS2llvRSt8juP6u0NiJgUv-DdGSqP84lSUkEMvVwpbBf7gmRxWvF1Te3QvVTMsAA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]针对非传统安全威胁的日益复杂以及学界长期存在的关于Information Science与Intelligence Studies争论问题，本文旨在通过整合两者方法，增强情报分析在战略预警与决策支持中的效能，应对全球化背景下的多元安全挑战。[方法/过程]采用文献研究与案例分析方法，以“互识—互鉴—互补”为逻辑主线，通过历史溯源、技术工具对比及应用场景等多维度分析，揭示两者互补潜力。[...</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author>胡雅萍;刘千里;肖连杰;</author>
@@ -56,7 +64,7 @@
     </item>
     <item>
       <title>面向国家科技安全的科技情报工作：功能指向、现实困境与实践路径</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYWceJLM5fDytz7wqneHMkP1hbzHinRex_PrbLEor1GZQI-gQNt3jAt5JeQhkq0P0AE04Zbo1NNXIJRAiNF56T8NoYG8NcZGDdSYzUFgS5i7jk34SmDuW-rub7-2bhxU30r8qd7AHnqlLx00ac03wCrrz_ZCGmXfO4wGEid-SUD7MQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1xB-XzssoftwHrcMHQK9cry67pzGRxZViEMOJ0EFaF5R0s_ac4_GwBF_Zeh3bFizdUEXt3fvFzNfXEGcQcWH3SN1DYR-RkkDV2ZaedDUliLO7QaKH2vPDQLDagR5ha2Q7aS2NddkPQJqyPwaJoaAIcIedrD8wz1mfhhhAqnog2oQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]从国家科技安全战略高度，挖掘科技情报工作在维护国家安全进程里的价值，突出科技情报工作对保障科技安全的重要意义，旨在为科技情报工作打造兼具理论深度与实践可操作性的指引框架。[方法/过程] 阐述科技情报工作在决策支持、技术创新驱动、监测与预警、科技竞争力提升等方面的功能指向，剖析遭遇的诸如工作重心动态调整、“科技信息迷雾”愈发严重、基础设施建设高复杂度，以及情报研究方法和技术急需更新迭代...</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author>胡锡晟;章国亮;李辉;高道斌;陈琳;</author>
@@ -64,7 +72,7 @@
     </item>
     <item>
       <title>网络事件重提激发视角下的公众记忆效果测度与偏好识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYUc7s7UJhIyPtUHRBCaVPYB77si_KQyw74cU7yL1fWLnwR2zYMIFqGR6bp2shEr_GFNlghGFs15fd0WWgU2Fly9CgDgTs8SrkT1_cgfzkMnl4xyECWy54-sLRSsdU3HYzvjhvQXF4_4u0CmbtQKWSdaA4oRa0oAbdaeLtko1LasJg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1xB-XzssoftwHrcMHQK9crX10kDCEEMnuZm97naWjq8wU9s7XGmZLnkFIUrQj6zrxOQj5k3tyZ_iyWpuKZeJKh04Vuyegez7wqGcR2EyYZNm5p3tZNunKmHojj8fSJiGws7sKVqXqXlOZYqIid-uytVSxN10tgqP3PG4HLcCWMKw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]通过探究数字时代网络事件重提如何触发和塑造公众记忆，旨在揭示社交媒体如何作为一个动态互动平台参与记忆的再现、传播和演变，为理解事件网络重提的公众记忆特征和信息传播机制提供新视角。[方法/过程]构建记忆强度、广度、速度和偏好的量化指标，采用计算模型分析网络事件重提情景下公众记忆的演变规律，并结合实际案例对384510条社交媒体数据进行深入分析。[结果/结论]刺激事件显著触发了公众对原始...</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author>万婧;马晓悦;</author>
@@ -72,7 +80,7 @@
     </item>
     <item>
       <title>艺术类图书馆助力高校文化育人的实践路径——《大学图书馆文化理论研究与实践》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYUc7s7UJhIyPtUHRBCaVPYB77si_KQyw74cU7yL1fWLnwR2zYMIFqGRdR9OUPQDQ0IsgnuvS4jwGAoGUrtfZmiQK0SiWFpGzhdn6yopuLRr-JeMQyEFZFlEg-vyngrbwLtQfApraOI2qOtVRgELdqpOMjukKYSj0NUxulBtJpRccA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1xB-XzssoftwHrcMHQK9crX10kDCEEMnuZm97naWjq8wU9s7XGmZLnue96-bmts9f81kYgc3mOTN38zJk05MGXCTKS5Fi1oHCChIyx3lIj9oN0iVqw6iJyNNu26MDLQheZkxD9z8oMyZ7TwF_Ch8XtjEJK1eXhaZn_qIhcCsiTjQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;书名：大学图书馆文化理论研究与实践作者：孙琳出版社：中国石化出版社ISBN:9787511470836出版时间：2023年7月定价：58元大学之大，不在于拥有多少高楼大厦，而在于所涵养的“文化之大”。尤其在文化育人背景下，推动高校文化建设是实现人才高质量培养的基本前提。图书馆在高校不应该只作为功能性场所的存在，更要在涵养校园文化方面发挥积极作用，形成具有鲜明特征和强大育人潜力的图书馆文化，为...</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author>李小琳;</author>
@@ -80,7 +88,7 @@
     </item>
     <item>
       <title>探析数字化出版信息资源的整合与高效利用路径——《数字化出版信息资源的综合开发与利用》荐读</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXQWTn4pAuaA4PryqRdQVRt3d8vsdY1NqiVF1k0hdpTSRl4hkPQldMpMQ8JxMspSujJQtxTbwbUFZi4Dx6xt76POwH8ZIMA0K6VqAqmu_kcjGeT1sy5EevA-YPxmbYu3_GSAti4WcGTNB9HEbc08a-KoshNhNm9V_h-cc-DO83Lnw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb19lGaVgXWb5deTDXf82JukOJNcUevOTVNtP2h-ZemioFi5ZCsEVBPMcqTA2eIzWTVyw4XcwQ4-wkj4MBQ0cuorZeAJAM2Xc8hUTjzbL28tR8KKVt57V5A2iu1YLSuSe1-eEbj68lISFmTRrTvYYEpjtEBnpF9iBmqU1kd8Xrzhlg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;书名：数字化出版信息资源的综合开发与利用作者：罗紫初出版社：武汉大学出版社ISBN:9787307123724出版时间：2020年8月定价：66元随着信息技术的飞速发展，数字化出版信息资源已成为出版产业转型升级的核心驱动力。如何高效整合与利用这些资源，成为出版企业提升竞争力、实现可持续发展的关键问题。《数字化出版信息资源的综合开发与利用》一书研究了数字出版信息资源的类型、功用及其分布规律，探...</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author>林增雄;</author>
@@ -88,7 +96,7 @@
     </item>
     <item>
       <title>第三十一届中国竞争情报年会征文通知</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXZ8SsCRWG48dz5xiJgCIuwYPGB7XITKycvahnUiXAwwP9OfyOZAE67OCPpZzKAOSVPUP9F9l4RsO-D7u5aBjhlgX1QzHvTaeg6v03tPUAwjvxaZIEBcOmzSy1oMLqYWeC3tTIvJXWl_zroheVtijNiXQcVuP_D6aFrjwAc2rTGPQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb19lGaVgXWb5deTDXf82JukOJNcUevOTVNtP2h-ZemioFi5ZCsEVBPMQb22u9jXLjFxEKL4JKn-rgGFUu8oH2fk-QUN-riq4ETi_ldXbPSOG4885MNjdq7SWGmLlZ6UJOyC3ZwwBdYFhyey5kQR0wQw7-8fdFWP40uBb3OMja9aVg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&lt;正&gt;由中国科学技术情报学会竞争情报分会主办的“中国竞争情报年会”是情报和信息领域分享学术研究成果、交流竞争情报实践的盛会，已成为业界品牌，吸引了情报和信息界、咨询界及企业界的专家学者和实践者的积极参与，并引起了社会和媒体的广泛关注。2025年既是“十四五”收官，又是“十五五”开端的最关键的一年</description>
       <pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
       <author />
@@ -96,7 +104,7 @@
     </item>
     <item>
       <title>基于大模型的国防科技情报研究多智能体系统构建与应用研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXZ8SsCRWG48dz5xiJgCIuwY7vAqRZRLIQsR3XYKHL-FeqU0sihPkcag7pdgBETV1IyVYuHeI64bLimi_cOGkatvI_xvM6FJHy8ZihiwUuNNPBg9Ye5gUqypQci4OvOqHTiDsPnUSdB7w-s9jTuzK_jrfiOMSDH2qeMh2axouywGw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb2DcDpCZb29fvvQIPexGe3WO5vYq_SwFLcfxZq6_whDAkUjVyyzU-QH_rGQLxpHQ2BFfuKzguo5y_nFAZUcsn9_7MtXk7Nb2W7wXPYQHe2TXK6Ea6kt2oYm-Llm0V9HUsdLY2kUVwVAUBAB7VZ-uggZ3wF6dC4vzvAOFYw-fByBYg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]在当前全球科技迅速发展的背景下，国防科技情报分析正面临信息过载、跨领域关联复杂化及时效性的挑战。传统的人工分析和单一智能系统难以有效处理多源异构数据，因此迫切需要创新的智能分析方法。[方法/过程]构建并评估一个基于大型语言模型的多智能体情报分析系统（MAIS-IA），探索其在提升国防科技情报分析决策效率及准确性方面的潜力。研究的核心问题是多智能体协同系统能否有效提升情报分析的整体性能...</description>
       <pubDate>Thu, 15 May 2025 16:00:00 GMT</pubDate>
       <author>李白洋;张欣宇;赵英潇;赵垭越;汤珊红;</author>
@@ -104,7 +112,7 @@
     </item>
     <item>
       <title>大语言模型增强的科技文献主题识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYWyJD5aBQpH0QFNty7qtpFZqkFTUw5YRCdCx7pShGqtm8azkjrx19n6y8fm8KYaV9jAe63QChd268lEoGYOcjiPxWw461IlyTjgitw8a4WyRdMu0oTYLJPI8cfZFieoTB7IVQ5T9aVPAV-zpcyE2-kEdwDp2qYKjTVrElgABha1Og==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb2DcDpCZb29fvvQIPexGe3WO5vYq_SwFLcfxZq6_whDAkUjVyyzU-QH4KEsTpajksYIHTLweMl1F9y8KB0ocG8L5yFvY1UJY3CXA1u24nmUIP_HjCmc1X2dW4X-Mhm4y5WmBG5HCopzw4P5hcH5MuTUTiKEqZR2Us-ocaDh0M_SDw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]为了将大语言模型（Large Language Models，LLMs）强大的分析能力运用于科技文献主题识别任务，解决LLM在识别大量文献主题中存在的缺陷的同时提高主流主题识别方法在复杂科技文献主题识别中的性能，提出了使用LLM增强主流主题识别的方法。[方法/过程]在主题识别过程中利用LLM的主题识别能力，通过文本精炼、对比学习表示优化和主题解释与再划分的增强方式对主流主题识别方法L...</description>
       <pubDate>Tue, 13 May 2025 16:00:00 GMT</pubDate>
       <author>温晓波;姚长青;高影繁;</author>
@@ -112,7 +120,7 @@
     </item>
     <item>
       <title>“工具－任务－周期”框架下我国人工智能数据治理政策量化研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYU8u8IQXF__OZoqgNKhWGGuQ2ZoJB6LBvN1twJ2ti92LCw9aptqEBUU0zQDfV_M3K3nG7oIQWgWxzldwA0GTFWkzR5GmjEE_w961k5g6bnkwzO5JolSAuXoJ6xQTMK7ZnmMet41QV0jFLY5mYNzfLFzQLANU7515VrC0AH-sy6dtA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1UddpPcyjFTxmc7HBbMFUwr_Vn74hqQPcuSAjp6N3iyCC6ubMw6qcszA6HqxWvmVOoaeL81o9GuZKaNH8zlf8zKzXmFWGyc_eqE23WlsBN17508HftfGv5gcWQcGOsYh3PA3uv3YchGw9l5sVzZHJBjmIYwrki456j5Zmkhj7F8A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]对我国人工智能数据治理政策进行量化分析，旨在健全我国人工智能数据治理的政策体系，促进人工智能数据应用的合规与高效。[方法/过程]利用内容分析法与统计分析法，构建“政策工具—数据治理任务—数据生命周期”的三维分析框架，对中央及地方的人工智能数据治理政策进行量化，剖析政策重点与不足，并提出完善建议。[结果/结论]相关政策存在政策工具使用失衡、治理任务部署相对集中、数据生命周期覆盖不均的问...</description>
       <pubDate>Tue, 13 May 2025 16:00:00 GMT</pubDate>
       <author>吴江;徐雨舒;郭巧敏;陶成煦;</author>
@@ -120,7 +128,7 @@
     </item>
     <item>
       <title>欧盟数据跨境转移影响评估制度的借鉴研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYU8u8IQXF__OZoqgNKhWGGuQ2ZoJB6LBvN1twJ2ti92LCw9aptqEBUUxVaEQ96j3rb27KXPnEJyowPKKaQzOf3ebV2oNJRReHhH7zlaViiiLVmH2ShOeYLcvuAqnotSZXf3xIHOgKqyiGIW5MK-dymZa6jzAZYfRjlrKgLlir1vQQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1UddpPcyjFTxmc7HBbMFUwr_Vn74hqQPcuSAjp6N3iyCC6ubMw6qcs3qgJSeQyXp1ESbzBwg_1qTLkiTSdFTCjyxD0Ae_zu1yk3b9V6A0c6AxdzLhsFX9ERVLSrrddQWBu3yxdDT3Iic2arOd5zm8WPjsuBVOUDXvi5QjFVBdRHg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]欧盟的数据转移影响评估制度作为数据保护影响评估制度在数据跨境领域的延伸，虽新近才成型，但优势明显、特点鲜明。聚焦这一制度优势能为我国优化数据出境安全评估制度提供借鉴。[方法/作用]在规范性溯源分析、比较分析的基础上，结合欧盟数据跨境流动中有关转移影响评估（TIA）制度的实践运用，对TIA制度的源起、特点与应用场景进行全面系统分析。[结果/结论]优化我国数据出境安全评估制度应当拓宽出境...</description>
       <pubDate>Mon, 12 May 2025 16:00:00 GMT</pubDate>
       <author>李江艳;朱兆清;仲崇玲;唐超;</author>
@@ -128,7 +136,7 @@
     </item>
     <item>
       <title>TOED框架下公共数据利用障碍关系诊断及突破路径——源自中小企业的经验证据</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYVz0M_arhDMHCOuJbNDWzjpHV0OQMqHISu4bRGOZCZOKKmbZHL_KSFF99bn7tEvKD1mIynUynFEmk9Pru_WbUgBLXrcBqWINRfs0R5zE4NkM8jYlfzlmTxK7ZUN5BiRzOc9a5b3eBikofmtCn0ULy16XUvS_nvr3Kfwbo5P1GOhcQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1hrkT3DuWL3zhU87k6OkLy48EBUCu00VsSbfswOJOLJOwotyGpEvj-DuDEcHlUX8lQ37mFFzS7xCqE7_MPBFMxNLfu19XG04iLG2y_jAbmaYNX0G_FmGCniF0i46bwuMXFPOYh0cgKfZaCs2rFmwEPg5ISFAGJZMwo6vuYwDKIYA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]探究公共数据利用障碍因素及突破路径，有助于最大化开发公共数据利用效果，促进公共数据价值释放。[方法/过程]结合TOED框架，以中小企业为访谈对象，构建公共数据利用的障碍因素体系，之后运用DEMATEL-ISM组合方法划分障碍因素层级，以诊断障碍关系并明晰关键障碍因素。[结果/结论]研究构建了公共数据利用障碍的多层递接结构模型，结果发现：组织缺乏信任、数据适用性低、数据利用成本高和数据...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>郭海玲;卫金金;勾香韵;马红雨;齐刚;</author>
@@ -136,7 +144,7 @@
     </item>
     <item>
       <title>学术评价中客观评价的本质及问题研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXj7Qn1CPRcQfxC_Zp6zXf8_pKLsyrrz2pAeJi7K1CFoj2m71MFm914Z6_22EUugDWdCoJ5ZquaR-Mz7b3bhdCHoj0fiajxl-QY-B7lmAdCMbxIplECG8FyZ2BmvAUzoVn9CEzZEcfnVOCtCo_o2XiuokZtghkFokPhayXub1jeRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb1hrkT3DuWL3zhU87k6OkLy48EBUCu00VsSbfswOJOLJOwotyGpEvj-L01A18aZ39EcY0gm_WoFOWGxHI0MtUkpGnZn3BicEQqMUk0lYRiE6z1gaQ22Po58KOtVEGsGwh9-xBkCnvTe2AZF8lwmquCKmpZ7WzAlMYE19BALB9_YZw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]在学术评价中，客观评价在学术论文研究中得到充分的重视，而评价实践中往往以主观评价方法或主客观评价方法为主，这是一个有趣的悖论。[方法/过程]文章在界定客观评价内涵的基础上，对其本质和逻辑问题进行了深入分析。[结果/结论]单指标学术评价本质上也是主客观评价相结合；客观评价方法是个伪命题，根本就不存在客观评价；客观评价思想永存，必须追求公平公正和无偏见的评价；主客观评价方法应成为主流；应...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>俞立平;王泽炜;朱婉桐;</author>
@@ -144,7 +152,7 @@
     </item>
     <item>
       <title>基于知识结构突变的企业舆情风险弱信号识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYXj7Qn1CPRcQfxC_Zp6zXf8_pKLsyrrz2pAeJi7K1CFoj2m71MFm914ZYEIVCbAb_smJ_Ti4qpsZ30e6vIslqZuCTS-dalTnUwwKyVI6E4SggtK3ZD71afPAf3Jllc8eqktV8v_YtTwKeZESbDhQKCXm6Ron1pjhXyp9nowIM4T0A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb2ec9tFKjAnHZBF-LAPmHPItAqpKUF3c4qZHtVnAdbMfXKpDySvfTcHzMkVffxio9NLUafdVfRmwIIkKyqR9ghk20vbcK2_Z67cPz2r3aXFerGrWIYpvIW5BZmoMuOmwYwcIaeNM638ZV9t5_yHC3lywr_G44wp9RIeTii3ph5PUQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]识别企业舆情风险弱信号有助于及时跟踪企业舆情演化过程中潜在的风险点，为管理者的舆情风险决策与事前预警提供情报支撑。[方法/过程]提出知识结构突变视角下企业舆情风险弱信号识别方法，基于LDA模型初步搜索企业舆情风险弱信号，借鉴图核理论刻画舆情风险弱信号的知识网络结构动态演化特征，运用PageRank算法衡量舆情风险弱信号在知识网络演化过程中的影响力，构建基于结构突变率与影响力增长率的二...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>杨美芳;杨波;李佳;</author>
@@ -152,7 +160,7 @@
     </item>
     <item>
       <title>用户体验视角下生成式人工智能对话管理能力测度研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYUlpK1boeGhp_wzrDvSD-9viEOqxm_mnfnyAU83EnsF6P7z2RAeSE_bpxNd2Ar_c-I8ovxJH7WYSYTcX3kHJ2LN9dV3FPnFdy3G3JGB4EORFXphbridpf2UgFCiHqGk4EmNwqi_0HrwRgIO0rTaZ-Qq4OeEmticyOUSgXAuI87ePg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb2_Yk8m6SrrUEn_8zSdHDnxBFwjtu0emUA4izcZL4XZki3pJgfm9JJBmWFA3DfnJlkzOgIetp0S0i_SWXuP4BMeZbewVb-QXp688cj36OVHBPcoXrF_U0f52N2egMFxpBMBFueiGTv7miKGwLezaWfFtKoUAR_djF34P3SlLs9N6g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]目前，缺乏用户体验视角下生成式AI对话管理能力测量工具，开发专用量表以弥补技术性能指标和用户满意度问卷的针对性不足，为用户体验优化与产品选型提供科学依据。[方法/过程]以现有相关研究为基础，通过半结构化访谈与专家咨询，开发生成式AI对话管理能力初始量表。采用两阶段数据收集（n=205/406），运用探索性因子分析与验证性因子分析检验并修正量表。[结果/结论]通过严格规范的量表开发程序...</description>
       <pubDate>Tue, 06 May 2025 16:00:00 GMT</pubDate>
       <author>李华锋;袁振豪;孙晓宁;吴丹;</author>
@@ -160,19 +168,11 @@
     </item>
     <item>
       <title>基于机器学习的“从0到1”型技术融合预测方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYVkkJYybMttGu5w9Tld32BUvbphYe0kLgYvVVoK0OD2e3HoWAIxaPelftmOsv0IwzryZ9aFbFwk594G8P10N1UL42h2YTOcprEKB5VHQmSRpSaCES0oREopa3EKstYZ4wUk0nThZ88-iS_oUVJolGtXwVcV3Nj_XUv2jvY-yhewzw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=8t0HcLKTPb2_Yk8m6SrrUEn_8zSdHDnxBFwjtu0emUA4izcZL4XZkuhRWzP_WfG4QxwUCY9hAzy1HDG9iVn4-98iZf3soy9a5EOjeJHC7z4OPirN6pjz5ppeEOvtZeoJrSMD0cBjzH9gDuYT2L5DohY9VmGD_0O4P0qoC6js14-cqvP3kitIrQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]“从0到1”型技术融合是新兴技术的种子或萌芽，本文聚焦“从0到1”型技术融合的预测方法研究，为技术前瞻布局提供支撑。[方法/过程]本文利用专利数据，用专利分类号表征技术，用专利分类号的首次共现表征“从0到1”型技术融合，建立技术融合预测特征体系，采用机器学习方法，开展预测方法研究。[结果/结论]研发机构特征和动态时序特征的引入显著提升了预测效果，结合4类动态时序特征（语义特征、研发机...</description>
       <pubDate>Mon, 28 Apr 2025 16:00:00 GMT</pubDate>
       <author>吕璐成;赵亚娟;</author>
       <guid>f7ff688e74c1bc910435fb0d356c6524</guid>
-    </item>
-    <item>
-      <title>AI语音助手对用户的情感支持研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYVkkJYybMttGu5w9Tld32BUvbphYe0kLgYvVVoK0OD2e3HoWAIxaPel6XRFH-Bwml9YKLd8_7L6D00ciXb-6pLJn70H4GSGiJwS23GAkJsULcRr3sKGtPj63NjIZ5ykrf-qKvJTpWlGckZWEr-_BXzY8QvA1upfPumSeGcZwhDx4g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>[目的/意义]研究AI语音助手对用户的情感支持是为了更好地让AI与人类思考或行动相互适应或匹配。[方法/过程]文章从理论逻辑、技术支撑、策略方法以及评估标准4个方面，构建了AI为人类用户提供情感支持的分析框架。使用绿野仙踪法采集用户与AI语音助手的交互数据，采用模糊集定性比较分析探究情感支持策略和高水平情感支持之间的复杂因果关系。[结果/结论]研究发现，在压力情境下，AI语音助手对人类的情绪调节具...</description>
-      <pubDate>Mon, 28 Apr 2025 16:00:00 GMT</pubDate>
-      <author>赵一鸣;王子钊;陈宇;陈忆金;</author>
-      <guid>99126f1c631096eb03440b4546b119e6</guid>
     </item>
   </channel>
 </rss>
