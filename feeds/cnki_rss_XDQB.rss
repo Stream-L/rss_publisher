@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/XDQB/detail?uniplatform=NZKPT</link>
     <description>现代情报</description>
     <language>zh-cn</language>
-    <pubDate>Tue, 27 May 2025 09:29:18 GMT</pubDate>
+    <pubDate>Wed, 28 May 2025 09:30:35 GMT</pubDate>
     <generator>现代情报</generator>
     <image>
       <title>现代情报-CNKI</title>
@@ -15,8 +15,16 @@
       <height>166</height>
     </image>
     <item>
+      <title>生成式人工智能环境下用户学习型搜索行为及效果研究——基于认知风格和任务类型</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58AcpGE38UunJ2EtHKoNYE9K96LYByON45a4rRFLxqvBkMHtnKENhfP9D57nai4AOVleQjnScPVekLmvs1AWIoXU4kQrmgVFqZSmVlz5yy3YqWLUrRNw2QiTwiJCOv7KHMnbjnUxJ0qfKmPHtCmeQCs9I2foT-_qu5xFVQQgeVWlw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]生成式人工智能技术的快速发展为信息检索领域带来了变革，本文旨在通过分析生成式人工智能环境下用户的学习型搜索行为与效果，并探究认知风格和任务类型在其中的影响。[方法/过程]运用用户实验与数据分析的方法，采用场依存—场独立型认知风格分类，设计理解型与分析评估型两类搜索任务，收集用户的搜索行为和学习效果数据，并利用方差分析法进行检验。[结果/结论]在生成式人工智能环境下，认知风格影响了用户...</description>
+      <pubDate>Tue, 27 May 2025 16:00:00 GMT</pubDate>
+      <author>郑博文;王鼎庆;</author>
+      <guid>b34103fdf290df1fb52451f602b12ef3</guid>
+    </item>
+    <item>
       <title>基于信息蒸馏框架的科学范式转移特征分析——以高温超导研究为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6tunBGuB6gRbdM_WkJEFguoLcYPVchkUZfLlZfd9BMb7ehV0hQFJX8edenHp9JPKxT0peYqq4cflLZsE-WZu-WwxytibgfXdlal8C3kFFFZDbhmYaQG1i0dmrSuyIvxa-A0fOdWW_gWY-_zoG9z1Jrcm6umCU_Pn-tT6vxLhJbHKA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58E7TUDdq_SKK5NLAZqIZTAKRFnedFyDWjQIahwBYhGdasvhjMRKf9j5PulcAJEh6U1yVO69YJgB4uBQZfspibPtVtGfNJY_dSOsAq1-B_k6O0SIoUj47oHoytz2H24JuDE1G45yJufoValmU48sMODmPIHlWR5JA1zOUumspDAmg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 科学范式转移被认为是科学颠覆性发展的表现形式，测度转移程度，分析转移路径特征，可前瞻性地识别具备引起范式转移潜力的研究。[方法/过程] 本研究通过构建信息蒸馏框架，识别并量化领域内特有范式核心信息变化程度。将论文特有文本信息结构化表示并合并，采用差异性学习方法识别目标论文核心信息 ，随后利用信息瓶颈压缩并过滤冗余，得到领域内论文与目标论文的最大相似信息，最终依据不同论文的信息共享值...</description>
       <pubDate>Mon, 26 May 2025 16:00:00 GMT</pubDate>
       <author>梁晗;胡志刚;侯海燕;</author>
@@ -24,7 +32,7 @@
     </item>
     <item>
       <title>智能Agent情境适应性角色扮演元综合研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6vilcnVIsYz_jqO3YClbvkcRLlmQFCDTke4OJbW801_DozS1GxdjASUXH_0E760SIptdNea2fI2sCa43gBn0pxOaNmip9ZccFvFNJdfXG8aET1aGBQqfhjzcuDluuz1rY4giS8P78t927_fqFAl4hgxaUOhQu_3wFvKlkDBjXSDFg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58E7TUDdq_SKK5NLAZqIZTAKRFnedFyDWjQIahwBYhGdasvhjMRKf9jtUNgitKXDpWBLjJhRR9GZdq12A-oskS_-iavR6HBwOU4YbF-UStEXXW58e4P2ox4O_s7KqkAqI7KDoeKRNnBs6SdXN8nK-uc0AbkzeG4su_IrFb_mD1gag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]通过系统性梳理智能体角色建模领域研究文献，解构复杂应用场景中人机协同机制，为实现智能体设计范式的迭代升级提供理论依据。[方法/过程]采用元综合方法，对严格筛选获得的89篇中英文文献进行编码分析，从角色需求、角色创建、角色交互3个维度解构智能Agent情境适应性角色扮演的研究脉络。[结果/结论]从人智交互和情境适应性设计的情报学综合视角，提出“需求定义边界（What）→技术实现构想（H...</description>
       <pubDate>Mon, 26 May 2025 16:00:00 GMT</pubDate>
       <author>李华锋;赵紫辉;孙晓宁;袁勤俭;</author>
@@ -32,7 +40,7 @@
     </item>
     <item>
       <title>三元交互视角下网络用户信息茧房形成机理研究——以豆瓣小组为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6toBFQ5YWWcIPmTnHZ6W8RC8EWEfm89naqQpjP48C98f8YlfhsvFbOdU4fssQbvP6q5v3-smf4ChXMKhdjJH8O1CBw_WNIX6_iVmXhPBx2M1cgE8ytE7o_ZNsLUDtPw3PbsvlS9OF0NIj5k-NuQQuLmDerMYaC_Diz6CCOE1R0v-A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_y8TYrWZKkwHaWAgv7ZLyMDC3bG9aONMIfn2DsNMvWOBI-0EMvTDvndgzb3tVjTgdnEq320ucaKdVOoRBjlaYGDcIRQbDYq3EO9lgtYa1nI792OiGK98FufxUYY3zJkT3W3iXqKXD6uYslbaoHrhsIfDCa0evQz6WO5ybudZdkZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]从三元交互视角探究网络用户信息茧房的形成机理，不仅有助于削减信息茧房对网络用户的负面影响，还有利于清朗网络空间、优化网络信息生态。[方法/过程]基于社会认知理论从个体、行为、环境3个维度构建网络用户信息茧房形成机理分析框架，以豆瓣小组用户为研究对象，采用文献调研和半结构化访谈得到网络用户信息茧房影响因素并采用fsQCA识别关键影响因素，最后对网络用户信息茧房关键形成路径进行三元交互分...</description>
       <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
       <author>李青维;马琳;张炎培;赵雪芹;</author>
@@ -40,7 +48,7 @@
     </item>
     <item>
       <title>健康医疗数据交易的困境与纾解：基于阿罗信息悖论的多主体博弈</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6uxnxCtaJADoBC2THqi2lHc7mrj8qulWXWa-FN2zNO9S2AyPjYxylFMz1YkpLQUVNtJjL5Yv_A0GEO5XEYCSurO2dEB4e4Q8hd0tynCai_1vIEjt5e2HzfwmRZdlEQsYEr7pOQRBIpO2roaMcZr5WGkNiRo7t8k4LQE7fiAf1IuCA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_y85PCHMLlfY_QLcRJ_lNt5itxodGSuIz7eTpTo3pskZTOrklbwStl6pFSrbp0RO2B5PQohxUwUMGzmSGWj8xgeRG371RoqJVFlbJWS7gF-xfeCXMP1xZi2RuPZ3kXLKELtJEzhLOcP9Mwn34TNZETYsfYn4V6UOKN3o5gaJDcrQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]本文旨在剖析健康医疗数据交易过程中所面临的阿罗信息悖论及其导致的交易困境，提出纾解策略，推动健康医疗数据价值实现。[方法/过程]通过构建四方主体的博弈模型，分析各主体在阿罗信息悖论影响下的博弈逻辑，包括其系统动态演化过程与均衡稳定策略。在此基础上，以健康医疗数据交易现状为背景，借助MatLab2016b进行了模拟仿真。[结果/结论]研究发现：健康医疗数据提供方的策略受数据维护成本与声...</description>
       <pubDate>Mon, 19 May 2025 16:00:00 GMT</pubDate>
       <author>金燕;陈登建;高晓宁;杨瑞仙;潘新民;王平凡;</author>
@@ -48,7 +56,7 @@
     </item>
     <item>
       <title>面向关键核心技术攻关的突破性创新潜在主体识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6uMeyt8gziyc4C-Mfhd37-pGKnhn4wtSFxxRvOCX5sVvVoqPOF-U6nor6Orl2r3QB9Y5dOFJi_gz9WSucISEGm04YTQm6PhacMjXdoF810n5ywAtLDORRsxPdP-POBgkaihmL_bLiP0ibeDx8dI0q2BCmP6YFKiS1ITa5AvXZTMHA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58-yRzNOekGJx-neTzboQ5QPyc37ia6R40PJ5EXYyhJm2NeMUFw2tu9799d1WQX9eZDa2TW2B9FIWAkoCxzWQr1cIBpF49oWwPoZGzmBMSY6LcLKA0BOzq2itBTNSYKr-ZiJ_ZBnMlmsOM_XVG_ncOhmwWanU_e-RQq4jzKb83qQw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]突破性创新是打破技术锁定、实现关键核心技术自主可控的重要战略手段。精准识别潜在突破主体是优化关键核心技术攻关组织管理、加速技术突破的重要前提。[方法/过程]基于技术轨道理论构建突破性创新潜力评估框架，包含发展基础和技术跃迁能力两大核心维度。进一步，结合突破性创新特征将评估维度细化为技术成熟度、技术影响力、战略安全性、经济价值性、专利前沿性、产业交叉性六大子维度，构成主体识别模型。采用...</description>
       <pubDate>Thu, 15 May 2025 16:00:00 GMT</pubDate>
       <author>冯南平;刘鹏飞;</author>
@@ -56,7 +64,7 @@
     </item>
     <item>
       <title>基于开放式创新的智库知识服务价值链模型构建与应用</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6uMeyt8gziyc4C-Mfhd37-pGKnhn4wtSFxxRvOCX5sVvVoqPOF-U6noE3aa0SXLyYQ9oZ0dnkMtC8HxpTZKa3vMCuns0xTt1JAHN-XlNR7K2PQOMZEphm4Vl3yjjEY6nz-rkoo2n0K7_s75VM7e36vvHU24uUnd0h_qTmfmVj4rZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58-yRzNOekGJx-neTzboQ5QPyc37ia6R40PJ5EXYyhJm2NeMUFw2tu9uFiuItUkpf9CqNRb316IuaOXnEso_O5COfF9B5Kst_aeOjB1Xw1CEL_HXJs0t7ej4bir3AkDO-W4lNwLLpWC_xvAfNLFG8P-OosZ4jrZncED2yxU3sZVVg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]构建智库知识服务价值链模型对于促进智库知识服务增值，提高智库知识服务质量和水平具有重要意义。[方法/过程]基于开放式创新范式，结合知识价值链模型、知识螺旋理论和开放式服务价值链模型，在分析智库知识服务价值链的基本活动和运行特点的基础上，构建基于开放式创新的智库知识服务价值链模型，并对该模型进行实证验证；应用模型和实证结果，提出加快形成中国智库知识服务价值链策略。[结果/结论]构建的模...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>申静;杨家鑫;杨晓荣;</author>
@@ -64,7 +72,7 @@
     </item>
     <item>
       <title>重大突发事件公众在线参与：研究脉络、理论框架及未来展望</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6ubAJZFPjNwEpHNs3EScFOouQJoOhQ6QaPQ04B8XYqSiu0xhvFSs_SCyv7hGWQzh9OlMIxnCGy4_vaqARNb0E-L1I1jCjT-cInmIeNuIOcUPGmb-qqSW8SF43tgV2ce1oylayN9a2zvGUNqHLRhdf5UNKQUvHO8gUj9bo0x3XsOFw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58aI7rqhMBu8A-VqtDUBH1h8e9j0l9IOBGxQZHaEFwa8WqVUxSq0y4rn-emr-n4f-GkyMGIa0ygWyfoBsoa8X5Zyw2jIUFKooYl6EBqT4uURJ80qK8mDMHTksOHDB2fTYTuqcBUToeDYKcbVbvv3q0w6UJVQavpXE_zGFBJKFYfCg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]随着社会结构复杂化和信息渠道多样化，单纯依赖政府的重大突发事件应对模式面临诸多挑战。公众作为应对和治理资源的重要组成部分，公众在线参与可以有效提升应急管理效果，并成为图情学科、信息科学和传播学等学科共同关注的重要议题。因此，本研究通过整合相关文献，对重大突发事件中公众在线参与研究进行了系统性综述，以揭示该领域的研究脉络和理论框架及潜在的研究方向。[方法/过程]本研究在概念溯源的基础上...</description>
       <pubDate>Tue, 13 May 2025 16:00:00 GMT</pubDate>
       <author>杨梓鑫;张海涛;吴川徽;费瑞腾;</author>
@@ -72,7 +80,7 @@
     </item>
     <item>
       <title>积极取向的信息行为研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6ubAJZFPjNwEpHNs3EScFOouQJoOhQ6QaPQ04B8XYqSiu0xhvFSs_SCAzaLO2_4cvOehFqPJDoaLW6N8CLULUL1-nm-gVpvhKXxXCbr8-wZO-_qtWbQRskm-LzLrjRnsPxwwSzliyASmmrZ-Pj51s2jyG1_cDvbP0mckP8lLzg6Iw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59YfPTv5fdb6U9yIT2E0WUw53PVUHbilywNKHH4Muc5Lx3HtTzYrEwWyb2SVg8NiO3qIv_r9yfDKqq71-Qrko2ANQzxfFk5mZUKyiutl7uWnAu5WwZP6oOqnqpL35L21-PGJBx6VBqmPzyNA6gpfII2mNXkmku2LyCvuX9evwunWw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]本文旨在探索在人工智能技术迅速进步的时代背景下，如何开展信息行为研究以提升个体在信息环境中的幸福，为建构更具包容性和支持性的积极信息社会奠定基础。[方法/过程] 基于对积极心理学和积极信息科学的理论溯源和信息行为研究与积极心理学研究间相互赋能关系的讨论，本文提出了积极取向的信息行为研究的范围，即关注信息行为研究中的积极因素以及如何以积极的态度面对消极事件或现象，从中挖掘积极效应。[结...</description>
       <pubDate>Mon, 12 May 2025 16:00:00 GMT</pubDate>
       <author>王馨悦;刘畅;</author>
@@ -80,7 +88,7 @@
     </item>
     <item>
       <title>可穿戴数据分析驱动的运动障碍跌倒风险识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6teeMGrWrJ0uFcWGlbeTO_y6L0mobni4LwhI2NL9IwlxhnCgRG6P0xy9V8c--IR2tYdn3eZc7uEv1jXhqcno4jZGT8f-Mia7vXjzhTRNf_fL0Sesd8YYGifd-lFX94yer1qKEOtE5S3KQONAaoluJYjBS03M42v5hoHabZX9_RnCQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59YfPTv5fdb6U9yIT2E0WUw53PVUHbilywNKHH4Muc5Lx3HtTzYrEwWG3msEqRmA6a_BSc1tt2-2Mmga8ewWj1z5FnldGx_J7hmgjeCEtavfV1u5oHO6Zws2b2s_k_nPFNE8APKGrPMubIxFxpTd4uwo8XnDH-Sz-d0of9OaNy2Qg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]本文通过对运动功能障碍人群跌倒风险行为的研究，旨在构建个性、实时的跌倒预警系统框架，为相关部门在主动健康管理方面提供参考价值。[方法]本文将多模态传感器数据送入PDR-CNN双阶段解耦识别网络中进行特征提取，实现对人体活动数据的实时处理与高精度识别。[结果]在公开基准数据集UniMiB-SHAR上进行的实验评估表明，所提出的PDR-CNN模型比Plain-CNN及DepConvLSTM两种...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>滕起;杨钰婷;印玥;胡广伟;李硕;黄奇;</author>
@@ -88,7 +96,7 @@
     </item>
     <item>
       <title>面向产业链融通发展的技术合作超网络构建及特征分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6vNFnO1df72xPtLHy0es5D5poyUi7xBjsE_J4CA0F7ws7fuj1FLINwQrbi5F3VjMY_A3GJGudaCeb6APq8jrJhJUmygbZYQuzd6x7vWjikMYMUphR9rE70_UIT-1Vd21DNCZA8IWDVYrh6QC4D73RL1xwwNXkIyJJgA_wy79FTTxA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-Yft7wro6jkrDoAifSJPgJJMhyix5MRPSlKjuqnAwD8GAfkpbA0yj_MosMUDzA3d7eYJPQmgEIA_gHt3qZI2y3o5Mwm6fAuMU3t36WvYZH55n8KpevQkDpqKfkabiO0Ha3aGfxJO8arIHMZRhXaaHSh1S94COusdshkGhvrZK3NQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]产业链融通发展是产业转型升级的关键，其中技术合作是产业链融通发展的核心方式，厘清产业链上中下游技术合作现状与特征具有重要意义。[方法/过程]本文提出面向产业链融通发展的技术合作超网络构建方法，并从多个维度对技术合作特征进行分析，揭示产业链技术合作发展现状与趋势。首先利用专利数据构建技术创新合作子网络、技术转移合作子网络与技术许可合作子网络，并通过节点映射构建产业链技术合作超网络；然后...</description>
       <pubDate>Tue, 06 May 2025 16:00:00 GMT</pubDate>
       <author>郭锐;董坤;张晓惠;陈可鑫;高义峰;</author>
@@ -96,7 +104,7 @@
     </item>
     <item>
       <title>人智交互情境下对话式系统的适老化设计研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6sERFCwv82XEjgv8B-7iTr2wBUVmClUocyckpmBh3ZGZgnvZc3bq9juxqBy8CHucnvByfPD7zr9onpnTv1FJvedthjzIfKmXCotW5ZQ-VO742Sg9jnsvlf3z4wksxXR06DUY8ZkAiwPyeApWCnr6qg77G5YZNylYfTjbPy9XlNoHA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_MyFGYUJfRwWZH4jQnevLOfEcdFKw4DaW4ijvQ26ctgDoJoSOep6c_pRNVsYvK5DpayGR4LHGbayKEdLyLwzCMpcyGSzbHzuJTL1_kJJXw3o8hoQn6tQ66Q5pr93sgDrACY9nciz9A1KM6sGI4eyHf22LtFawDA4oLwHb-JAzjvQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]本文系统性地梳理和评述了对话式系统在适老化设计领域的研究进展，以促进该理论主题的深化与实践应用的发展，为设计满足老年人实际需求的对话式系统提供理论支持，帮助老年群体更好地融入数字社会。[方法/过程]采用系统性文献综述，对96篇中、日、英文文献进行数据提取和综合分析，从对话式系统适老化设计的驱动因素、设计范式、设计要素和评估体系4个范畴进行深入探讨，构建了对话式系统的适老化设计整体研究...</description>
       <pubDate>Mon, 28 Apr 2025 16:00:00 GMT</pubDate>
       <author>蔡辰;郭文智;孙晓宁;</author>
@@ -104,7 +112,7 @@
     </item>
     <item>
       <title>探寻未来科学研究前沿  服务国家科技创新——评《未来新兴科学研究前沿识别研究》</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6sERFCwv82XEjgv8B-7iTr2KpeH1irFqyFQf-ZYfbvHGt4VHQa34wtNgCJFUgRN4o14NAt6cu9NBFX0FsBcKDXUtg9TM1BeV7NotR64oz9t-OPHC50FGkS02uAtKNrAGMfp2tG77H0A8NlruEaOzJYCASh8aXA-BkhPV2NmL0TfnQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_MyFGYUJfRwWZH4jQnevLO2jA8XvsPzAGV0lfr6H9wxHM0anglfM-IheV3luZeocgOgE5hJlwtVv3S0RyblSehbkVuuEs9-1LOIKll3g-Jha3BGekDWW458axbO8Xvlu12FBENavDIcbzQI3D6IUy7uqMbPHJb_eSvQEkhbJznbg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]科学研究前沿识别是科技战略情报领域的一个重要方向，对《未来新兴科学研究前沿识别研究》一书进行评述，为科学研究前沿探测与演化、关键核心技术识别、颠覆性技术预测等科技战略情报领域的研究与实践提供参考。[方法/过程]从多源数据融合、文本挖掘方法和多维指标体系创新、可视化分析工具运用、碳纳米管领域实证等角度对该书核心理念和观点进行评述。[结果/结论]该书的出版对科技情报研究以及科技管理部门研...</description>
       <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
       <author>曹树金;</author>
@@ -112,7 +120,7 @@
     </item>
     <item>
       <title>中老年社交媒体用户偶遇健康信息利用行为关键影响因素识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6sZEUnPEjDCfNXbwhZRyHrg7BiT2B-RK6DKIPkmncyXs4nr74yxFrCp6R5F-yJu6j9umdSB6eEbD2BollHgHyl6U6OwH5XUSfQiyBMfyHEH2CjtBf3b046_MPHFZ96acuI0v3zfzAE6ob5Yfor5YlVuyjvydu82ta-x6hlGEF9uEw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59By0FhEUF1s5p3I8zCzEutEXnUX2G8w_gNsBa6xalmKebjjrNlb2wE8XU-SfFjfbDb4TOMJ5CJfkJ7YbOaLo4u6L8x4r9IY2Rafojc-RSWoSzkqOQPB8R1vPJYVhBVyuqA-WJy0pwyqTRhm1tzrlMIdVTNIRr7vw2RIWvczsvAxg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]识别影响中老年社交媒体用户健康信息偶遇利用行为的关键因素，进而为优化中老年健康信息服务提供理论依据和实践对策。[方法/过程]首先，基于半结构访谈法对30名中老年社交媒体用户进行访谈，从而获得研究原始资料。其次，结合关键事件技术法提取影响中老年社交媒体用户偶遇健康信息利用行为的因素，并构建影响因素模型。最后，借助模糊DANP法明确因素内部关系并量化其权重。[结果/结论]结合影响要素的影...</description>
       <pubDate>Thu, 17 Apr 2025 16:00:00 GMT</pubDate>
       <author>田梅;刘菡;刘雨薇;任文杰;</author>
@@ -120,7 +128,7 @@
     </item>
     <item>
       <title>期刊学术质量评价及其学术交流效率测度研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6uhaCFbZ4gPKeq1cci9VqVNMlE0zEHg_RMKMiSbuLg2kYlNk9tieJPqB4zX25B-QxxNKCHDXPk4t-vrOxqYW3N7PcYTKi1fzlzbcvtfbn8y-TDwG3Omnf1zYuKx_3ukx50L3XpIf2NiI8f7UedfcA_BA-DADdH3WWFNpbkhBlVU1w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58WINtQK4b7gFKRfDc9z0b6BOxWbpJCLWBmihWOeL9etecApRMp3oeJVzEDn7kho-lqT2DzVMri6PqOByJm3TbSF3mdcOGn4ncW7BNx6UbRexmZqQJiErzPUu2pPUZ22zRvIuZ5r-WWxDq3EX3Y0MtFPjqkTA-LoOMc0oMrhzUPHw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]期刊学术质量的直接评价指标比较缺乏，因此也难以评价其产生的学术交流效率。[方法/过程]本研究创造性地基于投入产出原理，提出一个新的测度期刊学术质量的指标——JQ指数。基于中国知网管理学期刊进行学术质量测度，并测度其学术交流效率。[结果/结论]JQ指数是测度期刊平均每篇论文学术质量的一个优秀指标；管理学期刊学术交流效率水平总体较好；少数期刊处于规模报酬递减阶段，其学术质量有待提高；应因...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>俞立平;</author>
@@ -128,7 +136,7 @@
     </item>
     <item>
       <title>社交媒体虚假信息纠正意愿的影响因素：来自一项混合研究的经验证据</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6tb0cAo0Wqh3waKTh2hMq3OXlP4McGdCzRr1RdNTYUsjpDMlZqwg60kTk16BEIoXT6sCc82_EUR_3zK92VHCj_8b4KNoZmqAj0IReHDxkZal3yoZ_qFXUpE3tzfzDujDpcC84Xe9vyh-BQzEbUWb5sxdqgpX9cNzxsILN_nhKXZHA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58WINtQK4b7gFKRfDc9z0b6BOxWbpJCLWBmihWOeL9etecApRMp3oeJghwh5FooMf7u78O2AOoAOWT55Fv6tSBi-EP8TeL8q8SSCQb8n0A6YVuqKUZQItLRN5Vo1_QQSYXeb1ZMHHFmQudM0rkd74hh9ODB9D211ghWTV77A6UKLQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]本研究采用混合研究设计探讨社交媒体虚假信息纠正意愿的影响因素。[方法/过程]基于扎根理论，通过对16份半结构化访谈数据进行内容分析，提出社交媒体虚假信息纠正意愿影响因素的概念模型。进一步，基于详尽可能性模型，构建理论模型。通过在线问卷搜集278份有效样本，并利用PLS-SEM进行数据分析。[结果/结论]结果显示，信息有用性、信息相关性、社交媒体素养和态度均显著影响疑似虚假信息验证行为...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>甘春梅;明昕宇;毛何沐茜;</author>
@@ -136,7 +144,7 @@
     </item>
     <item>
       <title>知识增强生成赋能知识生产模式变革的研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6tb0cAo0Wqh3waKTh2hMq3OXlP4McGdCzRr1RdNTYUsjpDMlZqwg60k8ay9X8hjDr2QUoYHQuptt8U7M8djG5MTE-yErzKW95859C-OyRYeIlzZyAysHZCR0iTCGYOrfTupet1IMKl1ceevgrhXmdfizBuLplls9rnNaqTh7Evk_Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58tbv0kZxnV2rvoL4KwhK3hO8DoqjeS9pIujfCq7S98TggMyX2dFieZ4uskC6k4Uw-kPkdc2HJLEr-aaWYG6Swe1L5Hd7-4gGdMcYxiZdTzKyBjTxy6zHq1etosWDG2-lOksgLxg0KLDlL6-iN6HPn4GZzccNZ5RQ9Y6WJD_Z9fZg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]知识增强生成为GenAI带来了强大的生成能力，对知识生产模式具有变革作用。研究知识增强生成赋能知识生产模式变革，对提高知识生产的效率、促进新模式的构建具有重要意义。[方法/过程]通过研究知识增强生成对GenAI的提升作用，进而分析知识增强生成与知识生产之间的关联逻辑；从知识跨学科融合、知识创新周期和知识生产主体3个维度，深入探讨知识增强生成对知识生产模式变革的影响。[结果/结论]发现...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>储节旺;周柯堰;</author>
@@ -144,7 +152,7 @@
     </item>
     <item>
       <title>老年在线健康科普信息实践的体裁类型和交互方式探究：基于Bilibili的网络民族志启示</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6u8B9LNo31dg4N5-B-l5Aeui5RblMmmcicPOa7VVrHITGIWpzdsq1JEw0BGONq64qpv6pYofasyz4oY0Z0BQZenIAB-TQbBimbhfgdXPps2vRqQU2YQ8iKXsONq8MSCjZ7Yj51rjk2Av0Wb3um3HpR1pa4oAnerEGD8QXFB9AiBiA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58tbv0kZxnV2rvoL4KwhK3hO8DoqjeS9pIujfCq7S98TggMyX2dFieZAu3BXKPiVtzvGpkmgdxsmBLDANZJvCjDfTM1atAz75WNjB36a_ZrWd11qIRDPyuy8TamKo7GC5RASh7_oRzycr1BLLxNjRt4oBPJyGiW2VZD0CjfpSaRJA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]本研究旨在探讨老年群体在线健康科普信息实践中的主要传播体裁类型及交互方式，并分析触达对象的情感倾向，以优化老年健康科普的传播效果。[方法/过程]本研究采用网络民族志方法，运用体裁分析框架识别老年在线健康科普信息的体裁类型，并通过参与式观察解析交互方式，同时结合情感分析技术，考察不同体裁类型所引发的情感反应。[结果/结论]不同传播体裁的内容特征鲜明，并呈现出各异的情感倾向；多样的交互方...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>王馨笛;赵宇翔;宋小康;赵梦圆;</author>
@@ -152,27 +160,19 @@
     </item>
     <item>
       <title>我国可信数据空间的建设原则与发展路径</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6u8B9LNo31dg4N5-B-l5Aeui5RblMmmcicPOa7VVrHITGIWpzdsq1JEM3iitX8D-jLlfvaZuoJ6WKcVMnopsx55toTd4LsvLoN2fKOtHx0bTsuLHpVZzzXuWZrNyOOXBcSPT5WA8frVqj76JOYmTAc7-sVMjoGy2faxYrZQvePc3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_o-T2mt7n-LUKFSOEaxZO2g7OiY73-oQ2qhi7mYUmixbHRAXM6wdeDL9pOddEqYmCModcopANsMjezQn-1V4rZ-bZzlNKA-hjxXxU-h7Pc8w54nJDwrRCgzMtm4sw9ueYHy45clWvRusz94fGSjvfB3_KZyTB_0Y8uzSPlY_FWIg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>[目的/意义]可信数据空间为数据流通利用提供了关键支撑。本研究旨在探究符合中国国情的可信数据空间建设原则与发展路径，为构建全国一体化数据要素市场提供发展动能。[方法/过程]本文通过文献回顾并列举实际案例，梳理数据空间研究现状与实践进展，从多维度分析利用可信数据空间解决数据流通利用困境的方法手段，基于此，系统性体系化地探讨可信数据空间的建设原则和发展路径。[结果/结论]本文提出包含平衡、问责制、安全...</description>
+      <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
+      <author>赵一鸣;黄丹迪;</author>
+      <guid>c6f3516c74b3aa32b7eb22b406bdc1e7</guid>
+    </item>
+    <item>
+      <title>我国可信数据空间的建设原则与发展路径</title>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_o-T2mt7n-LUKFSOEaxZO2JQ6QvybtrZSE9kk_huKBZpiUaqKCDtbK9bomszk9Murotv88kV-FZhj63LoNkpWNvYAiAZ4YGXTMvZ232EmgGBfKHjXQlFyk-aSwbyvSBNOD7Ngltfqht7fEclGmgtC7lsqxMaUbPDYFox0ijFpMBg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义] 可信数据空间为数据流通利用提供了关键支撑。本研究旨在探究符合中国国情的可信数据空间建设原则与发展路径，为构建全国一体化数据要素市场提供发展动能。[方法/过程] 本文通过文献回顾并列举实际案例，梳理数据空间研究现状与实践进展，从多维度分析利用可信数据空间解决数据流通利用困境的方法手段，基于此，系统性体系化地探讨可信数据空间的建设原则和发展路径。[结果/结论] 本文提出包含平衡、问责制...</description>
       <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
       <author>赵一鸣;黄丹迪;</author>
       <guid>42df9c668da4083de15a692b92dc0a8b</guid>
-    </item>
-    <item>
-      <title>归舟无岸，情感未央：在线社区关闭后的用户情感演化及成因探究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6tmMnHRF6NUhWxW3_Y1r8ohW3pBQI55GG58M7j2AgTYLQrPhMX5oX5Gf5z7rMgHb3BxwPvYYTGhoP3IgPCwDilcdH3VoK4rfFu1tOBPFlTA-x-iXxRgLsx46fjbSIetBbAfcakPVShbs1BlBrAToZOQk37h2v1kD3x-D8tajArEOQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>[目的/意义]从深度休闲视角出发，探讨在线社区关闭后用户情感演化过程及成因机制，揭示社区关闭对长期深度参与用户的情感影响，为平台管理和政府监管提供理论依据与实践参考。[方法/过程] 以豆瓣关闭部分娱乐小组事件为案例，利用大语言模型（LLMs）、Lazarus应激理论揭示情感演化的阶段特征；通过LDA 主题分析构建多维归因体系，并采用Weiner三维归因理论解析情感阶段性归因特征；提出“情感演化与成...</description>
-      <pubDate>Wed, 16 Apr 2025 16:00:00 GMT</pubDate>
-      <author>张宁;李慧霞;袁勤俭;</author>
-      <guid>8553fc6f5f6ae45d7b843858e12e57c3</guid>
-    </item>
-    <item>
-      <title>我国基础研究资助国际（地区）科学合作的演化特征分析——以NSFC国际（地区）合作研究与交流项目资助为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=qQX4xeHgc6vHHT1f4YFw6rd_vQBdz5dHQ8AgtLjMxQ_bb0UA5nWe5YXzgSrANyj-Zg6RjbQkW_nOSA5FRIjRNSvl4P7_FnrEo6vy5hbTu7Fxni_P0_IrK3l34hSxwBfdRZUzrI6heTLQ0jOybhE4SXQSoaexBq0y1Q7MHosTGJYUcVB_vRB03Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>[目的/意义]分析我国基础研究资助国际（地区）科学合作的演化特征，对明晰国际（地区）科学合作格局动态演变、评估实质性合作成效具有重要价值。[方法/过程]基于2008—2022年国家自然科学基金国际(地区)合作项目及其资助论文数据，运用科学计量学与社会网络分析方法，从多样性、持续性和稳定性3个维度比较分析各学部国际（地区）合作特征的演化趋势。[结果/结论]合作研究与交流项目资助下，我国国际（地区）合...</description>
-      <pubDate>Sun, 13 Apr 2025 16:00:00 GMT</pubDate>
-      <author>李昊;侯剑华;张洋;</author>
-      <guid>b3f1f4f72ea7582cd7db6605debcf8c5</guid>
     </item>
   </channel>
 </rss>
