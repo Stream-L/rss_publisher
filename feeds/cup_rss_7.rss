@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 09:26:33 +0000</lastBuildDate>
-    <item>
-      <title>关于申报2025年度全国教育科学规划学科建设与研究生培养研究专项的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/f5ea89231c194dc3afd80d54f4e7be1b.htm</link>
-      <pubDate>Mon, 28 Apr 2025 06:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于申报2025年度全国教育科学规划终身教育体系研究专项的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/d09390b263cc48d79f4f632286889254.htm</link>
-      <pubDate>Mon, 28 Apr 2025 07:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于申报2025年度全国教育科学规划教育考试研究专项的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/d357f466ff9e4e83a3e0ea5d96daed18.htm</link>
-      <pubDate>Mon, 28 Apr 2025 07:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 May 2025 04:24:55 +0000</lastBuildDate>
     <item>
       <title>关于申报2025年度全国教育科学规划高校毕业生就业研究专项的通知</title>
       <link>http://www.cup.edu.cn/kjc/notice/xml/227db6ab64214645ad84259d68453576.htm</link>
@@ -106,6 +91,21 @@
       <title>关于2025年发明创业奖提名项目信息的公示-2</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/886d9f49782449bbb87616c7a2741b89.htm</link>
       <pubDate>Mon, 26 May 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于申报2025年度国家社科基金重大项目的通知</title>
+      <link>http://www.cup.edu.cn/kjc/notice/xml/f63cc42ad3754719b846714dafaccdcb.htm</link>
+      <pubDate>Tue, 27 May 2025 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于参与申报2025年发明创业奖成果奖项目信息的公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/8d70f466ac9b4d5893fd45ee81181b01.htm</link>
+      <pubDate>Tue, 27 May 2025 09:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年度河南省科学技术奖提名项目信息的公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/6a3865e7a7a84424998309dd3fa6cae6.htm</link>
+      <pubDate>Tue, 27 May 2025 09:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
