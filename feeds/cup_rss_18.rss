@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 09:28:26 +0000</lastBuildDate>
-    <item>
-      <title>WPS365</title>
-      <link>https://www.cup.edu.cn/nic/ps/WPS365/index.htm</link>
-      <pubDate>Tue, 03 Dec 2024 01:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 04:23:56 +0000</lastBuildDate>
     <item>
       <title>中国政法大学网信办一行来我校调研交流</title>
       <link>http://www.cup.edu.cn/nic/news/bcea38105cbc4372a073bd108acae371.htm</link>
@@ -106,6 +101,11 @@
       <title>关于校园网核心设备及上网认证计费系统升级的通知</title>
       <link>http://www.cup.edu.cn/nic/info/dc6e188fad924d59b758cf18af7d0a00.htm</link>
       <pubDate>Fri, 16 May 2025 01:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处组织召开2026-2028年中央高校改善办学基本条件信息化项目专家论证会</title>
+      <link>http://www.cup.edu.cn/oldnic/news/82ebaa639c76402d9e11e12237c5beeb.htm</link>
+      <pubDate>Fri, 30 May 2025 02:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

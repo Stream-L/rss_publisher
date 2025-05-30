@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 29 May 2025 04:25:48 GMT</pubDate>
+    <pubDate>Fri, 30 May 2025 04:26:43 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于异构图注意力网络的实体对齐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ58_sEKVSRymmuDF2KJ1YFnEcx_emZSZetpGzM0QGcG2QjEdM-QRW8hE7NcZiicFUiFpqdrLqwPB0BntizCP1QBo2FtqGeHlHbXLgPfTHKDmVtvoQ39F6v4c8RKnFs64C24ysvtGgf3svuXS1ZRsfPmaW53zi8aLSiTsRBJ7bHXZ1Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxvvD1aq8IXDnNk8qtCXFnIIdF9DEk7S-y9WZ1-trOX-iSQcFQ_1nP1PFbZh7HzS7RpFY4E3YDCv7TWrKFiplkDkqFALFo2rECnXnmvpF0zFT9P7n7CNaqTO-SyRp90n5zXtLsF61-_ZLLaQ0N-UtwS7lszVDItzUZxBs2R0rnDSQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>实体对齐(entity alignment, EA)旨在寻找不同知识图谱(knowledge graph, KG)中等价实体.目前,基于嵌入的EA方法存在以下局限性.首先, KG中的异构结构没有完全建模.其次,文本信息的使用受限于词嵌入.第三,对齐推理算法缺乏探索.针对上述限制,提出基于异构图注意力网络的实体对齐方法 (heterogeneous graph attention network f...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>孙琛琛;金钰媛;申德荣;聂铁铮;寇月;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>最长公共子序列嵌入支持下的代码相似性检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59rEX6tzViXNsW1AVOMZRvXo5xr-SsS0Rom49toRsRrnZIcQGYWJgYxYc8w86LDwkY6UMH_Q_er0SmFvj6n6ZtLO0BQYT0fuxaRfyRVJ5OVlVx98COQHZAUd0St4VDk6vGlSSkyPpp_qZME_opBoA2WimfhlDBJNrKWhBpJ_VCMag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqyRLZ_W0Fq-7zAzucUZCj8-UjEEdMlVIz41JTZ9xg82b_vqJb2cgYQGztqj7RGA4yu1FnoULaPAqnfaTaEFaN89hLJ3tOKXWIP1MLOLGag-VoS4tYpVtJIwOCF1sd7kFnaoDJGVeVLZm40xHxPZ40HE5E6NOo99wO-RLgQIksKs0Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>最长公共子序列(longest common subsequence, LCS)是一种衡量代码相似度的可行指标.然而,经典LCS算法的时间复杂度较高,难以应对大型数据集,并且,由于代码文本序列中的词(token)本质为一种基于离散表示的编码,直接使用LCS算法无法有效识别文本不同但语义相似的代码片段中的关键语义.针对这两方面的不足,提出一种面向LCS的嵌入方法,将代码间的LCS计算转换为代码低维稠...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>弓媛君;黄建军;游伟;石文昌;梁彬;边攀;张健;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>ReproLink:面向可复现性的科研数据管理系统</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59rEX6tzViXNsW1AVOMZRvXo5xr-SsS0Rom49toRsRrnZIcQGYWJgYxF0bCUpdC5qjBwhs3K1SPcmItGZ75g81ns3X_K01VQ56Pmt0qMJEnEInDnh9K3fp95wK8HyJM1vJI1ibHqPGZUUzeYQRnV6pyl1RQ7J9YLGpXg2O9dZ1vbg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxxCTIWKpRCLn8YzeHPN2j9-Bj1QzcphqF5pl4CF0yxjG5CAPSQCf26Mqv3BFdw-26_wzua0_8P2H8DOY7At5dvkmqkO_Nd8qxOfPw9E-7OsfEKFw-sG-cyCaBS8597Ve0czETqArIsXErNYMy3PKW5Ht0QqYpA4lyU-gl8uqSmiw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>科研成果的可复现性是科学研究可靠性的基本保证,更是科学技术进步的基石.然而,当前学术界面临着严峻的可复现性危机,大量在顶级期刊和会议上公开发表的科研成果无法复现.在数据科学领域,成果的可复现性面临着科研数据多源异构、计算流程复杂、计算环境复杂等挑战.针对这些问题,提出面向可复现性的科研数据管理系统ReproLink. ReproLink提出对科研数据的统一建模,将科研数据抽象为包含标识、属性集、数...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>黄小龙;杨婧如;柳熠;马郓;景翔;黄罡;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>Linux内核定时器并发错误检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_SaS8zDUOH3F3bwAUwZaKCeItKT_EZVJj1Nx2YLDKbRR7eYm0jGu7Hrawy5u3i_i6yUpPn2ZUsoxQqvor2ouDrVArT_1pWso1Iv4ggPqgB5r4dwMMuvfC-91qyv8jkTFc3DjXRn604kNjYySlr0XJ2ALLPiHQw_FTefQQtantOiQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxxCTIWKpRCLn8YzeHPN2j9-Bj1QzcphqF5pl4CF0yxjG5CAPSQCf26XRTro1GM766XVd7qSvmWOt6QsajihnCnwXTVh8QANvGASV5Q-CIQoK8OCkwEBVQ6ThnO7PYmbTeadycP-016m7xZdCiby-KYCDNFepoG1z5vuR3cqIEhIQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>定时器是操作系统延迟任务调度与执行的驱动器,具有运行在原子上下文和异步执行的特性,可以在任何时刻与不同的线程并发执行,如果开发人员不能考虑到所有多线程交错的场景,则可能引入多种类型的并发错误,对操作系统安全产生严重威胁.定时器并发错误不仅涉及多线程交错,还涉及定时器处理程序的延迟执行与重复调度,比普通的并发错误更难发现,目前还没有工具可以有效地检测此类错误.总结3种定时器并发错误类型,即定时器睡眠...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>周多明;马麟;周亚金;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>深度学习驱动的软件漏洞预测:问题、进展与挑战</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-aZJtSuhIwqQjVtrodMcivDQH50QpOUXYEVWYpZMODP8zhgSOFLuN9eocV2NCnEbHiAi0Frbb0-Tcjfuij--a37As3XXrcmPLW_lwRb3SQb7M_zHHs6ka6dA0_p-McvYfwb4Mnu3C9hVwxzJ02uocfX9K0HWZfWRpwKtYL3VXn8Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqyo3Nh91UOwU9-6jv5Ci_fl5wHSJq9v2-ZJtT3THd4Tn5fGS9C0kbSfgumsejP441dBZYvvC3bkS9FF0t_fAAjYEbP5pe-Y-8pezmy-Zp2lX69at0-GOSEugL22A0x6xAA6sSbztkJ3V809z_ORPcySWNaN2TCEh6wNVjcK80gPSQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>软件漏洞是软件中易于被攻击利用的代码片段,确保软件不易受到攻击是软件开发中必须重视的安全性需求.软件漏洞预测是指对软件代码进行分析预测,从而及时找出潜在的漏洞.深度学习驱动的软件漏洞预测是近年来一个热门的研究领域,时间跨度大、研究数目众多、研究成果丰厚.为梳理相关研究成果、总结研究热点,对2017–2024年间发表的151篇深度学习驱动的软件漏洞预测相关的文献进行综述,总结相关文献的研究问题、进展...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>唐家昕;王璇;赖伟;路则雨;郭肇强;杨已彪;周毓明;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>区块链跨链协议IBC形式化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-aZJtSuhIwqQjVtrodMcivDQH50QpOUXYEVWYpZMODP8zhgSOFLuN91uZTV5bV34qHcuwUZAXuE9NOzed6CuFOjSUFS1aLMfVNc1fZJsv47Trei5Vi-6lbi3_0Xa-_ecsZTQ2pikYmHf2hgwAi1Y5Om7mlsmqOZtvBFmRYF2ZItg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqzWCHdkf8ry97QigyVAnVu4WedR8cQhbOSkA96f-1OJHmNBqfCzd3aOkQjKyU4P2Sma127rhBu8awob38qkDbBk1wUpJS2pF-ovT3se6NED2qRmy2JyQT5Ni4oG3ftGXis9_WQVCgDuUQT0jlrNHmH8O_FktF2AAqBbQbL3-2IOGA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>自从比特币诞生以来,区块链技术在许多领域产生了重大的影响.然而,异构、孤立的区块链系统之间缺乏有效的通信机制,限制了区块链生态的长远发展.因此,跨链技术迅速发展并成为了新的研究热点.由于区块链的去中心化本质和跨链场景的复杂性,跨链技术面临巨大的安全风险. IBC协议是目前最广泛使用的跨链通信协议之一.对IBC协议进行形式化分析,以期帮助开发者更可靠地设计和实现跨链技术.使用基于时序逻辑的规约语言T...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>魏秋阳;赵旭峰;朱雪阳;张文辉;卢奕函;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>隐式多尺度对齐与交互的文本-图像行人重识别方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-ZNmKrn58-Jd18INi5P4E1beezPTggw3OfznjcPalQccweTls7MSkPqTkLuJrKTMh6bdHveqI1U1M1KRsx1MmoAM5goqnpNesOmmTTzng227yST8r2n9qAb6list4Hdw7hhYU4iVaWkXhtAt9ezGqegxt0ZpHKZf5QbfnlMV6MMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwGfZ_F2UX0HDMfCdOcTDUfu9pettumjpY_CeJ3AmhwiStlMt8Zja9queKGWNCEBjJId8Bfnjt-zR92g3JqMgBGF-UOPS1WdFsnWX4yzphGmokAhfL2xojHQhFCMs_udp2nMozvvDru2WbkruoBIEAX9JiwEOpRqOB6nVQoKK6Vkw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文本-图像行人重识别旨在使用文本描述检索图像库中的目标行人,该技术的主要挑战在于将图像和文本特征嵌入到共同的潜在空间中以实现跨模态对齐.现有的许多工作尝试利用单独预训练的单峰模型来提取视觉和文本特征,再利用切分或者注意力机制来获得显式的跨模态对齐.然而,这些显式对齐方法通常缺乏有效匹配多模态特征所需的底层对齐能力,并且使用预设的跨模态对应关系来实现显式对齐可能会导致模态内信息失真.提出了一种隐式多...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>孙锐;杜云;陈龙;张旭东;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>RISC-V内存一致性模型的同地址顺序一致性定理证明</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-ZNmKrn58-Jd18INi5P4E1beezPTggw3OfznjcPalQccweTls7MSkPgq_vfvBHdjsOKTwzu2TIpgw14oi3KfBnlZGnh3jCZZ2QB9IXGJIPCnJ-6t--ahj4DHJD7J6QHiLfI9oVpExBhI8ZPHVtLmiXbnz4hTaCeZYF-tGLvBgpUQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwGfZ_F2UX0HDMfCdOcTDUfu9pettumjpY_CeJ3AmhwiStlMt8Zja9qtIG-K82sKXpod2kp3_YE8snxvlS7wRBCpPe-k3Hn0fisUayaF-MPPtpS-Mv7_hL24P_XTgZyE6GS5Owkt5DcyFWg75vCZ6-Hzc1JmjVzqhgXOUoSrjK_GA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>内存一致性模型定义了并行程序在多核系统中的访存序约束,是软硬件共同遵守的架构规范.同地址顺序一致性是内存一致性模型的经典公理之一,它规定了多核系统中对于相同地址的所有访存操作遵循顺序一致性,被广泛应用于X86/TSO、Power、ARM等经典架构的内存一致性模型中,在芯片内存一致性验证及系统软件和并行程序开发中发挥着重要作用. RISC-V作为开源的架构规范,其内存模型由全局访存序、保留程序序以及...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>徐学政;杨德亨;王璐;王涛;黄安文;李琼;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>面向深度漏洞检测模型的黑盒对抗攻击</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59K5SN1haa4dhvZtDRuUZmxdLI9UlBnwphmIdzeFA2_w93GaSbOvLUPloZ7ltiny1qIK5trW0b7r-BZ8ikHi9eoLO_yZerm_HCQY06h5yXfFDFZ8RMb4eCoZ99xAgItDWUpdSDaXmNem10qyAOfkfyV1JABq3ErtDkGAf38ykluRQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwee9eW-bOSRdBBj63wQdW9CP76I6ykgn0kEqhgkuChpIbw20rbkZv-faZmWkDak5B6WyziGm71tM_tAj9hs2tKuTPDxE_l_cU14IHvSp2HYld3vnhsHB06Oh_-7liPCUVeMHtg1CGyWVt4c6K1oU07T3nT4WpnVUKvc2uHllltrg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,基于深度学习的漏洞检测模型展示了令人印象深刻的漏洞检测能力.通过对源代码的变量重命名实现扰动从而逃逸漏洞检测模型的对抗攻击已被广泛研究,然而,能否通过对源代码进行更多的扰动以提升对漏洞检测模型对抗攻击的效果并未被充分调研.采用针对源代码的多种同义转换算子对其进行扰动,并提出一种基于遗传算法的组合优化策略,选择一组适应度最高的源代码同义转换算子,以指导生成可以逃脱漏洞检测的对抗代码段.在一个...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>曲豫宾;黄松;陈翔;王兴亚;李龙;王丹;姚永明;鞠小林;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>基于毫米波的人体感知研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-qu3tXgjcwzE2ocoJ2SS2wOXSxqnWd4Oyf7cyLaSkgxnz4O-BdgDMJLqQE8ch3dkCrsJZtJVtzSOfF32mm7JOYZDRcnjHy3sjYxCwKffwAl7eu3jWKWbl7gr2FPEgbt5gws1nlaCirGQ9h_TiZbD-l9mDKVg_CwXaAp_Yl0Sv9ng==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqxZgnRju8PCl5bvZ5oDIcivpQURJXp3HcM1eQ3uNDBt806fOMqNFruLK8KvOSA7njPZPEHcwobzVdfSAvUbhB9Gc1ba01FM1iEEDsRjbC1dB0avEt0y8eumQA5ukdmUuAk0unxaU3Gz3qPedGHs4doU5EXMMXOUzD-bOYyisGqjqw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着嵌入式技术、移动计算技术、物联网等的快速发展和广泛应用,越来越多的感知设备渗透到人们的日常生活中,例如智能手机、摄像头、智能手环、智能路由器、耳机等,这些设备上的传感器可以采集与人们的活动、健康、社交等息息相关的个人信息,催生了一类新的感知应用-以人为中心的感知(human-centric sensing).与传统的感知方法,如可穿戴设备感知技术、计算机视觉感知技术、无线信号感知技术等相比,基...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>席瑞;张佳;孙一淼;何源;</author>
@@ -96,23 +96,23 @@
     </item>
     <item>
       <title>大模型下的软件质量保障专题前言</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-qu3tXgjcwzE2ocoJ2SS2wOXSxqnWd4Oyf7cyLaSkgxnz4O-BdgDMJ5uZbb-igZ_xKBDwyU8Z5Ld-j1omvJDCjtQULbCeXpwJ-jC6sq9FNxuiSanTbmBXprn6rSGJ_DbeOAxcXIukFCqvV03CKHEoR-4SAEhE4pf0pbs_qmV3bvw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>&lt;正&gt;近年来,随着深度学习技术的飞速发展,基于大规模预训练的语言模型(large language model, LLM)在自然语言处理领域取得了前所未有的突破,并且在代码生成、软件测试、程序分析与优化等软件工程任务中展现出强大的潜力与广泛的应用前景.作为具备深度语义理解与生成能力的通用人工智能模型,大语言模型的崛起正在重新定义传统的软件质量保障方法,为软件工程的自动化和智能化注入了新的活力</description>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwc8bPvKxMhf0knJvySIy8EH-Jkrs7k1FLdtB6U3HfR7aiZMdIvzwOHGBb0mb0GYCKLBQmOZ3OF9PJYcnbeQLuk0v2nZnINdwD5_QVtsmu7YDcHcpY_XcTDgC_mFDrC_Y42E6mVRa0achDxmq1yvRuVnzWwcpuAPqmsBugxDa-rkw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>&amp;lt;正&amp;gt;近年来,随着深度学习技术的飞速发展,基于大规模预训练的语言模型(large language model, LLM)在自然语言处理领域取得了前所未有的突破,并且在代码生成、软件测试、程序分析与优化等软件工程任务中展现出强大的潜力与广泛的应用前景.作为具备深度语义理解与生成能力的通用人工智能模型,大语言模型的崛起正在重新定义传统的软件质量保障方法,为软件工程的自动化和智能化注入了新...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>王赞;王莹;陈碧欢;姚远;张敏灵;</author>
       <guid>07841e30288b0b259ed42643aa243c08</guid>
     </item>
     <item>
       <title>《软件学报》投稿指南</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ599OeYdoAdlINffaayYwXZ7eTJ7ww6-RuGKykPE2r_5rLKmZ9smBD-ozCbkwyz7FlQiG0vz7AYBe1o3TMESyIzlJ5l8F9-7_b_nj0eP6HZxz9dmpzy-z6FzTQkbahzQeQsdEQu_rPJJt0BHRaxLXO2tSeKY8aYs--i7rLjrCICAAg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
-      <description>&lt;正&gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EI Compendex,INSPEC,Abstrac...</description>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwc8bPvKxMhf0knJvySIy8EkFhcYSH1JjKYUKpc-ZZy8nr5axu1JQCrywcN9NF7omxsxVJySl1EdLPg1MR1otsfTZoEcE2iYU8v3pBFtccQ7Z9zxpl4DZ1qLduAudZTSCNiIRsoRLyQPyUuye7-y6fmRTuLudg9U6apraufS7x2ww==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <description>&amp;lt;正&amp;gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EI Compendex,INSPEC,A...</description>
       <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
       <author />
       <guid>59e0038b036bd4f6d0da3f8bd13dcf64</guid>
     </item>
     <item>
       <title>基于抽象语法树变异的漏洞样本生成方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ599OeYdoAdlINffaayYwXZ7Z_W-cE_XEiYZRPomsoGZAb06qGs-nlqgGUGhdHnuRzWlo6rHKQnTQG32A7rJ_dfdqBhiIresGJuYtw-kxwr9lnDTeKWVllWOMBPG0bx1x-n2Jd0U7IYYT9utZ7OiKLZ7yWuB1IGr0lm1vf8nV_m5GA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwMLpIiIfYtd8Qauiz86lafXYiT6imvqX-vZChShxTz02LW2p6lspzwbBUwf2CgxO4U2_DwfjYeTtWuqcrL3wz5sNQ-I9g5d3KarL6R-9Od1K8ErCCjUhhJlRz3ncohpV-9sBf1HJUhQBcSXi7SJLrDUR0UDOBV14eHovhFGRDA3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着信息技术的持续发展,软件产品的数量和种类不断增加,然而即使是高质量的软件也可能存在漏洞.此外,软件更新速度快,软件架构愈发复杂,这导致漏洞逐渐进化成新的形态,传统的漏洞检测方法和规则难以适用于新的漏洞特征.由于零日漏洞样本的稀缺性,软件演化过程中出现的零日漏洞难以被发现,这为软件安全带来很大的潜在风险.提出一种基于抽象语法树变异的漏洞样本生成方法,能够模拟真实漏洞的结构和语法规则,生成更符合实...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>郑炜;李云帆;桂奎;吴潇雪;陈翔;邓沛然;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>面向联盟链的智能合约行为可信验证机制</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59pkr8KjzwJ4SPFvbjLqA6IzeNm2tc-3X2nNM24phJNORFAlYakJi94RrW6Nq6u8Cx6Fj8ydHhm6n6HW50_JpuyH6Ylpy6AdIWzCb-MdlGwwMTbHpDXVJ-VxCdc1D-oZqTNG0c5bfPq2GlqXHUt_p7iffS2Xfd6qoK-df6rJTGOQw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwMLpIiIfYtd8Qauiz86lafXYiT6imvqX-vZChShxTz08gX8KvNjU3vr3WWdf3KhEs_FYAJ_64ya306TtuKe53lmjl2YN3Vd_IPXlD6pHx4QBvxC7FhMAMKcDEh1x-h8vxHJb2m0949A64OVEgXmWGRcGCKqFh3re-JFC-n3LWfag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>针对联盟链系统中恶意攻击者利用智能合约中的安全漏洞带来的行为不可信问题,提出一种面向联盟链的智能合约行为可信验证机制对合约行为完整性进行可信验证.首先以系统调用作为最小行为单元,以基于系统调用的行为序列描述历史行为状态,然后在确保合约代码发布和执行环境可信的前提下,在合约运行时根据预期行为规则进行可信验证,最后对该机制进行了理论分析,并在Hyperledger Fabric环境下进行实验评估.结果...</description>
       <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
       <author>张建标;康双;张兆乾;刘德田;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>基于释义知识浮动注入的汉语成语误用诊断</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ59pkr8KjzwJ4SPFvbjLqA6IzeNm2tc-3X2nNM24phJNORFAlYakJi94BpH5wgAOu1jUmi81171hYdea1Xbiq1CFwULbmTas1zJ5K3RoMm_zPDZrkPKsiXr6r4aQj-DaglSUcwhiNcvDenTpTH4XPoNWuL5gPGKOl1IkOKqcEyq-bQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwqKfyvGR272pLSO7VPZ8eRSFqkLzXWDfTYvnA1DH20i8xwvPhxY9l620A50vKAG4CqHW6QX7YPa56PKU12WBDvybSAKgmbenYjrAE-6KNmEgECHsew4hGHssRk15nRFYP-5cnayJS_sRiWaJzFjrvknXrGAdUsizLHQxMw3aPrXA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>汉语成语作为汉语写作的重要组成部分,具有凝练的表现力和深厚的文化内涵.它们通常是经过长期使用而固定下来的词组或短句,来源广泛,含义相对固定.然而,由于汉字的形意属性和汉语词汇、语义的古今变迁,成语的字面意思与实际含义往往存在偏差,呈现出特有的非组合性特点,这种特点使得成语在使用过程中极易产生误用现象,研究显示,某些成语的误用率甚至高达98.6%.与其他语言不同,汉语成语的误用通常不会导致词法或语法...</description>
       <pubDate>Mon, 05 May 2025 16:00:00 GMT</pubDate>
       <author>何亮;曹永昌;黄琰琛;吴震;戴新宇;陈家骏;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>区块链测试基准综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_6y7GpTNJfIMKmy-k4wEZQcvrGsJ--Qt2AP788GEkHhwCOWTHVLgW40kpvuSwJhn9vUypl-Q73Krc97yiBT1SryDDklb0UeElIdeb8uLM7891vtQ7wee6eeAX35isDXaVKLnXu5LYfH-mS38RFXKgsL6Z64dB_-Lj_hx7EGLyllQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqz5s1ZWEgMVn7W4_3dKezEku8PdrUtImk3UR716pHe_pU6xeGvArDm8BWcrRiQ1m6NO1yi9HIV-uRz3hnw3ETkrc0aXHhRfhyErxefxyhnVjH1OdPTtlfSlzeh5OhMVRD8sPOGVR9aH8rQN8yT586ToIvuobe8qm1TmnHTTPCwAsw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,区块链技术已经广泛应用到数据要素流通、金融、物流、政务以及司法等领域.随之也出现了若干区块链测试基准,以评测不同区块链系统的性能.然而,现有区块链测试基准内容差异较大,缺少统一的区块链测试基准框架来规范基准的内容,也缺失统一的指标体系来明确区块链系统在性能和安全性方面应具备的能力.从数据库发展历程来看,统一的、可重复的、公平的测试基准规范可以更好地引导行业发展.区块链本身也是一种特殊的分布...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>张孝;秦春玲;王文收;刘昊;陈晋川;杜小勇;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>综合实体语义和本体信息的多源中文医疗知识图谱实体对齐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5_6y7GpTNJfIMKmy-k4wEZQcvrGsJ--Qt2AP788GEkHhwCOWTHVLgW4nN1g31TOT3kRIeO0gxAw85yWF3FadMMW86jBuEr3JLuYYs4KIABKe_PN5XB4k9HH1nAUrQdUYZ1JxAIxNWQ6qHjYDNuKPpohbbvEvSmkfA-RmiXJ7M00Nw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwAPH5P6v67qPDgO4Pe9l9t9-0lkfmSCNZQV8p4D5Xnc1HyCiRDjLKgMprmP35SiDX0jD_dp2g7rVK1XrGPqnjej6dfyZahJtWIsLL-sHVIqtMBlbA4qtxvHJNRQnaMiDipkqyibCwPUzYYsiEjfRH48jRtrEkaF34Rd0GNzGQ38g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>知识图谱作为结构化的知识表示形式,在医疗领域具有广泛应用.实体对齐,即识别不同图谱中的等价实体,是构建大规模知识图谱的基础步骤.尽管已有大量研究关注此问题,但主要集中在两个图谱的对齐任务上,一般通过捕捉实体语义和图谱结构信息生成实体的向量表示,之后计算向量相似度以确定等价实体.在发现多源图谱对齐过程中存在对齐错误传递的问题的基础上,考虑到医疗场景对实体对齐的准确性要求较高,设计综合实体语义和本体信...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>丁瑞卿;赵俊峰;王乐业;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>面向深度学习的后门攻击及防御研究综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-L7XAcz7RARL90aV-YWY5-o9RUUTD7c6T3YgjMG9WLBw9vYIDmpR9eef5s3JWTxwSpc37BJyJ0HyZ3AI-aIDIGoOWoDtsqRaowam3rACUcfgWGm5fU41AdV-7Msn7gWY0L5lyWAvHcA1ViUnZU4KtMRtp4H9Pa32pXeTMOSTS8MQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwitJxaKAHVothEC8u1t4_2uBrUmxWVkKGu3v2fpenZdE_l9glqllOTMBtMg7gP0IsQkeB5-rXbdl74tDL4qLzbAQNJl67O3JTrB18yXpB-gAmiQcMNkLu7nUrlEwDcz3pSam5MYGdlVxD3bNUEPmXZ4-mtkZWgls612SL8GNejBA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>深度学习模型是人工智能系统的重要组成部分,被广泛应用于现实多种关键场景.现有研究表明,深度学习的低透明度与弱可解释性使得深度学习模型对扰动敏感.人工智能系统面临多种安全威胁,其中针对深度学习的后门攻击是人工智能系统面临的重要威胁.为了提高深度学习模型的安全性,全面地介绍计算机视觉、自然语言处理等主流深度学习系统的后门攻击与防御研究进展.首先根据现实中攻击者能力将后门攻击分为全过程可控后门、模型修改...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>高梦楠;陈伟;吴礼发;张伯雷;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>Java依赖异味的实证研究与统一检测技术</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-L7XAcz7RARL90aV-YWY5-o9RUUTD7c6T3YgjMG9WLBw9vYIDmpR9eIXwxZpmzRZeLG_vN0gOc9UViK1EyORyM2sFMH4vpg4dQgBVPZXO_dnx6YgjEqBzM1FLlT0v-vxyFaEO6i7F3WhJKsLKeMX9sFcxNvXTT7mjgvJubXwW_Bg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqwitJxaKAHVothEC8u1t4_2uBrUmxWVkKGu3v2fpenZdE_l9glqllOTNXuUAKUxgv_qfog4_eiGqzuz0GN4s2i0UUG4cTsdVNGhIfkBsdPN5HNSuGL5DMFtupfMJ4w580k_ijoHSji9xji84eCThFNLN_qXbmc5pcuHWqXfHJqD7g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Java语言因丰富的依赖库和便捷的构建工具(如Maven和Gradle)已成为当今最流行的应用项目开发语言之一.然而,随着依赖库规模的持续增大, Java项目的依赖管理变得愈益复杂,也不断超越现有工具的管理能力,其潜藏问题容易在未预期情况下触发,严重影响当前项目及所在Java生态中其他项目的构建和运行,如造成构建错误、运行崩溃或语义冲突等后果.针对现有调研和技术工作对Java语言依赖管理问题分析不...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>孙伟杰;许畅;王莹;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>基于结构熵的属性图异常检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-VQ78Je_XFaamgbqsFzONqsQClS0qS3GQWnE4cYLYbajTyQ_JXsb_P34NieHvSbL47e7xgTQ3gbz2Quo39PgWI62c7_7t2a6UIEptEr9WlpX-shM5_0seDJfdacdHa6qnoYVpHTifX9VpjrU7a1VK2zxUTTTvZNAzCDFIfTk2gqA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=QdSmbJTBmqy1KdpNSmVSvcAoJdEr4vw1xdOwMIsMEocS2fF4BIAyM1V7UTqgF7wA0HC3FPzGO5bmbr2LvjASAB568_a2TOYXEPsrzulIVkwINlIu_oA3_cS1Vuoud5UgpkHN1PVrIZ9BIHILVShEtU5BWBz_DqjuszuZg7e60A9g-ITlz9aJdw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>属性图越来越多地用于描述带有关联关系的数据,其异常检测日益受到关注.由于属性图具有属性信息丰富、结构信息复杂等特点,存在全局、结构和社区等多种类型的异常,且异常特性往往隐藏于图的深度结构信息中,现有方法仍存在结构信息丢失、异常节点检测困难等问题.结构信息论使用编码树表示数据中的层次关系、通过最小化结构熵生成不同层次之间的关联,可有效度量图中所蕴含的实质结构,研究基于结构熵的属性图异常检测方法.首先...</description>
       <pubDate>Wed, 23 Apr 2025 16:00:00 GMT</pubDate>
       <author>吴江豪;段亮;岳昆;李昂生;杨培忠;</author>
