@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 09:28:34 +0000</lastBuildDate>
-    <item>
-      <title>关于做好2025届毕业生国家助学贷款还款确认工作的通知</title>
-      <link>https://www.cup.edu.cn/zizhu/knsrddk/ca190c885ca04712a0fc1984ce44533a.htm</link>
-      <pubDate>Mon, 26 May 2025 10:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 04:25:48 +0000</lastBuildDate>
     <item>
       <title>中石大在首届全国高校教师数智教育创新大赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/e4e5ee1b98974a8cb4efdc28d55b1235.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大在第五届北京高校教师教学创新大赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/58848680400d40d384c747518d869341.htm</link>
       <pubDate>Mon, 02 Jun 2025 02:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办第三届工程博士研究生学术交流论坛暨“校长面对面”座谈会</title>
+      <link>http://www.cup.edu.cn/news/sx/a5e7299a5b5a4762ad4923b4dd4249a1.htm</link>
+      <pubDate>Mon, 02 Jun 2025 07:13:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
