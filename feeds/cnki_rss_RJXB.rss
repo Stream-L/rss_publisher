@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Tue, 10 Jun 2025 04:29:59 GMT</pubDate>
+    <pubDate>Tue, 10 Jun 2025 09:36:39 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>《软件学报》投稿指南</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEJ023Cn1fwhrgiQe8qCDVIzBzOeMg-wGZ0jSyOyInkD2_9WOOzKQictKX_aGsgcSUzgY4T37eXpTrD-BTMsfA4RmRO0OBpCm_dV8pXbXK9V8nKuGaz1MDhDMXKnm8KdXR6aQB99u3t02k8IqkkhDpQuKJFZEJWTIy9hT7NxvUPSQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGL-Rt65a1abKr6BpSeUiX_bsg2MBKohwfcazaLuB4L5lCPDciLqCgCLvRu2wPFWxBPW1iH4Rw-XWd7B-QhrSRJLGqjExlI_jqgSxmA0JCprbcVLB08Y8u-xwpSaZOHwbGUKu51oxY17OdlZA2qG73b-DDJw6eD-lfwGEGY3IriZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EI Compendex,INSPEC,A...</description>
       <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
       <author />
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>《软件学报》2026年专刊/专题出版计划</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFXupVbMAXRWYYy8F1UWEvwz158fR8ds_byHKHqr2mmJH40c0sdnhLNiPqQOyfkKx2xe_JCu9kq7QmKDLlphRL1Gr_hbiPuTlfVPwSqp9C3IvTG6_5th6LRxoQHXCkhWMFOF9ezfUN37BGbQCPujfW5gHZYG0gA7gKm7n-oGJPxRA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEt4CnRh6qo_xslDAhwmpml0dAJ2UIMnv4d0O6Xjp7PtZdrvRGHhH2IqAic4rXUIlXW45YklrHt2YYLlI5A_z2kUgGfzNIgMtQwkWv89TnWjStywmVkyyc-46dk8BeQ0tkhOveEb6sEN6WunhPpKONBcVVm8gP676gsN6cnHlV_DQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;~</description>
       <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
       <author />
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>基于神经网络的分布式追踪数据压缩和查询方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFXupVbMAXRWYYy8F1UWEvwhvMdicd-scUu8eUPczOEbLTmM1TrGkv5ecdVyE8rEIUwFt1IPbQE9B0__HAWJmLAJ61MD9sivhm4L4eWfFfJUyLSbsB5_CZUV2A5oMXaqS7iqcdZqw5T1rTCq6A349_C72LbPv0Ks_C6VJPLvNq1mA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEt4CnRh6qo_xslDAhwmpmlq-68d4RLQls3hxN8_oPBlog8CHpUhJ9G7hSSbpeDLZn-0oIxQXxQNBzXVu3R9_Z8nK4lOSvCSbVzYar2dBbVJaQFU8DncKPfD8MnRXqahrqUT1a5QADPUmgm5MQ9Mn80rVypoPCa1A1EcZG5xOeNCg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>分布式追踪数据作为一种重要的可观测性数据,对性能分析、故障诊断、系统理解等运维任务起着至关重要的作用.由于系统规模和复杂性的快速增加,追踪数据的规模愈发庞大,对存储提出了更高的要求.为了降低追踪数据的存储成本,数据压缩成为一种至关重要的方式.现有的压缩方法无法充分利用追踪的数据特征实现高效压缩,而且不支持对压缩数据的复杂查询.提出了一种基于神经网络的分布式追踪数据压缩和查询方法.该方法采用一种新的...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>王尚;张晨曦;彭鑫;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>卫星边缘计算智能化技术研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFveZo_BV1kINpP9wbGphTvAzn2ac10Lr5gIkw_RujGZwXiUdLz5iUCPqYAQLEgOr5T96oDFl3Cv6q1UGQuVCPU5NfNLbcAZB0OZ12XsGbwYUcF3B6zzHz6w5CNsHiXtRkcYx1AEW1c6gswjGIupO5_pEF_ycnaVHiS6KH1sXD-bg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUE3NvgYI87tS-YK2oPJf-P68_p56oghxoXS6qM20XC_f-KFSFqiSSpqfDWEJVHBwUPOsxnkcwAq6ldI5w5OJRNnFhNi1rIa-ncqjwyMjq2b8rcmEm8B7jPWPDSm_USlTWrqvK93lGgHy4Ny6oh0q-RNmKIKE4FMOPXo24-k_qpZyA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,随着太空任务的日益复杂化,太空数据呈现爆炸式增长.然而,受限于星地链路带宽限制和稀缺的频谱资源,传统弯管架构在星地数据传输中遭遇瓶颈.此外,星上数据必须等待卫星经过地面站上空才能下传,而大规模建设地面站不仅成本高昂,还面临地缘政治风险和经济收益的不确定性.卫星边缘计算作为一种有效的解决方案,通过在卫星边缘引入移动边缘计算技术,能够显著提升用户体验,同时有效减少网络冗余流量.在轨处理星上原始...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>张其阳;邢若粼;李元哲;周傲;徐梦炜;王尚广;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>面向编译优化结果不一致的代码高效定位</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUE_QtrKOuMdQo6rZJQGI9sVEiBaZnXHBzDhhC4aOGyKYRopr8vGZUCzsbm_2RoGzJbSkffG6bowtHGWwxIHgUTGLY_ZR5zlPrQ0lusHm9fwNPPdjrbV1wP8sDuvkkKh2amnpR68dncrSVzL0tYqybolsXbmAWlYWlzw6VWl6MltGw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGxpUCjMQxO9mX7YXEiKRhURBYFfqQZkFe7hGR1fEY54a6W7P0EbdOg8BIt8V7KsMFnoEBOiht2FeCkPyWprLBg1K98jkAf4HAX_5wMYaNl3RDUvK5jRTrKTEPp6cTbHvmyn24WjRMsIO849f44dc-sTows0GpmpvF5hJkNLz326g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>编译器是程序开发人员最依赖的性能优化工具之一.然而,受限于浮点数有限精度编码问题,很多编译优化选项会改变浮点计算的语义,进而导致程序计算结果不一致.定位程序中导致编译优化结果不一致的语句对于程序性能优化和结果可复现具有重要意义.当前最先进的方法 PLiner采用基于语句精度增强的二分搜索来定位导致编译优化结果不一致的代码段,受限于对多源问题代码的定位支持不够和搜索效率不高问题.提出一种浮点指令差异...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>于恒彪;易昕;范小康;唐滔;黄春;尹帮虎;王戟;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>典型驾驶场景下接管绩效预测及特征分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUE_QtrKOuMdQo6rZJQGI9sVEiBaZnXHBzDhhC4aOGyKYRopr8vGZUCzRrWIniv6wUNx4SdBpP1FzWECAPkwIx1MH8Grq5eCaemHAR3OWPqnbcP6B7kGE6PnSY2RGZBm0OgzLNaYGXiUtzqv72x72x_5mpTxUtBh4xX0gTXoDZzj-Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGxpUCjMQxO9mX7YXEiKRhURBYFfqQZkFe7hGR1fEY54a6W7P0EbdOgDiEIGS0Lcsph_OkC0r8028GpyB-t8c-QEoJJ_KQ85I8Z5pVt7pS8-TDhlCiEv4Geoj6V3napmrViZFu_1FfiLlDgeqFpyV07ow9vXoeF1LKkUmTRGkUdhQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着自动驾驶技术的快速发展,车辆控制权的接管问题成为研究的热点.装载辅助驾驶系统的汽车并不能完全处理所有的驾驶场景,当实际驾驶场景超出辅助系统的操作设计域时,仍需要人类驾驶员控制汽车以安全完成驾驶任务.接管绩效是衡量驾驶员接管表现的重要指标,包括接管反应时间和接管质量两个方面.接管反应时间是指系统发出接管请求后到驾驶员控制方向盘的时间开销,接管反应时间长短不仅一定程度上反映了当前驾驶员的状态,还对...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>张杨杨;张浩;甘涛;冷昶;黄承超;张立军;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>基于机器学习的开源软件项目维护状态识别</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUHrvw0uOZiYuTabeswHT3E2_d_GejAIs7PThkROzZqe4SYSj1PZWP3b9UrKifdvs9nKrEbo_h-jdRGczs-jbdWWbz0vZrqpCknouQWZA9Q2P-UhIdwin66tulwl5P21FTcPVcInBSnh7Lz2LGganHfv-n9PWGFD3p6tww8jHCJcLg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUHPfMwfsV1eqV_D9EI9Tg6sVp3ZRVxwZfVmG3NwT2lxUw1r9G-sqva6ppDow-eQMel8zBzITwByEP9X7hTfJO2V8h2SfKD_V8M9cnO1l7Uha7IZIIsNegSXg3de36XHFNbUSeAAF3f4FVBEkZ7nQ5Rff4iJS3hAPjH7T-yV-iOWTA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着开源软件的广泛普及和迅速发展,对开源软件项目的维护工作成为软件开发周期中的一个关键环节.作为全球范围内代表性的开发者社区, GitHub往往在同一领域有着大量功能相似的软件项目仓库,导致用户在选择合适的项目仓库进行使用或进一步开发时面临挑战,因此协助用户准确识别项目仓库的维护状态具有重要的现实意义.然而, GitHub平台并未提供可以直接衡量项目仓库维护状态的信息.提出一个基于机器学习的项目仓...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>罗诗雨;李馨蕾;罗俊韬;王新;张国锋;陈阳;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>面向RISC-V向量扩展的高性能算法库优化方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFWmttpiNGRVaiZCyMAJNxvIauzD0u8jU3P-FmoEkVtgUBjaQTeyOxzNzLSIvI6d9omLnrJCy4EEXeqtLrXfl9xGPg4WwgGfSsBCR5n8-a-NDI4W76EeZVX1gcuroQlWGAjiG3hjyqXNDU3Pk2rimTjWfcoDARGvS60hIlSHByuMA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUG3x9dHlIhf18xMUgmacDQ1RWlDE1KpxG7kDSsV7dNhW2Q09lDr0pnZhC9wJIAtiFMxYEbeYZE_YXLrRQe4fGsZeUChattM5BJFZOpe1z8DmBPmaNOrHdbRj1-GAiAz0Cf8vib0bWSr4NtODwFOriXAvIh6PmcIH9LhZ94glSNnHA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>高性能算法库可以通过向量化的方式高效地利用单指令多数据(SIMD)硬件的能力,从而提升其在CPU上的执行性能.其中,向量化的实现需要使用目标SIMD硬件的特定编程方法,而不同SIMD扩展的编程模型和编程方法均存在较大差异.为了避免优化算法在不同平台上的重复实现,提高算法库的可维护性,在高性能算法库的开发过程中通常需要引入硬件抽象层.由于目前主流SIMD扩展指令集均被设计为具有固定长度的向量寄存器,...</description>
       <pubDate>Thu, 29 May 2025 16:00:00 GMT</pubDate>
       <author>韩柳彤;张洪滨;邢明杰;武延军;赵琛;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>基于异构图注意力网络的实体对齐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFyVDHxFa9rERVscSWgvZLqEoGUCbZLc4Gh3jPuVK1xQP5upk-MaC83Iyz4t_HHduQMy3SMOjj9lq19DNZ3X7tnc9y_QBS1uKLDTk8IDHAf9-RbFj9CpGzfBHHo9THHT1VWO1NcpbI0YZHUn4PqeWUR0O-YGEsc4OeNGLpj0Rof9Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUG3x9dHlIhf18xMUgmacDQ1RWlDE1KpxG7kDSsV7dNhW2Q09lDr0pnZHW2FHoWqt2jYxsCo7OV_ayUrQFV9HRNaytelD5alAzkoFcgEmPpw-e-FG4iVKAyMSAz5PP42Zb9bIMzakU5NT3HuZQZZgAdGAe153-FpipleCbE_wuuk7A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>实体对齐(entity alignment, EA)旨在寻找不同知识图谱(knowledge graph, KG)中等价实体.目前,基于嵌入的EA方法存在以下局限性.首先, KG中的异构结构没有完全建模.其次,文本信息的使用受限于词嵌入.第三,对齐推理算法缺乏探索.针对上述限制,提出基于异构图注意力网络的实体对齐方法 (heterogeneous graph attention network f...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>孙琛琛;金钰媛;申德荣;聂铁铮;寇月;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>最长公共子序列嵌入支持下的代码相似性检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFyVDHxFa9rERVscSWgvZLqEoGUCbZLc4Gh3jPuVK1xQP5upk-MaC83XOqTbdU9AtWDswGTlJhHnt-D1qgDNFtbGF_V4s8cBWPJcm7E8csACbW8rKA5FE2UqG20rJ1JMUvOi3LVzZ41NTPQ0Iy8poF_ORQLK7GIhnQkUiA21Hxqzg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEMo0qUpB-Qo5EmNS5BdUyqyeAIY0lSToPJ3E0BIiyKfbmS-JkKf5jeQPsVfAeOr6SIS8-opX6gGI7dta4z42OWO4bP5bOntRsWg7YJPtFpiaE76SyNLu9P86bDOC8NTkiYNuxkpqIZMkhI2ijF76ZNGoPFGMTO_X5T-bPozmJt7g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>最长公共子序列(longest common subsequence, LCS)是一种衡量代码相似度的可行指标.然而,经典LCS算法的时间复杂度较高,难以应对大型数据集,并且,由于代码文本序列中的词(token)本质为一种基于离散表示的编码,直接使用LCS算法无法有效识别文本不同但语义相似的代码片段中的关键语义.针对这两方面的不足,提出一种面向LCS的嵌入方法,将代码间的LCS计算转换为代码低维稠...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>弓媛君;黄建军;游伟;石文昌;梁彬;边攀;张健;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>ReproLink:面向可复现性的科研数据管理系统</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEFlWnnwsqBkkQ_v-loTA_TiMZB8N0glbOJf2hqeYOytVtajMdkZQ5pGuemcEqrf89ZWkexElWZfxfSTHdxe_1VzOJ3-doELp-XWgOn5n4SXR8drRxl2W-vU0HETuRIZK1AYueEjoD0uKJWhKhanw5bZ5It4IdttG--Vit6EfOIDQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFw3XGoLmP0eYqBrOpPfMVugOAzGIx7rYhdnUb2VX7BgWU4X6ZZbBCAxC4oVA7pYm22soq3gnOwSelN7LA6L4lGVZLAHsSUXYgMBdKPTV7705oxxqJqRXcb9czjgPXk4NTsb0YxKc7UuxgO3TOIlZXFOGtvFHdXfWSIQiAZdW1rrw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>科研成果的可复现性是科学研究可靠性的基本保证,更是科学技术进步的基石.然而,当前学术界面临着严峻的可复现性危机,大量在顶级期刊和会议上公开发表的科研成果无法复现.在数据科学领域,成果的可复现性面临着科研数据多源异构、计算流程复杂、计算环境复杂等挑战.针对这些问题,提出面向可复现性的科研数据管理系统ReproLink. ReproLink提出对科研数据的统一建模,将科研数据抽象为包含标识、属性集、数...</description>
       <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
       <author>黄小龙;杨婧如;柳熠;马郓;景翔;黄罡;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>Linux内核定时器并发错误检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF2xe1BK0Dv-69HUhNLCo21qN54X7sOgTvGZqmZl6uxn6hO_W65rVkNLmZvX1spqDH4OnDbr-0djAOWSLoumBsD8btZSWnW00MF3ESakKS7ZA7y1D6y2-9kXMJqKkMYb1l-5j1wGGMT5wOFPtd7E3d5Dh5aelkEox0PdKLNuzQBgw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF6RC-zY-kB72FqWY-MlGyPWxevhaqTREIfNqlFb4FCZnUu_KUlmGZffjY99KdRBxvf03GmxamnWV8s4YUUbZH4yi3pTyyPaCMzYeIRSGplNuwTYa9q7Lc8WxvEWxAd4xgJlP8HRToU1Yi9XulaFUMBAXKDX_bGGgYBruH6LH8_9g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>定时器是操作系统延迟任务调度与执行的驱动器,具有运行在原子上下文和异步执行的特性,可以在任何时刻与不同的线程并发执行,如果开发人员不能考虑到所有多线程交错的场景,则可能引入多种类型的并发错误,对操作系统安全产生严重威胁.定时器并发错误不仅涉及多线程交错,还涉及定时器处理程序的延迟执行与重复调度,比普通的并发错误更难发现,目前还没有工具可以有效地检测此类错误.总结3种定时器并发错误类型,即定时器睡眠...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>周多明;马麟;周亚金;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>深度学习驱动的软件漏洞预测:问题、进展与挑战</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF2xe1BK0Dv-69HUhNLCo21qN54X7sOgTvGZqmZl6uxn6hO_W65rVkNsoSkJmJOQixzaaVQcM-hsXxwEVpisjQStZPVBdgQNpxOPyyVNZRY8CaCrJLVRbrkhQa2HbQLuVNwSkd0IOypcMHoQmBa3uCFY2s4P7akfDZZlQdzVqDw4Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF6RC-zY-kB72FqWY-MlGyPWxevhaqTREIfNqlFb4FCZnUu_KUlmGZfnkIAXRvYU7lpBNUjJN7BoURiuuvvm8J5-FNV3FXjZWOoNJ0VG-23SijWjRY2yuYirMY4yAnr4kb8O8e9RTxez-bI9qoUiCbwrSdIHofzZJ2sAMvUv8Ub2g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>软件漏洞是软件中易于被攻击利用的代码片段,确保软件不易受到攻击是软件开发中必须重视的安全性需求.软件漏洞预测是指对软件代码进行分析预测,从而及时找出潜在的漏洞.深度学习驱动的软件漏洞预测是近年来一个热门的研究领域,时间跨度大、研究数目众多、研究成果丰厚.为梳理相关研究成果、总结研究热点,对2017–2024年间发表的151篇深度学习驱动的软件漏洞预测相关的文献进行综述,总结相关文献的研究问题、进展...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>唐家昕;王璇;赖伟;路则雨;郭肇强;杨已彪;周毓明;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>区块链跨链协议IBC形式化分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUE8RqM89DKcuWt8h-g_0YT4PGPfYbJOEnuuf7jAj79T0BknBQ9nDTVxitnPPQzi66Fo6g7f-WqOQYrfbVrzcDbAUVhWie74VWoc0zkYRfbIgHRcrujuOpeFvrXWG1m4mvWyk5cJElewZRf2dg1CRIa3Ei1lzsss49cFn1_6SYSR3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUHoNmpWRsEPwEiIvTu-q3u0UvnwWkoi9pxzzhxRS5P_ILnQCWKeHAw0XB4eQt7QIScl1JDMGbU3RP2eKBdDyTx3dXWV8LpCd26Bmid1r3XLWF0UWcBlYvDu7jZmpoZBScJSwZ0Wl83fKfRP3lL_QaM5UDDti9ur7erBNNPGe222Cg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>自从比特币诞生以来,区块链技术在许多领域产生了重大的影响.然而,异构、孤立的区块链系统之间缺乏有效的通信机制,限制了区块链生态的长远发展.因此,跨链技术迅速发展并成为了新的研究热点.由于区块链的去中心化本质和跨链场景的复杂性,跨链技术面临巨大的安全风险. IBC协议是目前最广泛使用的跨链通信协议之一.对IBC协议进行形式化分析,以期帮助开发者更可靠地设计和实现跨链技术.使用基于时序逻辑的规约语言T...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>魏秋阳;赵旭峰;朱雪阳;张文辉;卢奕函;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>隐式多尺度对齐与交互的文本-图像行人重识别方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFTybfxPZLNrYpeAOTUvh727sUHhqJI7FCZzd_feau4TB6txvT1Q6ut4eVy3T6EvBrp6YOs-reOcrYin5w1tsSizC7DNxfWMM9ehHvgb8V51Cvaz8f1mWSAQPCNuHroJEBtcA4tbWxjp7xiV2IgyHWW_uoiUByTfv2jsLCZZ5bIbw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGtIodxnlH4s1ZX1ENSjeoc5Ab6qWT63KPvJfZHjDAjz5yaxco6F6uZSX7ALPiBIC_5yhpBT7xH6l7UQhc1VC55nL6D1x39I7obJFHfPcxxwHvhxUPEQmdcuA2fqWHJ7Zwp1j-Qe5YahwoV-Qwy-J21FJYAJyE3P5Ir-ATLHuATUQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>文本-图像行人重识别旨在使用文本描述检索图像库中的目标行人,该技术的主要挑战在于将图像和文本特征嵌入到共同的潜在空间中以实现跨模态对齐.现有的许多工作尝试利用单独预训练的单峰模型来提取视觉和文本特征,再利用切分或者注意力机制来获得显式的跨模态对齐.然而,这些显式对齐方法通常缺乏有效匹配多模态特征所需的底层对齐能力,并且使用预设的跨模态对应关系来实现显式对齐可能会导致模态内信息失真.提出了一种隐式多...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>孙锐;杜云;陈龙;张旭东;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>RISC-V内存一致性模型的同地址顺序一致性定理证明</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUFTybfxPZLNrYpeAOTUvh727sUHhqJI7FCZzd_feau4TB6txvT1Q6utOG2Neb8p17zKbcuX8T6ayK4IL6Y3TpiUWJ8gjziL52-uwMXCjagDAqu1YJgGj6na0kQ3NDbLDyvB759-V8OKTa54IsBEDnUcRDNQZ4IEfTmKXI2Or_Cxbw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGtIodxnlH4s1ZX1ENSjeoc5Ab6qWT63KPvJfZHjDAjz5yaxco6F6uZUm9P4haBeoDh3MVeCk0WkYvA01tfeK7Ae3p8MyHflN_4LGoLBPjE22Dpxuw1tTPBkt-lzZpsb6kzc99ZtsqDINVGADrdNs2tcWT6vd3qTbwu4jizyWlcMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>内存一致性模型定义了并行程序在多核系统中的访存序约束,是软硬件共同遵守的架构规范.同地址顺序一致性是内存一致性模型的经典公理之一,它规定了多核系统中对于相同地址的所有访存操作遵循顺序一致性,被广泛应用于X86/TSO、Power、ARM等经典架构的内存一致性模型中,在芯片内存一致性验证及系统软件和并行程序开发中发挥着重要作用. RISC-V作为开源的架构规范,其内存模型由全局访存序、保留程序序以及...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>徐学政;杨德亨;王璐;王涛;黄安文;李琼;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>面向深度漏洞检测模型的黑盒对抗攻击</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGvqYhxxIoUBnP8TRK1oI16tzQSIgIKFPzA7tfLUypRiKUzIYCUH4K3CfZxNCE2Q3K1H2gW6VS83OT1GV-15jZ-lMUQcfUUlIv5VkE-Xz27qUs6oAGh-JNpysmwfUMKrSI0_dFxDiVjyRHWsR14SSDvuEdZbeIWVMSg1SxsLvThPQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUEwtORBXV3qnPk-EOYoyVYrypxuK1uc8XdE_DX86e3pXupbiCbdu9prGsre62d_ZFUk6GY_t2UFnBLC2EEJcM645qWZh8Z477dY26yfwSwCBJzuzULsf4lpx-5b50qw8rppCzBsmwhIcYrP3Yb3LsJ3bs1SfobsekrFVrckn8a39w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,基于深度学习的漏洞检测模型展示了令人印象深刻的漏洞检测能力.通过对源代码的变量重命名实现扰动从而逃逸漏洞检测模型的对抗攻击已被广泛研究,然而,能否通过对源代码进行更多的扰动以提升对漏洞检测模型对抗攻击的效果并未被充分调研.采用针对源代码的多种同义转换算子对其进行扰动,并提出一种基于遗传算法的组合优化策略,选择一组适应度最高的源代码同义转换算子,以指导生成可以逃脱漏洞检测的对抗代码段.在一个...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>曲豫宾;黄松;陈翔;王兴亚;李龙;王丹;姚永明;鞠小林;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>基于毫米波的人体感知研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF6XEbH-KuJzl92PFmLtG5PKLkc2SEaeR_YghcvJIwi0Cb4i5l9iS3R9IT93O68ddJ6lHdFobV2QuWbzczkENAXpxsjeOALrUsGXmnvBUb5elAV1NbY4_XzSOEIvkZOctK4cnDFoOhNrqerpHQL9phaUf4Mse5GAyGiQGMH7IcUkg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGgRP6ooXn4bDYLEdsnIOjkwAX5KdJpb5ixE9lVwozm-1fUgw2OBXp4ahpM8VrKTElrw2ZdWtB4yQhzLjD6ilhBdEuFmetFaoD8LwbqLM4t4l4fPdZ51cEKSdpHFz7D29PInf2dXaZazYOhyckVd0hyo5VV-LpB06JdPW7q6tt1BA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着嵌入式技术、移动计算技术、物联网等的快速发展和广泛应用,越来越多的感知设备渗透到人们的日常生活中,例如智能手机、摄像头、智能手环、智能路由器、耳机等,这些设备上的传感器可以采集与人们的活动、健康、社交等息息相关的个人信息,催生了一类新的感知应用-以人为中心的感知(human-centric sensing).与传统的感知方法,如可穿戴设备感知技术、计算机视觉感知技术、无线信号感知技术等相比,基...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>席瑞;张佳;孙一淼;何源;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>大模型下的软件质量保障专题前言</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUF6XEbH-KuJzl92PFmLtG5Pvn2NMnSHnO_uaT3flLopD15mMg9ne0sKb7xKQTEuXzCWBKztoe_PPhnD7D0_kSe4Oa-Y_Q-KljN6ZfR-hvy7i26oFu4Bvf1OANdo4pubJDoMVTux3Nue7Qm2wtDCLz8LvEx4BgpqD0eRHtkEwKgVdQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGmxTT7AEC38O8RRx7yB7YXlzyJKaKuoUh-DLDPtjFwArXaJ2zOqOP6nHRyh_NRRz9hUsZIW18Quysjy8BCy6Gnl3r6aljwRcWzIV9GKVtK98qBQMHUgKyT0-IfgTx0CnnfNt_DELoXdilVDRvH3Cgr-zpDYDS14ilXOel1cnUaZg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;近年来,随着深度学习技术的飞速发展,基于大规模预训练的语言模型(large language model, LLM)在自然语言处理领域取得了前所未有的突破,并且在代码生成、软件测试、程序分析与优化等软件工程任务中展现出强大的潜力与广泛的应用前景.作为具备深度语义理解与生成能力的通用人工智能模型,大语言模型的崛起正在重新定义传统的软件质量保障方法,为软件工程的自动化和智能化注入了新...</description>
       <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
       <author>王赞;王莹;陈碧欢;姚远;张敏灵;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>《软件学报》投稿指南</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUE4Nq-ijK8nY8uwCzk4fkBaPof0fGwVJQ1PNMOneipaMDTEDidXn5ArjN7SvD2xXgHqQMXHK14QZyDVxlMDUieDulNyaabMN9EeDT95QHR9cubMfRpR6wl1jBlnUaS-GxzNr0SMN4_Ncp7S10vSU4nP0zKVi9q432AVbnW9Ni9THw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=ygxn0A4FGUGmxTT7AEC38O8RRx7yB7YXlzyJKaKuoUh-DLDPtjFwAtP2D7GOrOglyuQ89O8Izq-6yxzHGzTOFavhslFAV617vQ6tKvfpyLTHxeALuQtAd-flmped_skk_ljEBbiY8p40Lehhn0mGfJbWsRJFJznJpJXxUzeDVY8HRAz-K26-EQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EI Compendex,INSPEC,A...</description>
       <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
       <author />
