@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 09:28:43 +0000</lastBuildDate>
-    <item>
-      <title>天问二号</title>
-      <link>https://mp.weixin.qq.com/s/GghEt2LDo4MbzQAownEBRA</link>
-      <pubDate>Fri, 30 May 2025 07:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市新时代文明实践基地授牌暨中石大地球科学博物馆开馆仪式举行</title>
-      <link>http://www.cup.edu.cn/news/sx/9c9a0e7e2d7c4a6dba90834e2082a149.htm</link>
-      <pubDate>Fri, 30 May 2025 08:42:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Jun 2025 04:27:37 +0000</lastBuildDate>
     <item>
       <title>中石大在第五届北京高校教师教学创新大赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/58848680400d40d384c747518d869341.htm</link>
@@ -106,6 +96,16 @@
       <title>教学楼封闭通告</title>
       <link>https://www.cup.edu.cn/jwc/notice/26d3dbfef44f4be6aec0a1ee2d815247.htm</link>
       <pubDate>Mon, 09 Jun 2025 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办2024年暑期社会实践表彰大会暨2025年暑期社会实践启动仪式</title>
+      <link>http://www.cup.edu.cn/news/sx/0beeaa2f737543d7acd24674b2fe08aa.htm</link>
+      <pubDate>Mon, 09 Jun 2025 14:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>京东集团来校走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/980de131432c40bc8112b0b9be98e5c5.htm</link>
+      <pubDate>Mon, 09 Jun 2025 14:01:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
