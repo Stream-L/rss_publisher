@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 09:30:18 +0000</lastBuildDate>
-    <item>
-      <title>中石大在第五届北京高校教师教学创新大赛中获佳绩</title>
-      <link>http://www.cup.edu.cn/news/sx/58848680400d40d384c747518d869341.htm</link>
-      <pubDate>Mon, 02 Jun 2025 02:14:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Jun 2025 04:28:23 +0000</lastBuildDate>
     <item>
       <title>中石大举办第三届工程博士研究生学术交流论坛暨“校长面对面”座谈会</title>
       <link>http://www.cup.edu.cn/news/sx/a5e7299a5b5a4762ad4923b4dd4249a1.htm</link>
@@ -106,6 +101,11 @@
       <title>京东集团来校走访交流</title>
       <link>http://www.cup.edu.cn/news/sx/980de131432c40bc8112b0b9be98e5c5.htm</link>
       <pubDate>Mon, 09 Jun 2025 14:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国科学院丁林院士蟒山讲坛第四十一期开讲青藏高原隆升与环境演化研究</title>
+      <link>https://www.cup.edu.cn/news/sx/9dcfb95f2bbd45f28d5fe319f1a99ac5.htm</link>
+      <pubDate>Tue, 10 Jun 2025 08:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
