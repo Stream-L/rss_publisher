@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 09:27:11 +0000</lastBuildDate>
-    <item>
-      <title>地球物理学院博士徐陈昱、朱瑜明学位论文答辩公告</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/8d77d701e65c4a82bcf9cca9da50a490.htm</link>
-      <pubDate>Thu, 22 May 2025 02:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Jun 2025 04:29:00 +0000</lastBuildDate>
     <item>
       <title>地球物理学院2025年本科转专业拟录取名单公示</title>
       <link>http://www.cup.edu.cn/geophysics//xytzgg/a2aea73e981b44cb8fcc59e552f95bb7.htm</link>
@@ -106,6 +101,12 @@
       <title>地球物理学院2025年博士研究生招生补报名考生复试成绩及拟录取结果公示</title>
       <link>http://www.cup.edu.cn/geophysics//xytzgg/bffecb5e3c2340eb9f8e6332ed8511fe.htm</link>
       <pubDate>Fri, 13 Jun 2025 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国普渡大学李云月教授应邀来地球物理学院作学术报告会</title>
+      <link>http://www.cup.edu.cn/geophysics//xyxw1/538f00222f8c472ea4c2d351fb226c68.htm</link>
+      <description>2025年6月13日上午，美国普渡大学（Purdue University）李云月教授应我院刘洋教授邀请，在地质楼525会议室作了题为“地震背景噪声互相关函数中散射波的稳相分析”的学术报告。</description>
+      <pubDate>Sat, 14 Jun 2025 12:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
