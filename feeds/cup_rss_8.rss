@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 09:27:52 +0000</lastBuildDate>
-    <item>
-      <title>人事处党支部与经管学院办公室党支部开展联学共建活动</title>
-      <link>http://www.cup.edu.cn/rsc/news/3c6eebec6c854dfaa00e270d3cf9981f.htm</link>
-      <pubDate>Tue, 18 Apr 2023 02:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 04:27:15 +0000</lastBuildDate>
     <item>
       <title>2023年申请北京市积分落户人员信息公示</title>
       <link>http://www.cup.edu.cn/rsc/bulletin/f1bc95d337df452ebbb922a82434aa62.htm</link>
@@ -106,6 +101,11 @@
       <title>关于2025年申报高级专业技术职务人员材料的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/5e96794829e24f32a37a4d7acd03ace4.blk.htm</link>
       <pubDate>Wed, 11 Jun 2025 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年申报职称平转人员材料的公示</title>
+      <link>https://www.cup.edu.cn/rsc//gsxx/ccc8e65138df42fd911c25504c47fe0a.blk.htm</link>
+      <pubDate>Wed, 18 Jun 2025 00:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
