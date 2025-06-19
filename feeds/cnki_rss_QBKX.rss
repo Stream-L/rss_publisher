@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/QBKX/detail?uniplatform=NZKPT</link>
     <description>情报科学</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 19 Jun 2025 04:29:01 GMT</pubDate>
+    <pubDate>Thu, 19 Jun 2025 09:29:45 GMT</pubDate>
     <generator>情报科学</generator>
     <image>
       <title>情报科学-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于ALBERT-BiLSTM-Att的双相情感障碍患者负面情感主题识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqp80jqW9Zqy_OgKAT4Ul7-fSP67_hVWfPbc7uRG1eRu7Y-dij_uEv_QCjzjGEsCddkLoLiRe8Rtx7dZxZM0BHpr4x1XOXEZdXTt6bDPL0j3cts_j5XDIOpewxg89xc7BR83rxg9V9jXu2c00rrqwKV8TVddmEdr9f5mGcR_SpWXlQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqo6DjrKTJoGfHILxN8JYqis5MaznaccMT1YlRZFzk9-viMSBailgb1AqW0TWW7i-Rv2iZ7Y3TJZJrit2D5Of7lS4oGzxhDJbqg1Z365fvgX3rJTdZu4dAVI6SiEnTUe7iRklecSUUNdsc5nrPiq9_v8T3jVP9hm-H3Zwl5ePFuQOg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】利用在线健康社区双相情感障碍患者评论文本，探析患者痛点和需求，推进疾病防治工作。【方法/过程】针对当前在线健康社区患者负面情感分析的不足，提出一种融入多头注意力机制的ALBERTBiLSTM的混合模型，通过自建双相情感障碍数据集，验证模型有效性。随后，运用该模型进行情感预测，基于BERTopic模型分析负面情感评论，识别并提炼关键负面情感主题。【结果/结论】实验发现：在情感预测方面，...</description>
       <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
       <author>周金娉;营晓云;李圣瑶;沈旺;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>基于排列熵的突发事件风险因素突变预警研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpDmC6DxKtCtz-BIs1znyZ4J9EaHhf2VU1-wiDRk-Ke71HnyyWnvLcvEV2tj7CIfRgBpJAWE3ahD6VkY8eqoIfhLjTdwhAKfEFz8iLLPWdErlbJM3PwlMrePeGR-RjNRtCF4TZ7GgrTnOMWBEWolEUSAytd_ae1a6Ed7QfOt-Wytg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrvzSQ0pdBmUTAdvwKjjk6eNTbuDWOPpeHamPTWokn7dW_SLmqnPG84trHwJhaSThjwqozoKNYOVOONT4y40nlXveYhqmfR1BG5AVSXefRuxlXQU9EX71n3xXob7bxHX4R6no5_Fej_PegP2BH5XBAyYwagwWR1Qnkd7kCUIjGLNw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】利用排列熵的方法对突发事件突变预警问题进行研究，从多因素视角出发更好地发现突发事件的演变规律，实现对突发事件的事前预测、预警，达到风险损失最小化的效果。【方法/过程】在突变理论的指导下，采用排列熵的方法对突发事件多个风险因素以量化的方式展开监测，从个性中找到共性，发现突发事件突变的临界值，并通过具体案例证实方法的可行性和科学性。【结果/结论】运算结果表明本文提出的方法可以有效应对突发...</description>
       <pubDate>Mon, 16 Jun 2025 16:00:00 GMT</pubDate>
       <author>李依霖;张海涛;庞宇飞;张鑫蕊;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>社交媒体用户对AIGC视频的感知与交互行为研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpqCThzqAn_t7OmILWWmPzr4o_tzARYgTf9nbY-F_2jy4z9VUivoAeazOQQA7MyC_gXoJpK7UeDfFgsIkCCIkf1623T9TlgvfggaD5TCG_ZkY6X2fPXbY2PLfCh-t49AZL0XwanmnPhly20Wi4MW7A6L0EGBZhX4pQlenQR7A1_vQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqp4RlGCveyUUZRqwQDt8q8ExpFbbqEHBKVrSJCZY53kwufbiMeNnWdBQ9NRJ4VuY_HFiHPGlmvag7B_q0HqmmTuEat7jgjczvxeAfwuU_4kYaISeYZt-r4u7a3U4muPhIgVsQ69Htyuoh3DTTPOQhk2hzEQRqF-MvEgdK3YAJrY_g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】人工智能生成（AIGC）视频在社交媒体中广泛传播，为信息生态治理带来挑战，因此亟须探索用户对AIGC视频的感知维度及其对交互行为的影响。【方法/过程】本文基于哔哩哔哩平台中21万条AIGC视频用户评论数据，结合BERTopic主题模型和扎根理论三级编码方法，揭示用户对AIGC视频的四个主要感知维度：积极情绪反馈、消极情绪反馈、信源内容辨别和技术风险担忧。【结果/结论】用户对AIGC视...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>侯磊;李雯;咸慧玲;朱光;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>我国科研人员论文关联数据汇交影响因素研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpqCThzqAn_t7OmILWWmPzr4o_tzARYgTf9nbY-F_2jy4z9VUivoAea2vFl_3CqwYTxw5nr78TELv872N6H2CpGVAXjBkIl6xQY1jtq46IE_EEQJnW-bjbShKifkr78ADE5P84fxI9-OYSC2wdgAVwpJZHeWWiuU-8m5TgIrKH1dw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrRy1yIV-OhJbKbMrJw3aZo-xnmt4kP6bp0y45rQf-zJ1lgznneU8li52SRvUKQJQujwKiDJ3DTGqh3_ansEehNym0bEIQADxY9zPQF0CL6HyWHDEeYadrnQ8qZk5kGxgQHLGpiyk3sHHzxJRZ2bQU4PkJ09YTvjJnsGY3ZGlT8jg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】从多主体视角探究影响我国科研人员论文关联数据汇交的因素，为相关主体的工作推进提供参考。【方法/过程】选取出版机构、数据仓储、科研机构以及基金组织的人员进行专家访谈，采用扎根理论初步识别相关影响因素，继而面向科研人员发放问卷并采用定性比较分析法（fsQCA）分析影响因素的组合路径，构建影响因素模型。【结果/结论】汇交流程成熟度与汇交规范完备度为基础保障因素；数据复用期望与汇交价值期望为...</description>
       <pubDate>Sun, 20 Apr 2025 16:00:00 GMT</pubDate>
       <author>陈序文;雷雪;姚长青;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>短视频平台突发公共事件的网络舆情特征与应急舆情治理——以2021年河南特大暴雨事件为例</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqq6SIgCFdeO-rQbJ43ul5qxMnOMZniYSKMlrKaaSy3wy-UG-USH-v4kJq5leHGdA8et82PWcks5rtTkdPSGQOMWtjchxUbxjwJd72lUSeSCVDuwROzADU4hJeaVRX2EjLhrg2KKYS-78OwLC48QBab_ucz4r155Ij396f1FldbXVQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrRy1yIV-OhJbKbMrJw3aZo-xnmt4kP6bp0y45rQf-zJ1lgznneU8lio2wqDR_KOy1jAzOc7uZOYw4F-toH88ImagcvXrpnsbc6pFyW0789b6sLdXBU85QX52A9wn2tYRqafkioxQGurDuJWfRR0o1nOrLuc4efYxMz8nIXXXLBvg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】探寻突发公共事件中短视频平台的舆情表现特征及传播规律，为理解新媒体环境下的舆情演变机制、加强政府舆情应对能力与优化舆情管理策略提供参考。【方法/过程】以2021年河南特大暴雨事件为例，从BiliBili视频平台搜集视频评论，依托情感词典构建情感分析模型，运用主题聚类分析、情感极性分析以及时序演化分析等多种方法，对公众舆论的特征进行深入剖析。【结果/结论】评论主题集中在救援行动、灾情描...</description>
       <pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
       <author>赵宇;高盼盼;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>数字人文视域下UGC跨文化传播效果分析与提升策略</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqq6SIgCFdeO-rQbJ43ul5qxMnOMZniYSKMlrKaaSy3wy-UG-USH-v4k_7yRdRsY2cNq7W5YBrjRxUICfHidIfwdk242JQobDUdCT5UdkvLdO3nY7JPXuuvSxWyOcUdTCtjONA9fztLB_r4inPpKPxRsHaHdTRzUb3plUkfB-4w2CA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpqLgQhOhdg1qquiM6WSjQlR9MyIGHZz4gjEgXc5-TDRtgBomi5KDTkZ5W4QP6YSAJl_TkInmt_KXa0vLOtPKZZIpi09YxsV7rWoSbQQookxj2JBpj5sYfuLHw_f9f6LCghaAKhKKA2U9QaEQ3WprRsE9TQOjfjY_8LUUg2QHcORA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】从数字人文视角出发，探究UGC跨文化传播效果并提出跨文化传播提升策略，以期提升我国文化软实力。【方法/过程】以Titkok入境游短视频为研究对象，基于“认知—情感—行为”三维框架，通过关键词提取、主题聚类、情感分析、语义共现网络方法对评论文本进行多维挖掘。【结果/结论】研究发现，跨文化受众对中国的认知较为丰富立体，文化、城市、科技在海外知名度较高；其情感基调以积极、中立为主，在龙文化...</description>
       <pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
       <author>向尚;高语蔚;傅立云;罗绥芝;张中青扬;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>TOE框架下政府数据开放对数据要素市场化影响的组态效应分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqphb2DokxCh4u2qq5Qp_INUcupbA3TMSJ8nFLn_m4PZWks5T107wsQ55xeq-yJixMrN9kZD5WxyzwNdPTa3Ecq62-Ll3wE9jfBJwcuUY7SgGjSCtqfDGvzFszN-RtmGTvbqMuPzAVOoevVwuaJE6z2uZseMVRvT1r5PHZ0gJ063kg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqr7WGh83-EYrNabFErxNl1kYURMnlJORkvR2WhyOmQtoDFQMmdvakj-DuyURlVp9PXcd5gkZbDOTBoaOXdRKwO375CpuNv52VksGzZ2qrQef40FZMUKuhSmdnYsLjOiT8akV-Ym2LCbqslC8gXlPWDSRBnKhFvS4x3j3LWzuccOnw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】从组态视角分析政府数据开放对数据要素市场化的影响机制，旨在拓展数据要素市场化的理论框架，并为政府数据开放的实践提供参考。【方法/过程】结合TOE框架并引入fsQCA方法，以我国27个省份为研究对象，辨别充分与必要两类因果条件，探索政府数据开放影响数据要素市场化的关键因素及路径。【结果/结论】研究表明，政府数据开放不存在单一必要条件，影响因素的组态路径共有6种，分为全面协调的多要素协同...</description>
       <pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
       <author>李桃;姚玉剑;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>信息资源管理学科数据要素研究进展与发展趋势</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqr2KPeCLHuwLH83Cni2COTsiXwNH2DHBaDv2NDwtDKMrACRG9v1kSmS-SCn3Blr2laY37ZHrFvCOrBBMQ-FlFXNvyDOxFctQiyegHSplntNUOyVGkg0Fx_flVDInC0bss8i6foWskfwqAedp1gxZz78alyU_aRD3TdcE7RTxhvYjg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqr7WGh83-EYrNabFErxNl1k-nQ7aZ6xw6gVSjVwgefq1S4ll6oZpkjfgbB8xyNaAAiDJ2otszAOp50VgdgRNtfJgecc2rVVCqn71gnvpoeX_KYsVi_QoaPh0cELk3ofqWqRDygYE0ySyQjEF5G7bY-VjW26hwlVPRor1l8FwuCcyg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】数据成为新型生产要素，当前各学科对数据要素的理解，更多从经济价值的视角展开。作为以信息、数据为学科核心对象的信息资源管理学科，有必要对其关于数据要素研究的主题与趋势进行探讨，以发现特点，探讨趋势。【方法/过程】以我国信息资源管理学科数据要素领域论文为研究对象，基于文献计量和文本内容分析，从信管学科数据要素研究的总体概况和主要研究主题展开梳理与分析。【结果/结论】当前信管学科关于数据要...</description>
       <pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
       <author>卫军朝;魏嘉伟;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>基于层次因子图的电商用户信息认知结构挖掘研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqr2KPeCLHuwLH83Cni2COTsiXwNH2DHBaDv2NDwtDKMrACRG9v1kSmSqMNIkMl0yQd3rZwp-kShp77XFCU6QdMgUFcF2-5Bm--C7DM19XoF9vOR38jdaTlgnXvNu54xSZi43tsMXpiWcLY59tl_10cK3INIvCY_cSrWXs27brT_gg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpBefLccPqJKAWuJCP76ihuoi3h2_1i2xOzuTW_TKR4zY2wcFEzcvGwNL7d_u5wrfyL9fItdq5P2EItJK7pn5nHBrvBWIBeM7gdgP_1tgdBRWUNVczBYJ52Y4SgD6TTQ4GzelIH1TVI_zv40P1oww9VQUaFjO3dErq1EKh28U91Ww==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】挖掘电商用户对信息组织和理解的认知过程，为企业深入了解用户的信息处理和决策过程，优化商品信息呈现方式和服务，提升用户体验和营销效果提供依据。【方法/过程】基于层次因子图构建电商用户信息认知结构模型，根据电商用户在商品页面浏览的信息外显处理行为数据，采用变分推理算法推导用户先验知识和新知识加工的消息传递路径和关系，挖掘用户信息认知结构。【结果/结论】实验结果表明，基于层次因子图的认知结...</description>
       <pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
       <author>田依林;柳雪飞;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>基于超网络的在线健康社区知识共创模型构建与应用研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqSmtFaqVPZTBFB6iF0JrT2cV40qAqAfVOF-YTkZsKZ34qreHHqpdwdekDf9zhHyaGjCE23VKoDOjx0gDcpJ8kjP90cjTnZZW3OKuTEdNrnScv6WIDWKEaklWFmaOp9qRWY_Iq5kk-P_M0_qfrr36he1cuqxPpaKrCTkZRRONCHWg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpBefLccPqJKAWuJCP76ihuoi3h2_1i2xOzuTW_TKR4zY2wcFEzcvGwFhsKL_P36ARRR2rVtqx7R3Olf9PlF-VYH4YfF3cb264q9mJH1CjIeKEmV1CWAhWvAxSZICpvN6tYRo0VycWYZ9WSrLqvSOUo94tzcHMtCfgEn2LXtY2piQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的/意义]全面关注知识共创主体、知识文本、知识基因如何实现汇聚、关联并产生协同效应对于把握在线健康社区知识共创内在机理、推进在线健康社区知识共创具有重要意义。[方法/过程]基于超网络理论框架和建模方法， 在分析知识共创主体、知识文本和知识基因多维关系基础上实现在线健康社区知识共创超网络建模；基于典型在线健康社区的样本数据，对在线健康社区知识共创超网络进行实例构建和应用分析。[结果/结论]在线健...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>冯翠翠;易明;金燕;莫富传;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>科技报告共享应用中的知识产权平衡策略研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqSmtFaqVPZTBFB6iF0JrT2cV40qAqAfVOF-YTkZsKZ34qreHHqpdwdtTdlsFxpdBE0E7zBKAP3ufBRLXRiI9TwK39uz46iyXeSbODMNr8Bpwr58XDH9xsL0KEC6lRbIijmbZLB1DbJWS4VXkI8IB45PA69xxucay7H9nl3bt8P3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqzedKKjIkQ5GpXlF-0vMhcLBP6uBCTU93gsKg_LTCpV4P_i2Y7VEDe_XuC3U6_uWJzdlq7Uh1-dF_P3rHOYiatUUWNsw6Kyby0B5fWZh2kWT7es5e1GJcYfTVS9yHMhVoSij3grcEMrlzuTGgqtKc4QGVhosZ-sqXFLs6SueyUZw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】构建科技报告共享应用中的利益平衡机制，在保护科技报告权利人知识产权的同时，最大限度开展共享应用服务。【方法/过程】本文提出了我国科技报告共享应用受限问题，分析了共享应用受限的具体原因，据此提出了知识产权平衡策略。【结果/结论】基于科技报告的公私双重属性，构建了其知识产权归属规则；通过合理使用、法定许可、授权许可的著作权使用模式， 平衡科技报告数据挖掘中科技报告权利人和公共利益之间的关...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>许燕;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>我国高校图书馆“学科交叉融合”资源服务体系重构研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpOy-NVOYMPlsLSrlffdklZ5bjB30VzxW3LxzDflpUrJIR7_tIovgFki4iDU-2EUkKC37KXvi9B18KYUhMh819c0N_zx4yI0bGRbOEzqz7_mpn-z62zOnALUsFBWlNo9yG_vONW1lp7ApIV1EpA2qv3_EavsCsdnUdpkBGsAK5Vdg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqzedKKjIkQ5GpXlF-0vMhcLBP6uBCTU93gsKg_LTCpV4P_i2Y7VEDeyyRiXvG-_Y3UCep14RI4-qZS2B8y1LWPBHpzWX4qDTJcl7s9uojVLi9ti5J8jLQ7eEvl63SqNfX8RxXoYZh_Bi4OExs2FHjewm2o-EePs2nuqYBuv20u5A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】高校学科交叉融合发展的新阶段对资源服务体系的创新提出了新要求，重构与之相适应的服务体系，对优化馆藏建设、提升服务效能和满足跨学科知识服务需求至关重要。【方法/过程】在面向22位图书馆业务领域以及院系学科建设交叉融合领域专家收集190组深度访谈语料的基础上，运用扎根理论提炼资源服务体系重构要素，并采用解释结构模型分析要素的层次关系。【结果/结论】发现学科交叉融合背景下高校图书馆资源服务...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>刘健;马瑞;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>基于PMC指数模型的省级数据要素市场政策量化评价</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqpOy-NVOYMPlsLSrlffdklZ5bjB30VzxW3LxzDflpUrJIR7_tIovgFkfPxondsv-b_Hzvr86GE-yy4dYm9n3rv7EuoQEcJIm6tIvYipqzo6ZG12DezkhinYMpJNlLnXAqWxH04JJ_oF6lwB5VURNdBuA1H9cpe8UFky6aNclwBiZw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqZnZZcnTUIdv-0aXotsA_Swl3EPCdKRhzKxbQV6Ler2Oy_pAe19cKyfeU20D2GPfpqJsmAhDm2l5EOzMc6UCf-SwwKPvQGBmFylXhFbPvKVy870O6abzvsTh1OcBvT5P8jG503fmrTg_CEEFZqb_hqkzlONllh9xyttlt2uEBaCg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】持续深化数据要素市场化配置改革是数字中国建设的题中之义，对数据要素市场政策进行量化评价，不仅可以为相关政策的制定、调整、优化与改进提供参考依据，也有助于为持续深化数据要素市场化配置改革实践提供研究支持。【方法/过程】利用LDA模型对2019年—2024年468份省级数据要素市场政策文本进行内容挖掘，结合已有文献构建省级数据要素市场政策评价体系，基于PMC指数模型对10份政策样本进行量...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>毛太田;陈忠达;左珊;李雨欣;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>数字信息服务场景影响老年人数字信息行为的模型构建与机理分析</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqp8w829bvRu9SZmL_jlC_yeCodB5dj5Ku0hxQwg52sTsksiajDfSPtf4yIH8QnQURPMxHH_LQXDf_WoJKVCuKtCxsaWVnN7iweDbhxsw1pt5meVzQ3dLkXkOdSEnTAwLdY6INIP8YShQtV8vFzoseWxVKHEbbcDAiZoFLHUl8vNSA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrrCZWKlC4c6aqchhgTgvNJqNMwrtPIfYu-MV33121dskmmwD41DBnpL6MQ5s04Ib93lNqb-eYX905QSS8uQ0KcoZyp8lXIgjIQCP89ReueklBh-Tq7ukh_WRMNTWoghnX6hmgdUrSp2QX7BP0wpDTl2cE1fM48j_ZUjj-ni0ZWDA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】探究数字信息服务场景对老年人数字信息行为的影响可丰富老年人数字信息行为理论，为数字信息服务场景适老化改造以及老年人数字信息服务场景的合理选择和有效利用提供指导。【方法/过程】在界定数字信息服务场景影响老年人数字信息行为核心概念的基础上，先采用扎根理论方法构建数字信息服务场景影响老年人数字信息行为的理论模型，再根据理论模型对数字信息服务场景影响老年人数字信息行为的作用机理进行分析。【结...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>娄策群;谢莉坤;杨郑子衿;杨琛;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>基于三维分析框架的我国省级公共数据治理政策体系研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqoV7ut8xtILIaGwS9gbUcQdoDe4_meZwn9jxdh0wV_4ar2iQctN4L34baRnAy-H5-Vb56PPeIvfsni9QQnqya52-xm2CxgZPJAXHm17suZeLoJL7WFwKXNG4nmz7h31Yhau_rjG2Kwnl-KQabGX6Yr8C0478WxgrUGsP7DT1LS23g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrrCZWKlC4c6aqchhgTgvNJqNMwrtPIfYu-MV33121dskmmwD41DBnpM2FX6vnKX7lBllq-DVJDy2SU8oseb3syOCe44ZkAEM7QcwmWru7zvUs03hQtbEcCc1Pb5XDl8NM0OUnIUObpGcS8u1O6Ep5FLydrYCfx6geerLXw-u5oWw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】针对我国省级政府已出台的公共数据治理政策文本进行量化分析，对完善公共数据治理的基本制度和治理体系具有重要意义。【方法/过程】文章以我国省级颁布的公共数据治理政策为研究对象，采用内容分析法和统计分析法构建了“政策工具—政策目标—政策效力”的三维分析框架，并对我国省级公共数据治理政策体系进行了多维度分析。【结论/结果】研究表明：①我国省级层面公共数据治理政策分布不均、整体政策实践效果有待...</description>
       <pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
       <author>史云贵;于兴尚;王羽西;徐中阳;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>人工智能时代高校研究生数字素养教育优化研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqoV7ut8xtILIaGwS9gbUcQd86vohiTfx8v1RaQv6b2GEUU1KCeFlaqhqDV_WNqsFexa_Mz1KJxG5DFW8XEuPUblQHQSFBOqrKLLmEo7ph3e0zIlggfdO9BGsydStDhK8hH9bKmhQmR8OjDJepRN5DP-mZnYwfgkJLQCVuHdxl4CJg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqoTa7tInsromEZqGJ3JCMVaFYCUYvCIisThvXHmsf4PE7x8TgAY4Whg-k7RZYaNUQs_5nBKUkxWAf9GRiXvTe-9VSYyxhr0jkT2mSNS5g9nIVnm_7B4YidOi5yu1bgillZ5V8VAeW9aEBjwWe3BKwwmXYjl-J5WO-fNn3jk9qfiGg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】探究人工智能时代高校研究生数字素养教育的影响因素，分析其影响因素之间的组态路径，揭示影响高校研究生数字素养教育的内在机制，为优化高校研究生数字素养教育、提高研究生数字素养提供理论支持与实践指导。【方法/过程】基于人工智能时代高校研究生数字素养教育现状，通过对国内外研究文献的调研分析，探究人工智能时代高校研究生数字素养教育的内涵与特点，梳理影响高校研究生数字素养教育的影响因素，并通过实...</description>
       <pubDate>Sun, 16 Mar 2025 16:00:00 GMT</pubDate>
       <author>崔洪云;</author>
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>社会化阅读情境下公众应急信息需求测度与推荐</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrbVg6upxF3I6LY2qJ_ZTXSFtprcXSArrZn5h-_q2gXghWVbWQ5cDXeh_DHUItyj_Iol8G1dyJzbc7XUM7Qedf3pqY-ttF2gLIH_wbnPOaRX4oi2RZOkBGQJ4jMxd1nluegbfGQ0NLVn0UY__foXVJPT-7EEY5SD7G5-a92pey7nA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqoTa7tInsromEZqGJ3JCMVa2dTiQBbn8YJI7BGJ0wYb0xtkFsR4zY3hixMpT6M7ihwbHP79lR4GFB88XQclcqt_rurr1F4JIR6r4VfquLDyYaICKGIfBbOo8jHmKeGpRJN66K_JWX9tRddIs8WQ5ErBplBDn2AX5Ne4XCeFcSy31w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】从需求和质量双维度出发，实现应急信息的社会化阅读实时推荐，旨在及时测度并响应公众信息需求，为政府危机应对提供智力支持，避免网络舆情危机。【方法/过程】采集微博平台“日本核污水排海”事件数据，挖掘主题并归纳信息需求，基于公共产品需求理论构建需求测度指标体系。依据双路径模型和应急信息特征，构建信息质量评价体系，并结合需求强度计算信息的应急贡献度，最后基于ABC分析法推荐社会化阅读内容。【...</description>
       <pubDate>Wed, 05 Mar 2025 16:00:00 GMT</pubDate>
       <author>安璐;梁亦欣;</author>
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>乡村振兴智慧审计体系的知识流转机制研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrbVg6upxF3I6LY2qJ_ZTXSVG2_AiyPnWdI6_pmCrQFK2dHveNg4KlfuEUU0VrDxHdeYCY8e3schlxcqQY1s5EIHFphbApHUSr_EACn4flgR-8Y9W8W674ntmLkM3F0pHM9uja3gfURBkZs0iM7li6_2ZswQfGQ6P1b49Veh2uKlg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqr4XTycDH47lio_X6HEzJhZzOap93z0O-OpYl-w76z7BWzJ5Fds-OhfjpQks3ZKOGrBSVryasI8hwo6a6y_qu3a1eoosb4TLNWFLupA_g9WkDvUlE2m6Ze9FJ0d0EJRPs-O2iODEbRLrGT19i4gsfsnUmYhEXmCM_YOasdYBLrtnA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】相比传统智慧审计，乡村振兴智慧审计在实时数据应用与跨部门联动上具有特殊需求，为应对乡村振兴审计的复杂性，智慧审计需构建高效的知识流转机制，以全面提升工作效率。【方法/过程】本文以知识获取、共享、应用和创新四大环节为核心，结合乡村振兴审计的场景特征，设计出适配乡村振兴智慧审计需求的知识流转机制框架，并通过实际案例印证其合理性。【结果/结论】该机制通过人才培养型审计场景、共享型审计场景、...</description>
       <pubDate>Fri, 28 Feb 2025 16:00:00 GMT</pubDate>
       <author>齐永金;邱长波;齐高明;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>我国基本养老保险基金财务可持续性研究进展：系统性文献综述</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqmH4HHTr3PQ_32nlSLdvwqBIp8R4MDVf50nlUilDEjxnHqk6zGRF9OsC8wPQ9ptAHB__ICGcsZZz_jsz6_mEo0IAysebOkGYzF284rMLooF9BMyvPQJzBZs_ODfPHN47n-ZHpwlYhuDv-W80t8Z9pxvhLIPgaAShtFn3NwQ0mVfQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrFvFn5gWQcIIakQq-gVtA1R_1t2GRDKrdlcWLt4eKuzM63VAaVM-i5Ey_HlOhRO-H3ZceqGHZwuP8OsFlc2ZPD4i6lfmIHdYQXpUwgJG279oyXKSMNjOqGpMcFt_Oms2tqbl6GggLkUQq2NVNBkf_eX3wr6y1xQsUO0CzhbSvlmg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】随着我国老龄化进程的不断加速，基本养老保险基金的收支平衡，已经成为养老金融领域的核心问题。尽管学术界对基本养老保险制度的运行模式、实际效率、公平性等方面积累了一定研究经验，但对于基本养老金财务可持续性这一核心问题，现有研究在内容与范式等方面存在趋同倾向。【方法/过程】本文在传统通用维度的基础上，针对研究问题创造性构建了包含研究对象与研究区位两个分维度的专有维度，进而构建起多维度的综合...</description>
       <pubDate>Fri, 28 Feb 2025 16:00:00 GMT</pubDate>
       <author>朱子阳;刘天畅;申适风;吴晔雨;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>政府数字治理能力对企业能耗强度控制影响的实证研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqqmH4HHTr3PQ_32nlSLdvwqBIp8R4MDVf50nlUilDEjxnHqk6zGRF9OcHHZ_SL-TtKCLAstGEwSJNskMM3xlM1b58pTdj-Rpwio7yN4ZN1Sl2O9qm07tb7GqHJT46VmLcAfxVFSUjCj8uZx8Bqoku8NvugXAo2C2BZeNGAmj_qLeA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=i7m15r_oBqrFvFn5gWQcIIakQq-gVtA1R_1t2GRDKrdlcWLt4eKuzM63VAaVM-i5aF2sIVr882fp5W2PTVX4u_bvS5eTIHRdvx6X-782ZwoOGHjjrpO9v9lswIwhbJp2F6Qf6xBVv6mrPug0brjQzIzu40e8JyoiBvojSkoh0KGSp08_zNi7OA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的/意义】数字治理作为现代政府治理转型的重要方式，对于有效控制企业能耗强度，促进企业节能减排具有重要意义。【方法/过程】在解构数字政府能力体系的基础上，构建数字治理能力模型，提出数字治理影响能耗强度等理论假设，并以2010-2022年沪深A股上市公司为样本，采取实证方法探究数字治理对企业能耗强度的影响。【结果/结论】研究结果表明，政府数字治理水平能够显著降低企业的能耗强度，数字治理能力主要通过...</description>
       <pubDate>Fri, 28 Feb 2025 16:00:00 GMT</pubDate>
       <author>苗宏慧;全情爽;杨铭;</author>
