@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Jun 2025 09:27:47 +0000</lastBuildDate>
-    <item>
-      <title>域名服务</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ymfw/ymfwjs/ac881fc49e764e03a44f5e1ea2e68be3.htm</link>
-      <pubDate>Fri, 06 Jun 2025 07:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ymfw/ymsysm/8761bc3b163240dbb68b8ba2c995d2a9.htm</link>
-      <pubDate>Fri, 06 Jun 2025 07:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Jun 2025 04:22:46 +0000</lastBuildDate>
     <item>
       <title>服务介绍</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xjfw/xjfwjs/11cdc068c360478cacc064cddbdea977.htm</link>
@@ -106,6 +96,16 @@
       <title>【安全风险通告】VMware vCenter 认证后命令执行漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/0bc88610c15347998e6ca997439528c7.htm</link>
       <pubDate>Thu, 12 Jun 2025 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】DataEase H2 数据库远程代码执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/cb914e1b172e4a66925d10a7cd0028d1.htm</link>
+      <pubDate>Fri, 20 Jun 2025 08:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Apache Kafka Connect 任意文件读取漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/8c6d2894c11e4daf9350aeed6dc8321a.htm</link>
+      <pubDate>Fri, 20 Jun 2025 08:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
