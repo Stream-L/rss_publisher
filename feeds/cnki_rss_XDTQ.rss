@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/XDTQ/detail?uniplatform=NZKPT</link>
     <description>数据分析与知识发现</description>
     <language>zh-cn</language>
-    <pubDate>Mon, 23 Jun 2025 09:31:56 GMT</pubDate>
+    <pubDate>Tue, 24 Jun 2025 04:30:29 GMT</pubDate>
     <generator>数据分析与知识发现</generator>
     <image>
       <title>数据分析与知识发现-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于RAG-LATS的古籍零样本命名实体识别方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgbeLgGWJp-2faR-3spVkZu-AIXuwEQCb01D1SayIL6FIY5iCAoBl2pskieLdDt7jfRJfqtzh1OpfPkRwGzKmUAakgH62MGlA0RH8ipfW684NBBarU75QLuHWy9zYnrHuI_PBZs0xvBJCIv2S-Emt1xv6IanTUXaqiylPfKXaQU0LQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguDK3cDoCK6tt8lDNkJIyBqN2nN1DDsKgihZOpU3bTmeSZndgB5Y6RQFpqWZQmHyNQ6XA6g2jijZTMVas-gi3_b9jxI0iH1GoLB6AHEDvTc-vu42_vuKq8CTwkdOooMJ4F6yCT57QNai27fK2oyJgu8kqNw4pA8TbhC_jioBaNBcKg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 解决古籍文本因语言复杂性、多样性及标注数据缺乏而带来的命名实体识别难题。 [方法] 本文构建了一种融合古籍知识库和AI-Search的RAG框架，结合LATS框架的生成、搜索、反思与修正机制，优化大语言模型在古籍领域的零样本命名实体识别性能。 [结果] 在CHisIEC公共数据集上的实验表明，与古籍领域微调模型Xunzi-Qwen1.5-7B＿chat 相比，本文方法的Micro F1值...</description>
       <pubDate>Tue, 17 Jun 2025 16:00:00 GMT</pubDate>
       <author>伊豪涵;王昊;周抒;郑旭辉;周正达;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>融合关键信息粒度的多源异构时域卷积碳排放预测模型研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgY_2Aob4CwAlxDUnr5yay7tWEgMPNrldaOVmX-ww3SM_KsLBHs9pJLti_t1wfas94H3qEnkKS-ZlDX0h31adWEodOWouXQ2ehNynmLtbNg5fTUcnIy4sHwZlkC03MoB--gio5P0zNm-rvrYx_35E2lleU3IpPb7s5Qm3IWgtN7cSw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguCON9o8TnBr-V7hpDOCS0Xg0xwlD2aA0_eBHkFF7b8PJDPx4HSuv5H_kCo5-GnBm-PTJdJ8kUazenlQBs37FCU7z5GqK3vAdtw4NLbOScdzsuTJBJSUkmnYDjtN2GajyKjfWPsUUbS5iBDY5mszsGFxIprhsbd8yEOBI2nbguItsQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]综合考虑城市碳排放信息的非完整性、特征的多元性以及排放规律的复杂性，全面刻画碳排放的复杂动态过程对预测精度的提升至关重要。
 [方法]提出了一种融合关键信息粒度的多源异构时域卷积碳排放预测HOSVD-TCN模型。首先使用自动提取技术抓取原始粒度信息，其次运用自然语言处理社交媒体的实体文本，形成关键信息粒度的情感值。通过高阶奇异值分解和重构异质信息，生成高质量的张量表示，并将重构后的碳排放量...</description>
       <pubDate>Tue, 17 Jun 2025 16:00:00 GMT</pubDate>
@@ -33,7 +33,7 @@
     </item>
     <item>
       <title>数据飞地技术及其在人口健康数据共享中的应用探索</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgY_2Aob4CwAlxDUnr5yay7tWEgMPNrldaOVmX-ww3SM_KsLBHs9pJLtbRd1olbZC6ORvIAZD0gK_TSbeUeVj8343QqokgQiCe4vPBZvsS8fEqRPxaexQjNXzB1bkNvq3kcMG4UIOYMU9lF1YdwzwInD-ONXyCYuiOJICh17XzPaKw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguCON9o8TnBr-V7hpDOCS0Xg0xwlD2aA0_eBHkFF7b8PJDPx4HSuv5H_gjgh7wZh4e1d5AzyMjprWGJpNey7aK57RTm7RlNs4NKRK9D86C5UL8MI4uzkNFv2HnFMp8wr73EV68Gup1ziQL2N4xgklW5YhcAcyPDaQMyP7mmWKhQ4jw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 面向国家人口健康科学数据中心数据集中存储、数据安全风险、计算资源有限、用户分析利用需求迫切等特点，研究适合国家人口健康科学数据中心数据飞地的建设思路，为用户提供更高效、安全和灵活的数据处理与分析环境。[方法] 归纳数据飞地的类型、特点、实现机制和不同场景的适用性，结合国家人口健康科学数据中心数据应用特点，基于融合安全增强、微隔离和人工智能等技术的虚拟数据飞地方式，构建国家人口健康科学数据...</description>
       <pubDate>Wed, 11 Jun 2025 16:00:00 GMT</pubDate>
       <author>钟明;钱庆;周伟;吴思竹;</author>
@@ -41,7 +41,7 @@
     </item>
     <item>
       <title>基于大语言模型与多维度自我反思学习的中文开放关系抽取</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgbux7nzRpacgq_tSyE4nGQecjAGFyFruPLVBQJgBgY6xqw27djLTtqkbKdNCkKtEtoNAtdSwHCUo-RCbA-FrS8KlbWR3XQ82sWrCFNVk_hkdMT8B8iBMupURbzt57eCamHouElajQ5MlxCwcvdQHpPHVpKUBpXxnXlFeqGJlWRztQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguBjtMCYoyB_7jHZAIKac_ZUNLXBEMKINKipkxDpyW2drIoadLmvGbriGQw0NILAeM9e5MzFNMWpfxCtyKJqXjknoTYbUk3ZSHQrI1Sud8OqwKdZPKOB1GWOOAiYwKyUyaW9Ht6ObBnt_hwLN1nOjkoZTOUihs-ORdmk2KUpYes3WA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]大语言生成模型为中文开放关系抽取任务带来了新思路，但如何优化模型生成的关系抽取结果质量成为一个重要问题。[方法]本文提出一种低成本的基于多维度自我反思学习的大模型微调方法（SRLearn方法），自动引导模型进行多维度的自我反思学习，从而优化模型的中文关系抽取生成质量。[结果]相比LoRA+DPO偏好微调方法，SRLearn方法在WikiRE1.0数据集上提高了15个百分点，在DuIE2.0...</description>
       <pubDate>Thu, 29 May 2025 16:00:00 GMT</pubDate>
       <author>李翼鸿;余燕芳;余奇伟;李苏娟;张少龙;叶军军;</author>
@@ -49,7 +49,7 @@
     </item>
     <item>
       <title>研究发现当前大多数AI系统难以读懂时钟和日历</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgbUrxwGd2izWTssdv9cNDtmnd1xNTR8-fXBVTSYSTrAdXS_yj4WydUcZ1NW0P29awK08J586ZFXZdv2xAqT7US-KKaxLsO59lGF3kYMV7-u1_nMeCuSGGWgmKbuhLpbVk7Bomkc4s2qvvUmd87UIQSnAwn2cbB9vXOrKhmcecdvXw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAn7kHzsCWob3fihWPgs8LwXplmhFbY_U22pv1z5mMexs7Y0bKN22gmZsVJi_ROTe6_iSKtXni58JteOKwGPjQ_x1pBUtzWKKM6ma91eULXBDEIm5ya_rfvOD4_zM99QYhX2fR0-uR_RjZDXDAXLla73l1eV0-XGy_7YUVNdceEaQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;近日，爱丁堡大学的一项研究发现，世界上一些最先进的AI系统在辨别时间和计算日历日期方面仍存在困难，它们无法可靠地解释钟表指针的位置，无法正确回答有关日历上日期的问题。虽然AI模型可以执行撰写论文和创作艺术等复杂任务，但它们尚未掌握人类能轻松完成的一些技能。与简单地识别形状不同，理解模拟时钟和日历需要结合空间意识、背景和基础数学，这对AI来说仍然具有挑战性。如果AI能解决这个问题，...</description>
       <pubDate>Sat, 24 May 2025 16:00:00 GMT</pubDate>
       <author>本刊讯;</author>
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title>AI工具使基因研究更加全面</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgbUrxwGd2izWTssdv9cNDtmnd1xNTR8-fXBVTSYSTrAdXS_yj4WydUccRDdMPFEOaA1H9yQpCboKpoDeauJ43UGPa252FDS9BGrS_H7QBWSwHVXCHGhyWbV3FfDeV7OixZZbx2FhW1I1SsAAcpTcgLhHXQ48dUdm4chqI-QBz_wrA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAn7kHzsCWob3fihWPgs8LwXplmhFbY_U22pv1z5mMexs7Y0bKN22gmwUuB65YzfXrhD2EcW0C3V1R34ZjrISQmqN5KpuUybTC-ibB9s7TAHYvUhQk4_DFf72eC2GjDqdmI-n-l1D8dL6WrPR7lyrqVUxQUHgCBjT389Oblec82Fw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;医学基因研究中有一个关键的问题，即如何解决解决遗传数据中的“祖先偏见”。大多数研究基于单一祖先群体的数据，容易出现“祖先偏见”问题。这种偏见限制了精准医学的进步，并使全球大部分人口在疾病治疗和预防方面无法得到充分的服务。发表在Nature Communications上的一篇论文介绍了佛罗里达大学研究人员解决该问题的方法，他们开发出一种机器学习工具</description>
       <pubDate>Sat, 24 May 2025 16:00:00 GMT</pubDate>
       <author>本刊讯;</author>
@@ -65,7 +65,7 @@
     </item>
     <item>
       <title>嵌入双通道注意力卷积的联邦学习社交机器人识别模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgZWiwKNrs-y4XTHwr403MQl78yPuk7reqnJLZqCNPRMUYcw2a6YR8TYWRsXT51Fwc1RkHtmLli7FCGyY5AiDs_Fp5obrHe8fpx1UDkVWpC5Ie0-fFHAI1trkN6r66_hsj8s5KZNXJLP3vIcTypm6WQHOvkFxDjQowBqIKucbMHD8g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAEqsBVdrcUIl2-SMEQWmDiI_yQYnAFy1xR2-3vhpPcxTd5xAY9E6Noh0LnW9CUOsoJB2txWGyaD4-7wMYPDeiL2G4n71AHB8ikfkkIQ3qjq2purECyKupE_M5vNwvymshlbPn4ngkBKA0M1kXEg8SVKHj_MoSRrJQrsX4Kn8hKCg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]设计嵌入双通道注意力卷积的联邦学习框架，破解因隐私保护导致的跨社交网络特征提取难题，精准识别社交机器人。[方法]首先，采用联邦学习框架实现跨社交网络数据集成。其次，在本地模型模块嵌入双通道注意力卷积以全面挖掘数据特征。再次，借助基础卷积和区块链在联邦聚合模块对各本地模型参数进行集成处理，以获取和安全保存最优模型参数。[结果]TwiBot-20&amp;Weibo-bot数据集上的实验结果表明，FL...</description>
       <pubDate>Wed, 21 May 2025 16:00:00 GMT</pubDate>
       <author>苏妍嫄;董宵宇;韩翠娟;张亚明;</author>
@@ -73,7 +73,7 @@
     </item>
     <item>
       <title>融合莱文斯坦距离算法的专利交易行为识别方法及实证研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgZWiwKNrs-y4XTHwr403MQl78yPuk7reqnJLZqCNPRMUYcw2a6YR8TYeyaVRDs6F80R4-rYcuTKObVz0hIB6DthF6KAqerriqdk-OrZGA_JpG0g7qkUwXCSfJSQ80O9Uhm8YBrXTgzCFA5CsBIsAFbdWdn_od-s15dVD1bmFquC5A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAEqsBVdrcUIl2-SMEQWmDiI_yQYnAFy1xR2-3vhpPcxTd5xAY9E6NojD1HSUERrWgjg8AnJyDZYyNpH3OhyACT-y06ESuD0YrK4K7EoAzaVr-juv3u-yijrZhDN0GJRv8133yuySrYwxRc_hjvGrHdesK6BXelprwTbSZcVyMcjw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 针对专利转让数据中难以区分发生实质性专利交易问题，提出一种系统性方法，通过融合多种基于莱文斯坦距离算法，较为准确地识别出发生实质性交易的专利行为，并探讨其技术特征差异。
 [方法] 针对不同专利转让场景，提出了一套筛选流程方法。其关键步骤之一是利用基于编辑距离算法的多种文本相似度方法，计算交易双方姓名和地址的相似度分值，并结合设定阈值剔除内部资源重新配置的非市场化交易记录。同时，通过实证...</description>
       <pubDate>Thu, 15 May 2025 16:00:00 GMT</pubDate>
@@ -82,7 +82,7 @@
     </item>
     <item>
       <title>嵌入司法要素事实一致性评测的中文司法裁判文书摘要生成研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgb73D7qogXxpfm7i_MCD4OphrApxhTMMa7eSbooK9gGiiDmNSIqjCf2uJFBvRuZdEuGgj2vctKzt9-1adLZNCvQvlkxieqy_88uW-PeJeFlt4TE2EsVrz4yZAPaGUJLbveejKQewwW-HX0WLavlESRLJmfLEfqy77VwxZx9uiXlnQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAx2TaNMcIzqpto8duFUW66FtbK4AkmFcwMriLiYgxcb173vLKlQgOEgG8v3WSrlZlwjxC0NXSYkYR8_RImVOTVxvQqoe3hgB0zRABUBkBcZ5v1W4t10206BWkpWvFHj11g5bO9AbxCCbJdnve5VlCulYAHG6ZEsrkqeZDPcO4T8A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]鉴于司法裁判文书摘要要求与原文在案件事实、法律适用等要素保持一致，提出嵌入司法要素事实一致性评测的中文司法裁判文书摘要生成方法。[方法]首先定义司法裁判文书摘要事实一致性判定的原则和方法；其次，确定数据增加、事实一致性纠错和测评等预处理流程；然后，分别构建分段抽取模型和引入司法要素知识图的生成式摘要模型，并在CAIL2020数据集上进行实验。[结果] FC-JDSM模型生成的摘要在指标RO...</description>
       <pubDate>Thu, 15 May 2025 16:00:00 GMT</pubDate>
       <author>向博文;柴梦丹;向卓元;</author>
@@ -90,7 +90,7 @@
     </item>
     <item>
       <title>基于静态与动态异构图嵌入的全局引文推荐研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgam9bLbAcQXuN8urnQCtFJsTeC_1t_NoRaVJueO9mt8m7-wZFEaD4iiT4h3MVu6cc_67C6zzDqfezF9djUzC3t-j8lo6HrtjyhTQy3iDl9SsA-wfMFRqwezgOQDhPYD8Z9IYVhTwpPrWyWHe1fzFORLI3NYjFzp77S6MVVFpllPZg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAx2TaNMcIzqpto8duFUW66FtbK4AkmFcwMriLiYgxcb173vLKlQgOE_OZnV7Sp2_9ECyw6IIXsKJgxwTWHZdUqL8gQGh1CEbn7OaSJRV3LqZZ3Jm9NdQRXArSPtlA8XKcekSU3dkgD_fhuPbh08WU4Axk2ata9AWr3JzcEeeP8fg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 提出一种基于静态与动态异构图嵌入的全局引文推荐框架，以期提高引文推荐的准确度。
 [方法] 本文首先分别构建静态加权异构网络与时序异构网络。在静态异构网络中，利用混合随机游走和skip-gram模型生成能捕捉网络局部与全局信息的节点嵌入；基于所构建的时序异构网络，首先利用基于元路径的随机游走获得元路径实例，再建模异构图中的时态演化特征，以此获得图中节点的嵌入式表示。然后利用联合训练与独立...</description>
       <pubDate>Tue, 13 May 2025 16:00:00 GMT</pubDate>
@@ -99,7 +99,7 @@
     </item>
     <item>
       <title>基于图注意力网络的自适应社会化序列推荐方法研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgam9bLbAcQXuN8urnQCtFJsTeC_1t_NoRaVJueO9mt8m7-wZFEaD4iiCSldgpmseso_tePHnLYWANQ6s1W0U8b2qyjnVwLXd8R1DMbTbgtVUq_xH6J0JjMlKcsdTWUXGLC3SMav4AH_zFlx-jGrI5CpL_9RKKvE36TfBAsEooqiWg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguBQ7nMF3h0k0_cuDVoCZfEg6zpZ9SamjlqA4LURqP51t0qa86hdqoHzogjUv1AEEH-tWNMnx3mGSArMGx_72gCDWkH2K1LKOpuQSE6npYdo-5AuqW15JhVNpEoIKkeLOISuFjVv1tZ0N2xlsF6K8-9vItCuqb-WLoYRR_TyNEMdBQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]现有社会化序列推荐研究容易引入与用户兴趣不相似的好友信息，且未能考虑不同用户受社交影响的程度存在差异，致使推荐性能受限。为弥补现有研究不足，提出一种基于图注意力网络的自适应社会化序列推荐方法。[方法]首先，利用自注意力机制对用户行为序列建模，获取用户动态兴趣表示。其次，设计一种正则化限制的图注意力网络聚合好友特征，以准确建模用户社交兴趣表示。最后，提出一种基于注意力的自适应融合方法，准确融...</description>
       <pubDate>Tue, 13 May 2025 16:00:00 GMT</pubDate>
       <author>徐建民;王力;张雄涛;</author>
@@ -107,7 +107,7 @@
     </item>
     <item>
       <title>面向短文本-多领域科技实体抽取的提示工程构建研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYTDL1P8ECIdqHgaGnnbKgYGQVLZmiz6mejC9tUedBFbSztWh8cDKUhM97Z_DN_XF1Bydqv9igT3u_RtWA0abjgbbV77WyfgZhdlrv8DpJMy4kUa75S1g6ISwukvfo6t3IBybaBiKIhssQJrjFqxWRBKI2aq_btzI_zQqzxg1sOcQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguBIEjRdtNPvdWcaTZgbvxS7GjllZmEQ5o6nEFdGgIoe068DeoHJeXS7kvtRNlRBdVVpYPkSL7bbQ4ciZVY2PIYWy8wy_Ym8tLu0J-78Ij6gK2pc393LfYvx-lmjax00Ta0X8EJ8tkMAiIa16R4zO2S-MZVk0350J03nLv1GXVQJNw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的] 本文以科技情报短文本为实验数据，研究大语言模型在多领域科技知识实体抽取任务中提示工程的构建方法，旨在解决短文本语义不足和领域多样性对科技实体抽取的挑战。[方法] 针对科技情报短文本语义浓缩导致的上下文信息不足、知识实体领域跨度大、以及实体边界模糊等问题，本文提出一种基于知识提示学习的Scientific Prompt知识实体抽取策略。该策略结合BERTopic方法，将领域知识动态引入提示...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>孙蒙鸽;王燕鹏;付芸;刘细文;</author>
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title>基于用户兴趣聚集性和层次性分布特征建模的序列推荐方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYrkyOO-b0LBYi77vck3IahkuTRRGFh6Qahv14Mo_KxjTYXJZbanQruXaN199Q0CdYIh4oqx66RmIagMJt92N8W7hLPq-wWVaGnzNhWdvq-fgE3k2mkSLEuTAeKWn-9sB8VXtc2VFywcdThlcqXSizEYrDEv2_YrCa987UhcwcDkA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguBIEjRdtNPvdWcaTZgbvxS7GjllZmEQ5o6nEFdGgIoe068DeoHJeXS7samrxuQJeVnUOtIwPAerlODlDtBlKJDfAIGMTuTG3w9mSOV_r7GCdOM5JmwV7vpzTW0P1iXQvfuIzXS5t8LssJWVs4fMena14Ss47geJqh34OEB_T7GIXg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】为解决深度学习推荐方法缺乏对用户兴趣分布特征建模，不能充分刻画用户偏好的问题，提出一种基于用户兴趣聚集性和层次性分布特征建模的序列推荐方法。【方法】利用注意力网络和LSTM从行为序列获得用户和项目的向量表示，学习用户兴趣分布的位置中心和边界半径，通过双半径刻画兴趣分布的层次性和聚集性；通过拟合候选项目特征与用户兴趣分布中心的距离与交互概率预测用户偏好；融合基于神经网络的行为预测和基于兴趣模...</description>
       <pubDate>Thu, 08 May 2025 16:00:00 GMT</pubDate>
       <author>马莹雪;甘明鑫;胡磊;</author>
@@ -123,7 +123,7 @@
     </item>
     <item>
       <title>面向AI换脸诈骗的受骗风险识别研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYrkyOO-b0LBYi77vck3IahkuTRRGFh6Qahv14Mo_KxjTYXJZbanQruV0r0tgK9d6BLEJJnMlQUaplmivfehldCN0U3cwLBWrBc7jSGGQoPOrkqdoxoLGg3jYw0wKnnKLnIhMw-sN-Uxn-S4K8K-DhfPgEICZCRdc2hXI4Rfg8fqw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAnTvQ-QBeAxOTatYBd8ghgOqZN_pNUzv8EM-jI8htQdllZWSe0zmtLe75u1vx9szLmR-_OZBAxM95m7cs3EzsTBjopdsbcPUbsfqfDr6WuMncjvFMIq5EgcJxGoFDcwBhL8wXg7EsjN4uGnXy4baaRBvKTKHYpY3D4yT9jTL-Jdg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>【目的】为解决AI换脸诈骗过程中多模态特征表征不足的问题，提出面向AI换脸诈骗的受骗风险识别模型FSFRI，有效融合多模态特征提升受骗风险识别效果。【方法】FSFRI综合欺诈信息的生成和传播过程，从中提取伪造人脸视频帧特征、流量描述特征、流量负载数据特征和流量时序特征，再通过特征融合模块实现跨模态特征的互补融合，最后通过风险识别模块实现受骗风险的识别。【结果】在模拟实验生成的数据集中，FSFRI取...</description>
       <pubDate>Wed, 07 May 2025 16:00:00 GMT</pubDate>
       <author>周胜利;徐睿;陈庭贵;汪邵杰;</author>
@@ -131,7 +131,7 @@
     </item>
     <item>
       <title>基于实体关系协同推理的零样本关系抽取模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgassEP-XWyodjqsM463pt2bACS71i9MaPhMl6FpYLc5YgCs1Oe2tWPSChgUwl84fcB2jz7AkFUzv3321l9zipyMiOl4y0alRMQ0I0MSPdHP3cVhP4AZCQgysKYW7mH0f9JTn_etTBLxk7Vxb9bQtwbMTF1uFDs8BytpAA-pY5tN_w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguApIm3BKmdxmzR1Ki8eBxIA67yQhAdPSU89UGMtab8qw5CuakTvi0NuL_njHTLaEpo57KOyyzBnwSxSJRmkmxg0iquO1veRTcaUYEFtw7I5LEA5CWaziqAooD7Ba15a9l642t_yTUrHcx9ICgYzSiirSIglrWdlXRQLibyf0TzfjA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]运用深度学习与对比学习方法解决目前零样本关系抽取任务中完整实体信息与关系信息交互不够充分的问题。[方法]提出了一种基于对比学习的联合实体关系信息的零样本关系抽取模型(JCL)。首先，使用数据增强技术对原始的输入文本进行处理，增加模型得到的有效信息。其次，通过增强交叉注意力模块将实体对深度融合与关系联合处理，提取实体与实体间的交互信息和实体与关系语义间的交互信息，放大不同关系在嵌入空间内的细...</description>
       <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
       <author>谢威;夏鸿斌;刘渊;</author>
@@ -139,7 +139,7 @@
     </item>
     <item>
       <title>欢迎订阅2025年《数据分析与知识发现》（月刊）</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgassEP-XWyodjqsM463pt2bPFzEVcupnG6WI8yloRZiIWfHhjm2pdmVwzCikYcWvewCvuohBBQQybuG4Q6DVLQ8JXVisUhs15EGK1OwYZaSfKdMPhYNjMTDlyICbjqGVxG1pDvrcXJVeyaha1p-1AKpR1Bsuin3VcRkd5lIsXIERw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguApIm3BKmdxmzR1Ki8eBxIAKJszZvTq46GcRWqecx-Ff2uqVzbstYdeRui-7Mg7aWZbfzYT51OTKn3vkUWws7d-HC5XIHZ8Ijx5zHH4T0EWdRPu5GoF_-FJQMXwek22rFbR4sq_PqVSXpv0gMeGE97XGbAuTVSBDo-3iqAchIGrnQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;《数据分析与知识发现》杂志是由中国科学院主管、中国科学院文献情报中心主办的学术性专业期刊。刊物原名《现代图书情报技术》，2017年正式更名为《数据分析与知识发现》，致力于为计算机科学、情报科学、管理学领域的研究者提供一个重要的学术交流平台。刊物将秉承“反映前沿动态、推动学科发展、引领学术创新”的办刊理念，广泛吸纳计算机科学、数据科学、情报科学领域的优秀研究成果，聚焦数据驱动的语义...</description>
       <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
       <author />
@@ -147,7 +147,7 @@
     </item>
     <item>
       <title>新型AI工具通过可视化细胞的“社交网络”助力癌症治疗</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgauNlEbNR3I0nmAL_OhXzBUTVo47E7qYtwDARWCdn00sB3pCM-BbIpzeNIjhlkK8NHvxugOPNewoUE5C7GUU7Z2FcHKZ-hPuI2xdV91PRA20plTER4TrT4kbVhnCVz74n7gQQy8XkUgFS5qTEE6DGHEgRQoI3wchHOqCFAxCWbLGA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguApIm3BKmdxmzR1Ki8eBxIAKJszZvTq46GcRWqecx-Ff2uqVzbstYdepL24uZnB2SznZ37I5RONoar6ysyfTbZkwH2Ju02fSz2kTXuLk1ndE25OjMq026DBhTWuthGojc1KEycRs0s_iqpDqX4QL44qCFkSu8EVB6VzPCs3JoA8RQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;近日，发表在Nature Genetics上的一篇文章介绍了一种新型AI工具NicheCompass，这是一种基于细胞间通信的深度学习AI模型，能快速分析和解读来自患者的数百万个细胞，并预测分子变化，能精确定位个性化治疗在癌症等疾病中最有效的部位。NicheCompass利用生成式AI，创建了一个结合细胞类型、位置及其交流方式的空间基因组数据的可视化数据库。该工具是“人类细胞图谱...</description>
       <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
       <author>本刊讯;</author>
@@ -155,7 +155,7 @@
     </item>
     <item>
       <title>《数据分析与知识发现》期刊征文</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgauNlEbNR3I0nmAL_OhXzBUTVo47E7qYtwDARWCdn00sB3pCM-BbIpzVMIAx_2d1YzftqFMiiN_v4wOLsMt2TT8pVtYFlIKb2uuV6UQwonZRJUbmJGl7uA6664sLK-pv0_fy9tIr1XJJUD2e7XUI4UDgPsTxcqJnVzYNLNbUKWLag==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAfFD2sD_PAKtE6fB5vceLHnbp7R57N4G7HmQG7ab-f_UaI48HoQaRl6m1riTecX9nAlVH2U4DuCZrYgeP43VTpJ5GBWS0WyBAZBx0ZJdcQwgmQNdmc6rQ8yXsuLaXxixnsXNSO9iYs52Pj9fXfNyenC8M8HF0FfN7XYs8clXRYuw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;1期刊定位《数据分析与知识发现》聚焦各行各业中以大数据为基础、依靠复杂挖掘分析、进行知识发现与预测、支持决策分析和政策制定的研究与应用，致力于提供理论指导、技术支持和最佳实践。期刊依靠并融汇计算机科学、科学计量学、社会计量学、网络计量学、数据科学、管理科学、预测分析、循证政策分析等领域，帮助人们从数据发现知识、从知识提炼智慧（洞察力）、从知识和智慧推演并设计解决方案，并且嵌入到知...</description>
       <pubDate>Thu, 24 Apr 2025 16:00:00 GMT</pubDate>
       <author />
@@ -163,7 +163,7 @@
     </item>
     <item>
       <title>跨学科术语语义差异现象研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgb22OXMKpJsbsFZlSjWlXs4u6VAlvq29YSvMd9U4XyhxT8vHF3a0VpaXkfnBgRvDhETeb-c6Mrwh09PvOzImStlx5kNVQPQzmkwSSWfQOsxgms9pySxdqHCVDcL6IGNQNJTnt3_pBhqH_jpW4edaHLSb1PbKUtHjOWtmtaSyBiNFw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguAfFD2sD_PAKtE6fB5vceLHlRFIrfZFgqEKHr9Vfo1wHpDy98XHAa82JrqvPSO6u49uPnBdnV_c7T9v6rDmjhHrNJsVySQy7o4ER9T3uuDbSC4R66ljwLipGJX35WCELY6am1PRg17loRxRYMgX_v65garINPFrVgUiQejWSyxgeA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]分析跨学科领域的术语词在不同学科间存在的语义差异现象，挖掘语义差异现象的原因。[方法]使用预训练深度学习模型实现自动化地识别和量化术语的语义差异，设计构建语义差异程度指标定量衡量语义差异程度，并对术语所涉及学科进行共现分析。[结果]基于预训练模型的语义差异现象识别准确率达到0.8193，所构建度量指标能够对语义差异进行有效量化。[局限]研究局限于中文术语的语义差异，选取术语学科跨度范围有限...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>姚元璋;徐健;</author>
@@ -171,7 +171,7 @@
     </item>
     <item>
       <title>基于交互式语义增强的中文文档级事件抽取模型研究</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgb22OXMKpJsbsFZlSjWlXs4u6VAlvq29YSvMd9U4XyhxT8vHF3a0Vpa-8iBOnudoE4oeVcPBXFmmHsv9C33-_JMUeXoKYzrEvhMs49hjVXVPDm0bFljWl3U8LQXF6HK4HV88n4lw2BKBTWDMN_eV9o991m-NFgspO7HZI74Rpuq5w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=SyD34uTtguA95zatUNxCYKwE_W8zFnvmt4ndbvhwV9I_G40OG4jWh4kGcdmMcDM4qbiyxdymJ3RdHTTHXZpSe2nitdvZr_37ABTAKvaLxrrNhIhpYkXI6lOozDJhO0mxn2-nvJNKyo2BZP9sfB0VfKqlWVsfFrOdoA_17Umqa6vXYrfwyiLBKQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>[目的]为充分挖掘中文文档之间的语义关联信息，实现基于交互式语义增强的文档级事件抽取效果的提升。[方法]本研究提出了一种交互式语义增强的中文文档级事件抽取模型CSDEE，利用注意力机制构建跨文档的交互式语义网络，增强实体识别性能，再经由文档编码与事件抽取信息解码完成事件抽取任务。[结果]实验结果表明，CSDEE模型在事件抽取的精确率、召回率和F1值上分别达到80.7%、84.1%和82.3%，优于...</description>
       <pubDate>Mon, 21 Apr 2025 16:00:00 GMT</pubDate>
       <author>张双宝;成全;曾艳;</author>
