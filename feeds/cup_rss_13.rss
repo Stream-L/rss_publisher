@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）国有资产管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 09:29:33 +0000</lastBuildDate>
-    <item>
-      <title>石油工程学院三轴平板注采模型询价结果公示（XJ2025-0307）</title>
-      <link>http://www.cup.edu.cn/gyzcglc/xjgg/4afecf5111224293b8ef00e701564fe8.htm</link>
-      <pubDate>Fri, 20 Jun 2025 09:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>油气储运工程系气体流量计检定实验平台数据采集和管理软件询价结果公示（XJ2025-0306）</title>
-      <link>http://www.cup.edu.cn/gyzcglc/xjgg/3ae086d86f124fda810e48af9a6655fd.htm</link>
-      <pubDate>Fri, 20 Jun 2025 09:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 04:27:40 +0000</lastBuildDate>
     <item>
       <title>石油工程学院微观流动大尺度模型高温高压夹持器询价结果公示（XJ2025-0308）</title>
       <link>http://www.cup.edu.cn/gyzcglc/xjgg/37ad54b874354d308164bfca7bf79319.htm</link>
@@ -106,6 +96,16 @@
       <title>石油工程学院深水钻井隔水管力学分析软件平台询价结果公示（XJ2025-0321）</title>
       <link>http://www.cup.edu.cn/gyzcglc/xjgg/d6f01db8e72142a8a0829d5a40ce26a5.htm</link>
       <pubDate>Tue, 24 Jun 2025 13:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）货物、服务招标代理服务商资格遴选项目中选公告</title>
+      <link>http://www.cup.edu.cn/gyzcglc/zbgg/9b7718ddcdba42c3b6f03ab566c1d08f.htm</link>
+      <pubDate>Wed, 25 Jun 2025 07:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）基于DeepSeek的智教融合平台基座建设项目中标公告</title>
+      <link>http://www.cup.edu.cn/gyzcglc/zbgg/11eb60be4cac45d89c5d90c9fc972b1c.htm</link>
+      <pubDate>Wed, 25 Jun 2025 08:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
