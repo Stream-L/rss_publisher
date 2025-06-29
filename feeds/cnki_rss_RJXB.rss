@@ -5,7 +5,7 @@
     <link>https://navi.cnki.net/knavi/journals/RJXB/detail?uniplatform=NZKPT</link>
     <description>软件学报</description>
     <language>zh-cn</language>
-    <pubDate>Sun, 29 Jun 2025 04:37:30 GMT</pubDate>
+    <pubDate>Sun, 29 Jun 2025 09:28:44 GMT</pubDate>
     <generator>软件学报</generator>
     <image>
       <title>软件学报-CNKI</title>
@@ -16,7 +16,7 @@
     </image>
     <item>
       <title>基于可编程交换机的网络安全研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5AP28mLS2VWDrmld6iDVhHmEHKV9EHnEtE6ifS3ktnVdXS1Oux5HoPZG7L9UgARj0CMdGjAjGSlDMnTctPXhce6xoPK9BfOZ-l5kUb_bvqvcFnOvQpUlnAar3xt_gtol1aRwhfVAHTFVkgfn3IJg6JQS_ZcjPxFXJCpU3uJQxF3Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4QS99CSSPPz6-MRC94pjhUWeOyUP6wpwWBGbd8s1NrgKSMZWYL5qwoGEWce2IQPu-FlYBY1xgybRPA3_dT6JcRYiyCuRVt_VF-UOrJSgjTEZ_z6iP8wjsjMWH8hFcYQeYT2o6g7RKKikzkStem1iYwGTces1eqvwwEDs9dZdm5jw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着云计算、移动互联网和人工智能等网络应用的快速发展,网络攻击和威胁日益增多和复杂化,这要求网络安全防御技术能够有效地防御网络攻击,保障关键基础设施网络的安全.传统基于专有中间件的防御技术能够通过专有硬件实现高性能,然而这些防御措施成本高昂,部署新的防御通常需要升级设备.基于软件的防御技术非常灵活,但是基于软件的数据包处理会导致较高的性能开销.可编程交换机的出现则为网络安全防御带来了新的契机,由于...</description>
       <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
       <author>邹志凯;张梦豪;李冠宇;杨任宇;沃天宇;胡春明;徐明伟;</author>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>华谱通:基于知识推理的家谱问答大语言模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4I5E8IXxD-OzZcrlH7ZSIy8M5kFoMEQ_9tmZScYLbJqYPDHmu-eSDZptx030ZfvGzJPB8mNMc6wPmFX8WmWBOfG9qSIQEb2t8ZJeqwjiWymrkOMTEo6GrTNOQYSSBT00VbBIRjOO7M9Z2sFyz2n82fJwQ8lMiuDifFFToCHh5_UA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4cF2OcQfczYoFlWCok7GULwXoxzaSWKelEaZ9gtgRvNnZjOH95zvZ_yvHkgt-cg-cpnrXeaMfzk30da9NaYzbk5XroweF0f4uhM4l2Fyq5p_DT1596BjIjwLOFNWy-J49ECq6wVyzZtE-q8CgXYZ00z4wIL0dsHKcN4HrMRQ3f4A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>利用计算机技术实现家谱数据的智能化管理,对传承和普及中华传统文化有着重要的意义.近年来,随着基于检索增强的大语言模型在知识问答领域被广泛应用,通过大语言模型以对话的方式向用户展示多样的家谱文化已经成为一个备受关注的研究方向.然而,家谱数据的异构性、自治性、复杂性和演化性导致现有的知识检索框架难以在复杂的家谱信息中实现完备的知识推理.针对上述问题,提出一种基于知识图谱推理的大语言模型家谱问答系统——...</description>
       <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
       <author>吴信东;卓兴锐;常永泮;吴共庆;张赞;朱毅;</author>
@@ -32,7 +32,7 @@
     </item>
     <item>
       <title>知识图谱补全技术及应用</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG47HEwlQh08SF5wjkQRTb1DH6WhfdgzoGre0RVxLmqn6nsC1wTho7CDtvLXfTIp9-znNI4j-E9_Dfq1nwht7eGnTT9icOj4wJ4vDwq_11RxIeuKHy6Wby-4fijrtSzV4qHyw5L4xY4e_LRYuWcmx_xfXOaUzUwZ3WYpiqCG4Nhheg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5JxkdV26j-LdHZcpx0RL9qazBxr7KtHqZPU2FiRueWxluHVrFP5ZxRv0kuemAkVLK4eljTuNA3UD4oTEyW-D7V6lD2MCF8pscbdMyrJcQcTpTXNnWknJvktvcqYlstehKraRKxAJGVXqXICL2jxb6HcwcxeSm8hWp_ek76tCTIiQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>知识图谱以其独特的知识管理方式和表示能力被广泛运用于知识问答等知识计算领域.但是,现实中的知识图谱或多或少存在信息不完整的问题,影响知识图谱的质量,限制了下游任务的效果,如不完整的知识图谱不能给出准确的知识问答结果.因此,知识图谱补全技术应运而生,旨在通过不同的策略对知识图谱事实三元组中缺失的内容进行预测以改善知识图谱的质量.近年来,人们对知识图谱补全进行了大量的研究.根据构建模型所需样本的数量将...</description>
       <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
       <author>郑修林;周鹏;李培培;张赞;黄艳香;吴信东;</author>
@@ -40,7 +40,7 @@
     </item>
     <item>
       <title>基于嵌入模型的知识图谱准确性评估</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4YLbXsBMYagoDygtlj2v0eA62jXutO39QwFh0H5U8_jEfojhX0TZHDA2MqCjR-IS3yfAzc8eTOfAphyW0_h34EWpb2KAxNvgFVKXmUiSvpLIo_l4hrGFDAj-byME11WZ11dWR4P6uDCtDTWfki0AvKn96K5K2gRFZ7_Km0dBXz2w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7DFIQhrvnlaalF33AUMjLSTaGM1USS5Aq6408RZbWOuX3tFz-2O7e31v09VXNhRz9DvJb697NROvgyTV5AYzcvsnJcy1YbX8sm1stZAZ8qtLhGWomeMG8FPJcvyKhTM-NIk-ai-wVgAh-onyuDEZbybZv1kdbq2eChjFnXu06gGQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>知识图谱构造常面临三元组错误或缺失等质量问题,准确性评估是选择和优化知识图谱的基础,对提升下游应用的可信性具有重要意义.引入嵌入模型,降低对人工标注数据的依赖性,提升大规模数据处理效率.将三元组正误判定转化为无标注的自动化阈值选择问题,提出了3种阈值选择策略,增强评估的鲁棒性.提出结合三元组重要性的评估方法,从网络结构和关系语义两方面定义重要性指标,对关键结构、频繁访问的三元组赋予更高关注度.从嵌...</description>
       <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
       <author>张明韬;杨国利;白晓颖;</author>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <title>结合时间间隔数据增强的对偶视图自监督会话推荐模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4YLbXsBMYagoDygtlj2v0eA62jXutO39QwFh0H5U8_jEfojhX0TZHDXSLFvZuKwQarv2wC-DQiq9RUAne5b8GOBj903_m0OdcBaVTNvspp-yv_j1p09ZhtaGjhGjQAAkmwC0ZbTGiFs2m5fn1hSUCMZCuk4le1B7STOrrDEkPSpw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6Xin3orX65i9MZYt_FGoF-CYEktahKhQbLse0cXCpynk9rPSID-wvbi9rK1DTprSWKiLC4jaP8Xftk8JMu8ksbOq568Z6ZWKRJC5R0_aIaTaUaB68DcICPMht7RPZ74wvoA7Vo2l7RkFmjNUaDSvPejBDYa3_ay_OLtmZFMRI6zA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>会话推荐旨在基于用户的一系列项目预测其交互的下一项目,现有大多数会话推荐对于会话内项目间的时间间隔信息利用不够充分,影响推荐准确性.近年,图神经网络凭借自身强大的复杂关系建模能力在会话推荐中受到推崇,但仅基于图神经网络的会话推荐忽略了会话间的隐藏高阶关系,信息不够丰富.此外,数据稀疏性一直是推荐系统中存在的现象,研究中多使用对比学习对此实施改善,然而大多对比学习框架形式单一,泛化能力不强.基于此,...</description>
       <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
       <author>钱忠胜;万子珑;范赋宇;付庭峰;</author>
@@ -56,7 +56,7 @@
     </item>
     <item>
       <title>抗量子的高效区块链认证存储方案</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4OFoBLrWmDfEA1-Fqk4bIe3aH40hiSBWOj2H_xFd8eJH1DFerGCYFiPbCxUL177UBesOY8Qv3bo4dFz6--45WEBzbWOodNa_bf1qou4Kt0m2LGlbmqQoNt1k-cG9Kga8Tset3o9Du0cbWo42pqNejSn02euSb-buqM_xpqLEZmoA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6Xin3orX65i9MZYt_FGoF-CYEktahKhQbLse0cXCpynk9rPSID-wvbGdGz3ZJ9HwMfy8sVtH0H-5n0dJe4FOi6Wmr8roAoHZHSo7gHYeGHrqIgmi5RoTG9nHUXGFWgxRcuxCZ4y7re5sqY0YYwJKwQeOusoGkYG9a5mJMopbQQ8w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着区块链技术的广泛应用,认证存储作为其核心组件,承担着确保数据完整性和一致性的重要作用.在传统区块链系统中,认证存储通过一系列密码算法来验证交易和维护账本状态的完整性.然而,量子计算机的出现使得现有区块链认证存储技术面临被破解的威胁,使得区块链面临数据泄露和完整性受损的风险.当前最先进的认证存储技术主要基于双线性Diffie-Hellman假设构造的,该构造难以抵抗量子攻击.为提高认证存储的安全...</description>
       <pubDate>Wed, 11 Jun 2025 16:00:00 GMT</pubDate>
       <author>张川;任旭豪;邓淏天;王亚杰;李春海;吴桐;王励成;</author>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <title>HSDiag:变种碰集算法求解诊断</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4OFoBLrWmDfEA1-Fqk4bIe3aH40hiSBWOj2H_xFd8eJH1DFerGCYFiJ0Ue9YXohys2ZNR3v16ENo0u3SxGyhkwVblXqpQhIa7Xvzy0dIlWRL26tX010I6TXsN_33af_fRrhjp6KNA-vjXoVMghBuArtTpTOTIs3W6pLFv8DmZ8EA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5tBomR4NMVWrDcOR_k5phoRtQeVh5fRaRaSAcLgaoBM1U5lxdQeBT0yoAHqOUvrdp2ngsdbPx-L2jBccJrkazw073h-n4wlOtaoWWNfZx9cWEnhSipAm8xeOrnTObflY1yG913F0oda_m6Bm3qtZo2jPuU6-cBVF0hbPOe9UtsZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>在基于模型诊断领域中,首先对系统描述进行编码,利用成熟的SAT求解器获得所有极小冲突集,最后计算极小冲突集的极小碰集,即待诊断设备的候选诊断.然而这种策略花费大量的时间,相当于计算两个NP-hard问题,即计算极小冲突集和极小碰集.对电路系统描述重新编码,提出一种变种碰集算法HSDiag,该算法可以直接对编码进行计算来获得诊断.在与目前最先进的求解冲突集再求解碰集的诊断算法相比,效率最高提升5–1...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>欧阳继红;黄森;</author>
@@ -72,7 +72,7 @@
     </item>
     <item>
       <title>Spike-FlexiCAS:支持缓存架构灵活配置的RISC-V处理器模拟器</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG4gdy2zXvVPndB-aPOq-Ou4rybAL8s7jyc7eETdcbJJZaE_yoIoFVShdqyug7FckL5S0y_o1GEX8gtxySucyxoqiIQ34x27oh9W3Sc8YGn6MmlmVWQI6LzjR9rPPiobBpRSuwGfM-a5bVFc-v7Y_6jzoHfmsCOzvgwEfY0YIlJD0A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG79Y23CuZJb_GCgvEsH7iehAcpj3N4XWr9Ok7qNYoogcYU0Hrp2cRKPbCzsqGVio78Xzkq2o-h6pFXQR9FLIuIxumVIsQCHGTvGWWMMDigSzAd4aWP8fm6kAdyVlOk9Jp4YAfM3VB5I5cswF1JQDFkYIKOC6GJRRgdeyxLPJJg-6g==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>缓存模拟器在缓存架构探索和缓存侧信道研究中起着不可或缺的作用. Spike作为RISC-V指令集的标准实现为基于RISC-V的缓存研究提供了完整的运行环境.但Spike的缓存模型存在仿真粒度低,与真实处理器的缓存结构差异大等诸多问题.为此,本文修改和扩展Spike的缓存模型并取名为FlexiCAS (flexible cache architectural simulator),修改后的Spike...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>韩金池;王智栋;马浩;宋威;</author>
@@ -80,7 +80,7 @@
     </item>
     <item>
       <title>swJulia:面向新一代神威超级计算机的Julia语言编译系统</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5MW9w2eoN9aQbgzMI_qWidP0eqZ2FaC6wO_jM0mu8fIzQ1fiJKPJCn-hrylfeceteGCU5YSkzPr9XjHZxFRt4tgs6QD8tR6dFZpg6gCA_jotmwMxG-DxmaILedXhCJuk_CP_NjAb9uGFpuC3GvXIEsD0SQUfhqMHhg_yQunIJa1Q==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG79Y23CuZJb_GCgvEsH7iehAcpj3N4XWr9Ok7qNYoogcYU0Hrp2cRKPiz286U4G2xS5TD78_xrl4pjHF0VooX6o2DHbUc6nyUzz7eLgMtIpS451KpV5YwmP5SKAJZgKkP-ATkayPCENiF_vVDRoW8bbs29WKstBtIQjZGAEOxi7hA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>随着异构融合体系结构在高性能计算领域的普及,挖掘其潜能并探索新的应用构建策略变得至关重要.传统的静态编译方法已无法满足复杂计算需求,动态编程语言因其灵活性和高效性而备受瞩目. Julia是一种现代的高性能动态编程语言,其基于即时编译机制,在科学计算等领域表现出色.结合申威异构众核架构特点,构建ORCJIT编译引擎并提出了动态模式下的片上存储管理方法,并以此为基础实现针对新一代神威超级计算机的Jul...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>沈莉;周文浩;王飞;李斌;谭坚;商红慧;安虹;漆锋滨;</author>
@@ -88,7 +88,7 @@
     </item>
     <item>
       <title>基于目标制导符号执行的智能合约安全漏洞检测</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5MW9w2eoN9aQbgzMI_qWidP0eqZ2FaC6wO_jM0mu8fIzQ1fiJKPJCnx8Fl41fm8sqDtJzKjVTkyKWMLtKfJyq_UUbTTTKNNfUmDW1GlUafvhoRWhawX8o7Kx6E_pfRnBGlhZTv22TX0cEcD1pLfdJ5DsSCXui4C93ITgMi8wUdZA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6d_WIiOIzzh2KQxKA34PcOQWLYoZpQyFmPHgrT5ZaQcJn7eqHkyzFSOy5K64xtzBOGnmO9bg-wdBOyZ40dbBIvFfJH9h9wdTH7xkqnFoUFIzbKCiVEbJcJFD7jjKv-KF7g3b-tFslnZIdaqm2mf-N4_tpe1hKXw-_PZcMBOSr5YA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>智能合约是运行在区块链上的计算机程序,在扩展区块链功能、实现复杂应用的同时,其潜在的安全漏洞也带来巨大风险.基于符号执行的安全漏洞检测方法具有精确度高、可生成能复现漏洞的测试用例等优势.然而,随着代码规模的增大,符号执行技术容易受到路径爆炸、约束求解开销过大等问题的影响.为此,提出一种基于目标制导符号执行的智能合约安全漏洞检测方法,首先将静态分析工具或人工标注的漏洞语句作为目标,分析目标依赖语句,...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>杨慧文;崔展齐;陈翔;郑丽伟;刘建宾;</author>
@@ -96,7 +96,7 @@
     </item>
     <item>
       <title>基于RISC-V VLIW架构的混合指令调度算法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5YsWayTy361Br9WtJ4L6C7gKGKmNsVhXGBwBmhRkaX8eSEgiH657VfKP2G1PSJ3BskBfKSTz2F-5XdGi1jeZfam4NxTTw0PDcROAuQ2zfw_rgrTyK0HUQ9vHt2gAUluywuJrWSPfkoORbioxxKUn2eLXUNtAvKMDi-XY7_7wPONA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6SMPzPO0oVNx39gzcZPF_PrudE4EDd297n3WyAQ5Ci4Uel7DqCPeqK1lhfKey4lciXvQVyL0Xid6l3zaRpPdw2U-n4GSSh-TETUjJtka89qYxZ7NvAKyeAS850R91n-O1nXjmJ4Z_ob5hsMLb2U227ClQxYXmn5lENwbPikY6Dmw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>指令级并行是处理器体系结构研究的经典难题. VLIW架构是数字信号处理器领域中提升指令级并行的一种常用架构. VLIW架构的指令发射顺序是由编译器决定的,因此其指令级并行的性能强依赖于编译器的指令调度.为了探索RISC-V VLIW架构的扩展潜力,丰富RISC-V生态,研究RISC-V VLIW架构的指令调度算法优化.针对单个调度区域,整数线性规划调度算法能够得到调度最优解但复杂度较高,表调度算法...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>李奕瑾;杜绍敏;赵家程;王雪莹;查永权;崔慧敏;</author>
@@ -104,7 +104,7 @@
     </item>
     <item>
       <title>基于时序逻辑的需求文本隐含语义解析与推理</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6u_St3dPlGAvbOkxE6RrhLAjXCuh1w1DyuKy0utpYnB_KuL15NJzxIFCtc-C-xM4OJ2DkyxbFlOGwoa9hhxqXuNG9FGmt_B260v6fkEHnULAFikv2M4td5V4uwWP29Hy2zFI7efL8UXYSlh2QQIfu3zguQs81MQ3bJ8LK-aDHjZQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7dikZpfVYSLBSyxJZ_RcOIY6W3u6-2E1bAxNsGFscXpcMYnsFTMa3TTtS4jtuGrC-M4UGvcGHjB2YMKlY_1m2WkwRgvDhE1t6Rao1CSnlLXo_xKuMNPOoTUMg5OcI-Nlmxe7myR_X-KiHkeYEjIlMEuinwo0qhG6WZAiYbIt2hMg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>时序逻辑已被广泛应用于形式化验证和机器人控制等领域,但是对于非专家用户来说难以掌握使用.因此,采用自动化手段从自然语言文本中提取时序逻辑公式,是至关重要的.然而,现有工作受限于需求样本稀疏和自然语言语义模糊等因素,导致其难以准确地识别自然语言文本中隐含的时序语义,进而造成最终得到的时序逻辑公式错误表达了原始自然语言的语义.为了解决该问题,提出一种基于小样本网络的时序逻辑语义分析方法 FSLNets...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>李春奕;马智;武强;王小兵;赵亮;</author>
@@ -112,7 +112,7 @@
     </item>
     <item>
       <title>RISC-V架构下的懒惰影子页表模型</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6u_St3dPlGAvbOkxE6RrhLAjXCuh1w1DyuKy0utpYnB_KuL15NJzxIGFmXm23Fyr5f1owA1HdGAutjHbxVeWIi6X9hK6CPo10XIsRYE9QUSjK05Ts420quEDzA7-fzdve2rAUMzoqO95Qi-7aG1PxOXqQxnO1Brxi2b0PWuYXMjA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7dikZpfVYSLBSyxJZ_RcOIY6W3u6-2E1bAxNsGFscXpcMYnsFTMa3TPBCnysTUFmLnld_MAOawwV3k5Dtv_H-c_FNsTGJahvYvvQeZrX0mH7cSjDiWdWer8mEA54PNdTrWxywBPgsOR147qsP833bdRxls2cDoi_vQXskws-aTqA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>内存虚拟化作为虚拟化技术的核心组成部分,直接影响虚拟机的整体性能.目前,主流的内存虚拟化方法在两维地址翻译开销与页表同步开销之间面临权衡.传统的影子页表模型通过一套由软件维护的页表,实现了与原生(native)环境相当的地址翻译性能.然而,由于影子页表的同步依赖于基于写保护的机制,频繁的虚拟机退出(VM-exit)会严重影响系统性能.相对而言,嵌套页表模型依靠硬件辅助虚拟化,允许虚拟机的客户页表直...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>李传东;衣然;罗英伟;汪小林;王振林;</author>
@@ -120,7 +120,7 @@
     </item>
     <item>
       <title>基于Kyber公钥加密的高效认证密钥交换协议</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6GmB8CoG8vCR4p97eMgz3hI617LsyLNWlehMhoy1pI0fjgqJS7TWhNWYSaLI9KMNlVOzeYqxQaDHlRox4cc-Ca_jdIC1FdzWssMjGyd-sjiJLTLbhCY_BeiOixpsyAiTQizl_EJphMvRpOUvsMfTo2Nep_QdKTNcK_Aftmqxv0hw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5B230KRZegcx961KJZxMfb6fRquPoEQjYu1Xfyss0-07A2VWIiOXXT-Wu56yJsfKs19oibA29V0WdFp1SzDSR6TN_JV4BPU2Cj-pOuPx1WNc13OX6RulngjLGdf4PGr2QfbnYlJzqYkyWwL80ia-mBP9feGJuqaC61YIhnZDtWBw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>Kyber是一个基于格上困难问题的密钥封装机制, 2023年被美国国家标准与技术研究院宣布为第1批标准化对象. Kyber-AKE是Kyber的设计者基于Kyber构造的弱前向安全的认证密钥交换,通过使用3个IND-CCA安全的密钥封装机制在两轮内协商会话密钥.介绍Kyber-PFS-AKE,这是一种新的认证密钥交换协议. Kyber-PFSAKE只使用了3个IND-CPA安全的公钥加密,并通过F...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>米瑞琪;江浩东;张振峰;</author>
@@ -128,7 +128,7 @@
     </item>
     <item>
       <title>带有差异化机制的多视角归纳式知识图谱补全框架</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6y6NmuoHVJSE0BPnboTKhDvv7_mV_y-LcVjK_iEwI5woljj7fJFcZqxyrzfT8hzu0Ct5CoUpZJvwbRyop-H2HxYZzqrYdJWFLZeYYIyGKrB0rSy7fmlMoWnyK4i4SAOr5f89RwxsN2esSo_mr9Daneo65V2pCXnp4hGuL98mI3_w==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7-nQqEXE8JznHtMuZqg3_1ubR-Rn_ZkOlBhn2m64Owq2NGQx4KN1f_UUsp9phhrvMSRf9OQVgLg7Ad-wHI-XGoJz8KkOtSw_gWHDdWMTmh6KqeRxJLvR8ZnDtM1t25_2CpilnZiu7Keoe-S-HzELhaHvpVwkHEUzyYbqk0KeTqdQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>知识图谱补全模型需要具备归纳能力,才能够随着知识图谱的扩充泛化到新实体上.然而,现有的方法都只能通过聚合知识图谱中的邻居信息,从一个局部的视角来理解实体的语义,从而导致无法从不同的视角捕捉到实体之间的多种有价值的关联.在局部视角以外,通过非显式连接实体之间和远距离连接实体之间的交互,从而以全局视角和序列视角来进一步理解实体是至关重要的.更重要的是,强调通过多个不同视角聚合到的信息应当是互补的,而不...</description>
       <pubDate>Tue, 10 Jun 2025 16:00:00 GMT</pubDate>
       <author>童翰文;钱羽希;刘井平;梁祖杰;肖仰华;韦峰;郝正鸿;韩冰;</author>
@@ -136,7 +136,7 @@
     </item>
     <item>
       <title>《软件学报》投稿指南</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG6y6NmuoHVJSE0BPnboTKhDgbPfd3inA8N8jQOCVavEsv2SB98QqFRV4UpU6eBMxsrFUjvBNqbUhQPXOxngpc5kRbQDaJyxQF4oZR9ejiOvzXhpE_UwHHh3tshFYhja_qn6DpP5oc6RTliaD-ihR0aV1Rqi9-1gLx3a4sOtZyoN9A==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7-nQqEXE8JznHtMuZqg3_1ZpP7gAmp6ok48o2V96b6xd0MeVog4X3c3FngQfSjl4jiLaX4CaOwagPhl2D3Ufs2GASGCrWma5YmJ80o81CP8wheTDCo_WebaCRVhPs7bP7-SlNtHn1E4hVmZJk8G3Wrcu0LB2to1S7XnBnQzkFoOQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;《软件学报》是一本刊登计算机软件各领域原创性研究成果的期刊,所刊登的论文均经过严格的同行专家评议.《软件学报》主要面向全球华人计算机软件学者,致力于创办与世界计算机科学和软件技术发展同步的以中文为主的“中文国际软件学术期刊”,为全球华人同行提供学术交流平台.《软件学报》创刊于1990年,由中国科学院软件研究所和中国计算机学会联合主办,已被EI Compendex,INSPEC,A...</description>
       <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
       <author />
@@ -144,7 +144,7 @@
     </item>
     <item>
       <title>《软件学报》2026年专刊/专题出版计划</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5KHNUxSJT4QMDxUPOgL0ujEMSbEtN0RYAIwR50fNaFcske_SOGCVTRR2T_MVItvHxE7GdWQi-Jn9P1dI3h5hXbWE3snJeh7jqMy52o3KKTUqHljF62LYdi4SXrIxc4eIKJT37m_G38Oi6pjYUGs6sGt8CwJBg0USrvbjyrH_16wQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5aSOxAHlm3DtmZm5c5yVhW9mwNp9c1-tmqgn9l4r607re7MdX3nuEQvbROGdFRda4gU9yKaO8A-EJFAv6EeYy8FJZbmNDza-unv2BzlaYvB8979Y8GzxlP9BAj1fFh8-yy09eMIQQC86qQIgBSCzUY91kNg0tLBmvuJ2Vima3-Qg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>&amp;lt;正&amp;gt;~</description>
       <pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
       <author />
@@ -152,7 +152,7 @@
     </item>
     <item>
       <title>基于神经网络的分布式追踪数据压缩和查询方法</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5KHNUxSJT4QMDxUPOgL0ujSh481Mv40Kum7Y6hdmzQQiv1kBhGzgaG2WDHOdLH1dD3elhyEkOBHUVYbsXtQtj9fqa_Iz97aPUpdvuVdVOE62_pooXnyZqXUcUZb15WhoT4ONPfJq44S8umeU9RxXpB8wybSZJy9z1TItVVdl1LsA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG5aSOxAHlm3DtmZm5c5yVhWpRdnCpxezsPsejt0qlVoqHvPG5RiKsuZvsRGjmnKaKuWm8A-C2dYm4Nck6Zub2EJx2z_PN-44mzo4iH-Q0EtH1ypCbLwoNhcaMikCzTN8T9xIGnB_IbAHeHcO3da50YS3zO1Mk_N-EORpI-qtikynw==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>分布式追踪数据作为一种重要的可观测性数据,对性能分析、故障诊断、系统理解等运维任务起着至关重要的作用.由于系统规模和复杂性的快速增加,追踪数据的规模愈发庞大,对存储提出了更高的要求.为了降低追踪数据的存储成本,数据压缩成为一种至关重要的方式.现有的压缩方法无法充分利用追踪的数据特征实现高效压缩,而且不支持对压缩数据的复杂查询.提出了一种基于神经网络的分布式追踪数据压缩和查询方法.该方法采用一种新的...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>王尚;张晨曦;彭鑫;</author>
@@ -160,7 +160,7 @@
     </item>
     <item>
       <title>卫星边缘计算智能化技术研究进展</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7-lLsXErtck2wMgyyJEI2OoJnEdglSCH3ZSpUn412xIHEofn0kZTBtisUF0m59VFYeighezGClliOfs7B_4shHy9oxvf3D07Wzv10UQO_p9qsPdknZnEStpaxEKbAIUGnQetli8g28gpPyyVS65f4tkfzEVWKTxE4qBunYsrTJIg==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7Nr6XIO5BiAWOBKK2HeuY4kNw76AlEDXhw9WR6opOxmXRbgnSXzvJu6P5sOvtdGk5i_Y-oDs0jfdjNkyQSUigDMoAmlEL_zlXr4c4hyVz1D6pSfiTQZ3jNDYu5T9HbMoYu3h5JEGYTZRQWDLWlHUYJgG-6RHy5F72_0-xI_lWZFQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>近年来,随着太空任务的日益复杂化,太空数据呈现爆炸式增长.然而,受限于星地链路带宽限制和稀缺的频谱资源,传统弯管架构在星地数据传输中遭遇瓶颈.此外,星上数据必须等待卫星经过地面站上空才能下传,而大规模建设地面站不仅成本高昂,还面临地缘政治风险和经济收益的不确定性.卫星边缘计算作为一种有效的解决方案,通过在卫星边缘引入移动边缘计算技术,能够显著提升用户体验,同时有效减少网络冗余流量.在轨处理星上原始...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>张其阳;邢若粼;李元哲;周傲;徐梦炜;王尚广;</author>
@@ -168,7 +168,7 @@
     </item>
     <item>
       <title>面向编译优化结果不一致的代码高效定位</title>
-      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7-lLsXErtck2wMgyyJEI2OoJnEdglSCH3ZSpUn412xIHEofn0kZTBtDyENuGrZmeSq8c4KUvNn5NgYUQaZKvSIfz8MdjhQqb3-kIIiQymY-kdul0zWCqu9Xqb2StzUmYkEwvXk2uHHl2FWfnd-I9mQDM7HfgPDgvrEavetqSULEQ==&amp;uniplatform=NZKPT&amp;language=CHS</link>
+      <link>https://kns.cnki.net/kcms2/article/abstract?v=zgUe5PvusG7Nr6XIO5BiAWOBKK2HeuY4kNw76AlEDXhw9WR6opOxmXRbgnSXzvJudc0KzpCdLFadMMaroHdBwTx2BrMoFxNZXDiyxk4H_Vp3gM7996cdjsW0JKhCAmLXgiblVqwITXs88dUV73cjs6IqaHpwU-yb7BcRMOV-J95bmHiC4i2TTA==&amp;uniplatform=NZKPT&amp;language=CHS</link>
       <description>编译器是程序开发人员最依赖的性能优化工具之一.然而,受限于浮点数有限精度编码问题,很多编译优化选项会改变浮点计算的语义,进而导致程序计算结果不一致.定位程序中导致编译优化结果不一致的语句对于程序性能优化和结果可复现具有重要意义.当前最先进的方法 PLiner采用基于语句精度增强的二分搜索来定位导致编译优化结果不一致的代码段,受限于对多源问题代码的定位支持不够和搜索效率不高问题.提出一种浮点指令差异...</description>
       <pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
       <author>于恒彪;易昕;范小康;唐滔;黄春;尹帮虎;王戟;</author>
