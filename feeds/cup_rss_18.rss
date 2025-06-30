@@ -6,42 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 09:25:18 +0000</lastBuildDate>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xjfw/xjfwjs/11cdc068c360478cacc064cddbdea977.htm</link>
-      <pubDate>Fri, 06 Jun 2025 07:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xjfw/xjsysm/016f7b57e2d44c15bd2a49475f334ccb.htm</link>
-      <pubDate>Sat, 07 Jun 2025 06:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xxhsbtg/sbfwjs/96b49325fe964e1ba141ab86c09dd1dd.htm</link>
-      <pubDate>Sat, 07 Jun 2025 06:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xxhxmlx/lxfwjs/77dbb1cff81b430e9ea5c9d3520e40c5.htm</link>
-      <pubDate>Mon, 09 Jun 2025 06:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xxhxmlx/lxsysm/f738c211d7f04376be22fa3be86f1ce0.htm</link>
-      <pubDate>Mon, 09 Jun 2025 06:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xxhxmlx/lxcywt/bbeda46c86894891a2fa002126e187ea.htm</link>
-      <pubDate>Mon, 09 Jun 2025 06:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xxhsbtg/sbsysm/7f27137943e74b73bf3fa1a0ee1de4c5.htm</link>
-      <pubDate>Mon, 09 Jun 2025 07:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 04:32:52 +0000</lastBuildDate>
     <item>
       <title>常见问题</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/xjfw/xjcjwt/55de9ebb164343d38dfef1368d205f72.htm</link>
@@ -106,6 +71,41 @@
       <title>【安全风险通告】Apache Kafka Connect 任意文件读取漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/8c6d2894c11e4daf9350aeed6dc8321a.htm</link>
       <pubDate>Fri, 20 Jun 2025 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>机房-公共教学机房概况</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ggjxjf/jffwjs/ff52f6effcd94453968e54e66168cede.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>机房-使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ggjxjf/jfsysm/0001725e125b4a0e8d8f4fe52e1949dd.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>机房-常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ggjxjf/jfcjwt/7ab1ad33bb7d4287b33b4c8a19428cb7.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>语音室-常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yysys/syscjwt/61b37495d0644743ba84d75652670494.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>语音室-概况</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yysys/sysfwjs/d3e0e402a55449d5b3834fb0a69e035a.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yysys/syssysm/4a333f8edcdd4206bf2bb6eff7191b1d.htm</link>
+      <pubDate>Mon, 30 Jun 2025 01:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年9月份全国计算机等级考试报名的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/ed227ff6687046379d1ce3657c240acd.htm</link>
+      <pubDate>Mon, 30 Jun 2025 02:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
