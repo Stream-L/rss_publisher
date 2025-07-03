@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 09:30:55 +0000</lastBuildDate>
-    <item>
-      <title>理学院召开2025年研究生导师培训交流会</title>
-      <link>https://www.cup.edu.cn/science//xyxw/7f661b6bd2c84f0a9104204a0759371d.htm</link>
-      <pubDate>Mon, 12 May 2025 01:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 04:32:47 +0000</lastBuildDate>
     <item>
       <title>2025年张超老师因公出国公示</title>
       <link>https://www.cup.edu.cn/science//gjjy/92a7d4de567c434abccf3182d55d337c.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>2025-2026学年秋季学期理学院教师四节连排授课申请公示</title>
       <link>https://www.cup.edu.cn/science//tzgg/76a925bed78845dca80dbcdb86e68b18.htm</link>
       <pubDate>Thu, 12 Jun 2025 03:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院2025年暑期夏令营</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/yjsjx/60f817bcdf164d2f988dbe5b37d9d48e.htm</link>
+      <pubDate>Wed, 02 Jul 2025 07:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
