@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 09:29:36 +0000</lastBuildDate>
-    <item>
-      <title>地质学系举办荣休教师座谈会</title>
-      <link>http://www.cup.edu.cn/geosci/xwdt/14917dc11fc14584970fcf2ea4e5d5d2.htm</link>
-      <pubDate>Fri, 06 Jun 2025 02:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 04:30:32 +0000</lastBuildDate>
     <item>
       <title>地球科学学院2025年博士研究生补报名工作通知</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/2669ceee356046b2957e31b44e913ca4.htm</link>
@@ -111,7 +106,13 @@
     <item>
       <title>喜报！学院9名研究生获得2025年AAPG全球助研金</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/aadd880101e34e9e9b41dcfcb7f20587.htm</link>
+      <description>近日，美国石油地质学家协会（AAPG）公布了2025年全球助研金资助名单，地球科学学院李媛、郭瑞婧、肖惠译、齐振国、荣澜熹、杨子杰、霍宏亮、王雷、刘璐9名研究生获得资助，全校共计12人次获得此项资助。</description>
       <pubDate>Wed, 02 Jul 2025 09:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>刘志娜等1人人赴瑞典团组公示表</title>
+      <link>http://www.cup.edu.cn/geosci/cgcj/cggs/b765aacde76d4c7eaf88ba6ff75865c3.blk.htm</link>
+      <pubDate>Thu, 03 Jul 2025 08:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
