@@ -6,32 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 09:33:20 +0000</lastBuildDate>
-    <item>
-      <title>致敬！95岁退休教师方华灿教授开讲“南海深水油气田开发装备新进展”</title>
-      <link>http://www.cup.edu.cn/news/sx/86a72526064a4e7a948e615917936de0.htm</link>
-      <pubDate>Tue, 01 Jul 2025 00:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展“我讲抗战爱国故事”“大思政课” 主题短视频征集展示活动的通知</title>
-      <link>https://xgc.cup.edu.cn/Website/Home/Detail?B0E586E7C4457C9D699C96A30DE713191AC48C8B54A7CA07D52E558395A0ADAD.shtml</link>
-      <pubDate>Tue, 01 Jul 2025 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校领导带队走访慰问学校离退休教职工</title>
-      <link>http://www.cup.edu.cn/news/sx/71f95b37394243fab82518c09b8845ef.htm</link>
-      <pubDate>Tue, 01 Jul 2025 08:32:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>【学习教育进行时】中石大研究生院党支部、国际教育学院党支部与教育部学位中心第五党支部开展联学共建活动</title>
-      <link>http://www.cup.edu.cn/news/sx/232c8ae475ac4da6961e2b4324cc412a.htm</link>
-      <pubDate>Tue, 01 Jul 2025 08:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>校领导赴长庆油田分公司走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/efbb0d323b4b4d07a7aa4f9339c5942d.htm</link>
-      <pubDate>Tue, 01 Jul 2025 09:22:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 04:30:06 +0000</lastBuildDate>
     <item>
       <title>中石大举办“国际组织后备人才训练营”开营仪式</title>
       <link>http://www.cup.edu.cn/news/sx/7969b88bcf5c43cda6a966ff217ccccc.htm</link>
@@ -98,6 +73,11 @@
       <pubDate>Fri, 04 Jul 2025 14:43:00 +0000</pubDate>
     </item>
     <item>
+      <title>巴西里约热内卢联邦大学COPPE代表团访问中石大</title>
+      <link>http://www.cup.edu.cn/news/sx/c548a883d12b45c2a42a72eed9539d71.htm</link>
+      <pubDate>Sat, 05 Jul 2025 01:08:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大举办教师数智化教学素养提升专题培训</title>
       <link>http://www.cup.edu.cn/news/sx/6c4da9fbfa944a25b9f974ede3288920.htm</link>
       <pubDate>Mon, 07 Jul 2025 01:24:13 +0000</pubDate>
@@ -106,6 +86,26 @@
       <title>关于中油大厦及第三教学楼之间道路临时封闭的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/5df2e051f1894a6a9580cc76e9e4eed3.htm</link>
       <pubDate>Mon, 07 Jul 2025 03:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于做好2025年暑假期间校园安全工作的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/807f8e9f390a46559b30ae72bd69a805.htm</link>
+      <pubDate>Mon, 07 Jul 2025 07:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>牢记嘱托，勇担使命！中国石油大学（北京）西部办学十周年主题展开展</title>
+      <link>http://www.cup.edu.cn/news/sx/4b53b778b6924c6f939b6e66871579e4.htm</link>
+      <pubDate>Mon, 07 Jul 2025 08:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>西部办学十周年</title>
+      <link>https://mp.weixin.qq.com/s/gx20n_6jJa-gxI1_K84NUw</link>
+      <pubDate>Mon, 07 Jul 2025 08:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025美国塔尔萨大学“开学第一课”中国站“未来能源领袖”夏令营在中石大举办</title>
+      <link>http://www.cup.edu.cn/news/sx/1804c796daa14d34b4a541768edf6dfd.htm</link>
+      <pubDate>Mon, 07 Jul 2025 12:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
