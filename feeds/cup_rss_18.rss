@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 09:30:09 +0000</lastBuildDate>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/IPdzfw/IPfwjs/2fd94fea77344766835848b8ab46574e.htm</link>
-      <pubDate>Tue, 10 Jun 2025 06:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 04:31:53 +0000</lastBuildDate>
     <item>
       <title>使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/IPdzfw/IPsysm/54393d109a30425e9d4bdd0b232a9a89.htm</link>
@@ -106,6 +101,11 @@
       <title>信息化管理处关于2025年暑假值班安排的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/455643071cfc4b73a3b91e9948f585a4.htm</link>
       <pubDate>Wed, 09 Jul 2025 02:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处举办人工智能学院学生专业认知生产实习活动</title>
+      <link>https://www.cup.edu.cn/nic/xwdt/0707df45608249399626c0536fe9e55f.htm</link>
+      <pubDate>Wed, 09 Jul 2025 02:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
