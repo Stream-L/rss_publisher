@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 09:29:30 +0000</lastBuildDate>
-    <item>
-      <title>关于做好2025年寒假期间校园安全工作的通知</title>
-      <link>http://www.cup.edu.cn/bwc/tzgg/409a0c0520cf43eba3b6f672bb2238a0.htm</link>
-      <pubDate>Wed, 08 Jan 2025 01:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 04:36:29 +0000</lastBuildDate>
     <item>
       <title>关于印发《中国石油大学（北京）电动自行车管理办法 （试行）》的通知</title>
       <link>http://www.cup.edu.cn/bwc/tzgg/0b5b728d3feb4dca8e6c9f7a532728bc.htm</link>
@@ -106,6 +101,11 @@
       <title>关于做好2025年暑假期间校园安全工作的通知</title>
       <link>https://www.cup.edu.cn/tzygg/807f8e9f390a46559b30ae72bd69a805.htm</link>
       <pubDate>Mon, 07 Jul 2025 09:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校内动火作业登记及校园起重机械作业许可证申请流程说明</title>
+      <link>/publish/bwc/docs/2025-07/2025-07/6d18dd7c60b645ddb09b7c54a619ba52.pdf</link>
+      <pubDate>Fri, 11 Jul 2025 02:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
