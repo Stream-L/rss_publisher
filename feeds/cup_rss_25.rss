@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 09:32:59 +0000</lastBuildDate>
-    <item>
-      <title>本科生课程替代信息公示</title>
-      <link>http://www.cup.edu.cn/sba/tzgg/a3040104f4d44b06b71c74cae17a217e.htm</link>
-      <pubDate>Fri, 06 Jun 2025 06:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 04:41:35 +0000</lastBuildDate>
     <item>
       <title>本科生课程替代信息公示</title>
       <link>http://www.cup.edu.cn/sba/tzgg/16fe84228fbc4cdfb29ded2681f31fff.htm</link>
@@ -106,6 +101,11 @@
       <title>中国石油大学（北京）科普夏令营正式落地云南省楚雄州南华县</title>
       <link>http://www.cup.edu.cn/sba/xyxw/bb4be7a938b641478cef0e7f8ce696ac.htm</link>
       <pubDate>Fri, 18 Jul 2025 04:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度经济管理学院研究生导师招生名录</title>
+      <link>http://www.cup.edu.cn/sba/tzgg/d7cc1a1693f840bf838fc3ad1490e602.htm</link>
+      <pubDate>Thu, 24 Jul 2025 08:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
