@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Jul 2025 09:30:56 +0000</lastBuildDate>
-    <item>
-      <title>关于安全科技楼西侧及南侧道路临时封闭的通知</title>
-      <link>https://cup.edu.cn/houqin/tzgg/0e43e820c5774a36b8ab69d556817c74.htm</link>
-      <pubDate>Sat, 12 Jul 2025 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于学生活动中心南侧、化工楼北侧、第三教学楼西侧道路临时封闭的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/e94758b2f1cf418690a73c4c837f1e4f.htm</link>
-      <pubDate>Sun, 13 Jul 2025 08:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>石油工程教育国际交流与合作研讨会暨SPE亚太石油工程教育联盟倡议大会在中石大举行</title>
-      <link>http://www.cup.edu.cn/news/syxw/2c02089dd9514a9d98fb8e5ece93a407.htm</link>
-      <pubDate>Sun, 13 Jul 2025 15:08:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Jul 2025 04:45:25 +0000</lastBuildDate>
     <item>
       <title>中石大2025年全国研究生暑期学校开幕</title>
       <link>http://www.cup.edu.cn/news/syxw/2d9f5daec1874e7a81e7c7673fe469aa.htm</link>
@@ -106,6 +91,21 @@
       <title>中石大志愿者完成第三届中国国际供应链促进博览会志愿服务保障工作</title>
       <link>http://www.cup.edu.cn/news/sx/f560a447a1b54ea994760b0c0bd4bea5.htm</link>
       <pubDate>Wed, 23 Jul 2025 14:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大“油韵绿脉，青力同行”实践团赴大庆市开展社会实践</title>
+      <link>http://www.cup.edu.cn/news/sx/56aa96ceabd442b79f10d8ca3ebb5640.htm</link>
+      <pubDate>Thu, 24 Jul 2025 10:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大与华润双鹤药业股份有限公司、安泰环境工程技术有限公司签署合作协议</title>
+      <link>http://www.cup.edu.cn/news/sx/d041b965dfe04ca383e4b9694edaefe9.htm</link>
+      <pubDate>Thu, 24 Jul 2025 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大重质油全国重点实验室参与第12届世界化学工程大会暨第21届亚太化工联盟大会</title>
+      <link>http://www.cup.edu.cn/news/sx/a13f375e754d47acadbc6da97d18970a.htm</link>
+      <pubDate>Sat, 26 Jul 2025 12:50:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
