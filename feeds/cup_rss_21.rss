@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 09:35:51 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开第二课堂课程化建设专题研讨会</title>
-      <link>http://www.cup.edu.cn/news/sx/e54bb1591fd1451786d9ff9c3fb9616c.htm</link>
-      <pubDate>Mon, 14 Jul 2025 15:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛作品推荐的公示</title>
-      <link>https://www.cup.edu.cn/tuanwei/tzgg/6c3ac6dd2795445792379cde76e5545d.htm</link>
-      <pubDate>Tue, 15 Jul 2025 08:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年高考录取查询</title>
-      <link>https://bkzs.cup.edu.cn/static/front/cup/basic/html_web/lqcx.html</link>
-      <pubDate>Wed, 16 Jul 2025 06:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 05:00:47 +0000</lastBuildDate>
     <item>
       <title>中国海油青年科技人才“科创菁英面对面”学术交流活动在中石大举办</title>
       <link>http://www.cup.edu.cn/news/sx/316d30a5e92440fdb1372358a2650bd3.htm</link>
@@ -106,6 +91,21 @@
       <title>校领导检查学校本科招生录取工作</title>
       <link>http://www.cup.edu.cn/news/sx/53d04455dfe845cbaead60bdfbb7ae8e.htm</link>
       <pubDate>Tue, 29 Jul 2025 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导带队赴四川走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/4c97239a8e6941249de474d11673f46c.htm</link>
+      <pubDate>Thu, 31 Jul 2025 05:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于学生活动中心及青年园公寓1号楼之间路段临时封路的通知</title>
+      <link>https://cup.edu.cn/houqin/tzgg/15550ef27788484db7a09f2772cacbf1.htm</link>
+      <pubDate>Fri, 01 Aug 2025 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于做好2025年新增批次国家自然科学基金优秀青年科学基金项目（海外）项目申报的通知</title>
+      <link>https://www.cup.edu.cn/rsc/tzgg/rcgl/95abca771dd44de09f9aca07a3c99629.htm</link>
+      <pubDate>Fri, 01 Aug 2025 01:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
