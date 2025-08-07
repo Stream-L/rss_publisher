@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 09:35:23 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院2025年申请考核制博士研究生材料审查结果</title>
-      <link>http://www.cup.edu.cn/cise//tzgg2/4a87945721a449b69c5854ac9a808388.htm</link>
-      <pubDate>Wed, 21 May 2025 08:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【党建动态】学院主办“典籍里的智慧”“传承之舟”读书汇党建共建活动</title>
-      <link>https://www.cup.edu.cn/news/sx/293ec51d40a34d0897ebefb368cf165d.htm</link>
-      <pubDate>Thu, 05 Jun 2025 03:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【三全育人】学校首批以实践成果申请学位的专业学位硕士研究生答辩通过</title>
-      <link>https://www.cup.edu.cn/cupai/xw/e98a52acec4c4f8f897c77920b60e817.htm</link>
-      <pubDate>Thu, 05 Jun 2025 03:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 04:44:44 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）人工智能学院2025年博士研究生补报名通知</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/59455017702d4757b928e08fbf54e43f.htm</link>
@@ -106,6 +91,21 @@
       <title>平均池化时域图卷积网络用于潜油电泵异常检测</title>
       <link>https://www.cup.edu.cn/cupai/kxyj/kydt/7bb44c208cef43d89ecf691c9b6c7da2.htm</link>
       <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于CEEMDAN-SVD-MEAE的抽油机电机声音异常检测</title>
+      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/921b6e95cc1d42a5b980ae0669fc6f99.htm</link>
+      <pubDate>Wed, 06 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>航天器结构健康监测技术研究进展</title>
+      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/4d669cfd3a1b47daa0c4a8d87085fb19.htm</link>
+      <pubDate>Wed, 06 Aug 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于Transformer增强原型网络的潜油电泵小样本故障诊断</title>
+      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/1719e2bd320247189a27716cb64e63d5.htm</link>
+      <pubDate>Wed, 06 Aug 2025 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

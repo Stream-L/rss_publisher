@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 09:33:43 +0000</lastBuildDate>
-    <item>
-      <title>关于低渗透油气田勘探开发国家工程实验室2025年度开放课题申请的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/30b1614eb23645d8bd20cdccb14fc6ab.htm</link>
-      <pubDate>Mon, 07 Jul 2025 08:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 04:42:47 +0000</lastBuildDate>
     <item>
       <title>科学技术处2025年暑假值班工作安排</title>
       <link>http://www.cup.edu.cn/kjc/notice/qtgltzgg/50e090a1e681493f8d9859cd9acdcd01.htm</link>
@@ -106,6 +101,11 @@
       <title>关于参与申报2025年度北京市科学技术奖项目的公示-10</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/6e9cbc2fdff2453cbb32e32174a53231.htm</link>
       <pubDate>Tue, 22 Jul 2025 02:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理重点实验室2025年度开放课题申请指南</title>
+      <link>http://www.cup.edu.cn/kjc/notice/xml/c7b5acb98996404a8782cb2ba5fd56c2.htm</link>
+      <pubDate>Wed, 06 Aug 2025 08:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
