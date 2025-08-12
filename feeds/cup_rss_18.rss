@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 09:33:06 +0000</lastBuildDate>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/blj/bljfwjs/bc9377f48fb54d55a01aac5e1e479a80.htm</link>
-      <pubDate>Wed, 11 Jun 2025 06:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 04:27:38 +0000</lastBuildDate>
     <item>
       <title>使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/grfw/blj/bljsysm/f09dbdaaee774dc0b3d3b0c3f910c29d.htm</link>
@@ -106,6 +101,11 @@
       <title>关于8月11日提高采收率研究院及化工楼B座区域断网的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/33ffb6d416384b5fa5bb01bbcd65840d.htm</link>
       <pubDate>Sun, 10 Aug 2025 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于校园电子邮件系统升级的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/1073b8c20f394c7790a99e8018923306.htm</link>
+      <pubDate>Mon, 11 Aug 2025 09:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
