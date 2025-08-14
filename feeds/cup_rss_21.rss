@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 09:30:06 +0000</lastBuildDate>
-    <item>
-      <title>关于做好2025年新增批次国家自然科学基金优秀青年科学基金项目（海外）项目申报的通知</title>
-      <link>https://www.cup.edu.cn/rsc/tzgg/rcgl/95abca771dd44de09f9aca07a3c99629.htm</link>
-      <pubDate>Fri, 01 Aug 2025 01:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大中外师生代表受邀参加世界青年和平大会</title>
-      <link>http://www.cup.edu.cn/news/sx/8be47c0d437d45dca1e885dbc284a897.htm</link>
-      <pubDate>Fri, 01 Aug 2025 14:43:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办全球安全倡议下“一带一路”国家能源安全管理研修班</title>
-      <link>http://www.cup.edu.cn/news/sx/e2aab4ed255d407f87618a1faecc074c.htm</link>
-      <pubDate>Fri, 01 Aug 2025 14:44:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 04:30:09 +0000</lastBuildDate>
     <item>
       <title>中国石化西北油田分公司来校走访交流</title>
       <link>http://www.cup.edu.cn/news/sx/4cf1acc76cc144e4a1ab007b2684e9d4.htm</link>
@@ -78,6 +63,11 @@
       <pubDate>Sat, 09 Aug 2025 04:23:22 +0000</pubDate>
     </item>
     <item>
+      <title>校长金衍一行赴新疆维吾尔自治区走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/b70b1b0e175e46a6869a6892e308d918.htm</link>
+      <pubDate>Sun, 10 Aug 2025 12:43:00 +0000</pubDate>
+    </item>
+    <item>
       <title>关于8月11日提高采收率研究院及化工楼B座区域断网的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/33ffb6d416384b5fa5bb01bbcd65840d.htm</link>
       <pubDate>Sun, 10 Aug 2025 13:41:00 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>【时代新人强国行】中石大新能源与材料学院师生赴山东省广饶县开展社会实践</title>
       <link>http://www.cup.edu.cn/news/sx/b55730706f92413ea4a4e1af2a7d0194.htm</link>
       <pubDate>Wed, 13 Aug 2025 02:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>党委书记王同奇带队赴云南走访企业、看望校友并调研定点帮扶工作</title>
+      <link>http://www.cup.edu.cn/news/sx/617d4a6b50d646edb52084c698e0a0d6.htm</link>
+      <pubDate>Wed, 13 Aug 2025 07:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于南北校园停水的通知</title>
+      <link>https://cup.edu.cn/houqin/tzgg/ceb82e5001ca4c7087d7e998c74dd556.htm</link>
+      <pubDate>Thu, 14 Aug 2025 01:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
