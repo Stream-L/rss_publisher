@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 09:25:46 +0000</lastBuildDate>
-    <item>
-      <title>关于图书馆南侧道路封闭的通知</title>
-      <link>https://www.cup.edu.cn/jjc/tzgg/3ff1f22d7ce943ccb9ca6185c78e58af.htm</link>
-      <pubDate>Tue, 26 Aug 2025 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大克拉玛依校区领导带队赴对口支援高校调研走访</title>
-      <link>http://www.cup.edu.cn/news/sx/cfe6580feae744c8ae0ae59669f82e08.htm</link>
-      <pubDate>Wed, 27 Aug 2025 03:56:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025迎新</title>
-      <link>https://www.cup.edu.cn/</link>
-      <pubDate>Wed, 27 Aug 2025 14:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 04:20:45 +0000</lastBuildDate>
     <item>
       <title>【教育部官网】中国石油大学（北京）深度参与零碳产业发展 推动能源高校转型变革发展</title>
       <link>http://www.cup.edu.cn/news/jj/2c64bae352dc42e886364078a27baa79.htm</link>
@@ -93,6 +78,12 @@
       <pubDate>Tue, 02 Sep 2025 10:46:00 +0000</pubDate>
     </item>
     <item>
+      <title>正义必胜 和平必胜 人民必胜——
+纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会</title>
+      <link>https://mp.weixin.qq.com/s/IaTsSrus7DIC4qF0SUBRIQ</link>
+      <pubDate>Tue, 02 Sep 2025 12:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title>93阅兵</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Tue, 02 Sep 2025 12:50:00 +0000</pubDate>
@@ -106,6 +97,16 @@
       <title>中石大举办全球发展倡议下南苏丹油气开发与绿色能源合作研修班</title>
       <link>http://www.cup.edu.cn/news/sx/b16c47c1687b44acb24e27bdece5687d.htm</link>
       <pubDate>Tue, 02 Sep 2025 13:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>共襄盛典！中石大，为祖国加油！</title>
+      <link>http://www.cup.edu.cn/news/sx/abe7f4b204d7494d9b714bfd69866bb0.htm</link>
+      <pubDate>Wed, 03 Sep 2025 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>共襄盛典！中石大，为祖国加油！</title>
+      <link>https://mp.weixin.qq.com/s/IaTsSrus7DIC4qF0SUBRIQ</link>
+      <pubDate>Wed, 03 Sep 2025 10:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
