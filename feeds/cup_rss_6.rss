@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 09:27:49 +0000</lastBuildDate>
-    <item>
-      <title>【学生用表】本科课程 免听申请表</title>
-      <link>/publish/jwc/docs/2025-07/2025-07/3ea792a888fa42fcac123b60ab408cf7.doc</link>
-      <pubDate>Tue, 01 Jul 2025 09:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办教师数智化教学素养提升专题培训</title>
-      <link>http://www.cup.edu.cn/jwc/zhxw/a8577bc525854ac7a61dea155091ffb0.htm</link>
-      <pubDate>Mon, 07 Jul 2025 06:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 04:20:26 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年秋季学期大学物理实验B（I）未修及重修选课通知</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/ece03c7217e44611a21e921037c44ebc.htm</link>
@@ -106,6 +96,16 @@
       <title>2025-2026学年秋季学期开学初补退选选课通知</title>
       <link>http://www.cup.edu.cn/jwc/notice/d27e20dd472243e0b324f90445a4a6dd.htm</link>
       <pubDate>Mon, 08 Sep 2025 02:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）本科生课程考核工作管理规定（2025年修订）</title>
+      <link>/publish/jwc/docs/2025-09/2025-09/21de2d907f4146ac9354c4228a9f43bd.blk.pdf</link>
+      <pubDate>Mon, 08 Sep 2025 07:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025-2026学年秋季学期本科生电子注册的通知</title>
+      <link>http://www.cup.edu.cn/jwc/zsyzc/76f3db0217e44aaa91806111a78dad07.htm</link>
+      <pubDate>Mon, 08 Sep 2025 08:14:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
