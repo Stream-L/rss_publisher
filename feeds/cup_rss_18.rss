@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 09:27:27 +0000</lastBuildDate>
-    <item>
-      <title>常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/blj/bljcjwt/4ceda9757a9b4f3daf7475f6b37348dd.htm</link>
-      <pubDate>Wed, 11 Jun 2025 07:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 04:22:14 +0000</lastBuildDate>
     <item>
       <title>【网络安全小课堂】以案示警！这些红线不能踩！</title>
       <link>https://mp.weixin.qq.com/s/bo9kL5ps3aDLAwuBLFSLNg</link>
@@ -106,6 +101,11 @@
       <title>数据安全技术数据安全风险评估方法</title>
       <link>https://www.cup.edu.cn/nic/zczd/xszc/09d28b056e4c4c19a2415c577abdf446.htm</link>
       <pubDate>Sat, 30 Aug 2025 13:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】百度网盘Windows客户端远程命令执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/09d82a16a9ca435084ad9f337f60a1cf.htm</link>
+      <pubDate>Wed, 10 Sep 2025 02:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

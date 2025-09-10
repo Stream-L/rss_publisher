@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 09:28:31 +0000</lastBuildDate>
-    <item>
-      <title>平均池化时域图卷积网络用于潜油电泵异常检测</title>
-      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/7bb44c208cef43d89ecf691c9b6c7da2.htm</link>
-      <pubDate>Tue, 05 Aug 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于CEEMDAN-SVD-MEAE的抽油机电机声音异常检测</title>
-      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/921b6e95cc1d42a5b980ae0669fc6f99.htm</link>
-      <pubDate>Wed, 06 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>航天器结构健康监测技术研究进展</title>
-      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/4d669cfd3a1b47daa0c4a8d87085fb19.htm</link>
-      <pubDate>Wed, 06 Aug 2025 09:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 04:24:40 +0000</lastBuildDate>
     <item>
       <title>基于Transformer增强原型网络的潜油电泵小样本故障诊断</title>
       <link>https://www.cup.edu.cn/cupai/kxyj/kydt/1719e2bd320247189a27716cb64e63d5.htm</link>
@@ -106,6 +91,21 @@
       <title>人工智能学院2026级“专业+管理”复合型人才（行政助理）培养第一批选拔结果的通知</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/a7991944990540f2aaad751f39728b80.htm</link>
       <pubDate>Mon, 08 Sep 2025 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能学院2026年本研一体化培养工作方案</title>
+      <link>https://www.cup.edu.cn/cupai/bkspy/bzrxyds/f86f7892b5984641aa22ff52f440d8ab.blk.htm</link>
+      <pubDate>Tue, 09 Sep 2025 06:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能学院2026年本研一体化培养工作方案</title>
+      <link>https://www.cup.edu.cn/cupai/bkspy/bzrxyds/f86f7892b5984641aa22ff52f440d8ab.blk.htm</link>
+      <pubDate>Tue, 09 Sep 2025 06:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能学院2026年本研一体化培养工作方案</title>
+      <link>https://www.cup.edu.cn/cupai/bkspy/bzrxyds/f86f7892b5984641aa22ff52f440d8ab.blk.htm</link>
+      <pubDate>Tue, 09 Sep 2025 06:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

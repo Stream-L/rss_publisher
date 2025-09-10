@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 09:28:00 +0000</lastBuildDate>
-    <item>
-      <title>地球物理学院2025年全国优秀大学生暑期夏令营活动公告</title>
-      <link>http://www.cup.edu.cn/geophysics//xytzgg/7ccb4cb7df444879ab706a4cde92aad0.htm</link>
-      <pubDate>Wed, 02 Jul 2025 07:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>地物理学院2025年全国优秀大学生暑期夏令营入围营员名单</title>
-      <link>http://www.cup.edu.cn/geophysics//xytzgg/f70858b343b64b8fb40dec19db7bbaa9.htm</link>
-      <pubDate>Thu, 10 Jul 2025 02:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>地球物理学院2026年硕士研究生招生考试大纲</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/zsxx/0d0920aad34748f7bfacc3b7610754de.htm</link>
-      <pubDate>Thu, 10 Jul 2025 06:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 04:23:33 +0000</lastBuildDate>
     <item>
       <title>地球物理学院与中海油田技术服务有限公司共建思想政治教育基地及实践教学基地</title>
       <link>http://www.cup.edu.cn/geophysics//xyxw1/d4a9401e147749feba198574a5cab432.htm</link>
@@ -73,6 +58,11 @@
       <pubDate>Tue, 02 Sep 2025 11:21:00 +0000</pubDate>
     </item>
     <item>
+      <title>关于地球物理学院2026届优秀本科生拟推荐免试攻读研究生名单的公示</title>
+      <link>https://www.cup.edu.cn/geophysics/aqgz/tzgg/3c19bb8fcb6c408e926c0d57bb318289.htm</link>
+      <pubDate>Thu, 04 Sep 2025 02:53:00 +0000</pubDate>
+    </item>
+    <item>
       <title>关于地球物理学院2022级本科生拟推荐免试攻读研究生综合成绩的公示</title>
       <link>http://www.cup.edu.cn/geophysics//xytzgg/811267d4b0c34ff7ab5ebbe048e7ed56.htm</link>
       <pubDate>Thu, 04 Sep 2025 07:12:00 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>马继涛</title>
       <link>http://www.cup.edu.cn/geophysics//szdw/js/6401ee4942304996a53bbcebe2d71248.htm</link>
       <pubDate>Mon, 08 Sep 2025 01:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于地球物理学院2026届优秀本科生拟推荐免试攻读研究生名单的公示</title>
+      <link>/publish/cgi/docs/2025-09/2025-09/910822444c47448984c80bbd23c63041.xlsx</link>
+      <pubDate>Wed, 10 Sep 2025 02:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于地球物理学院2026届优秀本科生拟推荐免试攻读研究生名单的公示</title>
+      <link>http://www.cup.edu.cn/geophysics//aqgz/tzgg/3c19bb8fcb6c408e926c0d57bb318289.htm</link>
+      <pubDate>Wed, 10 Sep 2025 02:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
