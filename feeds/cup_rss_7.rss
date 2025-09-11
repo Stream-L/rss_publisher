@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 09:24:55 +0000</lastBuildDate>
-    <item>
-      <title>关于北京市第十八届哲学社会科学优秀成果奖提名项目信息的公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/2444782f1f414b789b06fa7a4e805888.htm</link>
-      <pubDate>Fri, 11 Jul 2025 07:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于参与申报2025年度北京市科学技术奖项目的公示-8</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/8ffb7cc1a1b340cd9f0517b60f78cc61.htm</link>
-      <pubDate>Fri, 11 Jul 2025 07:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 04:20:19 +0000</lastBuildDate>
     <item>
       <title>关于2025年度北京市科学技术奖提名项目信息的公示-第四批</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/cb84770a125c4777a068b05bf215e9f4.htm</link>
@@ -106,6 +96,16 @@
       <title>2025年度陕西省科学技术奖项目公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/70f212833c2c41e59e3b20b5eb7d5d31.htm</link>
       <pubDate>Thu, 04 Sep 2025 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度陕西省科学技术奖项目公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/ec1abf8426104026b6ff41007a4e2c1b.htm</link>
+      <pubDate>Wed, 10 Sep 2025 08:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年天津市科学技术进步奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/f21bb499adc8498fa916da4b941e1318.htm</link>
+      <pubDate>Wed, 10 Sep 2025 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

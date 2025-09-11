@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 09:28:45 +0000</lastBuildDate>
-    <item>
-      <title>能 源</title>
-      <link>http://www.cup.edu.cn/geosci/szdw/jiaoshou/153674455bcd4990bdae461950c17b13.htm</link>
-      <pubDate>Sun, 03 Aug 2025 13:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 04:22:25 +0000</lastBuildDate>
     <item>
       <title>关于庞雄奇、陈冬霞、胡涛合上课程学时分配情况的公示</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/c389aa939877471194aed1bde345a674.htm</link>
@@ -106,6 +101,11 @@
       <title>关于地球科学学院2026届优秀本科生拟推荐免试攻读研究生名单的公示</title>
       <link>https://www.cup.edu.cn/geosci/cgcj/xqxz/1e927eead6a7405ea5571245e0363295.blk.htm</link>
       <pubDate>Mon, 08 Sep 2025 12:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于第八届全国油气地质大赛获奖情况的说明</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/ab6b45dbfa2d4b158e2014bba3f76cd8.htm</link>
+      <pubDate>Wed, 10 Sep 2025 13:27:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
