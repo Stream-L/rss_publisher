@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 09:24:43 +0000</lastBuildDate>
-    <item>
-      <title>关于南北校园停水的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/1d3cc3f1202d410a9d753b4017a2eabd.htm</link>
-      <pubDate>Tue, 08 Apr 2025 09:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 04:21:06 +0000</lastBuildDate>
     <item>
       <title>公寓管理服务中心招聘启事</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/ccc9c76a35f44e0db08058b37bf5ea59.htm</link>
@@ -106,6 +101,11 @@
       <title>关于开展2025年中国节水奖评选表彰推荐的公示</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/80e5d35845bc401db64195b148960a64.htm</link>
       <pubDate>Mon, 01 Sep 2025 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于工程东楼停水的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/6ccc57ce455f4a88a5c141db7f6a8e9d.htm</link>
+      <pubDate>Fri, 12 Sep 2025 03:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
