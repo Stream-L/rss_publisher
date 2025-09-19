@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 09:25:58 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】DataEase H2 数据库远程代码执行漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/cb914e1b172e4a66925d10a7cd0028d1.htm</link>
-      <pubDate>Fri, 20 Jun 2025 08:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 04:21:32 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Apache Kafka Connect 任意文件读取漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/8c6d2894c11e4daf9350aeed6dc8321a.htm</link>
@@ -106,6 +101,11 @@
       <title>关于第76次计算机等级考试准考证打印及模拟考试的相关通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/864671ad13764f8b81d0f515bc2c7f00.htm</link>
       <pubDate>Mon, 15 Sep 2025 09:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家网络安全事件报告管理办法</title>
+      <link>https://www.cup.edu.cn/nic/zczd/xszc/8d52aea926fc49b499947718c6f8b44b.htm</link>
+      <pubDate>Fri, 19 Sep 2025 03:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

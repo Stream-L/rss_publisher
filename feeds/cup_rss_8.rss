@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 09:25:04 +0000</lastBuildDate>
-    <item>
-      <title>关于2023年申报高级专业技术职务人员材料的公示</title>
-      <link>http://www.cup.edu.cn/rsc/bulletin/b-teacher/c68a33842a2b409480ace644f26c8ff1.htm</link>
-      <pubDate>Thu, 01 Jun 2023 05:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 04:20:49 +0000</lastBuildDate>
     <item>
       <title>关于2023年申报中级专业技术职务人员材料的公示</title>
       <link>http://www.cup.edu.cn/rsc/bulletin/b-teacher/eaad5c9ecef54afeba2f710395336ae1.htm</link>
@@ -106,6 +101,11 @@
       <title>2025年教职工培训手册</title>
       <link>/publish/rsc/docs/2025-09/2025-09/65d0cd4a4c1a4a3a926eb7280d0f0b3c.pdf</link>
       <pubDate>Wed, 17 Sep 2025 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年下半年高等学校教师资格认定工作的通知</title>
+      <link>https://www.cup.edu.cn/rsc//tzgg/szfz/08cf3233b10f4de19b6f70b69e69408b.htm</link>
+      <pubDate>Fri, 19 Sep 2025 03:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
