@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 09:28:30 +0000</lastBuildDate>
-    <item>
-      <title>关于2023年申报中级专业技术职务人员材料的公示</title>
-      <link>http://www.cup.edu.cn/rsc/bulletin/b-teacher/eaad5c9ecef54afeba2f710395336ae1.htm</link>
-      <pubDate>Thu, 08 Jun 2023 08:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于2023年科研助理选聘录用人员名单公布及报到的通知</title>
-      <link>http://www.cup.edu.cn/rsc/newnotice/nn-insurance/78a5caad85b441a4b72ececf5d5c3e6d.htm</link>
-      <pubDate>Fri, 09 Jun 2023 07:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 04:20:21 +0000</lastBuildDate>
     <item>
       <title>关于韩晶玉校内单位调动的公示</title>
       <link>http://www.cup.edu.cn/rsc/bulletin/f2b99b1372384282a4fba88ec9661f56.htm</link>
@@ -103,9 +93,19 @@
       <pubDate>Wed, 17 Sep 2025 09:04:00 +0000</pubDate>
     </item>
     <item>
+      <title>关于2025年新进教职工校内岗前培训的通知</title>
+      <link>https://www.cup.edu.cn/rsc//tzgg/szfz/6e830b77b342445aa7ba543328df837c.htm</link>
+      <pubDate>Fri, 19 Sep 2025 01:03:00 +0000</pubDate>
+    </item>
+    <item>
       <title>关于2025年下半年高等学校教师资格认定工作的通知</title>
       <link>https://www.cup.edu.cn/rsc//tzgg/szfz/08cf3233b10f4de19b6f70b69e69408b.htm</link>
       <pubDate>Fri, 19 Sep 2025 03:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2025年科研助理选聘录用人员名单公布及报到的通知（第二批）</title>
+      <link>https://www.cup.edu.cn/rsc//tzgg/xcbx/ca556f61ad63482794d8e3aae5809c7e.htm</link>
+      <pubDate>Tue, 23 Sep 2025 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
