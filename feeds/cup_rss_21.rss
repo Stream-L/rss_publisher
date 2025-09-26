@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 09:26:29 +0000</lastBuildDate>
-    <item>
-      <title>法律事务办公室</title>
-      <link>http://www.cup.edu.cn/xingzheng/gkdw/dxbgs/d6bd2175b96f4ffbafa4a6fa62af100b.htm</link>
-      <pubDate>Wed, 24 Sep 2025 07:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校友工作办公室</title>
-      <link>https://www.cup.edu.cn/alumni/index.htm</link>
-      <pubDate>Wed, 24 Sep 2025 07:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>信访工作办公室</title>
-      <link>http://www.cup.edu.cn/xingzheng/gkdw/dxbgs/25475cb83b70412683e2c1a90095d001.htm</link>
-      <pubDate>Wed, 24 Sep 2025 07:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 04:21:42 +0000</lastBuildDate>
     <item>
       <title>保密委员会办公室</title>
       <link>http://www.cup.edu.cn/xingzheng/gkdw/dxbgs/7f4826a2979d46388cf84ccf2a166671.htm</link>
@@ -98,6 +83,11 @@
       <pubDate>Wed, 24 Sep 2025 07:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>院系设置</title>
+      <link>http://www.cup.edu.cn/yuanxi/3b5c4180a48246f1b963a6d7fbdbe88b.htm</link>
+      <pubDate>Thu, 25 Sep 2025 01:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>03</title>
       <link>http://www.cup.edu.cn/cslm/a8b876019dcb46d3b9037089c189e5d7.htm</link>
       <pubDate>Thu, 25 Sep 2025 01:30:00 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>院系设置</title>
       <link>http://www.cup.edu.cn/yuanxi/f134932c760546d49d9999cef6657b22.htm</link>
       <pubDate>Thu, 25 Sep 2025 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办办学成果宣介会暨声誉塑造媒体专家咨询会</title>
+      <link>http://www.cup.edu.cn/news/sx/2109e2cc53644af5a5eaabee41bc3510.htm</link>
+      <pubDate>Thu, 25 Sep 2025 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>办学成果宣介会暨声誉塑造媒体专家咨询会-轮播图</title>
+      <link>https://www.cup.edu.cn/news/sx/2109e2cc53644af5a5eaabee41bc3510.htm</link>
+      <pubDate>Thu, 25 Sep 2025 13:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
