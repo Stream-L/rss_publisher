@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 09:23:13 +0000</lastBuildDate>
-    <item>
-      <title>理学院拟录用2026级本研一体化“专业+管理”复合型人才专项思想政治岗免试研究生公示</title>
-      <link>https://www.cup.edu.cn/science//xsgz/xkjs/336fd0c99bae4c66bf848d54233239f3.htm</link>
-      <pubDate>Tue, 02 Sep 2025 09:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 04:23:37 +0000</lastBuildDate>
     <item>
       <title>关于理学院2022级本科生拟推荐免试研究生学术专长认定成绩的公示</title>
       <link>https://www.cup.edu.cn/science//bksjy/jxtz/462c03afdce44fb49700000de14ef1bc.htm</link>
@@ -106,6 +101,11 @@
       <title>理学院2026年推免生复试情况公示（第三批）</title>
       <link>https://www.cup.edu.cn/science//yjsjy/526dfbe86de64c2da42e50fba30e4451.htm</link>
       <pubDate>Fri, 26 Sep 2025 00:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年理学院研究生国家奖学金评审细则</title>
+      <link>https://www.cup.edu.cn/science//xsgz/xsgzjzd/775c8f4928ad4cdea878d17ff1d90bb2.htm</link>
+      <pubDate>Sun, 28 Sep 2025 11:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

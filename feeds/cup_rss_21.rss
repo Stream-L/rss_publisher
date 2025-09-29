@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 09:22:00 +0000</lastBuildDate>
-    <item>
-      <title>创新创业教育学院</title>
-      <link>https://www.cup.edu.cn/ciee/</link>
-      <pubDate>Wed, 24 Sep 2025 07:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 04:22:27 +0000</lastBuildDate>
     <item>
       <title>油气重大专项办公室</title>
       <link>http://www.cup.edu.cn/xingzheng/gkdw/kxjsc/0007fc39758e41d7ba41033a3629b754.htm</link>
@@ -106,6 +101,11 @@
       <title>中国海洋石油集团有限公司到中石大交流并举办2026届毕业生校园招聘宣讲会</title>
       <link>http://www.cup.edu.cn/news/sx/eb20fbd3b84345b09b82916be277f2fb.htm</link>
       <pubDate>Sat, 27 Sep 2025 04:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大开展“研途引航，能源筑梦”研究生新生入学教育</title>
+      <link>http://www.cup.edu.cn/news/sx/f069735693264aa9913f378f95ddb247.htm</link>
+      <pubDate>Sun, 28 Sep 2025 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
