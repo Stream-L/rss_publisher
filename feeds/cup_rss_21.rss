@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 09:29:10 +0000</lastBuildDate>
-    <item>
-      <title>油气重大专项办公室</title>
-      <link>http://www.cup.edu.cn/xingzheng/gkdw/kxjsc/0007fc39758e41d7ba41033a3629b754.htm</link>
-      <pubDate>Wed, 24 Sep 2025 07:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>教师教学发展中心</title>
-      <link>https://zgsydxjfzx.mh.chaoxing.com/</link>
-      <pubDate>Wed, 24 Sep 2025 07:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>师资办公室</title>
-      <link>http://www.cup.edu.cn/xingzheng/gkdw/rsc/40cc6dccc6f44180b0f89805aa555961.htm</link>
-      <pubDate>Wed, 24 Sep 2025 07:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 04:22:06 +0000</lastBuildDate>
     <item>
       <title>港澳台办公室</title>
       <link>http://www.cup.edu.cn/xingzheng/gkdw/gjhzyjlc/d7685ae3297d4461bedf70ff772d39c8.htm</link>
@@ -106,6 +91,21 @@
       <title>中石大开展“研途引航，能源筑梦”研究生新生入学教育</title>
       <link>http://www.cup.edu.cn/news/sx/f069735693264aa9913f378f95ddb247.htm</link>
       <pubDate>Sun, 28 Sep 2025 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家能源集团到中石大交流并举办2026届毕业生校园招聘宣讲会</title>
+      <link>http://www.cup.edu.cn/news/sx/a461b1d1b9bc45e7a230f39375427c3c.htm</link>
+      <pubDate>Mon, 29 Sep 2025 00:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大校友任京东担任四川省政府党组成员</title>
+      <link>http://www.cup.edu.cn/news/sx/cdbf4425b8274fd0871438fba8d74a61.htm</link>
+      <pubDate>Mon, 29 Sep 2025 02:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>欢度国庆-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Tue, 30 Sep 2025 03:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
