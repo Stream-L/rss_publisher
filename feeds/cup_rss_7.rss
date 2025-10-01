@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 09:25:36 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京） 合作知识产权代理公司清单</title>
-      <link>/publish/kjc/docs/2025-07/2025-07/4e7b9daec85f40d4beae89f93cfd41bc.pdf</link>
-      <pubDate>Fri, 18 Jul 2025 02:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 04:20:00 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）合作知识产权代理公司清单（生效日期：2024年2月23日）</title>
       <link>/publish/kjc/docs/2025-07/2025-07/cbc431c9452c40e9af5585fbab2c6ed5.pdf</link>
@@ -106,6 +101,11 @@
       <title>关于申报2025年国家社科基金冷门绝学研究专项的通知</title>
       <link>http://www.cup.edu.cn/kjc/notice/xml/e397eb7487a245e6b46da76bc73a7970.htm</link>
       <pubDate>Fri, 26 Sep 2025 06:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球化学实验室公正性声明</title>
+      <link>http://www.cup.edu.cn/kjc/notice/ptl/d5f0c3948b9b435687a918fd78337ac9.htm</link>
+      <pubDate>Tue, 30 Sep 2025 06:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
