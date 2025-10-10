@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 09:27:02 +0000</lastBuildDate>
-    <item>
-      <title>贺艳晓</title>
-      <link>http://www.cup.edu.cn/geophysics//szdw/js/5f2dc67c97104d06bdccd14cc128be73.htm</link>
-      <pubDate>Mon, 08 Sep 2025 01:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 04:22:04 +0000</lastBuildDate>
     <item>
       <title>卢俊强</title>
       <link>http://www.cup.edu.cn/geophysics//szdw/js/9a19199d386741cdad099f12f25274ea.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院关于公示2025年本科生国家励志奖学金评选结果的通知</title>
       <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/72eff163385e4599b9a87d8bbb949c77.htm</link>
       <pubDate>Wed, 08 Oct 2025 10:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院关于公示2025年本科生国家助学金学生名单的通知</title>
+      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/fa768fa75a4e4a5bb4e5008052e045db.htm</link>
+      <pubDate>Fri, 10 Oct 2025 00:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
