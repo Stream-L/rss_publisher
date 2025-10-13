@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 09:23:06 +0000</lastBuildDate>
-    <item>
-      <title>卢俊强</title>
-      <link>http://www.cup.edu.cn/geophysics//szdw/js/9a19199d386741cdad099f12f25274ea.htm</link>
-      <pubDate>Mon, 08 Sep 2025 01:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 04:22:04 +0000</lastBuildDate>
     <item>
       <title>马继涛</title>
       <link>http://www.cup.edu.cn/geophysics//szdw/js/6401ee4942304996a53bbcebe2d71248.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院关于公示2025年本科生国家助学金学生名单的通知</title>
       <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/fa768fa75a4e4a5bb4e5008052e045db.htm</link>
       <pubDate>Fri, 10 Oct 2025 00:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院2025级本科生家庭经济困难新生防寒服拟发放名单公示</title>
+      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/6aa61267eceb44bbbd4bfbf325822e29.htm</link>
+      <pubDate>Mon, 13 Oct 2025 00:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
