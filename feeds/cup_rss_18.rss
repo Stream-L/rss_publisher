@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 09:28:10 +0000</lastBuildDate>
-    <item>
-      <title>机房-使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ggjxjf/jfsysm/0001725e125b4a0e8d8f4fe52e1949dd.htm</link>
-      <pubDate>Mon, 30 Jun 2025 01:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>机房-常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/ggjxjf/jfcjwt/7ab1ad33bb7d4287b33b4c8a19428cb7.htm</link>
-      <pubDate>Mon, 30 Jun 2025 01:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 04:21:52 +0000</lastBuildDate>
     <item>
       <title>语音室-常见问题</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yysys/syscjwt/61b37495d0644743ba84d75652670494.htm</link>
@@ -106,6 +96,16 @@
       <title>【安全风险通告】Oracle E-Business Suite 远程代码执行漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/5e264dfada1f40a98d14d49c26b106d5.htm</link>
       <pubDate>Wed, 15 Oct 2025 07:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>网络使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/xyw/xywsysm/d61c2aacf8ca4097ac99e35bec5170a4.htm</link>
+      <pubDate>Thu, 16 Oct 2025 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/xyw/xywcjwt/ee744e4c85f244faa11ea674f2c919b0.htm</link>
+      <pubDate>Thu, 16 Oct 2025 07:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
