@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 09:27:35 +0000</lastBuildDate>
-    <item>
-      <title>关于2025年9月份全国计算机等级考试报名的通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/ed227ff6687046379d1ce3657c240acd.htm</link>
-      <pubDate>Mon, 30 Jun 2025 02:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>机关党委第十八期午间文化沙龙暨学校网络安全员专题培训成功举办</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/d1df694875484f4282157105f3a6583a.htm</link>
-      <pubDate>Mon, 07 Jul 2025 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>夏季大图</title>
-      <link>https://www.cup.edu.cn/nic/sydt/e8746768e4b44fef91f07a656192da08.htm</link>
-      <pubDate>Mon, 07 Jul 2025 07:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 04:21:50 +0000</lastBuildDate>
     <item>
       <title>信息化管理处关于2025年暑假值班安排的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/455643071cfc4b73a3b91e9948f585a4.htm</link>
@@ -106,6 +91,21 @@
       <title>关于微软部分产品停止服务支持的通知</title>
       <link>https://mp.weixin.qq.com/s/UTyP5nP-SKLKUK4n3iZs_w</link>
       <pubDate>Fri, 17 Oct 2025 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>eduroam</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/Eduroam/Eduroamfwjs/a6f95713d7e6471bbb367dd0e460c739.htm</link>
+      <pubDate>Tue, 21 Oct 2025 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/Eduroam/Eduroamsysm/3934b1514a904275b0e977e41d502f8c.htm</link>
+      <pubDate>Tue, 21 Oct 2025 07:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/Eduroam/Eduroamcjwt/6de809c06e6247edb7f0dc04d4f594f2.htm</link>
+      <pubDate>Tue, 21 Oct 2025 07:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

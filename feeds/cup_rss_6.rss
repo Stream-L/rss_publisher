@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 09:26:40 +0000</lastBuildDate>
-    <item>
-      <title>2025-2026学年秋季学期开学初补退选选课通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/d27e20dd472243e0b324f90445a4a6dd.htm</link>
-      <pubDate>Mon, 08 Sep 2025 02:00:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 04:20:52 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）本科生课程考核工作管理规定（2025年修订）</title>
       <link>/publish/jwc/docs/2025-09/2025-09/21de2d907f4146ac9354c4228a9f43bd.blk.pdf</link>
@@ -106,6 +101,11 @@
       <title>致中国石油大学（北京）2019届、2024届本科毕业生校友的一封信</title>
       <link>http://www.cup.edu.cn/jwc/zljd/zljk/a16f4e07b08c4f828e654b8a32704ce2.htm</link>
       <pubDate>Thu, 16 Oct 2025 01:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026届本科生毕业设计（论文）工作安排</title>
+      <link>http://www.cup.edu.cn/jwc/sjjx1/8fe6bd482214483fa691a2bddaa1c50d.htm</link>
+      <pubDate>Wed, 22 Oct 2025 00:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
