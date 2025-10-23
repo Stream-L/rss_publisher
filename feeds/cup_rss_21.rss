@@ -6,42 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 09:29:32 +0000</lastBuildDate>
-    <item>
-      <title>北京市党的建设和思想政治工作先进普通高等学校-轮播图</title>
-      <link>https://www.cup.edu.cn/news/sx/117c761e81c841a3b4e5e7b3589c18a9.htm</link>
-      <pubDate>Wed, 15 Oct 2025 03:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市党的建设和思想政治工作先进普通高等学校-轮播图</title>
-      <link>https://www.cup.edu.cn/</link>
-      <pubDate>Wed, 15 Oct 2025 03:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于图书馆南侧道路封闭的通知</title>
-      <link>https://www.cup.edu.cn/jjc/tzgg/c99a7fc0ea9342c0a2faf13a8c938981.htm</link>
-      <pubDate>Wed, 15 Oct 2025 06:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>电影《火种》点映活动走进中石大风华放映厅</title>
-      <link>http://www.cup.edu.cn/news/sx/7d162a3bb03040bbaa16a9998233bc5f.htm</link>
-      <pubDate>Wed, 15 Oct 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大获评第九次北京市党的建设和思想政治工作先进普通高等学校</title>
-      <link>http://www.cup.edu.cn/news/sx/117c761e81c841a3b4e5e7b3589c18a9.htm</link>
-      <pubDate>Wed, 15 Oct 2025 10:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中曼石油天然气集团来中石大交流并举办2026届毕业生专场校园招聘宣讲会</title>
-      <link>http://www.cup.edu.cn/news/sx/8a71bc72449e49b1b2b02f413bd63a8b.htm</link>
-      <pubDate>Thu, 16 Oct 2025 00:44:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办第二期青年人才“本熹班”第三次学员论坛</title>
-      <link>http://www.cup.edu.cn/news/sx/07b2b949178c4ba28380c81293c53cb8.htm</link>
-      <pubDate>Thu, 16 Oct 2025 11:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 04:22:23 +0000</lastBuildDate>
     <item>
       <title>中原油田来中石大开展技术交流</title>
       <link>http://www.cup.edu.cn/news/sx/ba575a2b170542f39476034a6fdeb765.htm</link>
@@ -106,6 +71,41 @@
       <title>牢记嘱托，勇担使命！中石大举办学校西部办学十周年主题展</title>
       <link>http://www.cup.edu.cn/news/sx/73e47fefcfb1452ba9985acac0f9b118.htm</link>
       <pubDate>Tue, 21 Oct 2025 14:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界能源大学联盟（WEUN）工作会议在中石大举办</title>
+      <link>http://www.cup.edu.cn/news/sx/32b7e0a8111f49c79834c1bf25ca40b9.htm</link>
+      <pubDate>Wed, 22 Oct 2025 00:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开2025年国家奖助学金和励志奖学金评审会</title>
+      <link>http://www.cup.edu.cn/news/sx/a0fa1fa687064c89ab383a3a96cf445d.htm</link>
+      <pubDate>Wed, 22 Oct 2025 08:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>安东油田服务集团来中石大交流并举办2026届毕业生专场校园招聘宣讲会</title>
+      <link>http://www.cup.edu.cn/news/sx/8506decc62f54c5ab2b1981ab548127d.htm</link>
+      <pubDate>Wed, 22 Oct 2025 08:56:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大最新研究成果重建了中元古代13.6亿年的海水温度和氧同位素组成</title>
+      <link>http://www.cup.edu.cn/news/sx/e9e9c31af99f414b916f6df8938b38ce.htm</link>
+      <pubDate>Wed, 22 Oct 2025 08:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大5名师生获“孙越崎能源科学技术奖”</title>
+      <link>http://www.cup.edu.cn/news/sx/f6ca928589de40078ce18bfdab49b2a7.htm</link>
+      <pubDate>Wed, 22 Oct 2025 09:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大学子在第四届国际大学生化学竞赛中获佳绩</title>
+      <link>http://www.cup.edu.cn/news/sx/956be8b0b2954107b2816dee87732f7b.htm</link>
+      <pubDate>Wed, 22 Oct 2025 14:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办风华艺苑书画笔会活动</title>
+      <link>http://www.cup.edu.cn/news/sx/956777ee6c3f4b7384eeb55b0cf17312.htm</link>
+      <pubDate>Thu, 23 Oct 2025 01:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
