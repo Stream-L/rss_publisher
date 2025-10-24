@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）外国语学院新 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 09:28:53 +0000</lastBuildDate>
-    <item>
-      <title>2025年外国语学院本科生综合素质测评公示</title>
-      <link>http://www.cup.edu.cn/dfl/tzgg3/4569e082d56844f18e0275abccfbe992.htm</link>
-      <pubDate>Mon, 29 Sep 2025 01:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 04:22:53 +0000</lastBuildDate>
     <item>
       <title>2025年外国语学院研究生综合测评公示</title>
       <link>http://www.cup.edu.cn/dfl/tzgg3/7ad7231e3e6e4aa9a2422c3cdc4e36f0.htm</link>
@@ -106,6 +101,11 @@
       <title>外国语学院2026年推免生拟录取名单公示</title>
       <link>http://www.cup.edu.cn/dfl/tzgg3/c62616e06ee44805bde7a80860a7b371.htm</link>
       <pubDate>Mon, 20 Oct 2025 05:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>霜降</title>
+      <link>http://www.cup.edu.cn/dfl/sydt/1b420898140e4df8995c8a50d697fec3.htm</link>
+      <pubDate>Thu, 23 Oct 2025 06:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
