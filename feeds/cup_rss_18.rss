@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 09:27:43 +0000</lastBuildDate>
-    <item>
-      <title>关于校园电子邮件系统升级的通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/1073b8c20f394c7790a99e8018923306.htm</link>
-      <pubDate>Mon, 11 Aug 2025 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>数据安全技术数据安全风险评估方法</title>
-      <link>https://www.cup.edu.cn/nic/zczd/xszc/09d28b056e4c4c19a2415c577abdf446.htm</link>
-      <pubDate>Sat, 30 Aug 2025 13:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】百度网盘Windows客户端远程命令执行漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/09d82a16a9ca435084ad9f337f60a1cf.htm</link>
-      <pubDate>Wed, 10 Sep 2025 02:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 04:25:36 +0000</lastBuildDate>
     <item>
       <title>网络安全宣传周</title>
       <link>https://www.cup.edu.cn/nic/sydt/58269230ed394e55a020acd246ced5fc.htm</link>
@@ -107,6 +92,21 @@
       <title>信息化管理处党支部联合工会小组组织开展《志愿军：浴血和平》观影活动</title>
       <link>https://www.cup.edu.cn/nic/xwdt/805de91a9e8645beb998b89e92a836d6.htm</link>
       <pubDate>Fri, 24 Oct 2025 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】微软重要安全漏洞通告</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/dd23ebf2379b4bad93e964a3d1c2212f.htm</link>
+      <pubDate>Tue, 28 Oct 2025 02:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能问答</title>
+      <link>https://assistant.cup.edu.cn</link>
+      <pubDate>Tue, 28 Oct 2025 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Windows 服务器更新服务WSUS远程代码执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/543a38bf00ae44bdae135befe5d03a67.htm</link>
+      <pubDate>Wed, 29 Oct 2025 02:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
