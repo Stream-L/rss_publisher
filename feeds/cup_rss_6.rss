@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 09:26:22 +0000</lastBuildDate>
-    <item>
-      <title>关于2025-2026学年秋季学期本科生电子注册的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/76f3db0217e44aaa91806111a78dad07.htm</link>
-      <pubDate>Mon, 08 Sep 2025 08:14:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 04:20:45 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年秋季学期在线课程网上学习与考试的通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/b3dfb92578ee4ac6afef47d9dd35dfc1.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大举办“AI赋能教学与竞赛PPT制作设计”专题培训</title>
       <link>http://www.cup.edu.cn/jwc/zhxw/985dbfc086e74619a39a01320d7b9fe8.htm</link>
       <pubDate>Tue, 28 Oct 2025 07:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开2025-2026学年秋季学期校本科教育教学督导专家组工作部署会</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/858df677fbc649a48dfe203de1388b39.htm</link>
+      <pubDate>Wed, 29 Oct 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
