@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 09:27:52 +0000</lastBuildDate>
-    <item>
-      <title>新疆中国石油大学校友会成立</title>
-      <link>http://www.cup.edu.cn/news/sx/4024ec4366684f7cba7228614e0812fe.htm</link>
-      <pubDate>Sun, 26 Oct 2025 08:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 04:23:10 +0000</lastBuildDate>
     <item>
       <title>中国石油大学校友林揭牌</title>
       <link>http://www.cup.edu.cn/news/sx/e9334703cfb54660bbca494a3b9a3244.htm</link>
@@ -106,6 +101,11 @@
       <title>关于开展“最多跑一次”改革推进情况满意度调查的通知</title>
       <link>http://www.cup.edu.cn/tzygg/a8a487e4d55a4cd3938ee6df51208ebb.htm</link>
       <pubDate>Thu, 30 Oct 2025 01:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>安徽理工大学来中石大走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/089cc8f7238948b4a503d989e913a802.htm</link>
+      <pubDate>Thu, 30 Oct 2025 03:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

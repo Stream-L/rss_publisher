@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 09:27:39 +0000</lastBuildDate>
-    <item>
-      <title>网络安全宣传周</title>
-      <link>https://www.cup.edu.cn/nic/sydt/58269230ed394e55a020acd246ced5fc.htm</link>
-      <pubDate>Fri, 12 Sep 2025 02:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于第76次计算机等级考试准考证打印及模拟考试的相关通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/864671ad13764f8b81d0f515bc2c7f00.htm</link>
-      <pubDate>Mon, 15 Sep 2025 09:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 04:22:54 +0000</lastBuildDate>
     <item>
       <title>国家网络安全事件报告管理办法</title>
       <link>https://www.cup.edu.cn/nic/zczd/xszc/8d52aea926fc49b499947718c6f8b44b.htm</link>
@@ -107,6 +97,17 @@
       <title>【安全风险通告】Windows 服务器更新服务WSUS远程代码执行漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/543a38bf00ae44bdae135befe5d03a67.htm</link>
       <pubDate>Wed, 29 Oct 2025 02:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办办公科研软件专题培训</title>
+      <link>https://www.cup.edu.cn/news/sx/b3fcfbc633fc4198ba447a0007a73fa4.htm</link>
+      <description>10月23日，中石大信息化管理处举办“MATLAB &amp; WPS”办公科研软件使用培训讲座。讲座聚焦人工智能时代教学科研工具协同新需求，旨在通过系统讲解与实操演示，帮助学生掌握高效、规范的软件使用方法，为学校教学科研工作提供有力的数字化支撑。</description>
+      <pubDate>Thu, 30 Oct 2025 08:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Apache Tomcat RewriteValve 目录遍历漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/348b6212344a4998a135bf8b1c1cd5d1.htm</link>
+      <pubDate>Fri, 31 Oct 2025 00:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
