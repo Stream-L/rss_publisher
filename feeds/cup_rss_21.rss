@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 09:30:54 +0000</lastBuildDate>
-    <item>
-      <title>中石大组织开展“传承石油魂，共筑能源梦”主题教育活动</title>
-      <link>http://www.cup.edu.cn/news/sx/e335313bc67940caba47e9ad6dd4fad8.htm</link>
-      <pubDate>Wed, 29 Oct 2025 07:01:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>浙江省政府驻京办一行来中石大走访调研</title>
-      <link>http://www.cup.edu.cn/news/sx/643ce8fd2fd644d28fa9900d578aaad0.htm</link>
-      <pubDate>Wed, 29 Oct 2025 07:01:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 04:22:05 +0000</lastBuildDate>
     <item>
       <title>中石大举办2026届毕业生五校联合双选会</title>
       <link>http://www.cup.edu.cn/news/sx/15a3306a78fc429e87e9fec01c680f51.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大在第七届中国海洋工程设计大赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/655144f30fdd4918928140d2601e6a3f.htm</link>
       <pubDate>Sun, 02 Nov 2025 15:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大海南研究院举办第一期“南山讲坛”</title>
+      <link>http://www.cup.edu.cn/news/sx/36caaf28ae1343e78e2c7dc91ec4a42a.htm</link>
+      <pubDate>Mon, 03 Nov 2025 08:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年全国消防宣传月-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Mon, 03 Nov 2025 10:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
