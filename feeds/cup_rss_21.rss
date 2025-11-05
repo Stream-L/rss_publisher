@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 09:29:33 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办2026届毕业生五校联合双选会</title>
-      <link>http://www.cup.edu.cn/news/sx/15a3306a78fc429e87e9fec01c680f51.htm</link>
-      <pubDate>Wed, 29 Oct 2025 07:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展中国石油大学（北京）2025-2026学年学生社团申请成立工作的通知</title>
-      <link>https://www.cup.edu.cn/tuanwei/tzgg/904821eac4ff4aebae871c01112f8ee3.htm</link>
-      <pubDate>Wed, 29 Oct 2025 07:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 04:22:55 +0000</lastBuildDate>
     <item>
       <title>关于开展“最多跑一次”改革推进情况满意度调查的通知</title>
       <link>http://www.cup.edu.cn/tzygg/a8a487e4d55a4cd3938ee6df51208ebb.htm</link>
@@ -103,9 +93,19 @@
       <pubDate>Mon, 03 Nov 2025 08:09:00 +0000</pubDate>
     </item>
     <item>
+      <title>“共筑能源可持续未来”中俄能源教育与科学研讨会在中石大召开</title>
+      <link>http://www.cup.edu.cn/news/sx/426acca78fa740969494d73270d1c058.htm</link>
+      <pubDate>Mon, 03 Nov 2025 09:32:04 +0000</pubDate>
+    </item>
+    <item>
       <title>2025年全国消防宣传月-轮播图</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Mon, 03 Nov 2025 10:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于东校园东教楼停电的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/bb107fc12ce84993aa3a37766a97390c.htm</link>
+      <pubDate>Wed, 05 Nov 2025 02:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
