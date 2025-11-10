@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 09:23:30 +0000</lastBuildDate>
-    <item>
-      <title>地球物理学院关于公示2025年研究生学业奖学金和研究生国家助学金名单的通知</title>
-      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/7c28c9a7aa834f5dae434ef6df0fc1c5.htm</link>
-      <pubDate>Mon, 13 Oct 2025 00:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 04:26:57 +0000</lastBuildDate>
     <item>
       <title>地球物理学院关于公示2025年燕宝奖学金评选结果的通知</title>
       <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/f8209980322b4eb3be766255b7f7ba92.htm</link>
@@ -107,6 +102,11 @@
       <title>地球物理学院关于2025年秋季学期团员发展对象情况公示</title>
       <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/34a704d343d84efba1bf79e5b3bee541.htm</link>
       <pubDate>Wed, 05 Nov 2025 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院2025年下半年接收预备党员公示</title>
+      <link>http://www.cup.edu.cn/geophysics//djgz/tzggdj/ec82d1a462444ce0b517457c3fbad20b.htm</link>
+      <pubDate>Mon, 10 Nov 2025 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
