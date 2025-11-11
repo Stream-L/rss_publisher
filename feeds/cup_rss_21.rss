@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 09:30:52 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）思政基地数字地图上线运行</title>
-      <link>http://www.cup.edu.cn/news/sx/5bc6a1e8d8bf4244aeb600a299a40bdb.htm</link>
-      <pubDate>Fri, 31 Oct 2025 13:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大克拉玛依校区举办“校长面对面——学校新疆办学十周年专题座谈会”</title>
-      <link>http://www.cup.edu.cn/news/sx/320ec8d6e5b141b6976993d8884d183f.htm</link>
-      <pubDate>Fri, 31 Oct 2025 13:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大在“挑战杯”2025年度“揭榜挂帅”擂台赛中获佳绩</title>
-      <link>http://www.cup.edu.cn/news/sx/6569e02de6b748cf8cbb986df6f84700.htm</link>
-      <pubDate>Fri, 31 Oct 2025 13:42:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 04:24:02 +0000</lastBuildDate>
     <item>
       <title>关于国际交流中心北侧门洞道路施工封闭的通知</title>
       <link>http://www.cup.edu.cn/tzygg/39ced8f54176438587d8ba45f4bcefa7.htm</link>
@@ -103,9 +88,24 @@
       <pubDate>Thu, 06 Nov 2025 14:12:19 +0000</pubDate>
     </item>
     <item>
+      <title>中石大举办2025年“沐心向阳 智伴心航”心理嘉年华活动</title>
+      <link>http://www.cup.edu.cn/news/sx/c9ba2996de1c47da8371fc28f731835e.htm</link>
+      <pubDate>Fri, 07 Nov 2025 04:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大研究生课程获评中国学位与研究生教育学会“AI创新课程”</title>
       <link>http://www.cup.edu.cn/news/sx/cdaa45fbb389405f8c9a9f4b09fe519c.htm</link>
       <pubDate>Fri, 07 Nov 2025 07:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大围绕“沐光成长计划”召开系列座谈会</title>
+      <link>http://www.cup.edu.cn/news/sx/0a52e749f3d644cf9b733d3273fe7c00.htm</link>
+      <pubDate>Mon, 10 Nov 2025 09:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）考点关于第76次计算机等级考试成绩复查申请的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/878801e90a484e00be09bdb7256ed2fc.htm</link>
+      <pubDate>Tue, 11 Nov 2025 01:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

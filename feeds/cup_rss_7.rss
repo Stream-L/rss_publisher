@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 09:29:39 +0000</lastBuildDate>
-    <item>
-      <title>地球物理重点实验室2025年度开放课题申请指南</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/c7b5acb98996404a8782cb2ba5fd56c2.htm</link>
-      <pubDate>Wed, 06 Aug 2025 08:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 04:22:51 +0000</lastBuildDate>
     <item>
       <title>2025年中国产学研合作促进会科技创新将拟申报项目公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/bc4281874a374751b79fe3d7a03f4b84.htm</link>
@@ -106,6 +101,11 @@
       <title>2025年度中国石油天然气集团有限公司科学技术奖公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/f461a79738a24b71ac291ffbd4bd2074.htm</link>
       <pubDate>Sun, 09 Nov 2025 02:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度中国石油天然气集团有限公司科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/a67e22e7fe62459d9d240c239b195c1b.htm</link>
+      <pubDate>Mon, 10 Nov 2025 11:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
