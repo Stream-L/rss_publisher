@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 09:29:32 +0000</lastBuildDate>
-    <item>
-      <title>中石大“地热耦合超低能耗悬浮床DAC千吨级示范”方案入选腾讯“碳寻计划”全球Top50</title>
-      <link>http://www.cup.edu.cn/news/sx/3608f265e94e4f6ebc4838481eb1b4a0.htm</link>
-      <pubDate>Tue, 04 Nov 2025 04:50:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于东校园东教楼停电的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/bb107fc12ce84993aa3a37766a97390c.htm</link>
-      <pubDate>Wed, 05 Nov 2025 02:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 04:25:29 +0000</lastBuildDate>
     <item>
       <title>"能源桥”中俄国际青年营在中石大举办</title>
       <link>http://www.cup.edu.cn/news/sx/612165fa26264c46af133352a335b2ec.htm</link>
@@ -93,6 +83,11 @@
       <pubDate>Tue, 11 Nov 2025 12:11:22 +0000</pubDate>
     </item>
     <item>
+      <title>中石大举办中俄能源联合研究院国际学术交流会议</title>
+      <link>http://www.cup.edu.cn/news/sx/a26bf10978494a53a991e9bd33c0f61e.htm</link>
+      <pubDate>Tue, 11 Nov 2025 12:12:04 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大联合主办第14届国际水下技术学会（SUT）技术会议</title>
       <link>http://www.cup.edu.cn/news/sx/93d98c6cf172491f9201284fff2966ec.htm</link>
       <pubDate>Tue, 11 Nov 2025 12:12:49 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>中石大携手振华石油与哈利法大学共建联合实验室与卓越工程师学院-轮播图</title>
       <link>https://www.cup.edu.cn/news/sx/4d9b91c4782c48bd9b61af661ba11e37.htm</link>
       <pubDate>Tue, 11 Nov 2025 15:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展有害生物防治工作的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/414afda394d4460fa4f1b52af3a14e55.htm</link>
+      <pubDate>Wed, 12 Nov 2025 09:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
