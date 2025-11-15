@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 09:29:28 +0000</lastBuildDate>
-    <item>
-      <title>HECA:面向点击率预测模型训练的异构Embedding缓存架构</title>
-      <link>https://mp.weixin.qq.com/s/U7DcwS3eMotw0r1W_Vp2Kw</link>
-      <pubDate>Wed, 29 Oct 2025 08:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 04:22:44 +0000</lastBuildDate>
     <item>
       <title>四中全会</title>
       <link>https://www.cup.edu.cn/cupai/lbdt/920a130150934c9ab34909dfdfffd435.htm</link>
@@ -106,6 +101,11 @@
       <title>【科研动态】人工智能学院牵头项目荣获北京市科学技术进步奖二等奖</title>
       <link>https://www.cup.edu.cn/cupai/xw/6b456bd3d1ce48398e08257535425d80.htm</link>
       <pubDate>Thu, 13 Nov 2025 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026秋季学期第10周院领导接待安排</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/8a7c4ef24241433da8581c77b3e9fc13.htm</link>
+      <pubDate>Fri, 14 Nov 2025 08:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
