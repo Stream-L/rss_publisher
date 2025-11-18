@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 09:31:31 +0000</lastBuildDate>
-    <item>
-      <title>关于微软部分产品停止服务支持的通知</title>
-      <link>https://mp.weixin.qq.com/s/UTyP5nP-SKLKUK4n3iZs_w</link>
-      <pubDate>Fri, 17 Oct 2025 09:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 04:23:35 +0000</lastBuildDate>
     <item>
       <title>eduroam</title>
       <link>https://www.cup.edu.cn/nic/ggfw/grfw/Eduroam/Eduroamfwjs/a6f95713d7e6471bbb367dd0e460c739.htm</link>
@@ -108,6 +103,11 @@
       <title>信息化管理处赴北京科技大学开展校园数智化工作调研</title>
       <link>https://www.cup.edu.cn/nic/xwdt/29ca8c75eb074e978380daf1c55ea8cf.htm</link>
       <pubDate>Mon, 10 Nov 2025 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/fd854ece782a47e1acda44e050fdb91d.htm</link>
+      <pubDate>Mon, 17 Nov 2025 07:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
