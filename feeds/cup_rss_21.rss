@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 09:29:16 +0000</lastBuildDate>
-    <item>
-      <title>关于临时调整东校园机动车行车路线的通知</title>
-      <link>https://www.cup.edu.cn/jjc/tzgg/2f1a07d551754017ac001cc7e2d385d0.htm</link>
-      <pubDate>Thu, 13 Nov 2025 10:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基金会秘书处</title>
-      <link>http://www.cup.edu.cn/xingzheng/gkdw/dxbgs/af7ca231b93248098020f6523cc17ca0.htm</link>
-      <pubDate>Thu, 13 Nov 2025 11:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国家卓越工程师学院</title>
-      <link>https://www.cup.edu.cn/ngce/</link>
-      <pubDate>Thu, 13 Nov 2025 11:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 04:23:49 +0000</lastBuildDate>
     <item>
       <title>创新创业教育学院</title>
       <link>https://www.cup.edu.cn/ciee/</link>
@@ -93,6 +78,11 @@
       <pubDate>Sun, 16 Nov 2025 14:05:07 +0000</pubDate>
     </item>
     <item>
+      <title>“十四五”-后勤-轮播图</title>
+      <link>https://www.cup.edu.cn/news/sx/40298cb71870418fa14041f32c8bc0c8.htm</link>
+      <pubDate>Mon, 17 Nov 2025 12:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>后期十四五</title>
       <link>https://mp.weixin.qq.com/s/NIX4CO9kY1X99q-_kFFjLg</link>
       <pubDate>Mon, 17 Nov 2025 12:55:00 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>中石大举办“点·石”校园戏剧展演开幕式暨原创反诈主题戏剧首演活动</title>
       <link>http://www.cup.edu.cn/news/sx/152bcc2b53024fe9a0fc41e91435a2e7.htm</link>
       <pubDate>Tue, 18 Nov 2025 00:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>【我们的这五年】校园悄悄变了样！</title>
+      <link>http://www.cup.edu.cn/news/sx/40298cb71870418fa14041f32c8bc0c8.htm</link>
+      <pubDate>Tue, 18 Nov 2025 01:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“相聚石大・智汇浙里”科技成果对接会在中石大举办</title>
+      <link>http://www.cup.edu.cn/news/sx/5c8e5bf1b29f4c5f91a0b673e8ef6d8b.htm</link>
+      <pubDate>Tue, 18 Nov 2025 14:51:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
