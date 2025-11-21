@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 09:28:30 +0000</lastBuildDate>
-    <item>
-      <title>关于开展2025-2026学年地球物理学院“志燃”助学金评选工作的通知</title>
-      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/e8cc5c1bdb4f4b8eb6d3058ab3781899.htm</link>
-      <pubDate>Wed, 22 Oct 2025 08:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 04:22:45 +0000</lastBuildDate>
     <item>
       <title>关于开展2025-2026学年地球物理学院“国为”学生干部奖学金评选工作的通知</title>
       <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/2838e9233f944ea0aa259afe4e0ecc8d.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年地球物理学院学术型博士招生导师名单</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/dsjj/9eb390aaf65e4f34a1b319b16dd52dc1.htm</link>
       <pubDate>Wed, 19 Nov 2025 01:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）工程硕博士专项研究生申请学位创新性成果基本要求（试行）</title>
+      <link>https://grs.cup.edu.cn/xw0101/91298.jhtml</link>
+      <pubDate>Wed, 19 Nov 2025 01:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
