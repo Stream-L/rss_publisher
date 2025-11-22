@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 09:28:01 +0000</lastBuildDate>
-    <item>
-      <title>创新创业教育学院</title>
-      <link>https://www.cup.edu.cn/ciee/</link>
-      <pubDate>Thu, 13 Nov 2025 11:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 04:22:15 +0000</lastBuildDate>
     <item>
       <title>党委巡察工作办公室</title>
       <link>https://www.cup.edu.cn/jiwei/</link>
@@ -106,6 +101,11 @@
       <title>“相聚石大・智汇浙里”科技成果对接会在中石大举办</title>
       <link>http://www.cup.edu.cn/news/sx/5c8e5bf1b29f4c5f91a0b673e8ef6d8b.htm</link>
       <pubDate>Tue, 18 Nov 2025 14:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国塔尔萨大学代表团访问中石大</title>
+      <link>http://www.cup.edu.cn/news/sx/60120a274eb84742a01e4bc88a91a566.htm</link>
+      <pubDate>Fri, 21 Nov 2025 06:37:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
