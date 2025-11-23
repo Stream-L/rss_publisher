@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 09:25:10 +0000</lastBuildDate>
-    <item>
-      <title>党委巡察工作办公室</title>
-      <link>https://www.cup.edu.cn/jiwei/</link>
-      <pubDate>Thu, 13 Nov 2025 11:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 04:32:51 +0000</lastBuildDate>
     <item>
       <title>校属企业管理办公室</title>
       <link>https://www.cup.edu.cn/zcgs/</link>
@@ -106,6 +101,11 @@
       <title>美国塔尔萨大学代表团访问中石大</title>
       <link>http://www.cup.edu.cn/news/sx/60120a274eb84742a01e4bc88a91a566.htm</link>
       <pubDate>Fri, 21 Nov 2025 06:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于润杰公寓综合楼停水的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/b98130fd117647ffbfa7e1ccc36f21d2.htm</link>
+      <pubDate>Sun, 23 Nov 2025 02:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
