@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 09:31:22 +0000</lastBuildDate>
-    <item>
-      <title>【聚焦“十五五”】学院召开人工智能微专业论证会暨“十五五”人才培养专家咨询会</title>
-      <link>https://www.cup.edu.cn/cupai/xw/bb673fa9a84e463d9808b92a7764600b.htm</link>
-      <pubDate>Sat, 08 Nov 2025 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025-2026秋季学期第10周院领导接待安排</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/b12263546eca468c8b913adf22302014.htm</link>
-      <pubDate>Mon, 10 Nov 2025 00:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【三全育人】人工智能学院研究生会承办第三十一期“梦溪青年学术沙龙”</title>
-      <link>https://www.cup.edu.cn/cupai/xw/ed523dec70de4f14ba4ce629aebe8a4c.htm</link>
-      <pubDate>Mon, 10 Nov 2025 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于同意公共教学中心部分教师连排四小节的情况</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/a6bf66696022428caeda59fb4f8419b5.htm</link>
-      <pubDate>Tue, 11 Nov 2025 07:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【交流合作】华为一行来访我院 共探AI赋能油气新路径</title>
-      <link>https://www.cup.edu.cn/cupai/xw/90639aa59b714fb4bd7fc6ee6d973d23.htm</link>
-      <pubDate>Wed, 12 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【聚焦“十五五”】人工智能学院领导赴各系开展调研工作</title>
-      <link>https://www.cup.edu.cn/cupai/xw/b55b13ab0bc846e1a828b3f09396f8f9.htm</link>
-      <pubDate>Thu, 13 Nov 2025 07:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 04:26:23 +0000</lastBuildDate>
     <item>
       <title>【科研动态】人工智能学院牵头项目荣获北京市科学技术进步奖二等奖</title>
       <link>https://www.cup.edu.cn/cupai/xw/6b456bd3d1ce48398e08257535425d80.htm</link>
@@ -69,6 +39,26 @@
 地点：三教101教室
 主讲人：李志杰、王延苏、唐瑛杰</description>
       <pubDate>Tue, 18 Nov 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>融合钻头磨损与预训练机制的机械钻速预测方法研究</title>
+      <link>https://mp.weixin.qq.com/s/PQkGCDVMBgAtX9ekKeRfzQ</link>
+      <pubDate>Thu, 20 Nov 2025 08:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于图检索生成增强的油藏地质问答系统构建</title>
+      <link>https://mp.weixin.qq.com/s/0bdy5fhoBRb7_X9_qqcWSg</link>
+      <pubDate>Thu, 20 Nov 2025 08:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高频脉冲——破乳剂联合破乳机制研究与应用</title>
+      <link>https://mp.weixin.qq.com/s/-8uKKaUwjD4yivI9Dl9iqw</link>
+      <pubDate>Fri, 21 Nov 2025 08:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于电器查询与嵌入表示的非侵入式负荷监测方法</title>
+      <link>https://mp.weixin.qq.com/s/bVECO4Lb6AJIG9cg18JbNA</link>
+      <pubDate>Fri, 21 Nov 2025 08:27:00 +0000</pubDate>
     </item>
     <item>
       <title>党委书记：延婷</title>
@@ -116,6 +106,16 @@
       <title>2025-2026秋季学期第12周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/ae07bb6cd2a74a53a535b037220cf7d4.htm</link>
       <pubDate>Tue, 25 Nov 2025 03:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于深度学习的轻量级心肌梗死检测与病理引导定位</title>
+      <link>https://mp.weixin.qq.com/s/ROrWakIRhHgqcACiFX2anQ</link>
+      <pubDate>Tue, 25 Nov 2025 08:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>学院举办志愿精神宣讲会暨昌平图书馆优秀志愿者表彰大会</title>
+      <link>https://www.cup.edu.cn/cupai/jcdt/a821b82d56384fa0acd8bf4bff70fa7d.htm</link>
+      <pubDate>Wed, 26 Nov 2025 03:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

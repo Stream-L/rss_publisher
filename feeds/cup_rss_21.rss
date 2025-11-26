@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 09:30:37 +0000</lastBuildDate>
-    <item>
-      <title>研究生导师发展中心</title>
-      <link>https://grs.cup.edu.cn/</link>
-      <pubDate>Fri, 14 Nov 2025 03:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人才交流中心</title>
-      <link>https://www.cup.edu.cn/rsc/</link>
-      <pubDate>Fri, 14 Nov 2025 03:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>节能办公室</title>
-      <link>https://www.cup.edu.cn/EEO/</link>
-      <pubDate>Fri, 14 Nov 2025 03:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 04:25:43 +0000</lastBuildDate>
     <item>
       <title>中石大为2025级困难新生发放防寒服</title>
       <link>http://www.cup.edu.cn/news/sx/2ccb8fdc8c154a1a9a6af6146f2df150.htm</link>
@@ -98,6 +83,11 @@
       <pubDate>Sun, 23 Nov 2025 09:39:32 +0000</pubDate>
     </item>
     <item>
+      <title>国际古地理学会第一届第四次理事会在中石大召开</title>
+      <link>http://www.cup.edu.cn/news/sx/9c31666de6ac46c9b42470477788ced3.htm</link>
+      <pubDate>Mon, 24 Nov 2025 13:18:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大参加第十七届王涛英才奖学金颁奖典礼和王涛英才奖学金管理委员会会议</title>
       <link>http://www.cup.edu.cn/news/sx/49b8034bbd344521bf6f7061469d8c60.htm</link>
       <pubDate>Tue, 25 Nov 2025 00:24:25 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>中石大举办“立强国报国大志向，做挺膺担当奋斗者‘9·3’纪念活动”示范宣讲活动</title>
       <link>http://www.cup.edu.cn/news/sx/4695b9e54832409cbfabbae72f386d2a.htm</link>
       <pubDate>Tue, 25 Nov 2025 00:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导参加未来科学城能源谷高质量发展大会暨2025能源转型大会</title>
+      <link>http://www.cup.edu.cn/news/sx/e80224940fb646cb8c4986cacd83dba7.htm</link>
+      <pubDate>Tue, 25 Nov 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大参与主办2025能源转型大会储能技术产教融合创新发展专题会</title>
+      <link>http://www.cup.edu.cn/news/sx/e772fb9f1bfc48aba1b120437f2d7805.htm</link>
+      <pubDate>Tue, 25 Nov 2025 09:07:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
