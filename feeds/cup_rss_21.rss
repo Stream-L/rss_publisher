@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 09:27:45 +0000</lastBuildDate>
-    <item>
-      <title>“相聚石大・智汇浙里”科技成果对接会在中石大举办</title>
-      <link>http://www.cup.edu.cn/news/sx/5c8e5bf1b29f4c5f91a0b673e8ef6d8b.htm</link>
-      <pubDate>Tue, 18 Nov 2025 14:51:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>美国塔尔萨大学代表团访问中石大</title>
-      <link>http://www.cup.edu.cn/news/sx/60120a274eb84742a01e4bc88a91a566.htm</link>
-      <pubDate>Fri, 21 Nov 2025 06:37:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开第三十次学生代表大会暨第九次研究生代表大会</title>
-      <link>http://www.cup.edu.cn/news/sx/a0cad5f0bce04682b9469d8e1ef7a4c7.htm</link>
-      <pubDate>Fri, 21 Nov 2025 09:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 04:23:00 +0000</lastBuildDate>
     <item>
       <title>关于润杰公寓综合楼停水的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/b98130fd117647ffbfa7e1ccc36f21d2.htm</link>
@@ -106,6 +91,21 @@
       <title>关于开展“我爱学宪法”优秀AI作品征集活动的通知</title>
       <link>https://xgc.cup.edu.cn/Website/Home/Detail?B0E586E7C4457C9D699C96A30DE713196ED1D4785952EAEE89A840ACD13BF80D.shtml</link>
       <pubDate>Fri, 28 Nov 2025 01:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于图书馆南侧道路封闭的通知</title>
+      <link>https://www.cup.edu.cn/jjc/tzgg/5f785ed1823e43f2b45164b430e878bd.htm</link>
+      <pubDate>Fri, 28 Nov 2025 04:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于在汇才公寓开展消防疏散演练的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/3c3df7b744bc49119d9b013c8e30415d.htm</link>
+      <pubDate>Fri, 28 Nov 2025 07:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学思政月-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Fri, 28 Nov 2025 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
