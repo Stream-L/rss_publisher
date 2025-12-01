@@ -6,35 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 09:25:19 +0000</lastBuildDate>
-    <item>
-      <title>【聚焦“十五五”】学院召开“十四五”规划总结和“十五五”规划编制工作动员部署会</title>
-      <link>https://www.cup.edu.cn/cupai/xw/790c95784afb4755ad6b5187213a942a.htm</link>
-      <pubDate>Fri, 14 Nov 2025 04:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025-2026秋季学期第10周院领导接待安排</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/8a7c4ef24241433da8581c77b3e9fc13.htm</link>
-      <pubDate>Fri, 14 Nov 2025 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院关于公示2024-2025学年优秀学生干部、优秀研究生名单的通知</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/2ca9a4d8af404918bed0cb104cf3754f.htm</link>
-      <pubDate>Tue, 18 Nov 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油大学（北京）人工智能学院2026年博士研究生报考通知（第一批次）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/cc5b8f983be94aa18323220e47693fb4.htm</link>
-      <pubDate>Tue, 18 Nov 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Processes &amp; Standards期刊 MDPI 作者培训会</title>
-      <link>https://www.cup.edu.cn/cupai/xsbg/e900379b86bd4e97aeec2dfd23bc0e0d.htm</link>
-      <description>时间：2025年11月19日14:00-16:00
-地点：三教101教室
-主讲人：李志杰、王延苏、唐瑛杰</description>
-      <pubDate>Tue, 18 Nov 2025 14:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 04:50:36 +0000</lastBuildDate>
     <item>
       <title>融合钻头磨损与预训练机制的机械钻速预测方法研究</title>
       <link>https://mp.weixin.qq.com/s/PQkGCDVMBgAtX9ekKeRfzQ</link>
@@ -113,9 +85,34 @@
       <pubDate>Wed, 26 Nov 2025 03:10:00 +0000</pubDate>
     </item>
     <item>
+      <title>面向成岩相识别的可解释强化图对比聚类模型</title>
+      <link>https://mp.weixin.qq.com/s/qhxOVfCizF6tT4vNPuMgTg</link>
+      <pubDate>Fri, 28 Nov 2025 02:11:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2025-2026秋季学期第13周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/1a0ccb363146408c986e197c62720bf9.htm</link>
       <pubDate>Fri, 28 Nov 2025 08:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人群疏散中有序-无序相变的控制策略研究</title>
+      <link>https://mp.weixin.qq.com/s/a8TxakjaCtn8ZrT4_dBZKw</link>
+      <pubDate>Sat, 29 Nov 2025 02:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>动态环境中自重构模块化机器人的地形感知形态搜索算法</title>
+      <link>https://mp.weixin.qq.com/s/Sh8tbjp3UKpNoy1339RjNQ</link>
+      <pubDate>Sat, 29 Nov 2025 02:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>不确定二阶非线性系统的变指数滑模面自适应非奇异终端滑模控制</title>
+      <link>https://mp.weixin.qq.com/s/JFGTpJh9Vt9rQF1C6ERqwA</link>
+      <pubDate>Sun, 30 Nov 2025 02:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于行为传染动力学的人群疏散建模与仿真</title>
+      <link>https://mp.weixin.qq.com/s/oTYwtZYvLgLVPhScYpOMog</link>
+      <pubDate>Sun, 30 Nov 2025 02:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
