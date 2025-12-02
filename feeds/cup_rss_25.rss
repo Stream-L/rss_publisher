@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 09:36:10 +0000</lastBuildDate>
-    <item>
-      <title>蔡丽丹</title>
-      <link>http://www.cup.edu.cn/sba/xygkgb/ldtd/c11d348ea1f343c4af066a3f227ffb9c.htm</link>
-      <pubDate>Wed, 22 Oct 2025 06:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 04:30:37 +0000</lastBuildDate>
     <item>
       <title>经济管理学院关于公示2025年研究生学业奖学金和新生国家助学金名单的通知</title>
       <link>http://www.cup.edu.cn/sba/tzgg/c49bd2afd5294f12b02bea255cd4d1bc.htm</link>
@@ -106,6 +101,11 @@
       <title>学院举办工商管理学科“十五五”发展规划研讨会</title>
       <link>http://www.cup.edu.cn/sba/xyxw/e8ef49a96d6c423fbbf4188d8e0cb4d2.htm</link>
       <pubDate>Fri, 28 Nov 2025 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我院主办“绿色燃料与甲烷减排”研讨会</title>
+      <link>http://www.cup.edu.cn/sba/xyxw/07131cef634b48deb3071426914911ef.htm</link>
+      <pubDate>Mon, 01 Dec 2025 07:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
