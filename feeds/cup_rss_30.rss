@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 09:34:04 +0000</lastBuildDate>
-    <item>
-      <title>融合钻头磨损与预训练机制的机械钻速预测方法研究</title>
-      <link>https://mp.weixin.qq.com/s/PQkGCDVMBgAtX9ekKeRfzQ</link>
-      <pubDate>Thu, 20 Nov 2025 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于图检索生成增强的油藏地质问答系统构建</title>
-      <link>https://mp.weixin.qq.com/s/0bdy5fhoBRb7_X9_qqcWSg</link>
-      <pubDate>Thu, 20 Nov 2025 08:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高频脉冲——破乳剂联合破乳机制研究与应用</title>
-      <link>https://mp.weixin.qq.com/s/-8uKKaUwjD4yivI9Dl9iqw</link>
-      <pubDate>Fri, 21 Nov 2025 08:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 04:29:21 +0000</lastBuildDate>
     <item>
       <title>基于电器查询与嵌入表示的非侵入式负荷监测方法</title>
       <link>https://mp.weixin.qq.com/s/bVECO4Lb6AJIG9cg18JbNA</link>
@@ -85,6 +70,11 @@
       <pubDate>Wed, 26 Nov 2025 03:10:00 +0000</pubDate>
     </item>
     <item>
+      <title>人工智能学院第三届“智行杯”智能控制电车大赛报名通知</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/15383e5952274b47bc37d0901e56f717.htm</link>
+      <pubDate>Thu, 27 Nov 2025 00:26:00 +0000</pubDate>
+    </item>
+    <item>
       <title>面向成岩相识别的可解释强化图对比聚类模型</title>
       <link>https://mp.weixin.qq.com/s/qhxOVfCizF6tT4vNPuMgTg</link>
       <pubDate>Fri, 28 Nov 2025 02:11:00 +0000</pubDate>
@@ -113,6 +103,16 @@
       <title>基于行为传染动力学的人群疏散建模与仿真</title>
       <link>https://mp.weixin.qq.com/s/oTYwtZYvLgLVPhScYpOMog</link>
       <pubDate>Sun, 30 Nov 2025 02:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>可视化增强的火电机组控制策略交互探索分析</title>
+      <link>https://mp.weixin.qq.com/s/VHgNuK1pHrKj9tzVvOZ-vw</link>
+      <pubDate>Tue, 02 Dec 2025 07:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于代理模型的锅炉燃烧优化不确定性可视分析</title>
+      <link>https://mp.weixin.qq.com/s/ja3EgmETJW9BIJU7651lwA</link>
+      <pubDate>Tue, 02 Dec 2025 07:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
