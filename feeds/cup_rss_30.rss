@@ -6,30 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 09:32:56 +0000</lastBuildDate>
-    <item>
-      <title>基于电器查询与嵌入表示的非侵入式负荷监测方法</title>
-      <link>https://mp.weixin.qq.com/s/bVECO4Lb6AJIG9cg18JbNA</link>
-      <pubDate>Fri, 21 Nov 2025 08:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>党委书记：延婷</title>
-      <link>https://www.cup.edu.cn/cupai/xygk/xrld/54fad2585c0142c4b219fbe99288e86e.htm</link>
-      <description>主持学院党委全面工作，负责党建和思想政治工作、宣传、统战、安全稳定、校友、资产工作。联系计算机科学与技术系和院办。</description>
-      <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>副院长：黄霁崴</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/1b593852dc6d499fb4c98accc85a9ac0.htm</link>
-      <description>分管研究生教育教学，协管学科建设工作。联系智能科学与技术系。</description>
-      <pubDate>Mon, 24 Nov 2025 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>院长、党委副书记：林伯韬</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/d4912a382dde45248e205c04b11bffb4.htm</link>
-      <description>主持学院行政全面工作，负责发展规划、学科建设、人事、财务、国际交流合作工作。联系自动化系。</description>
-      <pubDate>Mon, 24 Nov 2025 10:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 04:31:19 +0000</lastBuildDate>
     <item>
       <title>副院长：高小永</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/dde49f7b3222468bb1538165088f7535.htm</link>
@@ -105,6 +82,11 @@
       <pubDate>Sun, 30 Nov 2025 02:06:00 +0000</pubDate>
     </item>
     <item>
+      <title>【三全育人】喜报！人工智能学院学生获北京市优秀模拟政协提案作品</title>
+      <link>https://www.cup.edu.cn/cupai/xw/68393b8d8046405988fe2f90c582ca22.htm</link>
+      <pubDate>Mon, 01 Dec 2025 01:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>可视化增强的火电机组控制策略交互探索分析</title>
       <link>https://mp.weixin.qq.com/s/VHgNuK1pHrKj9tzVvOZ-vw</link>
       <pubDate>Tue, 02 Dec 2025 07:31:00 +0000</pubDate>
@@ -113,6 +95,21 @@
       <title>基于代理模型的锅炉燃烧优化不确定性可视分析</title>
       <link>https://mp.weixin.qq.com/s/ja3EgmETJW9BIJU7651lwA</link>
       <pubDate>Tue, 02 Dec 2025 07:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【交流合作】中海石油（中国）有限公司海南分公司向中国石油大学（北京）发来感谢信</title>
+      <link>https://www.cup.edu.cn/news/sx/2be799abad994f71927e3916f0308edc.htm</link>
+      <pubDate>Wed, 03 Dec 2025 12:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【聚焦“十五五”】学院举办教材建设专题研讨会聚力新时代高质量教材体系建设</title>
+      <link>https://www.cup.edu.cn/cupai/xw/66411be8024c4158b33f8585c94a5769.htm</link>
+      <pubDate>Thu, 04 Dec 2025 01:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向边缘智能的交错式算子划分协同推理加速策略</title>
+      <link>https://mp.weixin.qq.com/s/phJPWu_c7o7KAVbset-Twg</link>
+      <pubDate>Thu, 04 Dec 2025 02:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

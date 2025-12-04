@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）化工学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 09:33:12 +0000</lastBuildDate>
-    <item>
-      <title>第六届"化成天下"工作室成立大会召开</title>
-      <link>http://www.cup.edu.cn/chem/stu/xwkd/ed5f91de77e14eda97a02c3e27ddcf96.htm</link>
-      <pubDate>Tue, 28 Oct 2025 07:13:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 04:31:34 +0000</lastBuildDate>
     <item>
       <title>意大利帕多瓦大学化学系分析纳米化学副教授Fazel Abdolahpur Monikh做客中石大海风讲坛</title>
       <link>http://www.cup.edu.cn/chem/xyxw/7fea37cb2cf34cde99b9c8169bb4e236.htm</link>
@@ -106,6 +101,11 @@
       <title>重大火灾隐患判定规则（GB 35181—2025）</title>
       <link>/publish/chem/docs/2025-12/2025-11/f8e66e1b55aa4c809bb538e63fd68959.pdf</link>
       <pubDate>Sun, 30 Nov 2025 11:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于拟接受张润霞等4人为中共正式党员的公示</title>
+      <link>http://www.cup.edu.cn/chem/dqgz/dyfz/8667f0c970a6451bb4defc7ddbe6d59b.htm</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
