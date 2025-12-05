@@ -6,19 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 09:33:19 +0000</lastBuildDate>
-    <item>
-      <title>副院长：高小永</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/dde49f7b3222468bb1538165088f7535.htm</link>
-      <description>分管科研工作，协管对外合作工作。联系电子信息工程系。</description>
-      <pubDate>Mon, 24 Nov 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>党委副书记：肖亚楠</title>
-      <link>https://www.cup.edu.cn/cupai/xygk/xrld/d8bac1b3e4cf473eb026d6c76e39b4a4.htm</link>
-      <description>分管学生党建和思政工作、双创、工会工作，协管校友工作。联系学生工作办公室。</description>
-      <pubDate>Mon, 24 Nov 2025 11:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 04:29:44 +0000</lastBuildDate>
     <item>
       <title>副院长：朱丹丹</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm</link>
@@ -110,6 +98,16 @@
       <title>面向边缘智能的交错式算子划分协同推理加速策略</title>
       <link>https://mp.weixin.qq.com/s/phJPWu_c7o7KAVbset-Twg</link>
       <pubDate>Thu, 04 Dec 2025 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>G-SpNN：用于S参数建模的 GPU 加速无源性强制神经网络</title>
+      <link>https://mp.weixin.qq.com/s/lscBxDUziuaZz-WhN6O5fw</link>
+      <pubDate>Fri, 05 Dec 2025 03:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LaRED：布局保留式RED架构的高效电压降预测器</title>
+      <link>https://mp.weixin.qq.com/s/TPnyJJpQqV_yzPK9voPQVQ</link>
+      <pubDate>Fri, 05 Dec 2025 03:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
