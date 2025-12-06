@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 09:29:56 +0000</lastBuildDate>
-    <item>
-      <title>理学院2024-2025学年本科生社会赞助专项奖学金评选结果公示</title>
-      <link>https://www.cup.edu.cn/science//xsgz/ztjy/30115494cc8344dba20cfedb4c1e0d6e.htm</link>
-      <pubDate>Fri, 31 Oct 2025 08:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 04:23:12 +0000</lastBuildDate>
     <item>
       <title>2024-2025学年研究生企业奖学金和学习优秀奖学金评选工作结果公示</title>
       <link>https://www.cup.edu.cn/science//xsgz/xsgzjzd/234f4bf456f344b29323526240c106af.htm</link>
@@ -106,6 +101,11 @@
       <title>关于拟同意庞惠文同志转为中共正式党员的公示</title>
       <link>https://www.cup.edu.cn/science//dwgz/bfd492819290429383569135966fa33d.htm</link>
       <pubDate>Mon, 01 Dec 2025 00:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院2025年11月志愿时长公示</title>
+      <link>https://www.cup.edu.cn/science//xsgz/xkjs/dc57e900e3724d02b12f5a48b676be65.htm</link>
+      <pubDate>Fri, 05 Dec 2025 07:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
