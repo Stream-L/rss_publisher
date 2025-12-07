@@ -6,13 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 09:26:11 +0000</lastBuildDate>
-    <item>
-      <title>副院长：朱丹丹</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/856a0903b2ea4e78a1e6001ba846b9d3.htm</link>
-      <description>分管本科教育教学、教学实验室、数智化建设工作。联系公共教学中心和实验中心。</description>
-      <pubDate>Mon, 24 Nov 2025 11:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Dec 2025 04:33:16 +0000</lastBuildDate>
     <item>
       <title>副院长：黄霁崴</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/1b593852dc6d499fb4c98accc85a9ac0.htm</link>
@@ -98,6 +92,11 @@
       <title>面向边缘智能的交错式算子划分协同推理加速策略</title>
       <link>https://mp.weixin.qq.com/s/phJPWu_c7o7KAVbset-Twg</link>
       <pubDate>Thu, 04 Dec 2025 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【教学园地】中石大人工智能通识课全面开课</title>
+      <link>https://www.cup.edu.cn/cupai/xw/832874062e2b484ea089f73caf65743c.htm</link>
+      <pubDate>Thu, 04 Dec 2025 11:33:00 +0000</pubDate>
     </item>
     <item>
       <title>G-SpNN：用于S参数建模的 GPU 加速无源性强制神经网络</title>
