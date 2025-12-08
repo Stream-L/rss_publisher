@@ -6,23 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 09:25:38 +0000</lastBuildDate>
-    <item>
-      <title>副院长：黄霁崴</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/1b593852dc6d499fb4c98accc85a9ac0.htm</link>
-      <description>分管研究生教育教学，协管学科建设工作。联系智能科学与技术系。</description>
-      <pubDate>Mon, 24 Nov 2025 11:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025-2026秋季学期第12周院领导接待安排</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/ae07bb6cd2a74a53a535b037220cf7d4.htm</link>
-      <pubDate>Tue, 25 Nov 2025 03:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于深度学习的轻量级心肌梗死检测与病理引导定位</title>
-      <link>https://mp.weixin.qq.com/s/ROrWakIRhHgqcACiFX2anQ</link>
-      <pubDate>Tue, 25 Nov 2025 08:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 04:34:41 +0000</lastBuildDate>
     <item>
       <title>学院举办志愿精神宣讲会暨昌平图书馆优秀志愿者表彰大会</title>
       <link>https://www.cup.edu.cn/cupai/jcdt/a821b82d56384fa0acd8bf4bff70fa7d.htm</link>
@@ -94,6 +78,11 @@
       <pubDate>Thu, 04 Dec 2025 02:42:00 +0000</pubDate>
     </item>
     <item>
+      <title>人工智能学院2024-2025学年先进个人评定公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/fc7111a365e848b0b971f78285426607.htm</link>
+      <pubDate>Thu, 04 Dec 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【教学园地】中石大人工智能通识课全面开课</title>
       <link>https://www.cup.edu.cn/cupai/xw/832874062e2b484ea089f73caf65743c.htm</link>
       <pubDate>Thu, 04 Dec 2025 11:33:00 +0000</pubDate>
@@ -107,6 +96,16 @@
       <title>LaRED：布局保留式RED架构的高效电压降预测器</title>
       <link>https://mp.weixin.qq.com/s/TPnyJJpQqV_yzPK9voPQVQ</link>
       <pubDate>Fri, 05 Dec 2025 03:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院2025-2026（秋）学期第14周院领导接待日安排</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/f474c9fe07bd43eb8d79d624a945f7b7.htm</link>
+      <pubDate>Mon, 08 Dec 2025 00:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MemSens：通过新型有界误差有损压缩显著降低伴随灵敏度分析的内存开销</title>
+      <link>https://mp.weixin.qq.com/s/BCA_zxBzseNe0lpxTHjofQ</link>
+      <pubDate>Mon, 08 Dec 2025 00:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
