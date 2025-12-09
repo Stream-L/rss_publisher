@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 09:36:37 +0000</lastBuildDate>
-    <item>
-      <title>学院举办志愿精神宣讲会暨昌平图书馆优秀志愿者表彰大会</title>
-      <link>https://www.cup.edu.cn/cupai/jcdt/a821b82d56384fa0acd8bf4bff70fa7d.htm</link>
-      <pubDate>Wed, 26 Nov 2025 03:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 04:29:27 +0000</lastBuildDate>
     <item>
       <title>人工智能学院第三届“智行杯”智能控制电车大赛报名通知</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/15383e5952274b47bc37d0901e56f717.htm</link>
@@ -106,6 +101,11 @@
       <title>MemSens：通过新型有界误差有损压缩显著降低伴随灵敏度分析的内存开销</title>
       <link>https://mp.weixin.qq.com/s/BCA_zxBzseNe0lpxTHjofQ</link>
       <pubDate>Mon, 08 Dec 2025 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于多阶段博弈模型的工业控制网络高级持续性威胁入侵检测方法</title>
+      <link>https://mp.weixin.qq.com/s/2Ws85s2KdTHG-5_-gJdqOg</link>
+      <pubDate>Tue, 09 Dec 2025 00:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
