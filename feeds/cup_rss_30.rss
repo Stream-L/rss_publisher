@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 09:38:54 +0000</lastBuildDate>
-    <item>
-      <title>面向成岩相识别的可解释强化图对比聚类模型</title>
-      <link>https://mp.weixin.qq.com/s/qhxOVfCizF6tT4vNPuMgTg</link>
-      <pubDate>Fri, 28 Nov 2025 02:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025-2026秋季学期第13周院领导接待安排</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/1a0ccb363146408c986e197c62720bf9.htm</link>
-      <pubDate>Fri, 28 Nov 2025 08:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 04:35:47 +0000</lastBuildDate>
     <item>
       <title>人群疏散中有序-无序相变的控制策略研究</title>
       <link>https://mp.weixin.qq.com/s/a8TxakjaCtn8ZrT4_dBZKw</link>
@@ -106,6 +96,16 @@
       <title>用于跨域故障诊断的因果启发多尺度去混淆网络</title>
       <link>https://mp.weixin.qq.com/s/8Sdmp-sMmUR3XHqSwuLnFw</link>
       <pubDate>Wed, 10 Dec 2025 00:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>电驱测井绞车电缆张力的改进无模型自适应预测控制</title>
+      <link>https://mp.weixin.qq.com/s/mrXoNwOltcK5m_xfP7dOVA</link>
+      <pubDate>Thu, 11 Dec 2025 00:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于自适应观测器的控压钻井气侵早期检测方法</title>
+      <link>https://mp.weixin.qq.com/s/uHj9ntq7HAQhupRGBPXzQA</link>
+      <pubDate>Thu, 11 Dec 2025 00:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
