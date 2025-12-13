@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 09:30:33 +0000</lastBuildDate>
-    <item>
-      <title>2025年天津市科学技术进步奖公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/f21bb499adc8498fa916da4b941e1318.htm</link>
-      <pubDate>Wed, 10 Sep 2025 10:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国家重点研发计划颠覆性技术创新重点专项能源低碳联合项目2025年度煤炭清洁高效利用领域项目申报指引</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/b964f3e134514a9e92035aa9bed45678.htm</link>
-      <pubDate>Fri, 12 Sep 2025 01:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 04:24:37 +0000</lastBuildDate>
     <item>
       <title>国家重点研发计划颠覆性技术创新重点专项2025年度项目申报指引</title>
       <link>http://www.cup.edu.cn/kjc/notice/xml/ce46fcd8c86449a4a69eff66de7ed45a.htm</link>
@@ -106,6 +96,16 @@
       <title>关于我校与沈阳师范大学共同参与申报2025年度辽宁省科学技术奖项目材料的公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/4d9968c1a1b84a27b51cb174b88fb718.htm</link>
       <pubDate>Thu, 04 Dec 2025 10:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度辽宁省科技进步奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/25df270f942343928d33ca9693a143f0.htm</link>
+      <pubDate>Fri, 12 Dec 2025 07:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度广东省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/a3454fe69bb748d1bd1b196098a61239.htm</link>
+      <pubDate>Fri, 12 Dec 2025 10:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
