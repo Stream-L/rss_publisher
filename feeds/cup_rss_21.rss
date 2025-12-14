@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 09:26:53 +0000</lastBuildDate>
-    <item>
-      <title>中石大学子在第七届“诗教中国”诗词讲解大赛中再创佳绩</title>
-      <link>http://www.cup.edu.cn/news/sx/3351d2fa332c48258bbf45f9adae93ae.htm</link>
-      <pubDate>Fri, 05 Dec 2025 14:36:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 04:36:23 +0000</lastBuildDate>
     <item>
       <title>中石大获评2023-2024年公共机构能效领跑者</title>
       <link>http://www.cup.edu.cn/news/sx/ecfd1eae39414fa08915f47b0b91ff62.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大第17届“共创多彩”大学生艺术节综艺晚会及管弦音乐会举行</title>
       <link>http://www.cup.edu.cn/news/sx/26258691cf3c41a68651df17c4b1107f.htm</link>
       <pubDate>Fri, 12 Dec 2025 06:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>共赴中石大初雪-轮播图</title>
+      <link>https://mp.weixin.qq.com/s/SY8EF0qShUsMqOU0hBwPDw</link>
+      <pubDate>Sat, 13 Dec 2025 14:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
