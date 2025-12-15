@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 09:27:21 +0000</lastBuildDate>
-    <item>
-      <title>【三全育人】喜报！人工智能学院学生获北京市优秀模拟政协提案作品</title>
-      <link>https://www.cup.edu.cn/cupai/xw/68393b8d8046405988fe2f90c582ca22.htm</link>
-      <pubDate>Mon, 01 Dec 2025 01:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>可视化增强的火电机组控制策略交互探索分析</title>
-      <link>https://mp.weixin.qq.com/s/VHgNuK1pHrKj9tzVvOZ-vw</link>
-      <pubDate>Tue, 02 Dec 2025 07:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 04:41:06 +0000</lastBuildDate>
     <item>
       <title>基于代理模型的锅炉燃烧优化不确定性可视分析</title>
       <link>https://mp.weixin.qq.com/s/ja3EgmETJW9BIJU7651lwA</link>
@@ -101,6 +91,16 @@
       <title>一种面向智能导钻算法训练过程的生成式地质建模方法</title>
       <link>https://mp.weixin.qq.com/s/ZX2RgN6qsyZo7rOnPZpaKA</link>
       <pubDate>Fri, 12 Dec 2025 00:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于滑动窗口奇异值和自回归Transformer的动态过程早期故障检测</title>
+      <link>https://mp.weixin.qq.com/s/38EbGf0jluIxLI9rNFa8zA</link>
+      <pubDate>Sat, 13 Dec 2025 00:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于双模态WGAN-VAE的非平稳动态过程故障检测</title>
+      <link>https://mp.weixin.qq.com/s/6vLv41SmtbylMxf_KXs6zg</link>
+      <pubDate>Sat, 13 Dec 2025 00:49:00 +0000</pubDate>
     </item>
     <item>
       <title>【科研动态】中石大人工智能学院主办第十六届创新发展论坛暨2025年第五届电气工程与控制科学国际学术会议</title>
