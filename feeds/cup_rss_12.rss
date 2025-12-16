@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 09:38:41 +0000</lastBuildDate>
-    <item>
-      <title>关于中油大厦及第三教学楼之间道路临时封路的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/c9932cc6263a43a59460e019e6f5f588.htm</link>
-      <pubDate>Fri, 18 Jul 2025 06:47:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 04:34:40 +0000</lastBuildDate>
     <item>
       <title>关于学生活动中心及青年园公寓1号楼之间路段临时封路的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/15550ef27788484db7a09f2772cacbf1.htm</link>
@@ -106,6 +101,11 @@
       <title>关于中油大厦停水的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/1fd7c831d8d747d2bd794c4f7a0a6004.htm</link>
       <pubDate>Tue, 02 Dec 2025 07:56:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于化工楼A、B、C座停水的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/02a4b5f9899845b9b743bb5bd40e9c9b.htm</link>
+      <pubDate>Mon, 15 Dec 2025 08:56:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
