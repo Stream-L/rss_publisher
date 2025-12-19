@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 09:34:53 +0000</lastBuildDate>
-    <item>
-      <title>【教学园地】中石大人工智能通识课全面开课</title>
-      <link>https://www.cup.edu.cn/cupai/xw/832874062e2b484ea089f73caf65743c.htm</link>
-      <pubDate>Thu, 04 Dec 2025 11:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>G-SpNN：用于S参数建模的 GPU 加速无源性强制神经网络</title>
-      <link>https://mp.weixin.qq.com/s/lscBxDUziuaZz-WhN6O5fw</link>
-      <pubDate>Fri, 05 Dec 2025 03:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 04:34:35 +0000</lastBuildDate>
     <item>
       <title>LaRED：布局保留式RED架构的高效电压降预测器</title>
       <link>https://mp.weixin.qq.com/s/TPnyJJpQqV_yzPK9voPQVQ</link>
@@ -83,6 +73,11 @@
       <pubDate>Sat, 13 Dec 2025 10:42:00 +0000</pubDate>
     </item>
     <item>
+      <title>2025-2026秋季学期第15周院领导接待安排</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/a26be88e377e4cc58f89eef3d0dec627.htm</link>
+      <pubDate>Sun, 14 Dec 2025 07:08:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中国石油大学（北京）人工智能学院2025年本研一体化培育工作方案</title>
       <link>https://www.cup.edu.cn/cupai/bkspy/bzrxyds/4d180e9ba6b3444a9b1e5545e4901984.blk.htm</link>
       <pubDate>Tue, 16 Dec 2025 08:15:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>无人机移动边缘计算系统中的联合轨迹优化与资源分配：一种李雅普诺夫辅助的深度强化学习方法</title>
       <link>https://mp.weixin.qq.com/s/NHNzQzTxPn0gSkKGJSXXQA</link>
       <pubDate>Thu, 18 Dec 2025 00:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于SPH方法的原油管道蜡沉积流固耦合模拟</title>
+      <link>https://mp.weixin.qq.com/s/XJdhGhDwgiJnO2OGCXb_mg</link>
+      <pubDate>Fri, 19 Dec 2025 00:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
