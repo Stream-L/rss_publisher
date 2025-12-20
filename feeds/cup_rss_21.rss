@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 09:31:18 +0000</lastBuildDate>
-    <item>
-      <title>VPN</title>
-      <link>http://www.cup.edu.cn/dbdhl/bd631441409a41f4876ed91f6fd31397.htm</link>
-      <pubDate>Wed, 17 Dec 2025 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>后勤报修平台</title>
-      <link>http://www.cup.edu.cn/dbdhl/0f677ef2a71d4c42809b289ad91b69b9.htm</link>
-      <pubDate>Wed, 17 Dec 2025 08:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 04:25:56 +0000</lastBuildDate>
     <item>
       <title>智慧教室云平台</title>
       <link>http://www.cup.edu.cn/dbdhl/3ed8e821872742169a31ee9ad5f979cb.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大教师在北京市思政课教学基本功比赛中获一等奖</title>
       <link>http://www.cup.edu.cn/news/sx/f174adf085014a4f957cc66abd92ad8e.htm</link>
       <pubDate>Thu, 18 Dec 2025 12:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教职工合唱团获2025年“歌唱北京”首都市民合唱周比赛金奖</title>
+      <link>http://www.cup.edu.cn/news/sx/9a964929629a424cb7d411efd405be68.htm</link>
+      <pubDate>Fri, 19 Dec 2025 15:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大毕业生陈可营荣获北京市“基层就业卓越奖”</title>
+      <link>http://www.cup.edu.cn/news/sx/decb0eb43cda4a71984d666ce0845b18.htm</link>
+      <pubDate>Fri, 19 Dec 2025 15:25:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
