@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 09:27:13 +0000</lastBuildDate>
-    <item>
-      <title>智慧教室云平台</title>
-      <link>http://www.cup.edu.cn/dbdhl/3ed8e821872742169a31ee9ad5f979cb.htm</link>
-      <pubDate>Wed, 17 Dec 2025 08:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>正版化软件</title>
-      <link>http://www.cup.edu.cn/dbdhl/4489837829a24f52ad60a14022a22d6b.htm</link>
-      <pubDate>Wed, 17 Dec 2025 09:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>e诉通</title>
-      <link>http://www.cup.edu.cn/dbdhl/ce0ab7e22d8849c0803ef3d362f98668.htm</link>
-      <pubDate>Wed, 17 Dec 2025 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>招标询价公告</title>
-      <link>http://www.cup.edu.cn/dbdhl/e51e5da3841e48a9915d6e1ea859f8c0.htm</link>
-      <pubDate>Wed, 17 Dec 2025 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校内办公</title>
-      <link>http://www.cup.edu.cn/dbdhl/1a41015b8eea4150bc2a70c07e968510.htm</link>
-      <pubDate>Wed, 17 Dec 2025 09:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CUPers学堂</title>
-      <link>http://www.cup.edu.cn/dbdhl/2a848b576e30423b9d9ddad07df66f17.htm</link>
-      <pubDate>Wed, 17 Dec 2025 09:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 04:39:43 +0000</lastBuildDate>
     <item>
       <title>校园卡</title>
       <link>http://www.cup.edu.cn/dbdhl/ed5e356f68d34698915f4877556af210.htm</link>
@@ -106,6 +76,36 @@
       <title>中石大毕业生陈可营荣获北京市“基层就业卓越奖”</title>
       <link>http://www.cup.edu.cn/news/sx/decb0eb43cda4a71984d666ce0845b18.htm</link>
       <pubDate>Fri, 19 Dec 2025 15:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>【我们的这五年】硬核体育，活力育人！</title>
+      <link>http://www.cup.edu.cn/news/sx/5af6d1910ad44d499b955785309a9a2c.htm</link>
+      <pubDate>Sat, 20 Dec 2025 03:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导赴海口、湛江等地走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/7e79a99c0d554dd5b27f2aa89c640f20.htm</link>
+      <pubDate>Sun, 21 Dec 2025 07:51:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大重质油全国重点实验室第六届学术委员会第五次会议在京召开</title>
+      <link>http://www.cup.edu.cn/news/sx/f80113559cdf4b649c9d27ec32e1b39e.htm</link>
+      <pubDate>Sun, 21 Dec 2025 07:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大重质油全国重点实验室参加中国石油广西石化公司科技创新中心揭牌仪式</title>
+      <link>http://www.cup.edu.cn/news/sx/e9a628ade5b04beb922ced66199336fa.htm</link>
+      <pubDate>Sun, 21 Dec 2025 07:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大舆论宣传工作获教育部表彰</title>
+      <link>http://www.cup.edu.cn/news/sx/7fea061bab8d40d69cfa8abc3e17ec83.htm</link>
+      <pubDate>Sun, 21 Dec 2025 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“十四五”-硬核体育、活力育人-轮播图</title>
+      <link>https://mp.weixin.qq.com/s/CeEf7AdFxhvn-2F_g3ANNw</link>
+      <pubDate>Mon, 22 Dec 2025 00:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
