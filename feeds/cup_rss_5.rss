@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）机关党委 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 09:31:21 +0000</lastBuildDate>
-    <item>
-      <title>关于拟接收黄山为中共预备党员的公示</title>
-      <link>http://www.cup.edu.cn/jiguan/info/31e55c9ef27746ee94e55637557b0073.htm</link>
-      <pubDate>Fri, 11 Jun 2021 09:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 04:34:27 +0000</lastBuildDate>
     <item>
       <title>关于拟接收韩冰为中共预备党员的公示</title>
       <link>http://www.cup.edu.cn/jiguan/info/83d265924b404f2ea3bdcdd4c176ffde.htm</link>
@@ -106,6 +101,11 @@
       <title>关于拟同意刘家懿同志转为中共正式党员的公示</title>
       <link>http://www.cup.edu.cn/jiguan/tzgg/39a544ea1b764856812f387f0a43998b.htm</link>
       <pubDate>Thu, 11 Dec 2025 02:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办冬季趣味运动会</title>
+      <link>https://www.cup.edu.cn/news/sx/83cb1b78bd8441d88dae962f3f8eb9a1.htm</link>
+      <pubDate>Tue, 23 Dec 2025 01:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

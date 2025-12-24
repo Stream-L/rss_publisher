@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 09:31:31 +0000</lastBuildDate>
-    <item>
-      <title>国家重点研发计划颠覆性技术创新重点专项2025年度人工智能驱动的科学研究领域项目申报指引</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/1a146c0e404d4c59b1b12754e3df8b6e.htm</link>
-      <pubDate>Mon, 15 Sep 2025 01:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 04:34:36 +0000</lastBuildDate>
     <item>
       <title>国家重点研发计划颠覆性技术创新重点专项2025年度脑机系统领域项目申报指引</title>
       <link>http://www.cup.edu.cn/kjc/notice/xml/7bebb226d2c44e12b46a415d0d420000.htm</link>
@@ -106,6 +101,11 @@
       <title>1-关于第十届教育部科学研究优秀成果奖（人文社会科学）第二轮推荐成果的公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/c1252f60b0c146d0a73825ccf8934dba.htm</link>
       <pubDate>Mon, 15 Dec 2025 11:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度辽宁省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/db08b913612d4d7b9a47b70f2bc9915b.htm</link>
+      <pubDate>Wed, 24 Dec 2025 02:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
