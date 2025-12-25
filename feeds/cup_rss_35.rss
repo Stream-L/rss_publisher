@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 09:32:32 +0000</lastBuildDate>
-    <item>
-      <title>理学院举办第三十六届学风主题教育活动开幕式</title>
-      <link>https://www.cup.edu.cn/science//xsgz/ztjy/f7c10fc294794dfc83721c7b13c88dab.htm</link>
-      <pubDate>Tue, 04 Nov 2025 01:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 09:31:31 +0000</lastBuildDate>
     <item>
       <title>关于拟同意曹祚章等10名同志转为中共正式党员的公示</title>
       <link>https://www.cup.edu.cn/science//dwgz/8f2dda22da3a48a68ff487205b27cd5c.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年理学院博士报考材料形式审查结果公示（第一批）</title>
       <link>https://www.cup.edu.cn/science//tzgg/7d59413749e74c9486e6333ca38e501f.htm</link>
       <pubDate>Fri, 19 Dec 2025 00:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>杨天方（克拉玛依校区）</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/dsjj/3916fdb7ab164c75be052ba0e32b57e3.htm</link>
+      <pubDate>Thu, 25 Dec 2025 02:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
