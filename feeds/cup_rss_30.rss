@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 09:38:43 +0000</lastBuildDate>
-    <item>
-      <title>用于跨域故障诊断的因果启发多尺度去混淆网络</title>
-      <link>https://mp.weixin.qq.com/s/8Sdmp-sMmUR3XHqSwuLnFw</link>
-      <pubDate>Wed, 10 Dec 2025 00:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 04:39:42 +0000</lastBuildDate>
     <item>
       <title>电驱测井绞车电缆张力的改进无模型自适应预测控制</title>
       <link>https://mp.weixin.qq.com/s/mrXoNwOltcK5m_xfP7dOVA</link>
@@ -106,6 +101,11 @@
       <title>2025-2026秋季学期第17周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/3c151971049f49a69194a277f18105cf.htm</link>
       <pubDate>Mon, 29 Dec 2025 00:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于组织开展2025-2026学年人工智能学院寒假本科生科研训练计划的通知</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/2d7c0ea5549a4ddaa0d7f3ec163ed6e3.htm</link>
+      <pubDate>Mon, 29 Dec 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
