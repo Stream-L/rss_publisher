@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 09:32:20 +0000</lastBuildDate>
-    <item>
-      <title>校领导率团赴阿联酋、伊拉克访问交流</title>
-      <link>http://www.cup.edu.cn/news/sx/600ce5e3da3b4370a6bba29f18db1780.htm</link>
-      <pubDate>Wed, 24 Dec 2025 07:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>蟒山讲坛第四十二期：地球中年期的平静与动荡</title>
-      <link>http://www.cup.edu.cn/xzhd/f0d10d6202ca48f0b7ab0089c461b651.htm</link>
-      <pubDate>Thu, 25 Dec 2025 09:20:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 04:38:22 +0000</lastBuildDate>
     <item>
       <title>蟒山讲坛第四十三期：深海采矿绿色发展的科技挑战与创新</title>
       <link>http://www.cup.edu.cn/xzhd/2f5021e51d1d41bfa9fce30159f2f0cb.htm</link>
@@ -63,6 +53,11 @@
       <pubDate>Mon, 29 Dec 2025 03:14:26 +0000</pubDate>
     </item>
     <item>
+      <title>【人民网】文永红：推动高校思政工作“范式重构”</title>
+      <link>http://www.cup.edu.cn/news/jj/072680744d73457985dd972624704326.htm</link>
+      <pubDate>Mon, 29 Dec 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>校领导参加外国语学院英语24-2班“廉洁方舟·青春远航”主题班会</title>
       <link>http://www.cup.edu.cn/news/sx/9c6353fe371943e08d9c15a9a8701aec.htm</link>
       <pubDate>Mon, 29 Dec 2025 14:54:31 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>中石大召开本科招生工作会</title>
       <link>http://www.cup.edu.cn/news/sx/604645d913a7482ebd6f0747629635b4.htm</link>
       <pubDate>Tue, 30 Dec 2025 01:50:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导参加人民网2025大学校长论坛</title>
+      <link>http://www.cup.edu.cn/news/sx/0568ec4360c04c81baaba22d20e4179e.htm</link>
+      <pubDate>Tue, 30 Dec 2025 06:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

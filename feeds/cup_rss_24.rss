@@ -6,18 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 09:32:33 +0000</lastBuildDate>
-    <item>
-      <title>张峰</title>
-      <link>http://www.cup.edu.cn/geophysics//xygk/xrld/79599a8d3b2b4e8c9107c94a6441d3e4.htm</link>
-      <description>主管科研等工作</description>
-      <pubDate>Mon, 24 Nov 2025 03:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>地球物理学院博士闫博鸿学位论文答辩公告</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/256f53cdd85749f897793df9eb604794.htm</link>
-      <pubDate>Mon, 24 Nov 2025 06:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 04:38:36 +0000</lastBuildDate>
     <item>
       <title>郭江峰</title>
       <link>https://www.cup.edu.cn/geophysics/xygk/xrld/bbc64efdf6234bc7938d2b075a7a7ef1.htm</link>
@@ -107,6 +96,16 @@
       <title>关于2025年秋季学期研究生开题工作的通知</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/d47fe194402f4d3cbf03e7d8cef90f85.htm</link>
       <pubDate>Tue, 23 Dec 2025 04:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油东方物探公司与中国石油大学（北京）油气人工智能技术及联合研发交流会在中石大举行</title>
+      <link>https://www.cup.edu.cn/news/sx/26b72d424e2b4d8eb38747d8c059fa5e.htm</link>
+      <pubDate>Thu, 25 Dec 2025 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教师获欧亚地球物理学会拉普捷夫证书·地球物理发展贡献奖</title>
+      <link>https://www.cup.edu.cn/news/sx/49016e3b9cbe4e53a4a31edc79ba86b6.htm</link>
+      <pubDate>Thu, 25 Dec 2025 08:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
