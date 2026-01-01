@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 09:30:28 +0000</lastBuildDate>
-    <item>
-      <title>2025-2026学年秋季学期中期补退选通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/9deeeb833a45427cbe61f0442ab33c25.htm</link>
-      <pubDate>Mon, 03 Nov 2025 09:02:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 04:46:06 +0000</lastBuildDate>
     <item>
       <title>智能问答</title>
       <link>https://assistant.cup.edu.cn</link>
@@ -106,6 +101,11 @@
       <title>中石大召开本科招生工作会</title>
       <link>http://www.cup.edu.cn/jwc/gddt/3c200d9416de4aadb3d2b21805e53260.htm</link>
       <pubDate>Tue, 30 Dec 2025 03:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开本科教育教学质量分析会</title>
+      <link>https://www.cup.edu.cn/news/sx/be8ccea41218463c8b409825df85aff5.htm</link>
+      <pubDate>Wed, 31 Dec 2025 07:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
