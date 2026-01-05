@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 09:27:38 +0000</lastBuildDate>
-    <item>
-      <title>北京师范大学地理科学学部吴国灿教授为我院作《中国近地面气温的年循环及日际变率分析》的专题学术报告</title>
-      <link>https://www.cup.edu.cn/science//xyxw/fb061de5c7624446a43ae9c8d354d3c8.htm</link>
-      <pubDate>Thu, 20 Nov 2025 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 04:58:22 +0000</lastBuildDate>
     <item>
       <title>北京邮电大学数学科学学院李鹤教授作“数智融合的师生学习共同体的搭建”专题讲座</title>
       <link>https://www.cup.edu.cn/science//xyxw/865b57a9e56a48179fb755a0a283335b.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年博士研究生招生复试名单（第一批）</title>
       <link>https://www.cup.edu.cn/science//yjsjy/bss/9543ac9ce37d438cb5055d83fcc780b9.htm</link>
       <pubDate>Wed, 31 Dec 2025 12:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院2025年12月志愿时长公示</title>
+      <link>https://www.cup.edu.cn/science//xsgz/xkjs/0ee621686faf41219212a8064fbe9d6c.htm</link>
+      <pubDate>Mon, 05 Jan 2026 00:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
