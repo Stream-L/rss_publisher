@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 09:39:08 +0000</lastBuildDate>
-    <item>
-      <title>地球化学实验室公正性声明</title>
-      <link>http://www.cup.edu.cn/kjc/notice/ptl/d5f0c3948b9b435687a918fd78337ac9.htm</link>
-      <pubDate>Tue, 30 Sep 2025 06:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国家自然科学基金委员会发布多个项目申报指南的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/f39d3b68a4e2496a90d82eb7ad04ed25.htm</link>
-      <pubDate>Thu, 09 Oct 2025 07:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 04:38:37 +0000</lastBuildDate>
     <item>
       <title>2025年度新疆自治区科学技术奖公示-1</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/fdc26f1896b1417ba20a9c34340c516b.htm</link>
@@ -106,6 +96,16 @@
       <title>2-关于第十届教育部科学研究优秀成果奖（人文社会科学）第二轮推荐成果的公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/a1515f5bd0fb4ef6be44b896a708c142.htm</link>
       <pubDate>Thu, 01 Jan 2026 02:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度四川省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/60fd569663724277886cd342a8d623a7.htm</link>
+      <pubDate>Mon, 05 Jan 2026 10:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度四川省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/e9799066cc5a4545813fe7c1e924c635.htm</link>
+      <pubDate>Mon, 05 Jan 2026 10:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

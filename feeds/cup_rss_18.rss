@@ -6,23 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 09:40:08 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】Windows 服务器更新服务WSUS远程代码执行漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/543a38bf00ae44bdae135befe5d03a67.htm</link>
-      <pubDate>Wed, 29 Oct 2025 02:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办办公科研软件专题培训</title>
-      <link>https://www.cup.edu.cn/news/sx/b3fcfbc633fc4198ba447a0007a73fa4.htm</link>
-      <description>10月23日，中石大信息化管理处举办“MATLAB &amp; WPS”办公科研软件使用培训讲座。讲座聚焦人工智能时代教学科研工具协同新需求，旨在通过系统讲解与实操演示，帮助学生掌握高效、规范的软件使用方法，为学校教学科研工作提供有力的数字化支撑。</description>
-      <pubDate>Thu, 30 Oct 2025 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】Apache Tomcat RewriteValve 目录遍历漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/348b6212344a4998a135bf8b1c1cd5d1.htm</link>
-      <pubDate>Fri, 31 Oct 2025 00:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 04:39:26 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Docker Compose OCI 路径遍历漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/ffe6569e36384d78a3065de74f65283e.htm</link>
@@ -108,6 +92,21 @@
       <title>【安全风险通告】微软重要安全漏洞通告</title>
       <link>https://www.cup.edu.cn/nic/wlaq/1567a6bdd0c147b3b562b8e697ffc94f.htm</link>
       <pubDate>Tue, 23 Dec 2025 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2026年3月份全国计算机等级考试报名的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/7e260607bd8e48c59c6d7aae2aa572fc.htm</link>
+      <pubDate>Mon, 05 Jan 2026 03:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>教育部关于发布《教育数据分类分级指南》教育行业标准的通知</title>
+      <link>https://www.cup.edu.cn/nic/zczd/xszc/cf804743a2ee4a2f9edc557093be0b94.htm</link>
+      <pubDate>Mon, 05 Jan 2026 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>教育部关于发布《大屏幕交互式智能教学终端通用要求》教育行业标准的通知</title>
+      <link>https://www.cup.edu.cn/nic/zczd/xszc/fe5f2b25e2384401a79e8ce4925b33b8.htm</link>
+      <pubDate>Mon, 05 Jan 2026 08:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
