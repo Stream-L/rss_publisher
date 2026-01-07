@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 09:33:34 +0000</lastBuildDate>
-    <item>
-      <title>中石大主办第九届能源资源多场耦合理论及应用学术会议暨2025稠油高效开发国际学术论坛</title>
-      <link>http://www.cup.edu.cn/news/sx/e0866672c7594f8aade584fdd0c906a3.htm</link>
-      <pubDate>Mon, 29 Dec 2025 15:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大学子在2025年“高教社杯”全国大学生数学建模竞赛中获佳绩</title>
-      <link>http://www.cup.edu.cn/news/sx/30c5e4a363f1499db98675b59b79a2b7.htm</link>
-      <pubDate>Mon, 29 Dec 2025 15:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【学在中石大】校领导参加机械与储运工程学院2024级学风建设主题示范班会</title>
-      <link>http://www.cup.edu.cn/news/sx/a0a60b1d00be4f51bdf930a921710f7c.htm</link>
-      <pubDate>Mon, 29 Dec 2025 15:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开本科招生工作会</title>
-      <link>http://www.cup.edu.cn/news/sx/604645d913a7482ebd6f0747629635b4.htm</link>
-      <pubDate>Tue, 30 Dec 2025 01:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>校领导参加人民网2025大学校长论坛</title>
-      <link>http://www.cup.edu.cn/news/sx/0568ec4360c04c81baaba22d20e4179e.htm</link>
-      <pubDate>Tue, 30 Dec 2025 06:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大8项课题获批北京高校思想政治工作研究课题、教师思想政治工作专项研究课题立项</title>
-      <link>http://www.cup.edu.cn/news/sx/cf05d5e18ba64ab8b6a3a6c04999db79.htm</link>
-      <pubDate>Wed, 31 Dec 2025 02:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 04:40:46 +0000</lastBuildDate>
     <item>
       <title>中石大新年致辞 | 每一步攀登，皆为抵达</title>
       <link>http://www.cup.edu.cn/news/sx/c8a517e805cb48518dd6bc5285a812a3.htm</link>
@@ -66,6 +36,11 @@
       <title>元旦</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Wed, 31 Dec 2025 16:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【我们的这五年】硬核工科，浪漫美育！</title>
+      <link>http://www.cup.edu.cn/news/sx/aa02d09e179f4be0840b8156011e943f.htm</link>
+      <pubDate>Thu, 01 Jan 2026 06:25:00 +0000</pubDate>
     </item>
     <item>
       <title>2025十大新闻-轮播图</title>
@@ -106,6 +81,31 @@
       <title>中国工程院院士李家彪蟒山讲坛第四十三期畅谈深海采矿绿色发展</title>
       <link>https://www.cup.edu.cn/news/sx/6e40a53366b6414899d6b04312baea52.htm</link>
       <pubDate>Tue, 06 Jan 2026 01:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>http://www.cup.edu.cn/bf/klm2/d82c533b97974454a0b2d6d04b986841.htm</link>
+      <pubDate>Tue, 06 Jan 2026 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大与美国塔尔萨大学合作设立中国石油大学（北京）塔尔萨国际能源学院</title>
+      <link>http://www.cup.edu.cn/news/sx/c03987dbffdf4ec1a9ffcf5ed08bd8c6.htm</link>
+      <pubDate>Tue, 06 Jan 2026 08:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>七年，五十余次，五千余份单据，一场“温暖的逆行”</title>
+      <link>http://www.cup.edu.cn/news/sx/f09fe70466f74919b2b154aba7fe34bf.htm</link>
+      <pubDate>Tue, 06 Jan 2026 09:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大获批2025年北京市自然科学基金项目数再创新高</title>
+      <link>http://www.cup.edu.cn/news/sx/543f4d51ec55475ea46a9432aa69aba8.htm</link>
+      <pubDate>Tue, 06 Jan 2026 09:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大与美国塔尔萨大学合作设立中国石油大学（北京）塔尔萨国际能源学院-轮播图</title>
+      <link>https://www.cup.edu.cn/news/sx/c03987dbffdf4ec1a9ffcf5ed08bd8c6.htm</link>
+      <pubDate>Tue, 06 Jan 2026 12:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
