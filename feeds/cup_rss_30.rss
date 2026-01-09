@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 09:36:18 +0000</lastBuildDate>
-    <item>
-      <title>基于滑动窗口奇异值和自回归Transformer的动态过程早期故障检测</title>
-      <link>https://mp.weixin.qq.com/s/38EbGf0jluIxLI9rNFa8zA</link>
-      <pubDate>Sat, 13 Dec 2025 00:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于双模态WGAN-VAE的非平稳动态过程故障检测</title>
-      <link>https://mp.weixin.qq.com/s/6vLv41SmtbylMxf_KXs6zg</link>
-      <pubDate>Sat, 13 Dec 2025 00:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【科研动态】中石大人工智能学院主办第十六届创新发展论坛暨2025年第五届电气工程与控制科学国际学术会议</title>
-      <link>https://www.cup.edu.cn/cupai/xw/efd7bb11ea9e4962bbd2929daa9bdf5a.htm</link>
-      <pubDate>Sat, 13 Dec 2025 10:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 04:41:05 +0000</lastBuildDate>
     <item>
       <title>2025-2026秋季学期第15周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/a26be88e377e4cc58f89eef3d0dec627.htm</link>
@@ -98,6 +83,16 @@
       <pubDate>Wed, 31 Dec 2025 14:38:00 +0000</pubDate>
     </item>
     <item>
+      <title>【学科竞赛】中石大学子在第七届全球校园人工智能算法精英大赛中获佳绩</title>
+      <link>https://www.cup.edu.cn/cupai/xw/3a0e3cf38bb14a768920c584acdd9b7c.htm</link>
+      <pubDate>Sun, 04 Jan 2026 01:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【科研动态】智赋能源 创领未来——中国石油大学（北京）2025 年人工智能学术年会成功举办</title>
+      <link>https://www.cup.edu.cn/cupai/xw/bfa3ee86c61242499967d5f05af1ead5.htm</link>
+      <pubDate>Mon, 05 Jan 2026 01:12:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大学子在第七届全球校园人工智能算法精英大赛中获佳绩</title>
       <link>https://www.cup.edu.cn/cupai/xw/3a0e3cf38bb14a768920c584acdd9b7c.htm</link>
       <pubDate>Mon, 05 Jan 2026 01:21:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>2025-2026秋季学期第18周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/7d62afdadc9f49919494f07e514a87fe.htm</link>
       <pubDate>Mon, 05 Jan 2026 10:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>耿伟恒</title>
+      <link>https://www.cup.edu.cn/cupai/szdw/jsml/a8d94690678048688082e5ff675948c7.htm</link>
+      <pubDate>Fri, 09 Jan 2026 01:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
