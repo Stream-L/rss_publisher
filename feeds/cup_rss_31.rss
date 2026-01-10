@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 09:35:58 +0000</lastBuildDate>
-    <item>
-      <title>课程建设</title>
-      <link>http://www.cup.edu.cn/geosci/bksjx/bksjcjs/kchj/ccbb0c3e04414867a1f7b275837314c0.htm</link>
-      <pubDate>Fri, 05 Dec 2025 09:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 04:34:47 +0000</lastBuildDate>
     <item>
       <title>教材建设</title>
       <link>http://www.cup.edu.cn/geosci/bksjx/bksjcjs/jcjs/e0e34f48a2fd40009cfaabb80c57ed72.htm</link>
@@ -112,6 +107,11 @@
       <title>地球科学学院2026年博士研究生材料审查结果及复试名单（第一批次）</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/ac20296c8f5c414aae993ce4149197a3.htm</link>
       <pubDate>Mon, 05 Jan 2026 10:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年12月</title>
+      <link>http://www.cup.edu.cn/geosci/xklw2/2025/2512y/3773c774ef4149bab41ea9f954cd06a8.htm</link>
+      <pubDate>Fri, 09 Jan 2026 09:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

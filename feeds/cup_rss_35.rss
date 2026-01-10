@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 09:36:15 +0000</lastBuildDate>
-    <item>
-      <title>北京邮电大学数学科学学院李鹤教授作“数智融合的师生学习共同体的搭建”专题讲座</title>
-      <link>https://www.cup.edu.cn/science//xyxw/865b57a9e56a48179fb755a0a283335b.htm</link>
-      <pubDate>Thu, 20 Nov 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>理学院组织开展火灾应急疏散演练活动</title>
-      <link>https://www.cup.edu.cn/science//dwgz/0e982bae94ee44b2a1e3aa75d6ba1c71.htm</link>
-      <pubDate>Fri, 21 Nov 2025 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>理学院组织开展火灾应急疏散演练活动</title>
-      <link>https://www.cup.edu.cn/science//xyxw/033565c457304033aa2a342745b46412.htm</link>
-      <pubDate>Fri, 21 Nov 2025 06:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 04:35:07 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年春季学期理学院教师四节连排授课申请公示</title>
       <link>https://www.cup.edu.cn/science//tzgg/b50c5e5d2e674660aa6317c566e31cdf.htm</link>
@@ -106,6 +91,21 @@
       <title>理学院2025年12月志愿时长公示</title>
       <link>https://www.cup.edu.cn/science//xsgz/xkjs/0ee621686faf41219212a8064fbe9d6c.htm</link>
       <pubDate>Mon, 05 Jan 2026 00:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>杨子浩（重质油全国重点实验室）</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/dsjj/417be916bbf140f2a051b483400d7834.htm</link>
+      <pubDate>Fri, 09 Jan 2026 06:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>董朝霞（重质油全国重点实验室）</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/dsjj/d48be65995b24dfabcbfd211fe32be9b.htm</link>
+      <pubDate>Fri, 09 Jan 2026 07:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>张娟（重质油全国重点实验室）</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/dsjj/3c284bebf7fd49d19b3c598870cdd580.htm</link>
+      <pubDate>Fri, 09 Jan 2026 07:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
