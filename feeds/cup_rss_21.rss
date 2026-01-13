@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 09:39:57 +0000</lastBuildDate>
-    <item>
-      <title>中国工程院院士李家彪蟒山讲坛第四十三期畅谈深海采矿绿色发展</title>
-      <link>https://www.cup.edu.cn/news/sx/6e40a53366b6414899d6b04312baea52.htm</link>
-      <pubDate>Tue, 06 Jan 2026 01:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>测试</title>
-      <link>http://www.cup.edu.cn/bf/klm2/d82c533b97974454a0b2d6d04b986841.htm</link>
-      <pubDate>Tue, 06 Jan 2026 03:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 04:39:56 +0000</lastBuildDate>
     <item>
       <title>中石大与美国塔尔萨大学合作设立中国石油大学（北京）塔尔萨国际能源学院</title>
       <link>http://www.cup.edu.cn/news/sx/c03987dbffdf4ec1a9ffcf5ed08bd8c6.htm</link>
@@ -93,6 +83,11 @@
       <pubDate>Sat, 10 Jan 2026 09:55:19 +0000</pubDate>
     </item>
     <item>
+      <title>我们的这五年 | 挺膺奋斗担使命，能源报国育新人！</title>
+      <link>http://www.cup.edu.cn/news/sx/be60d5aacb134d278c610f8d99484e0d.htm</link>
+      <pubDate>Sun, 11 Jan 2026 02:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大举办“沐光同行 成长有约”暖心畅谈会</title>
       <link>http://www.cup.edu.cn/news/sx/ce3ce0cd28d64f15b509e3fcea90c151.htm</link>
       <pubDate>Sun, 11 Jan 2026 05:56:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>中石大学子在第七届全球校园人工智能算法精英大赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/e65c80afa2da412fb1e68dc6bc43cac7.htm</link>
       <pubDate>Mon, 12 Jan 2026 00:44:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大第10位学子成功捐献造血干细胞</title>
+      <link>http://www.cup.edu.cn/news/sx/472272738eb243048e8b0a9fbf65243c.htm</link>
+      <pubDate>Mon, 12 Jan 2026 07:13:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
