@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 09:35:34 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】Docker Compose OCI 路径遍历漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/ffe6569e36384d78a3065de74f65283e.htm</link>
-      <pubDate>Fri, 31 Oct 2025 08:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 04:46:01 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）与中国农业银行召开银校合作工作研讨会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/7e0bdd1b6406489d929041765af96d10.htm</link>
@@ -107,6 +102,11 @@
       <title>教育部关于发布《大屏幕交互式智能教学终端通用要求》教育行业标准的通知</title>
       <link>https://www.cup.edu.cn/nic/zczd/xszc/fe5f2b25e2384401a79e8ce4925b33b8.htm</link>
       <pubDate>Mon, 05 Jan 2026 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】n8n远程代码执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/926a5deec6654bdba8dfed52533b9c63.htm</link>
+      <pubDate>Wed, 14 Jan 2026 01:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
