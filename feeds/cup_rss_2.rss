@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）党委组织部 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 09:34:38 +0000</lastBuildDate>
-    <item>
-      <title>闫伟</title>
-      <link>http://www.cup.edu.cn/zuzhibu/download/gszl/9c322bc10efe4a47af5fae577681a610.blk.htm</link>
-      <pubDate>Tue, 13 Jan 2026 06:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>王茹</title>
-      <link>http://www.cup.edu.cn/zuzhibu/download/gszl/4cce66b705e54e7c872acf527301ef00.blk.htm</link>
-      <pubDate>Tue, 13 Jan 2026 06:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 04:40:46 +0000</lastBuildDate>
     <item>
       <title>杨薇</title>
       <link>http://www.cup.edu.cn/zuzhibu/download/gszl/d3022da1c5e2494bbe36a58e61d8cd65.blk.htm</link>
@@ -106,6 +96,16 @@
       <title>宋泽章</title>
       <link>http://www.cup.edu.cn/zuzhibu/download/gszl/332ec991d8f048fab00bf9b847251bb0.blk.htm</link>
       <pubDate>Wed, 14 Jan 2026 03:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>邓春</title>
+      <link>http://www.cup.edu.cn/zuzhibu/download/gszl/e4f127bbfc244c19b45185d8264461f9.blk.htm</link>
+      <pubDate>Wed, 14 Jan 2026 08:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>盛茂</title>
+      <link>http://www.cup.edu.cn/zuzhibu/download/gszl/5539666e24a14f2dbe62fdf6a00335e4.blk.htm</link>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
