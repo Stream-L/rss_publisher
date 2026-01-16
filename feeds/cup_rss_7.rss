@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:34:20 +0000</lastBuildDate>
-    <item>
-      <title>2025年度新疆自治区科学技术奖公示-2</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/fd490e2fbc8d45909dfcbea0f59d4a90.htm</link>
-      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:38:38 +0000</lastBuildDate>
     <item>
       <title>2025年度中国石油天然气集团有限公司科学技术奖公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/f461a79738a24b71ac291ffbd4bd2074.htm</link>
@@ -106,6 +101,11 @@
       <title>2025年度四川省科学技术奖公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/e27b1381dd754f8f9ccb4d8c7b9ea238.htm</link>
       <pubDate>Thu, 08 Jan 2026 07:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度广东省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/3777afc852e842e398134732c0bc73ba.htm</link>
+      <pubDate>Thu, 15 Jan 2026 06:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
