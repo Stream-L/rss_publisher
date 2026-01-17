@@ -6,13 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 09:34:51 +0000</lastBuildDate>
-    <item>
-      <title>地球科学学院召开第五届第五次教代会</title>
-      <link>http://www.cup.edu.cn/geosci/xwdt/3d3de89d5faf4997b91b336e8f78f38f.htm</link>
-      <description>2025年12月10日上午，中国石油大学（北京）地球科学学院第五届五次教职工代表大会在地质楼1105会议室顺利召开。大会由学院党委书记刘钰铭主持，正式代表和列席代表共30人出席会议。</description>
-      <pubDate>Thu, 11 Dec 2025 00:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 04:32:51 +0000</lastBuildDate>
     <item>
       <title>温馨相聚，情暖地科—— 地学院举办教职工集体生日会</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/af187d9fad8444ff9b90253b3c9fbd14.htm</link>
@@ -111,6 +105,11 @@
       <title>2025年地球科学学院论文发表统计</title>
       <link>/publish/geosci/docs/2026-01/2026-01/d685a69281204476a24f62da41dcec66.xlsx</link>
       <pubDate>Fri, 16 Jan 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院2026年博士研究生复试成绩及拟录取结果公示（第一批次）</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/0a03bf3b7bac4a7da3302eab9f89f216.htm</link>
+      <pubDate>Fri, 16 Jan 2026 09:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
