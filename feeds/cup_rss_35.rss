@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 09:29:40 +0000</lastBuildDate>
-    <item>
-      <title>理学院2025年11月志愿时长公示</title>
-      <link>https://www.cup.edu.cn/science//xsgz/xkjs/dc57e900e3724d02b12f5a48b676be65.htm</link>
-      <pubDate>Fri, 05 Dec 2025 07:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 04:52:58 +0000</lastBuildDate>
     <item>
       <title>理学院2025年硕导聘任公示</title>
       <link>https://www.cup.edu.cn/science//yjsjy/yjsjx/14555237fe3c4fe8bb3fc742e5b94d23.htm</link>
@@ -106,6 +101,11 @@
       <title>快乐过寒假，安全不放假——理学院寒假安全提醒</title>
       <link>https://www.cup.edu.cn/science//xsgz/xkjs/a81244bc2fb84eb29b097d39e95f0ee8.htm</link>
       <pubDate>Thu, 15 Jan 2026 02:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院2024-2025学年“石药奖学金”推荐候选人公示</title>
+      <link>https://www.cup.edu.cn/science//xsgz/xsgzjzd/842347f819b042fe9d82281883ab21da.htm</link>
+      <pubDate>Mon, 19 Jan 2026 01:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
