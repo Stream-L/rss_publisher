@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 09:40:32 +0000</lastBuildDate>
-    <item>
-      <title>中石大学子在第七届全球校园人工智能算法精英大赛中获佳绩</title>
-      <link>https://www.cup.edu.cn/cupai/xw/3a0e3cf38bb14a768920c584acdd9b7c.htm</link>
-      <pubDate>Mon, 05 Jan 2026 01:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 04:44:28 +0000</lastBuildDate>
     <item>
       <title>2025-2026秋季学期第18周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/7d62afdadc9f49919494f07e514a87fe.htm</link>
@@ -106,6 +101,11 @@
       <title>罗志磊</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/027f8c411347477698f9f15832f2403c.htm</link>
       <pubDate>Tue, 20 Jan 2026 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>考虑电力与氢储能的离网风光氢综合能源系统优化设计：一种通用方法</title>
+      <link>https://mp.weixin.qq.com/s/W0Q1-JeKWvHWSUIIVtMSuA</link>
+      <pubDate>Wed, 21 Jan 2026 00:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
