@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 09:40:45 +0000</lastBuildDate>
-    <item>
-      <title>2025-2026秋季学期第18周院领导接待安排</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/7d62afdadc9f49919494f07e514a87fe.htm</link>
-      <pubDate>Mon, 05 Jan 2026 10:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【学科竞赛】副校长张广清带队参加首届北京市大学生“人工智能+”创新大赛</title>
-      <link>https://www.cup.edu.cn/cupai/xw/11fa65d222ed44e4a16db1b8ca86ea51.htm</link>
-      <pubDate>Thu, 08 Jan 2026 02:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>耿伟恒</title>
-      <link>https://www.cup.edu.cn/cupai/szdw/jsml/a8d94690678048688082e5ff675948c7.htm</link>
-      <pubDate>Fri, 09 Jan 2026 01:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 04:48:20 +0000</lastBuildDate>
     <item>
       <title>人工智能学院2026年博士研究生入学考试大纲</title>
       <link>https://www.cup.edu.cn/cupai/zsjy/yjszs/8921346c290f43e9be13b47986b2e4b3.htm</link>
@@ -106,6 +91,21 @@
       <title>考虑电力与氢储能的离网风光氢综合能源系统优化设计：一种通用方法</title>
       <link>https://mp.weixin.qq.com/s/W0Q1-JeKWvHWSUIIVtMSuA</link>
       <pubDate>Wed, 21 Jan 2026 00:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>机理与数据驱动的LNG液化过程关键参数预测</title>
+      <link>https://mp.weixin.qq.com/s/pXiMmQa_lQQoZcI7CZE6ww</link>
+      <pubDate>Thu, 22 Jan 2026 00:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向化工过程预测的自适应图结构学习门控循环知识引导注意力网络</title>
+      <link>https://mp.weixin.qq.com/s/9tFurdfPNfjmPc0W_Iz4mw</link>
+      <pubDate>Thu, 22 Jan 2026 00:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于主成分分析的LNG接收站功耗关键影响因素分析</title>
+      <link>https://mp.weixin.qq.com/s/I8WzfhGSJlVHiQt4DMM0dg</link>
+      <pubDate>Thu, 22 Jan 2026 00:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
