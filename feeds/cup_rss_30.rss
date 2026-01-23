@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 09:40:17 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院2026年博士研究生入学考试大纲</title>
-      <link>https://www.cup.edu.cn/cupai/zsjy/yjszs/8921346c290f43e9be13b47986b2e4b3.htm</link>
-      <pubDate>Fri, 09 Jan 2026 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院2026年博士研究生入学考试大纲</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/afeafc167ada409a901133e7b9d9f425.htm</link>
-      <pubDate>Fri, 09 Jan 2026 09:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 04:42:52 +0000</lastBuildDate>
     <item>
       <title>程炜晴</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/7519f86f780945c6a4a774060815a7ff.htm</link>
@@ -106,6 +96,16 @@
       <title>基于主成分分析的LNG接收站功耗关键影响因素分析</title>
       <link>https://mp.weixin.qq.com/s/I8WzfhGSJlVHiQt4DMM0dg</link>
       <pubDate>Thu, 22 Jan 2026 00:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>救援井距测量的数值模拟与参数分析</title>
+      <link>https://mp.weixin.qq.com/s/scA7D-9yB14VGpL9WJe_Ig</link>
+      <pubDate>Fri, 23 Jan 2026 00:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>顶套管源法在含支撑剂水力裂缝监测中的数值模拟与特征分析</title>
+      <link>https://mp.weixin.qq.com/s/JK4Qf6Areo6DT8ZYvBytLA</link>
+      <pubDate>Fri, 23 Jan 2026 00:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
