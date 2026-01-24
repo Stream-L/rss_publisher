@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 09:38:12 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）与中国农业银行召开银校合作工作研讨会</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/7e0bdd1b6406489d929041765af96d10.htm</link>
-      <pubDate>Mon, 10 Nov 2025 02:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/sphybz/sphyfwjs/c8d2bc09734e4ec28702fe20b78c4883.htm</link>
-      <pubDate>Mon, 10 Nov 2025 02:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 04:35:16 +0000</lastBuildDate>
     <item>
       <title>常见问题</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/sphybz/sphycjwt/783e63334e58474caf9bf889b89f18aa.htm</link>
@@ -107,6 +97,16 @@
       <title>【安全风险通告】n8n远程代码执行漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/926a5deec6654bdba8dfed52533b9c63.htm</link>
       <pubDate>Wed, 14 Jan 2026 01:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Apache Struts XML 外部实体注入漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/851b6999d1c2460c847e1a1536dda5d3.htm</link>
+      <pubDate>Mon, 19 Jan 2026 07:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Oracle WebLogic Server Proxy Plug-in 身份认证绕过漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/d0ecaf23530f42d59973e76ed77ea5b3.htm</link>
+      <pubDate>Fri, 23 Jan 2026 07:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
