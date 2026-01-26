@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 09:29:07 +0000</lastBuildDate>
-    <item>
-      <title>常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/sphybz/sphycjwt/783e63334e58474caf9bf889b89f18aa.htm</link>
-      <pubDate>Mon, 10 Nov 2025 02:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/sphybz/sphysysm/7f5aca47753047cda4fd78ee650a0db2.htm</link>
-      <pubDate>Mon, 10 Nov 2025 02:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 04:55:49 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）考点关于第76次计算机等级考试成绩复查申请的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/878801e90a484e00be09bdb7256ed2fc.htm</link>
@@ -107,6 +97,17 @@
       <title>【安全风险通告】Oracle WebLogic Server Proxy Plug-in 身份认证绕过漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/d0ecaf23530f42d59973e76ed77ea5b3.htm</link>
       <pubDate>Fri, 23 Jan 2026 07:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“温情暖冬，共话初心”退休教师新春座谈会</title>
+      <link>https://www.cup.edu.cn/nic/djgh/2a70570954554cbf9df2834d12f54e4c.htm</link>
+      <pubDate>Mon, 26 Jan 2026 02:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“温情暖冬，共话初心”退休教师新春座谈会</title>
+      <link>https://www.cup.edu.cn/nic/djgh/2a70570954554cbf9df2834d12f54e4c.htm</link>
+      <description>为感谢退休教师为学校信息化管理工作及教育事业发展作出的重要贡献，1月21日，信息化管理处在中油大厦207会议室举办退休教师座谈会。会议由信息化管理处主任庞飞主持，退休教师们欢聚一堂，畅叙往昔岁月，共话未来发展。</description>
+      <pubDate>Mon, 26 Jan 2026 02:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

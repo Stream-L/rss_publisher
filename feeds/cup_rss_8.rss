@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 09:28:16 +0000</lastBuildDate>
-    <item>
-      <title>基金委发布《科研诚信规范手册》10种行为将被认定是科研不端行为</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk0ODI4MDcwNg==&amp;mid=2247485489&amp;idx=1&amp;sn=081822ade83ef75fbf66062e58950835</link>
-      <pubDate>Fri, 23 Jan 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>对师德违规问题“零容忍”！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk0ODI4MDcwNg==&amp;mid=2247484697&amp;idx=1&amp;sn=21e15d4586b7238df26c774fb708ae8e</link>
-      <pubDate>Fri, 23 Jan 2026 00:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>利剑出鞘，史上最严，涉及27名院士候选人</title>
-      <link>https://mp.weixin.qq.com/s/YtBpyOX72v9FG0HTTHQU2Q?scene=1&amp;click_id=12</link>
-      <pubDate>Fri, 23 Jan 2026 01:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 04:55:02 +0000</lastBuildDate>
     <item>
       <title>别再让老师卷入舆论漩涡</title>
       <link>https://mp.weixin.qq.com/s?__biz=Mzk0ODI4MDcwNg==&amp;mid=2247485143&amp;idx=1&amp;sn=0b860811306750e360f3387f131114ce</link>
@@ -34,8 +19,18 @@
     </item>
     <item>
       <title>国家自然科学基金委员会通报科研不端案件（2025年第二批次）</title>
+      <link>https://www.nsfc.gov.cn/p1/2812/2816/83175.html</link>
+      <pubDate>Fri, 23 Jan 2026 01:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家自然科学基金委员会通报科研不端案件（2025年第二批次）</title>
       <link>https://mp.weixin.qq.com/s/j6-9JyTGmX7m4cvRy1_cKg?scene=1&amp;click_id=7</link>
       <pubDate>Fri, 23 Jan 2026 01:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家自然科学基金委员会2024年不端行为案件处理结果通报（第二批次）</title>
+      <link>https://www.nsfc.gov.cn/p1/2812/2816/71093.html</link>
+      <pubDate>Fri, 23 Jan 2026 01:22:00 +0000</pubDate>
     </item>
     <item>
       <title>国家自然科学基金委员会2024年不端行为案件处理结果通报（第二批次）</title>
@@ -106,6 +101,11 @@
       <title>中共中央 国务院关于弘扬教育家精神加强新时代高素质专业化教师队伍建设的意见</title>
       <link>http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202408/t20240826_1147269.html</link>
       <pubDate>Sat, 24 Jan 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国家自然科学基金委员会通报科研不端案件（2026年第1批）</title>
+      <link>https://www.nsfc.gov.cn/p1/2812/2816/99722.html</link>
+      <pubDate>Mon, 26 Jan 2026 01:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

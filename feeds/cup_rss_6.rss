@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 09:28:06 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办“如何讲好一堂课”专题培训</title>
-      <link>http://www.cup.edu.cn/jwc/zhxw/6dcd036ae74846bd8f07e0e2df75920c.htm</link>
-      <pubDate>Thu, 20 Nov 2025 14:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 04:54:53 +0000</lastBuildDate>
     <item>
       <title>关于公示2025年课程思政示范课程、教学名师和团队评选结果的通知</title>
       <link>http://www.cup.edu.cn/jwc/jxyj1/47e1351a6234480f8fa8d96b5c8874af.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>本科生参加2025-2026学年春季学期开学初补缓考的通知</title>
       <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/d5a221afb71a4274a6a1cd9c40f64d3d.blk.htm</link>
       <pubDate>Tue, 13 Jan 2026 02:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026学年春季学期正选结束后部分课程停开的通知</title>
+      <link>http://www.cup.edu.cn/jwc/notice/f7edca6d4ac24aaf9160f9e27d05a0c9.htm</link>
+      <pubDate>Mon, 26 Jan 2026 02:27:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
