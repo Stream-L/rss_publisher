@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 09:41:52 +0000</lastBuildDate>
-    <item>
-      <title>关于公布人工智能学院第十期本科生科研训练计划立项结果的通知</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/aad7ee680d074256ab3c1f14f13f526f.htm</link>
-      <pubDate>Sun, 18 Jan 2026 00:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 05:06:28 +0000</lastBuildDate>
     <item>
       <title>2025-2026秋季学期第20周院领导接待安排</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/13389e649d7a40edbb57b652d9f713a6.htm</link>
@@ -106,6 +101,11 @@
       <title>深井高温下旋转式磁耦合机构结构优化方法研究</title>
       <link>https://mp.weixin.qq.com/s/9GLwtKv8j6k8B8wutc-Vfw</link>
       <pubDate>Wed, 28 Jan 2026 00:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于水击压力监测的压裂暂堵有效性评价方法</title>
+      <link>https://mp.weixin.qq.com/s/9iZwSDKO1shTrAgwwr21dg</link>
+      <pubDate>Thu, 29 Jan 2026 00:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
