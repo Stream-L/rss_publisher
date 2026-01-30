@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 09:52:33 +0000</lastBuildDate>
-    <item>
-      <title>信息化管理处赴北京科技大学开展校园数智化工作调研</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/29ca8c75eb074e978380daf1c55ea8cf.htm</link>
-      <pubDate>Mon, 10 Nov 2025 07:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 05:08:21 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/fd854ece782a47e1acda44e050fdb91d.htm</link>
@@ -108,6 +103,11 @@
       <title>信息化管理处关于2026年寒假值班安排的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/d74fd3b9a33c4ed98bcc0390a6e94405.htm</link>
       <pubDate>Tue, 27 Jan 2026 01:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026-1</title>
+      <link>https://www.cup.edu.cn/nic/sydt/d1b3b242e6364821a0bb7d1cf0e5e71b.htm</link>
+      <pubDate>Thu, 29 Jan 2026 07:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

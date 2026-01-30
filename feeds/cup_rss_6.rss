@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 09:51:39 +0000</lastBuildDate>
-    <item>
-      <title>关于公示2025年度比亚迪奖教金暨优秀本科生班主任、学业导师评选结果的通知</title>
-      <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/aa1ba37079e3474b8fc4861f4901bce0.blk.htm</link>
-      <pubDate>Thu, 27 Nov 2025 08:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于公示2025年北京高校本科教学项目推荐结果的通知</title>
-      <link>http://www.cup.edu.cn/jwc/jxyj1/de96e96be80d4a3fb221ad45275c40e9.blk.htm</link>
-      <pubDate>Fri, 28 Nov 2025 00:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 05:07:25 +0000</lastBuildDate>
     <item>
       <title>2025年下半年全国大学英语四、六级考试考生注意事项</title>
       <link>http://www.cup.edu.cn/jwc/notice/07583a68e8b543839d6627d75895f2b2.htm</link>
@@ -106,6 +96,16 @@
       <title>关于2026年中国石油大学（北京）本科生联合培养项目报名的通知</title>
       <link>http://www.cup.edu.cn/jwc/gjjy2/1b02e3aafca84a25b06161c5b716bdc5.htm</link>
       <pubDate>Wed, 28 Jan 2026 06:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>本科教育教学管理系统运维通知</title>
+      <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/5d221b39164f494aabf6d4265af77c4b.blk.htm</link>
+      <pubDate>Thu, 29 Jan 2026 09:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于推荐国家级本科规划教材的公示</title>
+      <link>http://www.cup.edu.cn/jwc/jxyj1/695c1ef3bc1547e3a0f5aff4057b7d1c.blk.htm</link>
+      <pubDate>Thu, 29 Jan 2026 13:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
