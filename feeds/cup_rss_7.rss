@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 09:46:56 +0000</lastBuildDate>
-    <item>
-      <title>第二十六届中国专利奖申报公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/7d341ea087bf4bdd927f3e8ee9fe51fa.htm</link>
-      <pubDate>Tue, 11 Nov 2025 10:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 05:00:34 +0000</lastBuildDate>
     <item>
       <title>关于第十届教育部科学研究优秀成果奖（人文社会科学）推荐成果的公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/e827ac33d45644a38ea6777a4bf6acef.htm</link>
@@ -106,6 +101,11 @@
       <title>科学技术研究院2026年寒假值班工作安排</title>
       <link>/publish/kjc/docs/2026-01/2026-01/4093def9aa5c4ae09d41a139c3a71d75.pdf</link>
       <pubDate>Thu, 29 Jan 2026 03:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度重庆市科学技术奖提名公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/864546553d494e818ed5cee615a8544d.htm</link>
+      <pubDate>Fri, 30 Jan 2026 07:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
