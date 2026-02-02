@@ -6,23 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 09:38:15 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/fd854ece782a47e1acda44e050fdb91d.htm</link>
-      <pubDate>Mon, 17 Nov 2025 07:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>安徽理工大学现代教育技术中心一行来我校调研交流</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/161148fa38ed48d79e5b485de20f7526.htm</link>
-      <pubDate>Fri, 21 Nov 2025 02:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开教育数字化战略行动工作推进会暨“十五五”数智化规划编制研讨会</title>
-      <link>https://www.cup.edu.cn/news/sx/47151fa7361c4a218c8b9cc7f303ee06.htm?mcpParams=%7B%7D</link>
-      <description>为深入贯彻落实国家教育数字化战略部署，科学谋划学校“十五五”数智化发展路径，11月26日下午，中石大以线上线下结合的方式召开教育数字化战略行动工作推进会暨“十五五”数智化规划编制研讨会。副校长李景叶、克拉玛依校区副校长邢晓凯，校本部和校区相关单位负责人参会。会议由李景叶主持。</description>
-      <pubDate>Mon, 01 Dec 2025 03:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 05:23:45 +0000</lastBuildDate>
     <item>
       <title>关于开通测试国际科研加速通道的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/9c75cf259f23471d8f2837ca4da54087.htm</link>
@@ -108,6 +92,21 @@
       <title>2026-1</title>
       <link>https://www.cup.edu.cn/nic/sydt/d1b3b242e6364821a0bb7d1cf0e5e71b.htm</link>
       <pubDate>Thu, 29 Jan 2026 07:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>跨境科技通道</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/kjkjtd/kjfwjs/b43bf895e67044368e73c3728fcd648b.blk.htm</link>
+      <pubDate>Mon, 02 Feb 2026 02:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/kjkjtd/kjsysm/4182112449114e1aa919e402df580a79.blk.htm</link>
+      <pubDate>Mon, 02 Feb 2026 03:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/kjkjtd/kjcjwt/64f335d51aaf4b63a0c18c0237d2a391.blk.htm</link>
+      <pubDate>Mon, 02 Feb 2026 03:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

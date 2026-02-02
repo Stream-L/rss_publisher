@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 09:37:18 +0000</lastBuildDate>
-    <item>
-      <title>关于第二十六届中国专利奖推荐成果的公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/41f1a9ea78474cdca4a4703d1332e993.htm</link>
-      <pubDate>Fri, 21 Nov 2025 13:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油大学（北京）关于开展2025年度“昌聚工程”青年类人才评选工作的通知</title>
-      <link>http://www.cup.edu.cn/kjc/notice/xml/f7fdf104439d4ad79b0dceb65518747a.htm</link>
-      <pubDate>Thu, 27 Nov 2025 07:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 05:22:48 +0000</lastBuildDate>
     <item>
       <title>关于召开“2025第七届复杂油气工程科技创新论坛”的通知（1号通知）</title>
       <link>http://www.cup.edu.cn/kjc/academic_xchange/10744f5d5e744dd18582206ec7c4625f.htm</link>
@@ -89,6 +79,11 @@
     </item>
     <item>
       <title>科学技术研究院2026年寒假值班工作安排</title>
+      <link>/publish/kjc/docs/2026-02/2026-02/f57daeb5794c47c597795e83d2bfb22e.pdf</link>
+      <pubDate>Thu, 29 Jan 2026 03:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>科学技术研究院2026年寒假值班工作安排</title>
       <link>/publish/kjc/docs/2026-02/2026-01/ffbcd1f45c044d62ac554792ffd16c30.pdf</link>
       <pubDate>Thu, 29 Jan 2026 03:23:48 +0000</pubDate>
     </item>
@@ -106,6 +101,11 @@
       <title>2025年度重庆市科学技术奖提名公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/864546553d494e818ed5cee615a8544d.htm</link>
       <pubDate>Fri, 30 Jan 2026 07:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度重庆市科学技术奖提名公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/e69e7d2fae9e478e8fa13aa760b991ef.htm</link>
+      <pubDate>Mon, 02 Feb 2026 01:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
