@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 09:54:08 +0000</lastBuildDate>
-    <item>
-      <title>基于角度距离空间一致性的几何拓扑模式星形识别算法</title>
-      <link>https://mp.weixin.qq.com/s/nFDbI-zdt99hqk51FHEzlA</link>
-      <pubDate>Mon, 19 Jan 2026 07:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于多臂老虎机的过程监控自适应报警策略</title>
-      <link>https://mp.weixin.qq.com/s/9NgBNWsHzFt3edl-Elaukw</link>
-      <pubDate>Tue, 20 Jan 2026 01:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 05:06:09 +0000</lastBuildDate>
     <item>
       <title>柱塞气举井群错峰开关井调度优化模型研究及应用</title>
       <link>https://mp.weixin.qq.com/s/cOge29ZJsXIf2-UtwKH2CA</link>
@@ -106,6 +96,16 @@
       <title>SymRefine：一种用于神经网络优化与压缩的符号回归方法</title>
       <link>https://mp.weixin.qq.com/s/_8Wes-WWo79qJDUymUjWxg</link>
       <pubDate>Mon, 02 Feb 2026 04:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向数据不均衡与差异化的煤层气螺杆泵系统故障诊断：一种多尺度残差卷积神经网络方法</title>
+      <link>https://mp.weixin.qq.com/s/htXyNHj9F5-YPrwNcbY-Tg</link>
+      <pubDate>Fri, 06 Feb 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>风光发电与煤层气井螺杆泵排采系统调度优化</title>
+      <link>https://mp.weixin.qq.com/s/jpL0ILHE60GiR9wZEPGhRQ</link>
+      <pubDate>Fri, 06 Feb 2026 10:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
