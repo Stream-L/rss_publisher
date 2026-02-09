@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 09:38:49 +0000</lastBuildDate>
-    <item>
-      <title>柱塞气举井群错峰开关井调度优化模型研究及应用</title>
-      <link>https://mp.weixin.qq.com/s/cOge29ZJsXIf2-UtwKH2CA</link>
-      <pubDate>Tue, 20 Jan 2026 01:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 05:28:03 +0000</lastBuildDate>
     <item>
       <title>罗志磊</title>
       <link>https://www.cup.edu.cn/cupai/szdw/jsml/027f8c411347477698f9f15832f2403c.htm</link>
@@ -106,6 +101,11 @@
       <title>风光发电与煤层气井螺杆泵排采系统调度优化</title>
       <link>https://mp.weixin.qq.com/s/jpL0ILHE60GiR9wZEPGhRQ</link>
       <pubDate>Fri, 06 Feb 2026 10:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SHAP解释法在机械钻速预测中的应用与分析</title>
+      <link>https://mp.weixin.qq.com/s/C6G0DCA79D1coMpx3OdUvQ</link>
+      <pubDate>Sun, 08 Feb 2026 09:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
