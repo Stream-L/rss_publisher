@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 10:05:17 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办2026年新春团拜会</title>
-      <link>http://www.cup.edu.cn/news/sx/cc4398bd9d3e4beb858ba475c9d55400.htm</link>
-      <pubDate>Wed, 28 Jan 2026 09:39:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 05:27:31 +0000</lastBuildDate>
     <item>
       <title>新疆中国石油大学校友会举办“丝路思享”油气产业论坛暨新春茶话会</title>
       <link>http://www.cup.edu.cn/news/sx/45e0319623b04f2391dc0eb90ec09bca.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大组织多校学子赴阿联酋参加2026年哈利法大学第三届冬季青年营</title>
       <link>http://www.cup.edu.cn/news/sx/713f40d769014fc88a087f92a4595c36.htm</link>
       <pubDate>Sun, 08 Feb 2026 14:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开资源勘查工程中俄复合人才实验班座谈会</title>
+      <link>http://www.cup.edu.cn/news/sx/8401c4e92e1043a880e71ca46a6948e9.htm</link>
+      <pubDate>Tue, 10 Feb 2026 02:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
