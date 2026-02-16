@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 09:39:33 +0000</lastBuildDate>
-    <item>
-      <title>第七届中华经典诵写讲大赛校内选拔赛获奖名单</title>
-      <link>http://www.cup.edu.cn/tzygg/34020883a99e4a5a84bb4afa0f861616.htm</link>
-      <pubDate>Thu, 29 Jan 2026 06:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 05:26:59 +0000</lastBuildDate>
     <item>
       <title>“十四五”-本科生院</title>
       <link>https://www.cup.edu.cn/news/sx/ae92a140b3f4451cab9b3e67cc6de8d5.htm</link>
@@ -106,6 +101,11 @@
       <title>校领导带队开展新春前走访慰问活动</title>
       <link>http://www.cup.edu.cn/news/sx/728f45ca66c54bca921fb664413cf8b0.htm</link>
       <pubDate>Thu, 12 Feb 2026 15:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026春节-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Mon, 16 Feb 2026 02:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
