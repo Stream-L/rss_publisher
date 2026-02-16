@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 05:27:50 +0000</lastBuildDate>
-    <item>
-      <title>油气勘探与开发地质系举办第81期学术沙龙活动</title>
-      <link>http://www.cup.edu.cn/geosci/xwdt/84617e9396fb40a49fbf1bba2247f5c5.htm</link>
-      <pubDate>Tue, 23 Dec 2025 01:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 10:02:27 +0000</lastBuildDate>
     <item>
       <title>油气勘探与开发地质系举办第82期学术沙龙活动</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/ce1a134dc1f745d3ba7d10f85f31fc0d.htm</link>
@@ -111,6 +106,11 @@
       <title>刘建妮</title>
       <link>http://www.cup.edu.cn/geosci/szdw/jiaoshou/6ec6a2f855b1408fb289bb66aef7cf5d.htm</link>
       <pubDate>Thu, 12 Feb 2026 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026春节</title>
+      <link>http://www.cup.edu.cn/geosci/sydt/ae905f07b00a4d88b209cdf272bf7372.htm</link>
+      <pubDate>Mon, 16 Feb 2026 04:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

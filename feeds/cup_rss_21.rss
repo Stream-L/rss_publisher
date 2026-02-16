@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 05:26:59 +0000</lastBuildDate>
-    <item>
-      <title>“十四五”-本科生院</title>
-      <link>https://www.cup.edu.cn/news/sx/ae92a140b3f4451cab9b3e67cc6de8d5.htm</link>
-      <pubDate>Thu, 29 Jan 2026 08:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 10:01:42 +0000</lastBuildDate>
     <item>
       <title>2026年后勤寒假保障服务指南</title>
       <link>https://mp.weixin.qq.com/s/2cAdlqkLMonKN86pdIC3ZA</link>
@@ -106,6 +101,11 @@
       <title>2026春节-轮播图</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Mon, 16 Feb 2026 02:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校长金衍带队赴自然资源部油气资源战略研究中心走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/508ddad550b843be8603944a90a9d0d0.htm</link>
+      <pubDate>Mon, 16 Feb 2026 08:10:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
