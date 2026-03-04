@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 09:20:25 +0000</lastBuildDate>
-    <item>
-      <title>1-关于第十届教育部科学研究优秀成果奖（人文社会科学）第二轮推荐成果的公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/c1252f60b0c146d0a73825ccf8934dba.htm</link>
-      <pubDate>Mon, 15 Dec 2025 11:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025年度辽宁省科学技术奖公示</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/db08b913612d4d7b9a47b70f2bc9915b.htm</link>
-      <pubDate>Wed, 24 Dec 2025 02:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Mar 2026 04:34:37 +0000</lastBuildDate>
     <item>
       <title>2025年度辽宁省科学技术奖公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/8f4806f890e54751a6fdb38bc1864668.htm</link>
@@ -103,9 +93,19 @@
       <pubDate>Thu, 26 Feb 2026 15:13:00 +0000</pubDate>
     </item>
     <item>
+      <title>2025年海南省科学技术奖提名公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/10e615cf3e4e4c7ca44b2f579c772708.htm</link>
+      <pubDate>Sun, 01 Mar 2026 02:04:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2025年度海南省科学技术奖公示</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/ae888da3df0f4706bbed5b5cef28f5d6.htm</link>
       <pubDate>Mon, 02 Mar 2026 07:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025年度海南省科学技术奖公示</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/63449b077f95440a97ecab171d1d0c0b.htm</link>
+      <pubDate>Wed, 04 Mar 2026 01:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

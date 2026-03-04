@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 09:22:21 +0000</lastBuildDate>
-    <item>
-      <title>机理与数据驱动的LNG液化过程关键参数预测</title>
-      <link>https://mp.weixin.qq.com/s/pXiMmQa_lQQoZcI7CZE6ww</link>
-      <pubDate>Thu, 22 Jan 2026 00:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Mar 2026 04:36:27 +0000</lastBuildDate>
     <item>
       <title>面向化工过程预测的自适应图结构学习门控循环知识引导注意力网络</title>
       <link>https://mp.weixin.qq.com/s/9tFurdfPNfjmPc0W_Iz4mw</link>
@@ -106,6 +101,11 @@
       <title>基于深度Q网络的页岩气井压裂参数优化设计方法</title>
       <link>https://mp.weixin.qq.com/s/4shGMfP4wy5LOeXOKT-3dw</link>
       <pubDate>Mon, 02 Mar 2026 14:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LSTM驱动的绿色能源-氢-甲醇一体化系统预测调度</title>
+      <link>https://mp.weixin.qq.com/s/Po3BmmZzJsm3akkTxUrCtA</link>
+      <pubDate>Tue, 03 Mar 2026 05:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
