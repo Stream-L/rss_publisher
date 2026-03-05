@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 09:20:49 +0000</lastBuildDate>
-    <item>
-      <title>校长金衍带队赴中国海油深圳公司走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/ed427895b12d4266a67e6607d1864e42.htm</link>
-      <pubDate>Thu, 29 Jan 2026 14:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>油气资源与工程全国重点实验室2025年度学术委员会暨战略咨询会议在中石大召开</title>
-      <link>http://www.cup.edu.cn/news/sx/47b1682f1f854979bf976b3d3a646700.htm</link>
-      <pubDate>Thu, 29 Jan 2026 14:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大北京市政协委员赴会履职</title>
-      <link>http://www.cup.edu.cn/news/sx/175a428e443548e187b6c4cd678255b3.htm</link>
-      <pubDate>Fri, 30 Jan 2026 10:16:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 04:37:12 +0000</lastBuildDate>
     <item>
       <title>中石大召开第33届地球物理测井年会</title>
       <link>http://www.cup.edu.cn/news/sx/bc2388730ee94d1782ff7cd41c5c702a.htm</link>
@@ -103,9 +88,24 @@
       <pubDate>Mon, 16 Feb 2026 08:10:05 +0000</pubDate>
     </item>
     <item>
+      <title>中石大获评中宣部“学习强国”学习平台“最具传播力高校”</title>
+      <link>http://www.cup.edu.cn/news/sx/6661ec7841f2421092143b576a97456e.htm</link>
+      <pubDate>Mon, 02 Mar 2026 16:29:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2026元宵节-轮播图</title>
       <link>https://mp.weixin.qq.com/s/3bn6rnwXwhcIGMuvdPGctQ</link>
       <pubDate>Tue, 03 Mar 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大两位全国政协委员赴会履职</title>
+      <link>http://www.cup.edu.cn/news/sx/e2b5f30faeca461f9bfa3e1f0a672ec6.htm</link>
+      <pubDate>Wed, 04 Mar 2026 08:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>聚焦全国两会</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Wed, 04 Mar 2026 15:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
