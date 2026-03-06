@@ -6,32 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 09:22:09 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开第33届地球物理测井年会</title>
-      <link>http://www.cup.edu.cn/news/sx/bc2388730ee94d1782ff7cd41c5c702a.htm</link>
-      <pubDate>Sat, 31 Jan 2026 04:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油工程设计大赛组委会召开2026年第一次会议</title>
-      <link>http://www.cup.edu.cn/news/sx/80fb804ac6f040b9b4500e0f2641f237.htm</link>
-      <pubDate>Sat, 31 Jan 2026 08:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>川渝两地组织中国石油大学校友会年会并召开助力学校高质量发展座谈会</title>
-      <link>http://www.cup.edu.cn/news/sx/b012eda3bd904ae1be2057236b1215b2.htm</link>
-      <pubDate>Sat, 31 Jan 2026 09:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开人工智能赋能教育教学改革研讨会</title>
-      <link>http://www.cup.edu.cn/news/sx/8dfa89bc7c4f4b5ebf07cc191a4acdb5.htm</link>
-      <pubDate>Sun, 01 Feb 2026 02:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大与中曼石油天然气集团股份有限公司签署全面战略合作协议</title>
-      <link>http://www.cup.edu.cn/news/sx/6f382ce1909949f7b9664d7eb1a54e03.htm</link>
-      <pubDate>Sun, 01 Feb 2026 02:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 04:36:31 +0000</lastBuildDate>
     <item>
       <title>中石大召开数理基础能力提升专题座谈会</title>
       <link>http://www.cup.edu.cn/news/sx/19dc9bf9b996427eb839229d429e5e7e.htm</link>
@@ -106,6 +81,31 @@
       <title>聚焦全国两会</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Wed, 04 Mar 2026 15:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）干部师生热议全国两会</title>
+      <link>http://www.cup.edu.cn/news/sx/a5f154d620324aec8cd6877a7c8e277d.htm</link>
+      <pubDate>Thu, 05 Mar 2026 06:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>飞雪待君归-轮播图</title>
+      <link>https://mp.weixin.qq.com/s/emR3--IgkXgMGtpZ8ZabQA</link>
+      <pubDate>Thu, 05 Mar 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）塔尔萨国际能源学院揭牌成立-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Thu, 05 Mar 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>学雷锋·文明实践我行动-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Thu, 05 Mar 2026 10:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新学期来啦</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Thu, 05 Mar 2026 11:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
