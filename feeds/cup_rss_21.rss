@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 09:19:33 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开数理基础能力提升专题座谈会</title>
-      <link>http://www.cup.edu.cn/news/sx/19dc9bf9b996427eb839229d429e5e7e.htm</link>
-      <pubDate>Sun, 01 Feb 2026 02:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办国家自然科学基金创新研究群体项目“新型射流钻井完井”年度进展研讨会</title>
-      <link>http://www.cup.edu.cn/news/sx/676c5e6d3f884e1db09a5316c81829bd.htm</link>
-      <pubDate>Mon, 02 Feb 2026 03:02:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 04:33:15 +0000</lastBuildDate>
     <item>
       <title>中石大召开2026年春季务虚会暨高质量编制“十五五”规划推进会</title>
       <link>http://www.cup.edu.cn/news/sx/427edb68624d41f3b735a0e87a029230.htm</link>
@@ -106,6 +96,16 @@
       <title>新学期来啦</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Thu, 05 Mar 2026 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）塔尔萨国际能源学院正式揭牌成立</title>
+      <link>http://www.cup.edu.cn/news/sx/c6117cc182c94e02880e53c492cb1a8a.htm</link>
+      <pubDate>Fri, 06 Mar 2026 07:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教师在《Nature》发表通讯评论文章 呼吁建立全球气候科研保护机制</title>
+      <link>http://www.cup.edu.cn/news/sx/1de75b6d04f94e4f85b2598e00630c5f.htm</link>
+      <pubDate>Fri, 06 Mar 2026 10:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
