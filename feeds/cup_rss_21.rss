@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 09:13:03 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开2026年春季务虚会暨高质量编制“十五五”规划推进会</title>
-      <link>http://www.cup.edu.cn/news/sx/427edb68624d41f3b735a0e87a029230.htm</link>
-      <pubDate>Mon, 02 Feb 2026 03:02:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 04:36:00 +0000</lastBuildDate>
     <item>
       <title>中石大与泉州市人民政府签署战略合作协议</title>
       <link>http://www.cup.edu.cn/news/sx/63a457449a9a42db844705114121c626.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大教师在《Nature》发表通讯评论文章 呼吁建立全球气候科研保护机制</title>
       <link>http://www.cup.edu.cn/news/sx/1de75b6d04f94e4f85b2598e00630c5f.htm</link>
       <pubDate>Fri, 06 Mar 2026 10:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>庆祝第116个“三八”国际劳动妇女节-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Sat, 07 Mar 2026 07:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
