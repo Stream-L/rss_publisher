@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 09:12:34 +0000</lastBuildDate>
-    <item>
-      <title>中石大与泉州市人民政府签署战略合作协议</title>
-      <link>http://www.cup.edu.cn/news/sx/63a457449a9a42db844705114121c626.htm</link>
-      <pubDate>Sat, 07 Feb 2026 07:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大获批建设两个北京市重点实验室</title>
-      <link>http://www.cup.edu.cn/news/sx/4241923fb426480282f9dfec473fc06b.htm</link>
-      <pubDate>Sat, 07 Feb 2026 07:22:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 04:39:56 +0000</lastBuildDate>
     <item>
       <title>中国石油集团物探重点实验室召开2025年度学术年会暨学术委员会会议</title>
       <link>http://www.cup.edu.cn/news/sx/898afcc55a4547ad950a52e5498d6e33.htm</link>
@@ -106,6 +96,16 @@
       <title>庆祝第116个“三八”国际劳动妇女节-轮播图</title>
       <link>https://www.cup.edu.cn/</link>
       <pubDate>Sat, 07 Mar 2026 07:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大参加昌平区“一校一策”校城融合工作推进会</title>
+      <link>http://www.cup.edu.cn/news/sx/db4bc8bcc910474cbc389a2c91f24c97.htm</link>
+      <pubDate>Mon, 09 Mar 2026 00:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大2个项目获教育部2025年主题案例立项</title>
+      <link>http://www.cup.edu.cn/news/sx/8c6f18282cbe4660bc601e4083310a71.htm</link>
+      <pubDate>Mon, 09 Mar 2026 00:56:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
