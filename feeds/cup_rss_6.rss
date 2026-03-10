@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 09:24:27 +0000</lastBuildDate>
-    <item>
-      <title>中石大人工智能通识课全面开课</title>
-      <link>https://www.cup.edu.cn/news/sx/a554dc93dcfa4b5a82e89719e9be358f.htm</link>
-      <pubDate>Fri, 12 Dec 2025 08:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开本科招生工作会</title>
-      <link>http://www.cup.edu.cn/jwc/gddt/3c200d9416de4aadb3d2b21805e53260.htm</link>
-      <pubDate>Tue, 30 Dec 2025 03:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开本科教育教学质量分析会</title>
-      <link>https://www.cup.edu.cn/news/sx/be8ccea41218463c8b409825df85aff5.htm</link>
-      <pubDate>Wed, 31 Dec 2025 07:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 04:35:03 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年春季学期选课工作通知</title>
       <link>http://www.cup.edu.cn/jwc/notice/04ef15cc61d9465b8f0fd30ed86d433c.htm</link>
@@ -106,6 +91,21 @@
       <title>2025-2026学年春季学期在线课程网上学习与考试的通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/48490715af514dae80c85a5c83cf7d7e.htm</link>
       <pubDate>Mon, 09 Mar 2026 00:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新学期新气象，本科教学开局良好</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/f3567a7f50a94880862f1c7ab145fe6a.htm</link>
+      <pubDate>Mon, 09 Mar 2026 06:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026学年春季学期《金工实习》选课通知</title>
+      <link>http://www.cup.edu.cn/jwc/qbtz/838e13ccba3c4c7ab842be6a7db74545.htm</link>
+      <pubDate>Tue, 10 Mar 2026 02:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年上半年全国大学英语四、六级考试报名通知</title>
+      <link>http://www.cup.edu.cn/jwc/notice/32169261e8fa4ef8a151706a4b7052e4.htm</link>
+      <pubDate>Tue, 10 Mar 2026 02:21:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
