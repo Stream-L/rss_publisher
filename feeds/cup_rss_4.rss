@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）党委统战部 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 09:21:01 +0000</lastBuildDate>
-    <item>
-      <title>民盟中石大支部召开届中选举大会</title>
-      <link>https://www.cup.edu.cn/news/sx/32092ac7a575426f9b0c1c8d002d4dcf.htm</link>
-      <pubDate>Wed, 19 Jun 2024 02:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 04:35:27 +0000</lastBuildDate>
     <item>
       <title>中石大举办民族宗教工作专题培训</title>
       <link>https://www.cup.edu.cn/news/sx/cc9a9b9aadcd4d94a281a54b820bef0b.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大昌平区人大代表、政协委员赴会履职</title>
       <link>https://www.cup.edu.cn/news/sx/731d546245c64770a808e17c994b154d.htm</link>
       <pubDate>Tue, 20 Jan 2026 07:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大两位全国政协委员赴会履职</title>
+      <link>https://www.cup.edu.cn/news/sx/e2b5f30faeca461f9bfa3e1f0a672ec6.htm</link>
+      <pubDate>Wed, 04 Mar 2026 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

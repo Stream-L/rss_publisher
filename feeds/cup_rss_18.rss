@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 09:22:11 +0000</lastBuildDate>
-    <item>
-      <title>关于开通测试国际科研加速通道的通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/9c75cf259f23471d8f2837ca4da54087.htm</link>
-      <pubDate>Thu, 04 Dec 2025 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【网络安全小课堂】“钓鱼邮件”演练，你上钩了吗？</title>
-      <link>https://mp.weixin.qq.com/s/YUY6B0G7kjv4kG8i2Sowrw</link>
-      <pubDate>Fri, 05 Dec 2025 08:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 04:36:37 +0000</lastBuildDate>
     <item>
       <title>信息化管理处组织开展网络安全专项培训</title>
       <link>https://www.cup.edu.cn/nic/xwdt/12cfc9b86cb14eba8c233c997a0901e3.htm</link>
@@ -107,6 +97,16 @@
       <title>常见问题</title>
       <link>https://www.cup.edu.cn/nic/ggfw/grfw/kjkjtd/kjcjwt/64f335d51aaf4b63a0c18c0237d2a391.blk.htm</link>
       <pubDate>Mon, 02 Feb 2026 03:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Nginx UI 信息泄露漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/2ebd334d60824866992f96e472e5fddc.htm</link>
+      <pubDate>Tue, 10 Mar 2026 08:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】OpenClaw 安全性风险全链路分析及提示</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/ecc2c84c0cc142629b68fde2b32532eb.htm</link>
+      <pubDate>Wed, 11 Mar 2026 01:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
