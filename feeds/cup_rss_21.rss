@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 09:33:17 +0000</lastBuildDate>
-    <item>
-      <title>学雷锋·文明实践我行动-轮播图</title>
-      <link>https://www.cup.edu.cn/</link>
-      <pubDate>Thu, 05 Mar 2026 10:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 04:39:02 +0000</lastBuildDate>
     <item>
       <title>新学期来啦</title>
       <link>https://www.cup.edu.cn/</link>
@@ -106,6 +101,11 @@
       <title>中石大召开2026年工作部署会</title>
       <link>http://www.cup.edu.cn/news/sx/b8890c4fe43c4c369bba7748450da687.htm</link>
       <pubDate>Sun, 15 Mar 2026 06:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于组织开展国家安全宣传作品征集活动的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/ba11cece95b84786a19d0ee0e1260b85.htm</link>
+      <pubDate>Mon, 16 Mar 2026 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

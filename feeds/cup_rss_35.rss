@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 09:34:33 +0000</lastBuildDate>
-    <item>
-      <title>2026年赫文豪因公出国公示</title>
-      <link>https://www.cup.edu.cn/science//gjjy/778bdd35df004a6eb91b761c59eddbcf.blk.htm</link>
-      <pubDate>Thu, 25 Dec 2025 08:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 04:40:05 +0000</lastBuildDate>
     <item>
       <title>理学院领导看望退休教师</title>
       <link>https://www.cup.edu.cn/science//xyxw/78f24f522d694eaa83242b02ccaa7581.htm</link>
@@ -106,6 +101,11 @@
       <title>理学院关于2025-2026学年春季学期本科生课程B类助管招聘通知</title>
       <link>https://www.cup.edu.cn/science//tzgg/5b6244f14f48432f95721f92b60d52d9.htm</link>
       <pubDate>Thu, 12 Mar 2026 03:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院关于做好2026年6月研究生学位工作的通知</title>
+      <link>https://www.cup.edu.cn/science//yjsjy/yjsjx/57bf915fadeb45f5a768c0157bf2793a.htm</link>
+      <pubDate>Tue, 17 Mar 2026 01:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

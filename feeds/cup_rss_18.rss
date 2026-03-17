@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 09:33:01 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】帆软FineReport SQL注入漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/477097fc229d4324b315a0952720c5b8.htm</link>
-      <pubDate>Thu, 18 Dec 2025 02:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】Fortinet多产品身份验证绕过漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/70675f288bd9482d9985c1879dfa536f.htm</link>
-      <pubDate>Tue, 23 Dec 2025 02:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】微软重要安全漏洞通告</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/1567a6bdd0c147b3b562b8e697ffc94f.htm</link>
-      <pubDate>Tue, 23 Dec 2025 03:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 04:38:48 +0000</lastBuildDate>
     <item>
       <title>关于2026年3月份全国计算机等级考试报名的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/7e260607bd8e48c59c6d7aae2aa572fc.htm</link>
@@ -107,6 +92,21 @@
       <title>关于规范使用 OpenClaw 的安全提醒</title>
       <link>https://mp.weixin.qq.com/s/3LryclOenbVMDqGmr88E8g</link>
       <pubDate>Mon, 16 Mar 2026 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>服务介绍</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/dzqz/qzfwjs/fc86c36ab1d6433bbbe71a9bd2bba2fa.htm</link>
+      <pubDate>Mon, 16 Mar 2026 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/dzqz/qzcjwt/05b1166d4bf945d49df88035bad4aff6.htm</link>
+      <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/dzqz/qzsysm/74d73c9e7e244eac8b435d8e5e1e0cc2.htm</link>
+      <pubDate>Mon, 16 Mar 2026 08:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
