@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 09:24:54 +0000</lastBuildDate>
-    <item>
-      <title>关于公示第六届中国石油大学（北京）教师教学创新大赛入围现场评审阶段教师团队名单的通知</title>
-      <link>http://www.cup.edu.cn/jwc/qbtz/e873dfae6db743ecaf6eab380eb243ae.htm</link>
-      <pubDate>Fri, 09 Jan 2026 08:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于2026年法赫德国王石油与矿业大学交换项目的报名通知</title>
-      <link>http://www.cup.edu.cn/jwc/gjjy2/086c5f023b574e478afed7abe93367bd.htm</link>
-      <pubDate>Mon, 12 Jan 2026 02:39:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 04:41:55 +0000</lastBuildDate>
     <item>
       <title>本科生参加2025-2026学年春季学期开学初补缓考的通知</title>
       <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/d5a221afb71a4274a6a1cd9c40f64d3d.blk.htm</link>
@@ -106,6 +96,16 @@
       <title>关于推荐参加第六届北京高校教师教学创新大赛教师团队的公示</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/8fb877c739b44e45b5dea0f2c8910601.htm</link>
       <pubDate>Mon, 16 Mar 2026 08:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026学年春季学期本科课程开课一览</title>
+      <link>http://www.cup.edu.cn/jwc/jxjs/gbkkyl/a9cd75299c214cae9b662fd48ad1dbb1.blk.htm</link>
+      <pubDate>Tue, 17 Mar 2026 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026学年春季学期机房课表</title>
+      <link>http://www.cup.edu.cn/jwc/jxjs/gbjfkb/d66915385d534cd29fb370250ece2b8a.blk.htm</link>
+      <pubDate>Tue, 17 Mar 2026 08:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

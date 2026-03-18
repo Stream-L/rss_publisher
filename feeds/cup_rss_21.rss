@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 09:25:57 +0000</lastBuildDate>
-    <item>
-      <title>新学期来啦</title>
-      <link>https://www.cup.edu.cn/</link>
-      <pubDate>Thu, 05 Mar 2026 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油大学（北京）塔尔萨国际能源学院正式揭牌成立</title>
-      <link>http://www.cup.edu.cn/news/sx/c6117cc182c94e02880e53c492cb1a8a.htm</link>
-      <pubDate>Fri, 06 Mar 2026 07:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大教师在《Nature》发表通讯评论文章 呼吁建立全球气候科研保护机制</title>
-      <link>http://www.cup.edu.cn/news/sx/1de75b6d04f94e4f85b2598e00630c5f.htm</link>
-      <pubDate>Fri, 06 Mar 2026 10:04:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 04:43:09 +0000</lastBuildDate>
     <item>
       <title>庆祝第116个“三八”国际劳动妇女节-轮播图</title>
       <link>https://www.cup.edu.cn/</link>
@@ -103,9 +88,24 @@
       <pubDate>Sun, 15 Mar 2026 06:14:40 +0000</pubDate>
     </item>
     <item>
+      <title>中石大举办“定享青春 悦动未来”校园定向赛活动</title>
+      <link>http://www.cup.edu.cn/news/sx/d4f31eb8d1ad407d885b6262736132ac.htm</link>
+      <pubDate>Mon, 16 Mar 2026 01:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大组织开展健康教育主题“开学第一课”系列活动</title>
+      <link>http://www.cup.edu.cn/news/sx/ddeea412ea574b70b9fecd4ed8e917e0.htm</link>
+      <pubDate>Mon, 16 Mar 2026 08:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>关于组织开展国家安全宣传作品征集活动的通知</title>
       <link>http://www.cup.edu.cn/tzygg/ba11cece95b84786a19d0ee0e1260b85.htm</link>
       <pubDate>Mon, 16 Mar 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第三届全国大学生职业规划大赛北京市赛成长赛道高教组总决赛在中石大举办</title>
+      <link>http://www.cup.edu.cn/news/sx/b5a7dd37991a47bd958ea03828d88111.htm</link>
+      <pubDate>Tue, 17 Mar 2026 11:24:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
