@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 09:20:48 +0000</lastBuildDate>
-    <item>
-      <title>直击开学第一天！满格上线！</title>
-      <link>http://www.cup.edu.cn/news/sx/02bad1083aa443788fac8e8c8a58bec0.htm</link>
-      <pubDate>Tue, 10 Mar 2026 00:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 04:34:25 +0000</lastBuildDate>
     <item>
       <title>中石大举办庆祝“三八”国际妇女节系列活动</title>
       <link>http://www.cup.edu.cn/news/sx/d6947a3984b54c11b39aafc8b5ab5636.htm</link>
@@ -106,6 +101,11 @@
       <title>关于2026年第八届全国大学生语言文字能力大赛校内报名的通知</title>
       <link>https://www.cup.edu.cn/tiyubu/info/8e3c420d4fc94e69a4598425aafabbef.htm</link>
       <pubDate>Thu, 19 Mar 2026 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大与北京一零一中、昌平区教委签署战略合作协议</title>
+      <link>http://www.cup.edu.cn/news/sx/3674a8ea60014f069d9d0d33651a1c77.htm</link>
+      <pubDate>Fri, 20 Mar 2026 07:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
