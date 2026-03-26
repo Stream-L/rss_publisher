@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 09:24:11 +0000</lastBuildDate>
-    <item>
-      <title>科学技术研究院2026年寒假值班工作安排</title>
-      <link>/publish/kjc/docs/2026-02/2026-02/f57daeb5794c47c597795e83d2bfb22e.pdf</link>
-      <pubDate>Thu, 29 Jan 2026 03:23:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 04:49:30 +0000</lastBuildDate>
     <item>
       <title>科学技术研究院2026年寒假值班工作安排</title>
       <link>/publish/kjc/docs/2026-02/2026-01/ffbcd1f45c044d62ac554792ffd16c30.pdf</link>
@@ -106,6 +101,11 @@
       <title>2026年度湖北省科学技术奖提名公示4</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/4bcee100ea3c4ae9a8ecf9ed2ddacff7.htm</link>
       <pubDate>Tue, 24 Mar 2026 09:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）合作知识产权代理公司清单</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/61d74d229e7c4b658b74e11fa0d1ec22.htm</link>
+      <pubDate>Wed, 25 Mar 2026 07:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

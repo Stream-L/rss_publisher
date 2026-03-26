@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 09:26:05 +0000</lastBuildDate>
-    <item>
-      <title>面向数据不均衡与差异化的煤层气螺杆泵系统故障诊断：一种多尺度残差卷积神经网络方法</title>
-      <link>https://mp.weixin.qq.com/s/htXyNHj9F5-YPrwNcbY-Tg</link>
-      <pubDate>Fri, 06 Feb 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>风光发电与煤层气井螺杆泵排采系统调度优化</title>
-      <link>https://mp.weixin.qq.com/s/jpL0ILHE60GiR9wZEPGhRQ</link>
-      <pubDate>Fri, 06 Feb 2026 10:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 04:52:20 +0000</lastBuildDate>
     <item>
       <title>SHAP解释法在机械钻速预测中的应用与分析</title>
       <link>https://mp.weixin.qq.com/s/C6G0DCA79D1coMpx3OdUvQ</link>
@@ -106,6 +96,16 @@
       <title>中国石油大学（北京）人工智能学院2026年硕士研究生（第一志愿）招生复试细则</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/81c94e57b3e542e19e16ac3eab2963a7.htm</link>
       <pubDate>Mon, 23 Mar 2026 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能学院2026年博士研究生报考通知（第二批次）</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/64eafee575cd4e11b9098f88eba741a5.htm</link>
+      <pubDate>Wed, 25 Mar 2026 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于 Wasserstein 距离引导的三分支网络在变化点检测中的应用</title>
+      <link>https://mp.weixin.qq.com/s/xxKoYbMfXRSMLPMW00MqpQ</link>
+      <pubDate>Wed, 25 Mar 2026 07:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
