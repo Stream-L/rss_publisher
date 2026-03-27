@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 09:28:52 +0000</lastBuildDate>
-    <item>
-      <title>关于2026年3月份全国计算机等级考试报名的通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/7e260607bd8e48c59c6d7aae2aa572fc.htm</link>
-      <pubDate>Mon, 05 Jan 2026 03:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 04:50:30 +0000</lastBuildDate>
     <item>
       <title>教育部关于发布《教育数据分类分级指南》教育行业标准的通知</title>
       <link>https://www.cup.edu.cn/nic/zczd/xszc/cf804743a2ee4a2f9edc557093be0b94.htm</link>
@@ -107,6 +102,11 @@
       <title>使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/dzqz/qzsysm/74d73c9e7e244eac8b435d8e5e1e0cc2.htm</link>
       <pubDate>Mon, 16 Mar 2026 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于第77次计算机等级考试准考证打印及模拟考试的相关通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/8458d4e4eccc45ba9a87c81245f0ebbb.htm</link>
+      <pubDate>Thu, 26 Mar 2026 06:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
