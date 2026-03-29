@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 09:19:22 +0000</lastBuildDate>
-    <item>
-      <title>基于深度Q网络的页岩气井压裂参数优化设计方法</title>
-      <link>https://mp.weixin.qq.com/s/4shGMfP4wy5LOeXOKT-3dw</link>
-      <pubDate>Mon, 02 Mar 2026 14:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 04:53:44 +0000</lastBuildDate>
     <item>
       <title>LSTM驱动的绿色能源-氢-甲醇一体化系统预测调度</title>
       <link>https://mp.weixin.qq.com/s/Po3BmmZzJsm3akkTxUrCtA</link>
@@ -106,6 +101,11 @@
       <title>【学院头条】1金2银！学院学子在第三届全国大学生职业规划大赛北京市赛中斩获佳绩</title>
       <link>https://www.cup.edu.cn/cupai/xw/9f5ec907b9764d3a952bbac5663dc2d6.htm</link>
       <pubDate>Fri, 27 Mar 2026 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【党建思政】人工智能学院开展考研复试分享交流会</title>
+      <link>https://www.cup.edu.cn/cupai/xw/6c0901417ad24f139bf6c64f1f7d0910.htm</link>
+      <pubDate>Sat, 28 Mar 2026 14:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
