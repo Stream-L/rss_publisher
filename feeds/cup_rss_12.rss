@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 09:40:18 +0000</lastBuildDate>
-    <item>
-      <title>关于中油大厦停水的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/1fd7c831d8d747d2bd794c4f7a0a6004.htm</link>
-      <pubDate>Tue, 02 Dec 2025 07:56:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Mar 2026 04:50:54 +0000</lastBuildDate>
     <item>
       <title>关于化工楼A、B、C座停水的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/02a4b5f9899845b9b743bb5bd40e9c9b.htm</link>
@@ -106,6 +101,11 @@
       <title>教室借用管理规定</title>
       <link>http://www.cup.edu.cn/houqin/gzzd/b4bbcb0344e840ea9a065c9de5edc805.htm</link>
       <pubDate>Sat, 28 Mar 2026 06:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于石油大院班车更换车型的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/7253fe81049c4da08fe14d893e77b87c.htm</link>
+      <pubDate>Mon, 30 Mar 2026 07:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
