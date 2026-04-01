@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 09:31:58 +0000</lastBuildDate>
-    <item>
-      <title>教育部关于发布《教育数据分类分级指南》教育行业标准的通知</title>
-      <link>https://www.cup.edu.cn/nic/zczd/xszc/cf804743a2ee4a2f9edc557093be0b94.htm</link>
-      <pubDate>Mon, 05 Jan 2026 08:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 05:00:53 +0000</lastBuildDate>
     <item>
       <title>教育部关于发布《大屏幕交互式智能教学终端通用要求》教育行业标准的通知</title>
       <link>https://www.cup.edu.cn/nic/zczd/xszc/fe5f2b25e2384401a79e8ce4925b33b8.htm</link>
@@ -107,6 +102,11 @@
       <title>关于第77次计算机等级考试准考证打印及模拟考试的相关通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/8458d4e4eccc45ba9a87c81245f0ebbb.htm</link>
       <pubDate>Thu, 26 Mar 2026 06:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【安全风险通告】Vim编辑器命令注入漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/17036f9c34424802b202bee9a9ce673d.htm</link>
+      <pubDate>Wed, 01 Apr 2026 01:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
