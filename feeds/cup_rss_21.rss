@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 09:29:41 +0000</lastBuildDate>
-    <item>
-      <title>中石大5门全英文慕课上线印尼国家数字教育平台</title>
-      <link>http://www.cup.edu.cn/news/sx/1b590e9d03a7419ba4f82073aee3897c.htm</link>
-      <pubDate>Thu, 26 Mar 2026 00:47:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于第77次计算机等级考试准考证打印及模拟考试的相关通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/8458d4e4eccc45ba9a87c81245f0ebbb.htm</link>
-      <pubDate>Thu, 26 Mar 2026 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国国际青年交流中心来中石大走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/e61190caca554807ab313624bfa7876e.htm</link>
-      <pubDate>Thu, 26 Mar 2026 08:41:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 04:48:58 +0000</lastBuildDate>
     <item>
       <title>中石大召开3月份校园安全生产工作会议</title>
       <link>http://www.cup.edu.cn/news/sx/5838d40fd145481b911688a92436a006.htm</link>
@@ -106,6 +91,21 @@
       <title>中国石油大学（北京）2026年春季田径运动会竞赛规程</title>
       <link>http://www.cup.edu.cn/tzygg/979a4abc9d504a469ced0bc9da350ba4.htm</link>
       <pubDate>Wed, 01 Apr 2026 03:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于北校园全域停水的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/3a289c996b2944c780e86d93e92c77f1.htm</link>
+      <pubDate>Thu, 02 Apr 2026 06:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国矿业大学校长张吉雄一行来中石大走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/655132aec3394e65a4dbfdf44ce4a002.htm</link>
+      <pubDate>Fri, 03 Apr 2026 00:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开实验室安全专项巡察进驻动员会</title>
+      <link>http://www.cup.edu.cn/news/sx/428e121672c3403ca0ce1ff885d860f3.htm</link>
+      <pubDate>Fri, 03 Apr 2026 00:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

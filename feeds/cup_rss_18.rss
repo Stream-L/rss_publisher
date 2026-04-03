@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 09:29:26 +0000</lastBuildDate>
-    <item>
-      <title>教育部关于发布《大屏幕交互式智能教学终端通用要求》教育行业标准的通知</title>
-      <link>https://www.cup.edu.cn/nic/zczd/xszc/fe5f2b25e2384401a79e8ce4925b33b8.htm</link>
-      <pubDate>Mon, 05 Jan 2026 08:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】n8n远程代码执行漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/926a5deec6654bdba8dfed52533b9c63.htm</link>
-      <pubDate>Wed, 14 Jan 2026 01:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】Apache Struts XML 外部实体注入漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/851b6999d1c2460c847e1a1536dda5d3.htm</link>
-      <pubDate>Mon, 19 Jan 2026 07:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 04:48:42 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Oracle WebLogic Server Proxy Plug-in 身份认证绕过漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/d0ecaf23530f42d59973e76ed77ea5b3.htm</link>
@@ -107,6 +92,21 @@
       <title>【安全风险通告】Vim编辑器命令注入漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/17036f9c34424802b202bee9a9ce673d.htm</link>
       <pubDate>Wed, 01 Apr 2026 01:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/sdrj/sdsysm/b4e60b7f4a574355ab037d9da403c12b.htm</link>
+      <pubDate>Thu, 02 Apr 2026 01:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/sdrj/sdcjwt/5b07a9459e7749959e311c73aa7030fd.htm</link>
+      <pubDate>Thu, 02 Apr 2026 10:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>服务介绍</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/sdrj/sdfwjs/f6aa10e26000408d86052b62f84700d9.htm</link>
+      <pubDate>Fri, 03 Apr 2026 01:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
