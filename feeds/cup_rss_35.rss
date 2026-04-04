@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 09:27:46 +0000</lastBuildDate>
-    <item>
-      <title>关于拟同意刘欣同志转为中共正式党员的公示</title>
-      <link>https://www.cup.edu.cn/science//dwgz/ab7f7bbd2f574442a28ee5e1b8fc5de6.htm</link>
-      <pubDate>Tue, 10 Mar 2026 01:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 04:39:32 +0000</lastBuildDate>
     <item>
       <title>理学院关于2025-2026学年春季学期本科生课程B类助教招聘通知</title>
       <link>https://www.cup.edu.cn/science//tzgg/6661294d44404a77b7493449c30b8bdd.htm</link>
@@ -106,6 +101,11 @@
       <title>实验室安全巡察专项公告</title>
       <link>https://www.cup.edu.cn/science//tzgg/83b4094fa51444c295db78bd1cc0456c.htm</link>
       <pubDate>Wed, 01 Apr 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）理学院2026年硕士研究生接收调剂生通知</title>
+      <link>https://www.cup.edu.cn/science//tzgg/5f07a69ed29a44c3889c28eeb70de324.htm</link>
+      <pubDate>Fri, 03 Apr 2026 09:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
