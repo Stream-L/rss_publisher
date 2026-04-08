@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 09:33:12 +0000</lastBuildDate>
-    <item>
-      <title>关于石油大院班车更换车型的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/3d13eb5142dc4c2c9d6c2daa0136bcd7.htm</link>
-      <pubDate>Mon, 30 Mar 2026 07:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 04:53:10 +0000</lastBuildDate>
     <item>
       <title>2026届毕业生春季五校联合双选会在中石大举办</title>
       <link>http://www.cup.edu.cn/news/sx/57425ba7cf934b4ebe6bc4654e83d3c4.htm</link>
@@ -106,6 +101,11 @@
       <title>关于举办2026年“校园印记 创意启新”文创设计大赛的通知</title>
       <link>http://www.cup.edu.cn/tzygg/3bf3d650a93a4b08a5fae038cbdac903.htm</link>
       <pubDate>Tue, 07 Apr 2026 01:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于举办第一期“后勤处长面对面”（食堂专场）的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/d474363977f2493aa0e9f859be60e2a3.htm</link>
+      <pubDate>Tue, 07 Apr 2026 09:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
