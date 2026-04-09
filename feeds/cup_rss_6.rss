@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 09:31:46 +0000</lastBuildDate>
-    <item>
-      <title>本科教育教学管理系统运维通知</title>
-      <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/5d221b39164f494aabf6d4265af77c4b.blk.htm</link>
-      <pubDate>Thu, 29 Jan 2026 09:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于推荐国家级本科规划教材的公示</title>
-      <link>http://www.cup.edu.cn/jwc/jxyj1/695c1ef3bc1547e3a0f5aff4057b7d1c.blk.htm</link>
-      <pubDate>Thu, 29 Jan 2026 13:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 04:49:41 +0000</lastBuildDate>
     <item>
       <title>关于公布第六届中国石油大学（北京）教师教学创新大赛结果的通知</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/9f032e2d42e2437691153a561f77121d.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大在北京高校本科教学项目建设评选中获佳绩</title>
       <link>http://www.cup.edu.cn/jwc/zhxw/c73b0e859a924750b99a4c33284a8aa1.htm</link>
       <pubDate>Tue, 07 Apr 2026 01:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年本科生转专业工作的通知</title>
+      <link>http://www.cup.edu.cn/jwc/zsyzc/a77d627bb5624f8ea9544abef68d231c.htm</link>
+      <pubDate>Wed, 08 Apr 2026 07:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年辅修专业招生工作的通知</title>
+      <link>http://www.cup.edu.cn/jwc/zsyzc/4798d3d3210b4a0b9395a9998ba26c4a.htm</link>
+      <pubDate>Wed, 08 Apr 2026 07:18:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
