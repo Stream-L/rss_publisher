@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 09:36:02 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）2026年春季田径运动会竞赛规程</title>
-      <link>http://www.cup.edu.cn/tzygg/979a4abc9d504a469ced0bc9da350ba4.htm</link>
-      <pubDate>Wed, 01 Apr 2026 03:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 04:41:41 +0000</lastBuildDate>
     <item>
       <title>关于北校园全域停水的通知</title>
       <link>http://www.cup.edu.cn/tzygg/3a289c996b2944c780e86d93e92c77f1.htm</link>
@@ -106,6 +101,11 @@
       <title>2026春景-轮播图</title>
       <link>https://mp.weixin.qq.com/s/ul_th6Wz3GkQNeTZvAljeg</link>
       <pubDate>Fri, 10 Apr 2026 00:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于举办“平安校园 无邪同行——全民国家安全教育日”主题宣传活动的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/6684f6b7002040ff81e8b80995ae5d04.htm</link>
+      <pubDate>Fri, 10 Apr 2026 06:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
