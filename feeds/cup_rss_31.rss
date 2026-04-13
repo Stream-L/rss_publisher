@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 09:41:59 +0000</lastBuildDate>
-    <item>
-      <title>油气资源与工程全国重点实验室</title>
-      <link>https://www.cup.edu.cn/prplab/</link>
-      <pubDate>Mon, 23 Mar 2026 08:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>油气勘探与开发实验教学中心</title>
-      <link>https://www.cup.edu.cn/pedlab/index.htm</link>
-      <pubDate>Mon, 23 Mar 2026 08:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 05:07:16 +0000</lastBuildDate>
     <item>
       <title>平台建设</title>
       <link>https://www.cup.edu.cn/geosci/xglj/ptjs/</link>
@@ -111,6 +101,16 @@
       <link>http://www.cup.edu.cn/geosci/xwdt/758c2c3345ea465287d5f3235a8fc78e.htm</link>
       <description>近日，我院宋到福教师研究团队在早期陆生植物演化研究领域取得重要进展，在Nature旗下期刊《Communications Earth &amp; Environment》发表题为《Abundant surface resins present on Middle Devonian land plants》的学术论文。</description>
       <pubDate>Fri, 10 Apr 2026 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>实验中心管理系统</title>
+      <link>https://syzx.cup.edu.cn/ops/zsy-manage/#/</link>
+      <pubDate>Mon, 13 Apr 2026 01:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院毕业生违约管理办法（试行）</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/f2150a7f296c4bc697cc55bdf732c81f.htm</link>
+      <pubDate>Mon, 13 Apr 2026 02:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
