@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 09:45:18 +0000</lastBuildDate>
-    <item>
-      <title>关于接收2025级新生户口的通知</title>
-      <link>http://www.cup.edu.cn/bwc/tzgg/f751d20442894a9a942f8be1eb75d286.htm</link>
-      <pubDate>Mon, 08 Sep 2025 01:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2026 04:59:50 +0000</lastBuildDate>
     <item>
       <title>中石大组织开展新学期安全教育系列活动</title>
       <link>https://www.cup.edu.cn/news/sx/d802fddb9f9142e280e207e1cba22b27.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大召开3月份校园安全生产工作会议</title>
       <link>https://www.cup.edu.cn/news/sx/5838d40fd145481b911688a92436a006.htm</link>
       <pubDate>Fri, 27 Mar 2026 00:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于国家安全宣传作品征集活动获奖作品的公示</title>
+      <link>http://www.cup.edu.cn/bwc/tzgg/3d48ba10c67f48d7af1de63524a68124.htm</link>
+      <pubDate>Mon, 13 Apr 2026 08:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
