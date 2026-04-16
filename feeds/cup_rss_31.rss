@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 09:41:17 +0000</lastBuildDate>
-    <item>
-      <title>平台建设</title>
-      <link>https://www.cup.edu.cn/geosci/xglj/ptjs/</link>
-      <pubDate>Mon, 23 Mar 2026 09:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>《古地理学报》中文版</title>
-      <link>http://www.gdlxb.cn/CN/home</link>
-      <pubDate>Mon, 23 Mar 2026 09:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Apr 2026 05:06:28 +0000</lastBuildDate>
     <item>
       <title>《古地理学报》英文版</title>
       <link>https://www.sciencedirect.com/journal/journal-of-palaeogeography</link>
@@ -111,6 +101,16 @@
       <title>地球科学学院毕业生违约管理办法（试行）</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/f2150a7f296c4bc697cc55bdf732c81f.htm</link>
       <pubDate>Mon, 13 Apr 2026 02:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>可持续发展国际合作科学计划2026年度项目指南（第一批）</title>
+      <link>https://www.nsfc.gov.cn/p1/3381/2824/121525.html</link>
+      <pubDate>Thu, 16 Apr 2026 00:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院2026届优秀毕业生评审细则</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/f9a75f0aa07143619d7ba55a73914f1c.htm</link>
+      <pubDate>Thu, 16 Apr 2026 02:16:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
