@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 09:38:52 +0000</lastBuildDate>
-    <item>
-      <title>关于公布第六届中国石油大学（北京）教师教学创新大赛结果的通知</title>
-      <link>http://www.cup.edu.cn/jwc/qbtz/9f032e2d42e2437691153a561f77121d.htm</link>
-      <pubDate>Sat, 31 Jan 2026 13:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 05:01:59 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年春季学期开学初补退选通知</title>
       <link>http://www.cup.edu.cn/jwc/notice/e3546ad2b3fa46d4b80768b3077e2b46.htm</link>
@@ -106,6 +101,11 @@
       <title>关于开展2026年辅修专业招生工作的通知</title>
       <link>http://www.cup.edu.cn/jwc/zsyzc/4798d3d3210b4a0b9395a9998ba26c4a.htm</link>
       <pubDate>Wed, 08 Apr 2026 07:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大工作坊探索推进人工智能与教育教学融合创新</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/22019152cee148d9b790f84aa5de0308.htm</link>
+      <pubDate>Fri, 17 Apr 2026 00:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
