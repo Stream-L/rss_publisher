@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 09:45:13 +0000</lastBuildDate>
-    <item>
-      <title>地球科学学院2026年硕士研究生复试细则</title>
-      <link>http://www.cup.edu.cn/geosci/tzgg/8c1cf00f8db24acca02b82c2506d7122.htm</link>
-      <pubDate>Mon, 23 Mar 2026 12:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>地球科学学院2026年博士研究生报考通知（第二批次）</title>
-      <link>http://www.cup.edu.cn/geosci/tzgg/89cd404e48d346cd9058e17631791a52.htm</link>
-      <pubDate>Wed, 25 Mar 2026 00:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 05:02:48 +0000</lastBuildDate>
     <item>
       <title>期刊中心</title>
       <link>https://www.cup.edu.cn/geosci/xglj/qkzx/</link>
@@ -111,6 +101,17 @@
       <title>地球科学学院2026年本科生转专业实施细则</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/fb54075e89f745e1b5a01d8b0c491ace.htm</link>
       <pubDate>Mon, 20 Apr 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我院共同主办的第二届地球能源国际前沿论坛顺利举行</title>
+      <link>http://www.cup.edu.cn/geosci/xwdt/c0b58b0bd2484b43a6d11ca5d4574e97.htm</link>
+      <description>4月10日至13日，第二届地球能源国际前沿论坛在河南郑州举行。本届论坛以“地球能源勘探开发新机遇与挑战”为主题，汇聚了中国科学院院士贾承造、中国工程院院士赵文智，英国皇家科学院及工程院院士Martin Blunt等国内外著名专家共探学科前沿。本次论坛由国际知名期刊《Advances in Geo-Energy Research》（AGER）编辑部、中国石油大学（北京）和油气资源与工程全国重点实验室共同主办。地球科学学院院长蒋恕教授和学术委员会主任曾联波教授分别作大会特邀报告，地球科学学院教授、AGER创刊主编蔡建超担任大会组织委员会主席。</description>
+      <pubDate>Mon, 20 Apr 2026 09:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球科学学院2026年博士研究生报考材料形式审查结果公示（第二批次）</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/151a8c6e5fbe45daa8bf967e44a36cc7.htm</link>
+      <pubDate>Mon, 20 Apr 2026 09:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
