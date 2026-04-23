@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 09:39:53 +0000</lastBuildDate>
-    <item>
-      <title>关于2025-2026学年春季学期本科生电子注册的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/c69a997f394b401299d9d33c1b1cdecc.htm</link>
-      <pubDate>Fri, 06 Mar 2026 00:24:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 05:02:28 +0000</lastBuildDate>
     <item>
       <title>2025-2026学年春季学期大学物理实验B（II）未修及重修选课通知</title>
       <link>http://www.cup.edu.cn/jwc/qbtz/a4f17ac37ac94c67ac890301e9a3116d.htm</link>
@@ -106,6 +101,11 @@
       <title>关于查询2025-2026学年春季学期结课考试安排的通知（持续更新）</title>
       <link>http://www.cup.edu.cn/jwc/jxjs/Ttrends/47f8df3cc05e4ad3959ed918154f1d2a.blk.htm</link>
       <pubDate>Mon, 20 Apr 2026 02:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办“领导力的底层代码”专题讲座</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/538cfe6556174388b387dea8c1b8b60f.htm</link>
+      <pubDate>Wed, 22 Apr 2026 09:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
