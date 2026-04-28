@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 09:53:25 +0000</lastBuildDate>
-    <item>
-      <title>今天，重要活动！明天，开学典礼！送你一朵小红花！</title>
-      <link>https://mp.weixin.qq.com/s/heUHCSN8xF3rCrfYP6LL8Q</link>
-      <pubDate>Fri, 23 Jan 2026 02:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 05:10:10 +0000</lastBuildDate>
     <item>
       <title>关于2026年第一批优秀学科博士后推荐人选的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/5ff20920a1c549749fb0ea42b5812c08.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>关于2026年上半年高等学校教师资格认定工作的通知</title>
       <link>https://www.cup.edu.cn/rsc//tzgg/szfz/006beadfea7945f198ed0476bf26c474.htm</link>
       <pubDate>Tue, 21 Apr 2026 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年申请北京市积分落户人员信息公示</title>
+      <link>https://www.cup.edu.cn/rsc//gsxx/0dcbe19078a54ab1afda9a3201a0b2a7.htm</link>
+      <pubDate>Mon, 27 Apr 2026 01:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
