@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 09:51:07 +0000</lastBuildDate>
-    <item>
-      <title>采油气井场多能互补能源系统优化技术进展与展望</title>
-      <link>https://www.cup.edu.cn/cupai/kxyj/kydt/47e9e2b380df4e538aa20d7d4acac9e7.htm</link>
-      <pubDate>Tue, 07 Apr 2026 03:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于时序特征匹配的间歇聚丙烯熔融指数预测</title>
-      <link>https://mp.weixin.qq.com/s/mfT9gxyV6vajGO2ITI5nmQ</link>
-      <pubDate>Wed, 08 Apr 2026 01:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院青年志愿者协会2026年1月-3月志愿服务时长公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/88e4a61b5e0b41bd839bd2b705ea5752.htm</link>
-      <pubDate>Thu, 09 Apr 2026 13:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 05:11:44 +0000</lastBuildDate>
     <item>
       <title>【党建动态】人工智能学院、地球物理学院联合开展树立和践行正确政绩观学习教育读书班</title>
       <link>https://www.cup.edu.cn/cupai/xw/9113ae4fed104e669e1bf30901b89931.htm</link>
@@ -106,6 +91,21 @@
       <title>关于2021-2022学年夏季学期《信号处理程序设计》与《计算机程序课程设计》学时分配的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/0f179a7a55734571b83753489e5c0fa4.htm</link>
       <pubDate>Tue, 28 Apr 2026 01:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【思政动态】人工智能学院学生在第三届全国大学生职业规划大赛全国总决赛中获佳绩</title>
+      <link>https://www.cup.edu.cn/news/sx/9445cebd83ab42aaa2f2a27ac1820d81.htm</link>
+      <pubDate>Wed, 29 Apr 2026 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2026年“AI+能源”微专业报名工作的通知</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/7ffb4766a5ce411190620c1956f9310a.htm</link>
+      <pubDate>Wed, 29 Apr 2026 09:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>油气井下考虑同轴偏移的无线电能传输系统效率优化研究</title>
+      <link>https://mp.weixin.qq.com/s/Cldc_rcNN6-f7nsCrnxHyA</link>
+      <pubDate>Thu, 30 Apr 2026 01:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

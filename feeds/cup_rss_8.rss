@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 09:49:07 +0000</lastBuildDate>
-    <item>
-      <title>关于2026年第一批优秀学科博士后推荐人选的公示</title>
-      <link>https://www.cup.edu.cn/rsc//gsxx/5ff20920a1c549749fb0ea42b5812c08.blk.htm</link>
-      <pubDate>Fri, 23 Jan 2026 03:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 05:10:14 +0000</lastBuildDate>
     <item>
       <title>关于2025年石大学者拟聘任人选的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/1142173dd19544bd884f4a35d0114a89.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年申请北京市积分落户人员信息公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/0dcbe19078a54ab1afda9a3201a0b2a7.htm</link>
       <pubDate>Mon, 27 Apr 2026 01:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于做好2026年国家公派高级研究学者、访问学者选派工作的通知</title>
+      <link>https://www.cup.edu.cn/rsc//tzgg/szfz/1c45e2dfc19e4f6cafc75be6372575e0.htm</link>
+      <pubDate>Wed, 29 Apr 2026 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
