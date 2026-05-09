@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 09:41:56 +0000</lastBuildDate>
-    <item>
-      <title>中石大第二届“传承之舟”读书节启动</title>
-      <link>http://www.cup.edu.cn/news/sx/d073a607cf9a413992d74bc0e65ac6ae.htm</link>
-      <pubDate>Wed, 29 Apr 2026 00:44:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>【践行正确政绩观 改革创新谋发展】小事不小，初心滚烫！七年坚持将“麻烦事”变为“幸福事”</title>
-      <link>http://www.cup.edu.cn/news/sx/83dca60656ae4d579a2eb6ff931fe036.htm</link>
-      <pubDate>Wed, 29 Apr 2026 00:58:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 05:07:52 +0000</lastBuildDate>
     <item>
       <title>中石大第三期教师“青马班”开班</title>
       <link>http://www.cup.edu.cn/news/sx/02cee81b31554f4dad1c2cfa7f1f420f.htm</link>
@@ -106,6 +96,16 @@
       <title>关于开展有害生物防治工作的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/ce923e10794c4b04833df2ea44fd6685.htm</link>
       <pubDate>Fri, 08 May 2026 02:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年夏季暨防灾减灾月应急演练活动（汇才公寓地下空间）的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/0dec27fac3b44dc391ebb6bdd4a34126.htm</link>
+      <pubDate>Fri, 08 May 2026 08:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开启校园中央空调的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/8cea78899c744d0895afe768e61541a1.htm</link>
+      <pubDate>Fri, 08 May 2026 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
