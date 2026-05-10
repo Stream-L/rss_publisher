@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 09:38:47 +0000</lastBuildDate>
-    <item>
-      <title>中石大第三期教师“青马班”开班</title>
-      <link>http://www.cup.edu.cn/news/sx/02cee81b31554f4dad1c2cfa7f1f420f.htm</link>
-      <pubDate>Wed, 29 Apr 2026 07:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于主楼施工噪音及B座绕行的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/a0de59982990498aa2725c7d90671bb5.htm</link>
-      <pubDate>Wed, 29 Apr 2026 09:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 May 2026 05:16:08 +0000</lastBuildDate>
     <item>
       <title>校领导带队赴各地开展招生宣传工作</title>
       <link>http://www.cup.edu.cn/news/sx/c493d5f5a1a248f1a9def2efa6ff00eb.htm</link>
@@ -106,6 +96,16 @@
       <title>关于开启校园中央空调的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/8cea78899c744d0895afe768e61541a1.htm</link>
       <pubDate>Fri, 08 May 2026 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办第三期青年人才“本熹班”开班式暨第二期结业式</title>
+      <link>http://www.cup.edu.cn/news/sx/025d574692d74cf29f329cc28310237a.htm</link>
+      <pubDate>Sat, 09 May 2026 12:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大“油脉融情”民族团结进步教育工作室正式揭牌</title>
+      <link>http://www.cup.edu.cn/news/sx/b135cf6b0b9a4ef48190521b876af956.htm</link>
+      <pubDate>Sat, 09 May 2026 14:41:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
