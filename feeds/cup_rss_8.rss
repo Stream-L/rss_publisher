@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 10:22:06 +0000</lastBuildDate>
-    <item>
-      <title>中共中央 国务院关于弘扬教育家精神加强新时代高素质专业化教师队伍建设的意见</title>
-      <link>http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202408/t20240826_1147269.html</link>
-      <pubDate>Sat, 24 Jan 2026 03:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 05:15:44 +0000</lastBuildDate>
     <item>
       <title>国家自然科学基金委员会通报科研不端案件（2026年第1批）</title>
       <link>https://www.nsfc.gov.cn/p1/2812/2816/99722.html</link>
@@ -106,6 +101,11 @@
       <title>关于2026年上半年高等学校教师资格认定人员名单的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/c258cfddebf84ea6bce0e7a3a326db85.blk.htm</link>
       <pubDate>Thu, 07 May 2026 08:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于吴双校内单位调动的公示</title>
+      <link>https://www.cup.edu.cn/rsc//gsxx/74d9819308674a5984aa0b63c6428740.blk.htm</link>
+      <pubDate>Tue, 12 May 2026 00:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
