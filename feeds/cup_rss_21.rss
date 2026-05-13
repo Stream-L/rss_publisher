@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 09:59:55 +0000</lastBuildDate>
-    <item>
-      <title>关于“青创北京”2026年“挑战杯”首都大学生创业计划竞赛专项赛作品推荐的公示</title>
-      <link>https://www.cup.edu.cn/tuanwei/tzgg/c3b242076cb0496fb6532b02a765e34b.htm</link>
-      <pubDate>Wed, 06 May 2026 02:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于“青创北京”2026年“挑战杯”首都大学生创业计划竞赛专项赛中石大在校生参加外校团队申报作品的公示</title>
-      <link>https://www.cup.edu.cn/tuanwei/tzgg/f70cca97b1b34779a53fe0612c13930e.htm</link>
-      <pubDate>Wed, 06 May 2026 02:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 05:20:54 +0000</lastBuildDate>
     <item>
       <title>关于在学生公寓开展有害生物防治的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/59cc17fc03cc46538505dabd09abcab6.htm</link>
@@ -99,6 +89,11 @@
       <pubDate>Mon, 11 May 2026 03:52:35 +0000</pubDate>
     </item>
     <item>
+      <title>2026年中国石油人工智能（昆仑大模型）竞赛决赛在中石大启动</title>
+      <link>http://www.cup.edu.cn/news/sx/e35f383414ff4be799b064c68e6fe47d.htm</link>
+      <pubDate>Mon, 11 May 2026 05:09:00 +0000</pubDate>
+    </item>
+    <item>
       <title>中石大召开“地下空间探测与安全”自主设置目录外二级学科专家论证会</title>
       <link>http://www.cup.edu.cn/news/sx/5f8ea405ac1a4f41a266bf3b5c12030a.htm</link>
       <pubDate>Mon, 11 May 2026 15:40:26 +0000</pubDate>
@@ -107,6 +102,11 @@
       <title>北京一零一中石大附属学校正式揭牌</title>
       <link>http://www.cup.edu.cn/news/sx/70852e7eb41a440888248dd95eac7715.htm</link>
       <pubDate>Tue, 12 May 2026 02:32:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展第二十三届“中国石油大学校长奖”评选的通知</title>
+      <link>https://www.cup.edu.cn/tuanwei/tzgg/a2b9ac5bac6a47f49cf744af2a93a94b.htm</link>
+      <pubDate>Tue, 12 May 2026 06:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
