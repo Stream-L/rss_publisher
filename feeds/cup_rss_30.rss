@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 09:59:40 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院2026年博士（第二批）报考资格审核结果公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/b913619659c34338bfd2e8a63c989020.htm</link>
-      <pubDate>Mon, 20 Apr 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于模拟退火粒子群优化算法的智能速度拾取</title>
-      <link>https://mp.weixin.qq.com/s/fCwbkxraDy_XmBSjqQkq3A</link>
-      <pubDate>Wed, 22 Apr 2026 01:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>新型可调节多孔节流气嘴压降特性数值模拟研究</title>
-      <link>https://mp.weixin.qq.com/s/MuJyNl5wHXUyxzLMxAafkA</link>
-      <pubDate>Thu, 23 Apr 2026 02:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 05:21:40 +0000</lastBuildDate>
     <item>
       <title>人工智能学院2026届优秀毕业生评选结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/81642397bdfe44da85c8407e21bd3e3f.htm</link>
@@ -106,6 +91,21 @@
       <title>融合共享分布加速与频率自适应选择的残差扩散统一图像恢复方法</title>
       <link>https://mp.weixin.qq.com/s/yB6S_XjkFZcqwUWRvZ3ltg</link>
       <pubDate>Wed, 13 May 2026 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院2026年博士研究生材料审查结果及复试名单（第二批次全日制）</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/8e068be9f39a463e9ed05b32d9afe1b3.htm</link>
+      <pubDate>Wed, 13 May 2026 09:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能学院2026年博士研究生复试细则（第二批次全日制）</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/28e86033245a4aa59abce31d9e4747d6.htm</link>
+      <pubDate>Wed, 13 May 2026 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>离散引导连续建模的快速高效文本驱动人体动作生成方法</title>
+      <link>https://mp.weixin.qq.com/s/NpoEOHbiplgRB-XW2P9lfA</link>
+      <pubDate>Thu, 14 May 2026 00:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

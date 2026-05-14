@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 09:58:22 +0000</lastBuildDate>
-    <item>
-      <title>教室借用管理规定</title>
-      <link>http://www.cup.edu.cn/houqin/gzzd/b4bbcb0344e840ea9a065c9de5edc805.htm</link>
-      <pubDate>Sat, 28 Mar 2026 06:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 05:20:15 +0000</lastBuildDate>
     <item>
       <title>关于石油大院班车更换车型的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/7253fe81049c4da08fe14d893e77b87c.htm</link>
@@ -103,9 +98,14 @@
       <pubDate>Fri, 08 May 2026 01:31:00 +0000</pubDate>
     </item>
     <item>
-      <title>关于开启校园中央空调的通知</title>
+      <title>关于2026年度校园中央空调运行的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/8cea78899c744d0895afe768e61541a1.htm</link>
       <pubDate>Fri, 08 May 2026 08:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>后勤工会举办“中石大后勤专场无偿献血活动”</title>
+      <link>https://mp.weixin.qq.com/s/ysmkIY1qp00w2GwptQqddA</link>
+      <pubDate>Wed, 13 May 2026 07:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
