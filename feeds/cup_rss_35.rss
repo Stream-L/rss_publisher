@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 05:22:47 +0000</lastBuildDate>
-    <item>
-      <title>理学院2026年硕士研究生调剂考生复试名单</title>
-      <link>https://www.cup.edu.cn/science//tzgg/e8b894fbd7ee4c6490a2092b5df0aa68.htm</link>
-      <pubDate>Wed, 08 Apr 2026 10:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 10:00:47 +0000</lastBuildDate>
     <item>
       <title>理学院2026年物理学专业硕士研究生调剂复试成绩汇总暨拟录取情况</title>
       <link>https://www.cup.edu.cn/science//tzgg/59a96895692845dd80df7a275b15d990.htm</link>
@@ -106,6 +101,11 @@
       <title>理学院召开2026年全院教职工大会</title>
       <link>https://www.cup.edu.cn/science//xyxw/5c20b564871344969f6c6684b2189e69.htm</link>
       <pubDate>Fri, 15 May 2026 00:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院召开数理基础能力提升专题工作会议</title>
+      <link>https://www.cup.edu.cn/science//xyxw/3b24f7fbe6bd49b581075fa5a6888314.htm</link>
+      <pubDate>Fri, 15 May 2026 08:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
