@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 09:59:38 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办第三期青年人才“本熹班”开班式暨第二期结业式</title>
-      <link>http://www.cup.edu.cn/news/sx/025d574692d74cf29f329cc28310237a.htm</link>
-      <pubDate>Sat, 09 May 2026 12:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 05:08:40 +0000</lastBuildDate>
     <item>
       <title>中石大“油脉融情”民族团结进步教育工作室正式揭牌</title>
       <link>http://www.cup.edu.cn/news/sx/b135cf6b0b9a4ef48190521b876af956.htm</link>
@@ -107,6 +102,11 @@
       <title>中石大2026年“健康第一，身心同行”心理健康季启动</title>
       <link>http://www.cup.edu.cn/news/sx/8a6f8876fca4410dbc35dc198eac2ac5.htm</link>
       <pubDate>Fri, 15 May 2026 00:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于第77次计算机等级考试成绩复查申请的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/7e75f44f33cf4f998e9d8ed77ef65f5e.htm</link>
+      <pubDate>Fri, 15 May 2026 06:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

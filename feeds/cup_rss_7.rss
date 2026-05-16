@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 09:58:29 +0000</lastBuildDate>
-    <item>
-      <title>国务院关于促进科技成果转化工作情况的报告</title>
-      <link>http://www.npc.gov.cn/npc/c2/c30834/202512/t20251229_450858.html</link>
-      <pubDate>Tue, 14 Apr 2026 09:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 05:07:51 +0000</lastBuildDate>
     <item>
       <title>关于召开首届油气微生物资源与工程学术年会的通知</title>
       <link>http://www.cup.edu.cn/kjc/academic_xchange/578ac37a08254ec1901a9c1082110554.htm</link>
@@ -106,6 +101,11 @@
       <title>关于开展2026年“海洋工程科学技术奖”推荐申报工作的通知</title>
       <link>http://www.cup.edu.cn/kjc/notice/cgl/86c63c50e11441b480d8202b17f9014b.htm</link>
       <pubDate>Wed, 13 May 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年度中国颗粒学会自然科学奖申报项目公示2</title>
+      <link>http://www.cup.edu.cn/kjc/notice/gongshi/2e5c8db59e624bbc8531a932e4dd69e7.htm</link>
+      <pubDate>Fri, 15 May 2026 11:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 10:00:23 +0000</lastBuildDate>
-    <item>
-      <title>偏微分方程在油气举升系统中应用的挑战、进展与展望</title>
-      <link>https://mp.weixin.qq.com/s/mYZYlvWX8f3HOYcKlNaVXw</link>
-      <pubDate>Fri, 24 Apr 2026 03:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>用于自适应社区检测的图注意力双深度Q网络</title>
-      <link>https://mp.weixin.qq.com/s/RZylzP44IAkaC0rAAc3siw</link>
-      <pubDate>Sat, 25 Apr 2026 02:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 16 May 2026 05:09:11 +0000</lastBuildDate>
     <item>
       <title>一个基于软硬协同设计用于边缘推理的高吞吐量深度学习平台</title>
       <link>https://mp.weixin.qq.com/s/nMVZ5gAdh6zPoLEvGqeTAA</link>
@@ -106,6 +96,16 @@
       <title>结构感知代理引导的跨模态点云补全方法</title>
       <link>https://mp.weixin.qq.com/s/KTKgkJjOvzzkx051Wg4yyg</link>
       <pubDate>Fri, 15 May 2026 01:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于拟接收宋子杭等39人转为中共正式党员的公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/a1f2456911824b0fa27930b8eeeaf242.htm</link>
+      <pubDate>Fri, 15 May 2026 10:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>学院简介</title>
+      <link>https://www.cup.edu.cn/cupai/xygk/xyjj/1d515a09f4b64a7d9cbb4ed0590ba956.htm</link>
+      <pubDate>Fri, 15 May 2026 10:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
