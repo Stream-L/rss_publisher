@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 09:41:52 +0000</lastBuildDate>
-    <item>
-      <title>一个基于软硬协同设计用于边缘推理的高吞吐量深度学习平台</title>
-      <link>https://mp.weixin.qq.com/s/nMVZ5gAdh6zPoLEvGqeTAA</link>
-      <pubDate>Sun, 26 Apr 2026 00:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能学院2023-2024学年秋季学期《信号分析与处理》课时分配的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/79fdd8f8620149e1a447482c96e09e2f.htm</link>
-      <pubDate>Mon, 27 Apr 2026 08:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 05:27:43 +0000</lastBuildDate>
     <item>
       <title>关于2021-2022学年夏季学期《信号处理程序设计》与《计算机程序课程设计》学时分配的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/0f179a7a55734571b83753489e5c0fa4.htm</link>
@@ -63,6 +53,11 @@
       <pubDate>Fri, 08 May 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>【交流合作】人工智能学院领导班子带队赴中国矿业大学(北京)人工智能学院走访调研</title>
+      <link>https://www.cup.edu.cn/cupai/xw/8b3e8c18b7b94a039002d9ddee1b6f58.htm</link>
+      <pubDate>Sun, 10 May 2026 07:39:00 +0000</pubDate>
+    </item>
+    <item>
       <title>具有可区分变量标识符的通用多元长期时间序列稳健预测模型</title>
       <link>https://mp.weixin.qq.com/s/EP3BL16b2UztxyoowkekvA</link>
       <pubDate>Mon, 11 May 2026 01:31:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>学院简介</title>
       <link>https://www.cup.edu.cn/cupai/xygk/xyjj/1d515a09f4b64a7d9cbb4ed0590ba956.htm</link>
       <pubDate>Fri, 15 May 2026 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一种面向DNN推理的轻量级低精度推理引擎</title>
+      <link>https://mp.weixin.qq.com/s/WyImQqacVL9Ws-hyk4QbvQ</link>
+      <pubDate>Mon, 18 May 2026 01:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
