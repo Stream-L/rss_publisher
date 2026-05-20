@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 05:26:35 +0000</lastBuildDate>
-    <item>
-      <title>行政人员</title>
-      <link>http://www.cup.edu.cn/geosci/jgsz/ybgs/47c28feac52a45998b6c730512aad28f.htm</link>
-      <pubDate>Fri, 08 May 2026 06:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 10:13:51 +0000</lastBuildDate>
     <item>
       <title>学科前沿交叉沙龙：探秘深地生烃机制，赋能西部资源战略</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/d365b658abcc4c9089f83b5aef24591c.htm</link>
@@ -110,6 +105,11 @@
       <title>中国石油大学（北京）地球科学学院招聘启事</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/f4743b94351340959e3630ed02b36b7e.htm</link>
       <pubDate>Tue, 19 May 2026 07:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于Joseph Moore 教授《The Utah Frontier Observatory for Research in Geothermal Energy(FORGE)》学术报告的通知</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/e43eff73903f4af2b4807171923d472d.htm</link>
+      <pubDate>Wed, 20 May 2026 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
