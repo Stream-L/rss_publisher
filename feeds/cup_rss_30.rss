@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 10:23:17 +0000</lastBuildDate>
-    <item>
-      <title>【思政动态】人工智能学院学生在第三届全国大学生职业规划大赛全国总决赛中获佳绩</title>
-      <link>https://www.cup.edu.cn/news/sx/9445cebd83ab42aaa2f2a27ac1820d81.htm</link>
-      <pubDate>Wed, 29 Apr 2026 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于2026年“AI+能源”微专业报名工作的通知</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/7ffb4766a5ce411190620c1956f9310a.htm</link>
-      <pubDate>Wed, 29 Apr 2026 09:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 05:26:29 +0000</lastBuildDate>
     <item>
       <title>油气井下考虑同轴偏移的无线电能传输系统效率优化研究</title>
       <link>https://mp.weixin.qq.com/s/Cldc_rcNN6-f7nsCrnxHyA</link>
@@ -106,6 +96,16 @@
       <title>一种面向GPU集群大语言模型的动态跨GPU KV缓存卸载框架</title>
       <link>https://mp.weixin.qq.com/s/dJ8TccBOQvcrQ_-lPRHcLg</link>
       <pubDate>Tue, 19 May 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于巡察人工智能学院党委的公告</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/e7af9b685df041b0ac180e49528ddd22.htm</link>
+      <pubDate>Tue, 19 May 2026 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>磁感应通信的研究进展与未来展望</title>
+      <link>https://mp.weixin.qq.com/s/2dzypd5eD7ZVblYthGYfpQ</link>
+      <pubDate>Wed, 20 May 2026 01:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
