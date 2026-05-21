@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 10:12:53 +0000</lastBuildDate>
-    <item>
-      <title>跨境交流专用通道常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/kjjlzytd/kjtdcjwt/edf338080f0349b6b259ff599e3bbff7.blk.htm</link>
-      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 05:28:35 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Ollama 越界读取漏洞（CVE-2026-7482）</title>
       <link>https://www.cup.edu.cn/nic/wlaq/8becfafc20834b2691882a95ae0040e9.htm</link>
@@ -116,6 +111,11 @@
       <title> 【紧急漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞CVE-2026-42897</title>
       <link>https://www.cup.edu.cn/nic/wlaq/d9ef87ba12804b4bb7af8a85d152f969.htm</link>
       <pubDate>Wed, 20 May 2026 08:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【紧急漏洞通告】Next.js 服务器端请求伪造漏洞CVE-2026-44578</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/493ddb961d484ada845c3af6c81a32b0.htm</link>
+      <pubDate>Thu, 21 May 2026 02:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
