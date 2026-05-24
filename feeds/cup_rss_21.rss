@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 09:41:24 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办科级干部集中培训班</title>
-      <link>http://www.cup.edu.cn/news/sx/2179c1b2db32485997b6fefe32d8908a.htm</link>
-      <pubDate>Sun, 17 May 2026 10:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>党委书记王同奇讲授第24期党员发展对象培训班开班第一课</title>
-      <link>http://www.cup.edu.cn/news/sx/7de7376b643440b7b968fbe0dfff56ae.htm</link>
-      <pubDate>Sun, 17 May 2026 12:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 05:23:41 +0000</lastBuildDate>
     <item>
       <title>中石大专题研讨学术期刊高质量发展</title>
       <link>http://www.cup.edu.cn/news/sx/8bb9a08160904c4f99eb0c727a53cc16.htm</link>
@@ -106,6 +96,16 @@
       <title>关于主楼东侧及B座正门临时封闭的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/004d8ccb5a6b42b495d82bf9c4ed8344.htm</link>
       <pubDate>Fri, 22 May 2026 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导带队赴云南、贵州等地走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/af9d732425664a518cd93e87e919a648.htm</link>
+      <pubDate>Sat, 23 May 2026 07:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大学子在第九届全国油气地质大赛中获佳绩</title>
+      <link>http://www.cup.edu.cn/news/sx/71f0c59c7fb24aeb983de318a036a9e6.htm</link>
+      <pubDate>Sat, 23 May 2026 08:54:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
