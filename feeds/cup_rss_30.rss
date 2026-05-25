@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 09:43:38 +0000</lastBuildDate>
-    <item>
-      <title>具有可区分变量标识符的通用多元长期时间序列稳健预测模型</title>
-      <link>https://mp.weixin.qq.com/s/EP3BL16b2UztxyoowkekvA</link>
-      <pubDate>Mon, 11 May 2026 01:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>通过结合频域中的局部周期性变化特征与时域中的全局特征进行长期时间序列预测</title>
-      <link>https://mp.weixin.qq.com/s/gTMJ4X0Rlcu2m1rASbCMrg</link>
-      <pubDate>Tue, 12 May 2026 01:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 05:37:16 +0000</lastBuildDate>
     <item>
       <title>融合共享分布加速与频率自适应选择的残差扩散统一图像恢复方法</title>
       <link>https://mp.weixin.qq.com/s/yB6S_XjkFZcqwUWRvZ3ltg</link>
@@ -73,6 +63,11 @@
       <pubDate>Wed, 20 May 2026 01:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>【学院头条】搭建学术桥梁 共促交叉发展——学院第一期教授午餐会顺利举办</title>
+      <link>https://www.cup.edu.cn/cupai/xw/f308f2f09b754aa1810371d3cdb321a3.htm</link>
+      <pubDate>Wed, 20 May 2026 03:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年春季学期发展团员预审结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/0176bc832bc74e7486a9c2d2e10a8179.htm</link>
       <pubDate>Wed, 20 May 2026 09:38:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>基于元启发式算法的多类不平衡数据过采样分类</title>
       <link>https://mp.weixin.qq.com/s/p2PfQWL_NAlzCH1dNg2JSg</link>
       <pubDate>Fri, 22 May 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AVIR：面向稳健多模态Deepfake检测的音视频信息精炼框架</title>
+      <link>https://mp.weixin.qq.com/s/n6xPFOuicq31ECHwWDxQdw</link>
+      <pubDate>Mon, 25 May 2026 02:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
