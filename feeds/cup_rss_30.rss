@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 10:41:16 +0000</lastBuildDate>
-    <item>
-      <title>融合共享分布加速与频率自适应选择的残差扩散统一图像恢复方法</title>
-      <link>https://mp.weixin.qq.com/s/yB6S_XjkFZcqwUWRvZ3ltg</link>
-      <pubDate>Wed, 13 May 2026 00:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 05:25:29 +0000</lastBuildDate>
     <item>
       <title>人工智能学院2026年博士研究生材料审查结果及复试名单（第二批次全日制）</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/8e068be9f39a463e9ed05b32d9afe1b3.htm</link>
@@ -106,6 +101,11 @@
       <title>AVIR：面向稳健多模态Deepfake检测的音视频信息精炼框架</title>
       <link>https://mp.weixin.qq.com/s/n6xPFOuicq31ECHwWDxQdw</link>
       <pubDate>Mon, 25 May 2026 02:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于改进Tent混沌映射的灰狼-粒子群算法有源配电网故障定位</title>
+      <link>https://mp.weixin.qq.com/s/IUy2P2a3js4vbo5_vC-rWQ</link>
+      <pubDate>Tue, 26 May 2026 00:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

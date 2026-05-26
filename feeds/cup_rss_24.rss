@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 10:40:50 +0000</lastBuildDate>
-    <item>
-      <title>教职工因公出国行前公示</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/gjhjy/2dc9389040a94b079c75940b04131c2d.htm</link>
-      <pubDate>Tue, 28 Apr 2026 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 05:25:02 +0000</lastBuildDate>
     <item>
       <title>地球物理学院博士王鹏飞、杨瀚、彭雅靖学位论文答辩公告</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/df0ff9ca0aae4569a96a0ccd2f320869.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院博士罗来迁学位论文答辩公告</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/5c7ec16827c14a8c8ff0ad48f3e5b943.htm</link>
       <pubDate>Mon, 25 May 2026 09:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院/人工智能学院博士张新宇、罗刚、方誉学位论文答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/c2dbc1f70c754814b9b138a16b9bde75.htm</link>
+      <pubDate>Tue, 26 May 2026 00:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
