@@ -6,13 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 05:32:35 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开“十五五”数智化专项规划咨询会暨2026年网信工作推进会</title>
-      <link>https://www.cup.edu.cn/news/sx/05cd39eba2e34866b4c47cfeab356b35.htm</link>
-      <description>为科学谋划学校“十五五”数智化发展蓝图，统筹推进2026年网信工作重点任务，4月30日下午，中石大以线上线下结合的方式召开“十五五”数智化专项规划咨询会暨2026年网信工作推进会。学校副校长李景叶、克拉玛依校区副校长邢晓凯，校本部和校区相关单位负责人参会。</description>
-      <pubDate>Fri, 08 May 2026 12:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 10:29:40 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Daemon_Tools_官方安装包供应链污染事件</title>
       <link>https://www.cup.edu.cn/nic/wlaq/43482f2babd84b82ae4dc6a6f6cdaac8.htm</link>
@@ -116,6 +110,11 @@
       <title>【紧急漏洞通告】Linux Kernel PinTheft 权限提升漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/ee1453fd0fa64df69ac4ea93603aab6f.htm</link>
       <pubDate>Thu, 21 May 2026 12:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【紧急漏洞通告】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞CVE-2026-9256</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/d234b8857f4f480389f07c04a4ad1b42.htm</link>
+      <pubDate>Wed, 27 May 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

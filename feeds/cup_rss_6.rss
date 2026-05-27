@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 05:31:44 +0000</lastBuildDate>
-    <item>
-      <title>关于开展2026年本科生转专业工作的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/a77d627bb5624f8ea9544abef68d231c.htm</link>
-      <pubDate>Wed, 08 Apr 2026 07:14:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 10:28:41 +0000</lastBuildDate>
     <item>
       <title>关于开展2026年辅修专业招生工作的通知</title>
       <link>http://www.cup.edu.cn/jwc/zsyzc/4798d3d3210b4a0b9395a9998ba26c4a.htm</link>
@@ -106,6 +101,11 @@
       <title>中国石油大学（北京）《教室借用管理规定》</title>
       <link>/publish/jwc/docs/2026-05/2026-05/100b4d31146d482a9abefb2458711924.blk.pdf</link>
       <pubDate>Mon, 25 May 2026 08:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办竞赛级PPT高阶设计工作坊 赋能教师教学创新实践</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/3b6753b1c48a461ea05f767e40367663.htm</link>
+      <pubDate>Wed, 27 May 2026 06:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
