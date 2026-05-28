@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 10:30:39 +0000</lastBuildDate>
-    <item>
-      <title>关于拟接收宋子杭等39人转为中共正式党员的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/a1f2456911824b0fa27930b8eeeaf242.htm</link>
-      <pubDate>Fri, 15 May 2026 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>学院简介</title>
-      <link>https://www.cup.edu.cn/cupai/xygk/xyjj/1d515a09f4b64a7d9cbb4ed0590ba956.htm</link>
-      <pubDate>Fri, 15 May 2026 10:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 05:29:59 +0000</lastBuildDate>
     <item>
       <title>一种面向DNN推理的轻量级低精度推理引擎</title>
       <link>https://mp.weixin.qq.com/s/WyImQqacVL9Ws-hyk4QbvQ</link>
@@ -76,6 +66,16 @@
       <title>基于元启发式算法的多类不平衡数据过采样分类</title>
       <link>https://mp.weixin.qq.com/s/p2PfQWL_NAlzCH1dNg2JSg</link>
       <pubDate>Fri, 22 May 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【聚焦“十五五”】人工智能学院召开内设机构成立大会暨聘任仪式</title>
+      <link>https://www.cup.edu.cn/cupai/xw/6229e3bbdeab4d45b18171103a481f7e.htm</link>
+      <pubDate>Fri, 22 May 2026 13:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【交流合作】中海油集团到访人工智能学院开展调研座谈</title>
+      <link>https://www.cup.edu.cn/cupai/xw/75d335540791440a8f0f2de985687e88.htm</link>
+      <pubDate>Fri, 22 May 2026 14:02:00 +0000</pubDate>
     </item>
     <item>
       <title>AVIR：面向稳健多模态Deepfake检测的音视频信息精炼框架</title>
