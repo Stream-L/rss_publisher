@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 10:33:19 +0000</lastBuildDate>
-    <item>
-      <title>一种面向DNN推理的轻量级低精度推理引擎</title>
-      <link>https://mp.weixin.qq.com/s/WyImQqacVL9Ws-hyk4QbvQ</link>
-      <pubDate>Mon, 18 May 2026 01:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>一种面向GPU集群大语言模型的动态跨GPU KV缓存卸载框架</title>
-      <link>https://mp.weixin.qq.com/s/dJ8TccBOQvcrQ_-lPRHcLg</link>
-      <pubDate>Tue, 19 May 2026 00:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 05:31:47 +0000</lastBuildDate>
     <item>
       <title>关于巡察人工智能学院党委的公告</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/e7af9b685df041b0ac180e49528ddd22.htm</link>
@@ -106,6 +96,16 @@
       <title>可靠性感知的分层联邦学习机制</title>
       <link>https://mp.weixin.qq.com/s/xx6xWNmwoOe4c0Z18w89IQ</link>
       <pubDate>Wed, 27 May 2026 01:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>知识嵌入的钻井井筒数字孪生模型构建研究</title>
+      <link>https://mp.weixin.qq.com/s/Gvs7IAI1vmOcSt0mGx7ynQ</link>
+      <pubDate>Thu, 28 May 2026 00:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>数字孪生驱动的致密油气藏非平面水力裂缝重构与评价</title>
+      <link>https://mp.weixin.qq.com/s/Q49hw1__RuuEO8WrFZXONg?token=1314427659&amp;lang=zh_CN</link>
+      <pubDate>Fri, 29 May 2026 00:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
