@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 05:30:53 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】Daemon_Tools_官方安装包供应链污染事件</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/43482f2babd84b82ae4dc6a6f6cdaac8.htm</link>
-      <pubDate>Fri, 08 May 2026 12:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 10:26:23 +0000</lastBuildDate>
     <item>
       <title>【安全风险通告】Apache_HTTP_Server_mod_http2_双重释放漏洞（CVE-2026-23918）</title>
       <link>https://www.cup.edu.cn/nic/wlaq/6f64b5e7025e46e3a47720fd8844d2e4.htm</link>
@@ -115,6 +110,11 @@
       <title>【紧急漏洞通告】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞CVE-2026-9256</title>
       <link>https://www.cup.edu.cn/nic/wlaq/d234b8857f4f480389f07c04a4ad1b42.htm</link>
       <pubDate>Wed, 27 May 2026 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【紧急漏洞通告】Linux Kernel CIFSwitch 权限提升 漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/3eeaba6fc1414901ad20e79f077b2477.htm</link>
+      <pubDate>Fri, 29 May 2026 08:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
