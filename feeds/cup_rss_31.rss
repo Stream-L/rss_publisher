@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 May 2026 10:27:31 +0000</lastBuildDate>
-    <item>
-      <title>第一届能源地质工程院长论坛（1号通知）</title>
-      <link>/publish/geosci/docs/2026-05/2026-05/ededfc1523a6450492f332b3a4a4e7ac.pdf</link>
-      <pubDate>Wed, 13 May 2026 09:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 05:21:45 +0000</lastBuildDate>
     <item>
       <title>第一届能源地质工程院长论坛（2号通知）</title>
       <link>/publish/geosci/docs/2026-05/2026-05/f481de1aad39490ba87d6397678139eb.pdf</link>
@@ -112,6 +107,11 @@
       <title>地球科学学院2026年博士研究生复试名单公示（含第二批次非全日制、第四批次、第五批次）</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/d746ad59df80498fb120ef8642f5c468.htm</link>
       <pubDate>Wed, 27 May 2026 13:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年“断裂活动与油气运聚学术研讨会”将于10月在北京召开</title>
+      <link>http://www.cup.edu.cn/geosci/tzgg/5fc5eb20e7d548babb20e82e4c76e15c.htm</link>
+      <pubDate>Sat, 30 May 2026 03:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
