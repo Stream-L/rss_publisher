@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 09:58:37 +0000</lastBuildDate>
-    <item>
-      <title>第一届能源地质工程院长论坛（2号通知）</title>
-      <link>/publish/geosci/docs/2026-05/2026-05/f481de1aad39490ba87d6397678139eb.pdf</link>
-      <pubDate>Wed, 13 May 2026 09:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 05:42:20 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）地球科学学院与澳大利亚科廷大学举行学术交流会议</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/4cfe6750f8204f23adf88b23848bdafa.htm</link>
@@ -112,6 +107,12 @@
       <title>2026年“断裂活动与油气运聚学术研讨会”将于10月在北京召开</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/5fc5eb20e7d548babb20e82e4c76e15c.htm</link>
       <pubDate>Sat, 30 May 2026 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）地球科学学院与泰国碳捕集、利用与封存联盟举行学术交流会议</title>
+      <link>http://www.cup.edu.cn/geosci/xwdt/cb6e5f251a5543e2967fdf528eb11a3d.htm</link>
+      <description>5月27日下午，中国石油大学（北京）地球科学学院与泰国碳捕集、利用与封存联盟（TCCA）学术交流会议在地质楼1105会议室顺利召开。会议由地球科学学院院长蒋恕主持，国际合作与交流处副处长宋泽章、地球科学学院副教授孙晨皓、陈睿倩等，以及由TCCA指导委员会主席Dr. Pongvipa Lohsomboon、项目主任Dr. Kajornsak Faungnawakij带队，包括来自泰国能源部、自然资源与环境部的政府代表，清迈大学、泰国国家科学技术发展局（NSTDA）的专家学者等双方共20余位代表参会。</description>
+      <pubDate>Sun, 31 May 2026 06:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
