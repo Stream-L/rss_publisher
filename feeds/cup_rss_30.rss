@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 10:54:15 +0000</lastBuildDate>
-    <item>
-      <title>磁感应通信的研究进展与未来展望</title>
-      <link>https://mp.weixin.qq.com/s/2dzypd5eD7ZVblYthGYfpQ</link>
-      <pubDate>Wed, 20 May 2026 01:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【科研动态】搭建学术桥梁 共促交叉发展 — 学院第一期教授午餐会顺利举办</title>
-      <link>https://www.cup.edu.cn/cupai/xw/f308f2f09b754aa1810371d3cdb321a3.htm</link>
-      <pubDate>Wed, 20 May 2026 03:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 05:39:07 +0000</lastBuildDate>
     <item>
       <title>2026年春季学期发展团员预审结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/0176bc832bc74e7486a9c2d2e10a8179.htm</link>
@@ -73,6 +63,11 @@
       <pubDate>Tue, 26 May 2026 00:32:00 +0000</pubDate>
     </item>
     <item>
+      <title>【交流合作】中石大人工智能学院赴哈尔滨高校开展学生工作调研</title>
+      <link>https://www.cup.edu.cn/cupai/xw/0e9a76d80d414359b40f1442a900aa31.htm</link>
+      <pubDate>Tue, 26 May 2026 01:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>人工智能学院2026年博士（“三年一万人”专项、补报名批次）报考资格审核结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/4b81f83de51f46b29efd03e4bac34345.htm</link>
       <pubDate>Tue, 26 May 2026 11:18:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>基于生成语义样本与数据特征对齐的燃气轮机零样本故障诊断</title>
       <link>https://mp.weixin.qq.com/s/7B2y4wLA-mcP448OeMjirg</link>
       <pubDate>Mon, 01 Jun 2026 01:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>疏松砂岩储层注水优化数字孪生——以双水平井为例</title>
+      <link>https://mp.weixin.qq.com/s/carl6n6KKSefnrWEZuBMbw</link>
+      <pubDate>Tue, 02 Jun 2026 00:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
