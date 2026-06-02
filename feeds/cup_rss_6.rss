@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 05:37:02 +0000</lastBuildDate>
-    <item>
-      <title>2025-2026学年春季学期中期补退选通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/a3e1b06d7cf740a995b2e44d1a059023.htm</link>
-      <pubDate>Tue, 28 Apr 2026 07:13:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 10:38:43 +0000</lastBuildDate>
     <item>
       <title>中石大举办“领导力的底层代码”专题讲座</title>
       <link>https://www.cup.edu.cn/jwc/zhxw/538cfe6556174388b387dea8c1b8b60f.htm</link>
@@ -106,6 +101,11 @@
       <title>关于全国大学英语四、六级考试听力试音、耳机要求的通知</title>
       <link>http://www.cup.edu.cn/jwc/notice/2194e70ddd5d4d41a55d448b888a505e.htm</link>
       <pubDate>Mon, 01 Jun 2026 06:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025-2026学年夏季学期选课通知</title>
+      <link>http://www.cup.edu.cn/jwc/notice/603054ce511048a8bbe6b9c9875eda43.htm</link>
+      <pubDate>Tue, 02 Jun 2026 08:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

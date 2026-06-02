@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 05:38:42 +0000</lastBuildDate>
-    <item>
-      <title>【经济管理学院】关于2026届硕士毕业生杨佳宜违约的公示</title>
-      <link>http://www.cup.edu.cn/sba/xsfzgb/rcgl/618f4983e49844a4826ab84308f2b3c2.htm</link>
-      <pubDate>Wed, 13 May 2026 09:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 10:40:08 +0000</lastBuildDate>
     <item>
       <title>经济管理学院开展2025年秋季学期入团积极分子专题心得交流分享会</title>
       <link>http://www.cup.edu.cn/sba/xsfzgb/txhd/0939d8fd78b34da4bf9b43c8c1fcb1cc.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年中法能源经济应用型人才国际合作培养项目遴选结果（第二批）公示</title>
       <link>http://www.cup.edu.cn/sba/tzgg/d46caddf6bad4578861429576f4c2503.htm</link>
       <pubDate>Mon, 01 Jun 2026 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>本科生课程替代信息公示</title>
+      <link>http://www.cup.edu.cn/sba/tzgg/91855a727cf54df9891f1107287086ad.htm</link>
+      <pubDate>Tue, 02 Jun 2026 08:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
