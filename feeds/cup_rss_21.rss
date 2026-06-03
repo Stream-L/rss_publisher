@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 05:42:34 +0000</lastBuildDate>
-    <item>
-      <title>关于开展2026年师生法治作品征集活动的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/3587160c2079491da8f5f6d31e77a26f.htm</link>
-      <pubDate>Tue, 26 May 2026 08:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 10:40:13 +0000</lastBuildDate>
     <item>
       <title>关于面向全校师生招募本科招生宣传人员的通知</title>
       <link>http://www.cup.edu.cn/tzygg/6d9a2eb4fecf4611bbff076632ea1ed8.htm</link>
@@ -106,6 +101,11 @@
       <title>关于开展2026年实验室危险化学品泄漏事故应急演练活动（北校园化工楼及周边区域）的通知</title>
       <link>http://www.cup.edu.cn/tzygg/10bcf14eb6f24b2aa7bc397a8072b541.htm</link>
       <pubDate>Tue, 02 Jun 2026 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第十六届中国石油工程设计大赛举行颁奖大会</title>
+      <link>http://www.cup.edu.cn/news/sx/5eaf2b84109b496287ea8db1c888e7aa.htm</link>
+      <pubDate>Wed, 03 Jun 2026 06:35:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
