@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）党委组织部 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 10:38:25 +0000</lastBuildDate>
-    <item>
-      <title>化学工程与环境学院</title>
-      <link>http://www.cup.edu.cn/zuzhibu/download/gszl/7d9108a20be2464b83cc0f0979d2af2b.blk.htm</link>
-      <pubDate>Tue, 13 Jan 2026 08:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 05:41:07 +0000</lastBuildDate>
     <item>
       <title>刘一凝</title>
       <link>http://www.cup.edu.cn/zuzhibu/download/gszl/bb07c7dd1f2e4b22b0da08d5df0fec0a.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大举办第五届“党课开讲啦”课程思政微课大赛</title>
       <link>http://www.cup.edu.cn/zuzhibu/workinfo/b56786f9b01548258a24c2395f5e07d1.htm</link>
       <pubDate>Fri, 29 May 2026 09:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>组织关系</title>
+      <link>http://www.cup.edu.cn/zuzhibu/info/d3be1c6a41ca4e0890a032fd0fc381a9.htm</link>
+      <pubDate>Wed, 03 Jun 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
