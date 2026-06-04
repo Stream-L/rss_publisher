@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 10:40:13 +0000</lastBuildDate>
-    <item>
-      <title>关于面向全校师生招募本科招生宣传人员的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/6d9a2eb4fecf4611bbff076632ea1ed8.htm</link>
-      <pubDate>Tue, 26 May 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大与北京石油机械有限公司签约共建来华留学生国情教育实践基地</title>
-      <link>http://www.cup.edu.cn/news/sx/a76847956efc416188d92c7fc70d2ed5.htm</link>
-      <pubDate>Wed, 27 May 2026 00:29:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 05:40:42 +0000</lastBuildDate>
     <item>
       <title>中石大获评中国石油教育学会能源领域教育科技人才一体改革创新引领案例</title>
       <link>http://www.cup.edu.cn/news/sx/9c5c8918553748dbadf5e441266a6e91.htm</link>
@@ -106,6 +96,16 @@
       <title>第十六届中国石油工程设计大赛举行颁奖大会</title>
       <link>http://www.cup.edu.cn/news/sx/5eaf2b84109b496287ea8db1c888e7aa.htm</link>
       <pubDate>Wed, 03 Jun 2026 06:35:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大与昆仑数智开展党支部联学联建活动</title>
+      <link>http://www.cup.edu.cn/news/sx/6527eecc09934711b9f66fad829e7692.htm</link>
+      <pubDate>Thu, 04 Jun 2026 00:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大联合主办的首届全国油气微生物资源与工程学术年会在绍兴举行</title>
+      <link>http://www.cup.edu.cn/news/sx/9a6e22d234c545afb45275930a6807fe.htm</link>
+      <pubDate>Thu, 04 Jun 2026 00:51:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
