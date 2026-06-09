@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 10:42:47 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）关于开展2026年校聘非事业编制人员晋升聘任工作的通知</title>
-      <link>https://www.cup.edu.cn/rsc//tzgg/rsgl/149b87ba9af64dbaabdf3e9319b53f43.htm</link>
-      <pubDate>Fri, 27 Mar 2026 06:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 05:25:33 +0000</lastBuildDate>
     <item>
       <title>关于第89期北京市高等学校教师岗前培训班报名的通知</title>
       <link>https://www.cup.edu.cn/rsc//tzgg/szfz/b0eb09d9c0754dce9a46a16d38dfbe74.htm</link>
@@ -106,6 +101,11 @@
       <title>关于2026年第五批优秀学科博士后推荐人选的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/d7f04f35c7284a91af8872a1b3f03fa6.blk.htm</link>
       <pubDate>Fri, 29 May 2026 00:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于第五鹏祥岗位调动的公示</title>
+      <link>https://www.cup.edu.cn/rsc//gsxx/c445c8908c7341419247e40d2e767ba7.blk.htm</link>
+      <pubDate>Tue, 09 Jun 2026 02:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
