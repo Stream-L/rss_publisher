@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 10:38:26 +0000</lastBuildDate>
-    <item>
-      <title>知识嵌入的钻井井筒数字孪生模型构建研究</title>
-      <link>https://mp.weixin.qq.com/s/Gvs7IAI1vmOcSt0mGx7ynQ</link>
-      <pubDate>Thu, 28 May 2026 00:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 05:39:30 +0000</lastBuildDate>
     <item>
       <title>【聚焦“十五五”】人工智能学院召开“十五五”发展规划专家论证会</title>
       <link>https://www.cup.edu.cn/cupai/xw/987568c2faa74d1187a6020eaab348f7.htm</link>
@@ -106,6 +101,11 @@
       <title>基于先验知识增强稀疏小波时空图网络的电潜泵异常检测</title>
       <link>https://mp.weixin.qq.com/s/GpgLF750V2QoD8AzmUo-Hg</link>
       <pubDate>Thu, 11 Jun 2026 00:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向智能炼厂的汽油调合自适应优化：五维数字孪生系统与动态闭环控制</title>
+      <link>https://mp.weixin.qq.com/s/SoAI4PB0PV_ey6XCkbI2lg</link>
+      <pubDate>Fri, 12 Jun 2026 00:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

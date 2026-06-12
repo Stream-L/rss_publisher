@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 10:38:50 +0000</lastBuildDate>
-    <item>
-      <title>理学院2026年全日制博士研究生招生复试成绩公示及拟录取公示（第二批）</title>
-      <link>https://www.cup.edu.cn/science//tzgg/f9fb608e58d44ad7bceb5f321f49ce29.htm</link>
-      <pubDate>Wed, 20 May 2026 13:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 05:39:56 +0000</lastBuildDate>
     <item>
       <title>理学院2026年全日制博士研究生招生复试成绩公示及拟录取公示（第二批）</title>
       <link>https://www.cup.edu.cn/science//yjsjy/bss/aea74a9f8be04f8c9838a58e0805674a.htm</link>
@@ -106,6 +101,11 @@
       <title>中国石油大学（北京）第四届工程博士研究生学术交流论坛理学院分论坛顺利举办</title>
       <link>https://www.cup.edu.cn/science//xyxw/7b3ecf665c134b4e8cc8ff5f41b39646.htm</link>
       <pubDate>Wed, 10 Jun 2026 07:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院举办青年教师教学基本功比赛</title>
+      <link>https://www.cup.edu.cn/science//xyxw/76505bd416c443bd9417e2469625b909.htm</link>
+      <pubDate>Fri, 12 Jun 2026 00:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
