@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 05:38:43 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开党委中心组人工智能专题学习扩大会</title>
-      <link>http://www.cup.edu.cn/news/sx/88ceb493b8c64689bede7218f04b8685.htm</link>
-      <pubDate>Sun, 07 Jun 2026 08:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于举办第八届中国海洋工程设计大赛的通知</title>
-      <link>https://www.cup.edu.cn/coedc/tzgg/f8ee6db993814378b9e60827b03487ac.htm</link>
-      <pubDate>Mon, 08 Jun 2026 14:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 10:37:06 +0000</lastBuildDate>
     <item>
       <title>关于2026年上半年全国大学英语四六级考试期间封闭教学楼的通知</title>
       <link>https://www.cup.edu.cn/jwc/notice/a2abaf4a9c3948cd91cbac58135afa89.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大在第十二届全国大学生能源经济学术创意大赛总决赛中获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/b5988b3dcc1e4b39b71c494c09762ca0.htm</link>
       <pubDate>Fri, 12 Jun 2026 01:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年氢能科学与工程微专业报名工作的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/471e19bbbf7d4fb0992fb18014b0924b.htm</link>
+      <pubDate>Fri, 12 Jun 2026 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于中油大厦中央空调应急维修的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/f46cc1660f254c7799a641704e7b317b.htm</link>
+      <pubDate>Fri, 12 Jun 2026 09:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
