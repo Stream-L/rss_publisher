@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 05:39:00 +0000</lastBuildDate>
-    <item>
-      <title>关于推荐石油高等教育教学成果奖的公示</title>
-      <link>http://www.cup.edu.cn/jwc/jxyj1/fdc3efaa47824a0a8acbde2745d12da7.blk.htm</link>
-      <pubDate>Mon, 11 May 2026 12:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 10:35:39 +0000</lastBuildDate>
     <item>
       <title>关于2026年6月份往届结业生申请毕业和毕业生申请学士学位的通知</title>
       <link>http://www.cup.edu.cn/jwc/zsyzc/5a3f2c900f7d4b0387b8a8744cd22c22.htm</link>
@@ -106,6 +101,11 @@
       <title>中国石油大学（北京）2026届优秀本科毕业设计（论文）名单公示</title>
       <link>http://www.cup.edu.cn/jwc/sjjx1/e921a45e3e0d4428bbd66c0bc0bcc003.htm</link>
       <pubDate>Wed, 17 Jun 2026 09:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026-2027学年秋季学期选课通知</title>
+      <link>http://www.cup.edu.cn/jwc/notice/9d3b6ddb91254f659f2e48c96bbd61c3.htm</link>
+      <pubDate>Thu, 18 Jun 2026 06:05:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
