@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 10:41:24 +0000</lastBuildDate>
-    <item>
-      <title>【交流合作】人工智能学院副院长高小永带队赴浙江杭州多地开展校企走访调研活动</title>
-      <link>https://www.cup.edu.cn/cupai/xw/09bf5f7fe912453892f08f13d8057372.htm</link>
-      <pubDate>Sat, 06 Jun 2026 07:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 05:41:08 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）人工智能学院2026年博士研究生补报名通知(第六批次)</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/94e3647a4f5a4237809e5fdb5f97f875.htm</link>
@@ -106,6 +101,11 @@
       <title>HCA：面向多层级表格问答的路径感知列抽象方法及泛化研究</title>
       <link>https://mp.weixin.qq.com/s/sil8fNtnAwvGZMjmTRS49Q</link>
       <pubDate>Tue, 16 Jun 2026 23:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于地质深度学习的高分辨率稀疏三维油藏建模</title>
+      <link>https://mp.weixin.qq.com/s/K1zyYRGgaIwBxoQqCzwUKg</link>
+      <pubDate>Thu, 18 Jun 2026 00:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
