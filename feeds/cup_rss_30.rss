@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 11:06:24 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院2026年博士研究生材料审查结果及复试名单（第六批次）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/1519893b5b71434697db5e81b9baeae3.htm</link>
-      <pubDate>Wed, 10 Jun 2026 08:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国石油大学（北京）人工智能学院2026年博士研究生复试细则（第六批次）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/ebea2367c39a436c9998fa01ffb0ec05.htm</link>
-      <pubDate>Wed, 10 Jun 2026 09:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 05:25:54 +0000</lastBuildDate>
     <item>
       <title>基于先验知识增强稀疏小波时空图网络的电潜泵异常检测</title>
       <link>https://mp.weixin.qq.com/s/GpgLF750V2QoD8AzmUo-Hg</link>
@@ -106,6 +96,16 @@
       <title>Uni-STC：统一的稀疏张量核</title>
       <link>https://mp.weixin.qq.com/s/S6PRnnvqbwhtjyY6jRsejQ</link>
       <pubDate>Mon, 22 Jun 2026 01:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院2026年博士研究生复试成绩（补报名）</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/f6b28c03c23f4230bf9c829b087183bc.htm</link>
+      <pubDate>Mon, 22 Jun 2026 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>边缘自主系统中面向移动多媒体计算的联合资源分配与任务切片方法</title>
+      <link>https://mp.weixin.qq.com/s/mYW7-QcghT1QScyY-CQl-g</link>
+      <pubDate>Tue, 23 Jun 2026 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

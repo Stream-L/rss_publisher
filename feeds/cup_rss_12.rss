@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 11:04:53 +0000</lastBuildDate>
-    <item>
-      <title>关于主楼施工噪音及B座绕行的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/a0de59982990498aa2725c7d90671bb5.htm</link>
-      <pubDate>Wed, 29 Apr 2026 08:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 05:24:24 +0000</lastBuildDate>
     <item>
       <title>关于在学生公寓开展有害生物防治的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/59cc17fc03cc46538505dabd09abcab6.htm</link>
@@ -106,6 +101,11 @@
       <title>节能宣传周</title>
       <link>http://www.cup.edu.cn/houqin/tpxw/ba0accf0ba654705ab4d7729bd088da0.htm</link>
       <pubDate>Sun, 21 Jun 2026 06:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>后勤服务通道</title>
+      <link>http://www.cup.edu.cn/houqin/hqfwtd/6cbc4db2ab3a45179275dee93be8f027.htm</link>
+      <pubDate>Tue, 23 Jun 2026 02:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
