@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 05:25:43 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院关于开展2026年暑期社会实践活动暨“行走中国·能源报国”智行计划的通知</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/5bb4675ae5cd486aa4a2127878463846.htm</link>
-      <pubDate>Mon, 15 Jun 2026 01:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ELMBA：面向 AQFP 超导逻辑电路缓冲器与分路器插入的优化框架</title>
-      <link>https://mp.weixin.qq.com/s/FBiloHTCQordzDV8jCpczA</link>
-      <pubDate>Mon, 15 Jun 2026 02:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于改进锁相环的分布式声传感相位解调</title>
-      <link>https://mp.weixin.qq.com/s/tkfN_kKGiqEnjKF0ggJgDQ</link>
-      <pubDate>Mon, 15 Jun 2026 02:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 10:10:22 +0000</lastBuildDate>
     <item>
       <title>【思政动态】人工智能学院召开2027届毕业生就业动员会</title>
       <link>https://www.cup.edu.cn/cupai/xw/03717a8901834a36866d6ae8248c729b.htm</link>
@@ -106,6 +91,21 @@
       <title>支持流量特性曲线校正的分段线性回归建模可视分析</title>
       <link>https://mp.weixin.qq.com/s/vORNAP5XNtzQfISmw9uSTw</link>
       <pubDate>Wed, 24 Jun 2026 01:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>深井潜油离心泵性能仿真及结构参数优化研究</title>
+      <link>https://mp.weixin.qq.com/s/rZJEoA6BcHIWaohCxKVF3g</link>
+      <pubDate>Thu, 25 Jun 2026 07:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>数据驱动的电潜螺杆泵井运行健康状态表征及预测方法</title>
+      <link>https://mp.weixin.qq.com/s/OUIbCbJXRQl8LPSDkc2jAg</link>
+      <pubDate>Thu, 25 Jun 2026 07:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【头条新闻】中石大人工智能学院党委书记延婷带队走访宇树科技</title>
+      <link>https://www.cup.edu.cn/cupai/xw/8555293818de454892cc58c948c794d4.htm</link>
+      <pubDate>Thu, 25 Jun 2026 09:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
