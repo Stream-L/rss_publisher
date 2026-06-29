@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 05:38:56 +0000</lastBuildDate>
-    <item>
-      <title>中石大举行2026届毕业生红毯礼暨毕业歌会</title>
-      <link>http://www.cup.edu.cn/news/sx/f005fdbc7ccc489e9c361a0dbb14fea0.htm</link>
-      <pubDate>Mon, 22 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 10:43:33 +0000</lastBuildDate>
     <item>
       <title>关于第十五届“挑战杯”中国大学生创业计划竞赛主体赛作品推荐的公示</title>
       <link>https://www.cup.edu.cn/tuanwei/tzgg/5545b52408344832b27ec9248c2d212f.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大在全国高校研究生“双百”创建中再创佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/07cd3c9c8b4540ed8d389a23811ee89f.htm</link>
       <pubDate>Sat, 27 Jun 2026 02:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开通电梯运行调整线上办理服务的通知</title>
+      <link>https://www.cup.edu.cn/houqin/tzgg/003f9a15349f4522bc547ce7620770ec.htm</link>
+      <pubDate>Mon, 29 Jun 2026 09:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
