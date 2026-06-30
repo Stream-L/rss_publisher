@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 10:44:19 +0000</lastBuildDate>
-    <item>
-      <title>基于预测模型的双换热器系统切换控制</title>
-      <link>https://mp.weixin.qq.com/s/TZaG69gNn8nFs5xMFSG36A</link>
-      <pubDate>Tue, 16 Jun 2026 01:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>绿电耦合电解水制氢合成氨系统的能效瓶颈识别</title>
-      <link>https://mp.weixin.qq.com/s/_bWGiyoe-JXzgUoxns25iA</link>
-      <pubDate>Tue, 16 Jun 2026 01:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HCA：面向多层级表格问答的路径感知列抽象方法及泛化研究</title>
-      <link>https://mp.weixin.qq.com/s/sil8fNtnAwvGZMjmTRS49Q</link>
-      <pubDate>Tue, 16 Jun 2026 23:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于地质深度学习的高分辨率稀疏三维油藏建模</title>
-      <link>https://mp.weixin.qq.com/s/K1zyYRGgaIwBxoQqCzwUKg</link>
-      <pubDate>Thu, 18 Jun 2026 00:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 05:28:01 +0000</lastBuildDate>
     <item>
       <title>【科研动态】采购政策宣讲走进人工智能学院 规范采购筑牢合规防线</title>
       <link>https://www.cup.edu.cn/cupai/xw/545c511a8aa442039492edf8ce722853.htm</link>
@@ -106,6 +86,26 @@
       <title>基于选择性Softmax梯度的分层相关性传播解释方法</title>
       <link>https://mp.weixin.qq.com/s/mDT6d9of0hIgGfdyPWY7XQ</link>
       <pubDate>Mon, 29 Jun 2026 01:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于代理模型辅助改进粒子群算法的气井生产参数优化</title>
+      <link>https://mp.weixin.qq.com/s/Oo4oOXp3-173LmVAnevyAQ</link>
+      <pubDate>Tue, 30 Jun 2026 01:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>考虑设备退化的离网综合能源系统序贯多阶段规划</title>
+      <link>https://mp.weixin.qq.com/s/pnOS6jk24OniH8qc5PA4vw</link>
+      <pubDate>Tue, 30 Jun 2026 01:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向混炼原油组成与性质稳定的调和调度优化</title>
+      <link>https://mp.weixin.qq.com/s/hHIFxtCTxhdOVH-EU2ObjQ</link>
+      <pubDate>Tue, 30 Jun 2026 01:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>利用领域特定知识：一种基于混合专家的故障诊断领域泛化新框架</title>
+      <link>https://mp.weixin.qq.com/s/13l3X7x33Rp3Qaw2QKm-IQ</link>
+      <pubDate>Tue, 30 Jun 2026 01:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
