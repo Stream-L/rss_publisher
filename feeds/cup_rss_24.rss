@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 05:37:45 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）2026年博士、硕士研究生入学须知（校本部）</title>
-      <link>http://grs.cup.edu.cn/zssstzgg/91443.jhtml</link>
-      <pubDate>Thu, 11 Jun 2026 06:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 10:26:19 +0000</lastBuildDate>
     <item>
       <title>2026第四届CCUS国际会议议程公布！</title>
       <link>http://www.cup.edu.cn/geophysics//xytzgg/7d0886e10d1e4a418de416d4e051d524.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院博士刘霁萱、韩淞耒学位论文开题答辩公告</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/ae46dfcb19944e4ab15e68e0d74ac373.htm</link>
       <pubDate>Tue, 30 Jun 2026 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院博士齐娇学位论文答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/c7fe6337e62d4abb826c9675fe2cbad8.htm</link>
+      <pubDate>Wed, 01 Jul 2026 04:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
