@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 10:17:41 +0000</lastBuildDate>
-    <item>
-      <title>【安全风险通告】Linux Kernel Dirty Frag 权限提升漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/d1c48cecce9c4704b0ed68dd9655c08a.htm</link>
-      <pubDate>Sun, 10 May 2026 13:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 05:37:04 +0000</lastBuildDate>
     <item>
       <title>吴霞</title>
       <link>https://www.cup.edu.cn/nic/bmgk/gwzz/jyjsb/55863305471a40eb83c711a6de669b1e.htm</link>
@@ -115,6 +110,12 @@
       <title>信息化管理处组织召开2026年中行银校合作项目推进会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/5abc063c35714ce289727071f720dac5.htm</link>
       <pubDate>Wed, 17 Jun 2026 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开“十五五”数智化规划咨询会</title>
+      <link>https://www.cup.edu.cn/news/sx/e3dd2c8eea7a4367b1b395d13778bcab.htm</link>
+      <description>为全面落实国家教育数字化相关工作部署，紧扣学校“十五五”规划开局关键时期，系统谋划全校数智化转型长远发展蓝图。6月24日下午，中石大召开“十五五”数智化规划咨询会。学校副校长李景叶，相关职能部门、人工智能学院负责人及业务骨干参加会议。</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

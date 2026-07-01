@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校工会 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 10:17:49 +0000</lastBuildDate>
-    <item>
-      <title>北京一零一中石大附属学校正式揭牌</title>
-      <link>https://www.cup.edu.cn/news/sx/70852e7eb41a440888248dd95eac7715.htm</link>
-      <pubDate>Tue, 12 May 2026 02:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 05:37:17 +0000</lastBuildDate>
     <item>
       <title>地球科学学院工会“健康月”活动圆满落幕</title>
       <link>http://www.cup.edu.cn/gonghui/workevolution/departmentnews/bf59c4c9d6f74130a0bb60e83d780ef2.htm</link>
@@ -106,6 +101,11 @@
       <title>教育学院第十一届青教赛圆满成功</title>
       <link>https://www.cup.edu.cn/tiyubu/news/0d2b25b3e1e54657958eaed6213b355b.htm</link>
       <pubDate>Tue, 30 Jun 2026 08:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于推荐教职工担任托管班教师志愿者的通知</title>
+      <link>http://www.cup.edu.cn/gonghui/info/e80b6f5d182e40a5b1bb558a0f75a347.htm</link>
+      <pubDate>Wed, 01 Jul 2026 02:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
