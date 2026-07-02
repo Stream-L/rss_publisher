@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 05:23:16 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）人工智能学院2026年博士研究生复试细则（补报名）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/e84799cb5f444e6e82a97a49da9e73ba.htm</link>
-      <pubDate>Sat, 20 Jun 2026 03:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 10:10:39 +0000</lastBuildDate>
     <item>
       <title>Uni-STC：统一的稀疏张量核</title>
       <link>https://mp.weixin.qq.com/s/S6PRnnvqbwhtjyY6jRsejQ</link>
@@ -106,6 +101,11 @@
       <title>面向持续信息分享的累积隐私保护：一种动态斯塔克尔伯格博弈方法</title>
       <link>https://mp.weixin.qq.com/s/QrFTPVXG8zkuyTVOywCbcQ</link>
       <pubDate>Thu, 02 Jul 2026 00:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院硕士研究生入学考试大纲</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/ce6991c7cb35417783c745760197ef81.htm</link>
+      <pubDate>Thu, 02 Jul 2026 06:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
