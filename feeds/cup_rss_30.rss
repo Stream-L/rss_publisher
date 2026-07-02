@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 10:26:46 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院2026年博士（补报名）报考资格审核结果公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/beef92d67d4942f4bab6a18ff245b319.htm</link>
-      <pubDate>Sat, 20 Jun 2026 03:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院2026年博士研究生材料审查结果及复试名单（补报名）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/5267f9783208416b8a0d512eb7b885a0.htm</link>
-      <pubDate>Sat, 20 Jun 2026 03:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 05:23:16 +0000</lastBuildDate>
     <item>
       <title>中国石油大学（北京）人工智能学院2026年博士研究生复试细则（补报名）</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/e84799cb5f444e6e82a97a49da9e73ba.htm</link>
@@ -106,6 +96,16 @@
       <title>基于香农熵正则化的混合频率时间域高分辨率Radon变换方法</title>
       <link>https://mp.weixin.qq.com/s/FnSl2ygUbFfddHtlM8i1IQ</link>
       <pubDate>Wed, 01 Jul 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大型视觉语言模型中的双曲专家与证据优先专家</title>
+      <link>https://mp.weixin.qq.com/s/nH5IuOMBIlkuST5QZ4y7Mg</link>
+      <pubDate>Thu, 02 Jul 2026 00:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向持续信息分享的累积隐私保护：一种动态斯塔克尔伯格博弈方法</title>
+      <link>https://mp.weixin.qq.com/s/QrFTPVXG8zkuyTVOywCbcQ</link>
+      <pubDate>Thu, 02 Jul 2026 00:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
