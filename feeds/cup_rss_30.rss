@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 10:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Uni-STC：统一的稀疏张量核</title>
-      <link>https://mp.weixin.qq.com/s/S6PRnnvqbwhtjyY6jRsejQ</link>
-      <pubDate>Mon, 22 Jun 2026 01:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院2026年博士研究生复试成绩（补报名）</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/f6b28c03c23f4230bf9c829b087183bc.htm</link>
-      <pubDate>Mon, 22 Jun 2026 09:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 07:20:14 +0000</lastBuildDate>
     <item>
       <title>边缘自主系统中面向移动多媒体计算的联合资源分配与任务切片方法</title>
       <link>https://mp.weixin.qq.com/s/mYW7-QcghT1QScyY-CQl-g</link>
@@ -106,6 +96,16 @@
       <title>人工智能学院硕士研究生入学考试大纲</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/ce6991c7cb35417783c745760197ef81.htm</link>
       <pubDate>Thu, 02 Jul 2026 06:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>页岩油井产能衰减规律及生产制度优化调控方法研究</title>
+      <link>https://mp.weixin.qq.com/s/u6losxL_VdDySR8Acimoxw</link>
+      <pubDate>Fri, 03 Jul 2026 01:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于短链LSTM-VAE模型的动态过程数据插值</title>
+      <link>https://mp.weixin.qq.com/s/PN__TF7zs4RAL8yN1dO7Wg</link>
+      <pubDate>Fri, 03 Jul 2026 01:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
