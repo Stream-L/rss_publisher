@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 11:09:27 +0000</lastBuildDate>
-    <item>
-      <title>数据驱动的电潜螺杆泵井运行健康状态表征及预测方法</title>
-      <link>https://mp.weixin.qq.com/s/OUIbCbJXRQl8LPSDkc2jAg</link>
-      <pubDate>Thu, 25 Jun 2026 07:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【党建动态】人工智能学院与中电智科开展联合主题党日活动</title>
-      <link>https://www.cup.edu.cn/cupai/xw/6f469954550549beabaea2702209e12a.htm</link>
-      <pubDate>Thu, 25 Jun 2026 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【交流合作】中石大人工智能学院赴宇树科技走访交流</title>
-      <link>https://www.cup.edu.cn/cupai/xw/8555293818de454892cc58c948c794d4.htm</link>
-      <pubDate>Thu, 25 Jun 2026 09:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MGNformer基于多图神经网络和变送器的车辆轨迹预测方法</title>
-      <link>https://mp.weixin.qq.com/s/Z3yQ7dw_B9x9_xBKth9rPw</link>
-      <pubDate>Fri, 26 Jun 2026 01:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 08:19:56 +0000</lastBuildDate>
     <item>
       <title>【交流合作】中石大人工智能学院赴中海油海南分公司走访交流</title>
       <link>https://www.cup.edu.cn/cupai/xw/692002343c8248128d971907fb9e3e46.htm</link>
@@ -83,6 +63,11 @@
       <pubDate>Thu, 02 Jul 2026 00:52:00 +0000</pubDate>
     </item>
     <item>
+      <title>人工智能学院青年志愿者协会2026年6月志愿服务时长公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/ca9b92ed66e34e3ba81af71d923dd762.htm</link>
+      <pubDate>Thu, 02 Jul 2026 01:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>人工智能学院硕士研究生入学考试大纲</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/ce6991c7cb35417783c745760197ef81.htm</link>
       <pubDate>Thu, 02 Jul 2026 06:28:00 +0000</pubDate>
@@ -106,6 +91,21 @@
       <title>【党建动态】人工智能学院走访慰问“光荣在党50年”老党员</title>
       <link>https://www.cup.edu.cn/cupai/xw/3f93bb5ad7864abb81c93dc3547d4ba2.htm</link>
       <pubDate>Fri, 03 Jul 2026 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于集成机器学习的多维井漏风险量化评估模型</title>
+      <link>https://mp.weixin.qq.com/s/71vbUwkmSmjcPU2PiN0--w</link>
+      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一种用于钻井工程漏失类型诊断的可解释机器学习框架</title>
+      <link>https://mp.weixin.qq.com/s/X1yn-aL9mHlX-H1E3RbZyg</link>
+      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一种面向致密砂岩储层含气性预测的新型可解释性机器学习框架</title>
+      <link>https://mp.weixin.qq.com/s/5ftx7uuPSSJImbPHnIha7A</link>
+      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
