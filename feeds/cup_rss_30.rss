@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 12:55:19 +0000</lastBuildDate>
-    <item>
-      <title>【交流合作】中石大人工智能学院赴中海油海南分公司走访交流</title>
-      <link>https://www.cup.edu.cn/cupai/xw/692002343c8248128d971907fb9e3e46.htm</link>
-      <pubDate>Fri, 26 Jun 2026 09:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于选择性Softmax梯度的分层相关性传播解释方法</title>
-      <link>https://mp.weixin.qq.com/s/mDT6d9of0hIgGfdyPWY7XQ</link>
-      <pubDate>Mon, 29 Jun 2026 01:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【人才培养】人工智能学院自动化系教师程炜晴入选北京光学学会首批“青年英才计划”</title>
-      <link>https://www.cup.edu.cn/cupai/xw/f818594fd8124e17bb77cbae1b36ca9c.htm</link>
-      <pubDate>Mon, 29 Jun 2026 16:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 07:37:46 +0000</lastBuildDate>
     <item>
       <title>基于代理模型辅助改进粒子群算法的气井生产参数优化</title>
       <link>https://mp.weixin.qq.com/s/Oo4oOXp3-173LmVAnevyAQ</link>
@@ -106,6 +91,21 @@
       <title>一种面向致密砂岩储层含气性预测的新型可解释性机器学习框架</title>
       <link>https://mp.weixin.qq.com/s/5ftx7uuPSSJImbPHnIha7A</link>
       <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于神经网络与多目标优化的钻头优选及钻井参数协同优化方法</title>
+      <link>https://mp.weixin.qq.com/s/chBtBy3RGny5vDG_z1t6LA</link>
+      <pubDate>Tue, 07 Jul 2026 00:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于3D扫描和计算机视觉的钻头磨损定量评价方法研究</title>
+      <link>https://mp.weixin.qq.com/s/_3g-BiOPNbwlcLIehIJ6Kg</link>
+      <pubDate>Tue, 07 Jul 2026 00:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于改进ST-YOLO的钻齿检测与钻头磨损定量分析</title>
+      <link>https://mp.weixin.qq.com/s/-Dv0DdvWYFLJuBtdlINX6A</link>
+      <pubDate>Tue, 07 Jul 2026 00:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
