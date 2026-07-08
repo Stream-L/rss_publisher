@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 11:57:39 +0000</lastBuildDate>
-    <item>
-      <title>基于代理模型辅助改进粒子群算法的气井生产参数优化</title>
-      <link>https://mp.weixin.qq.com/s/Oo4oOXp3-173LmVAnevyAQ</link>
-      <pubDate>Tue, 30 Jun 2026 01:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>考虑设备退化的离网综合能源系统序贯多阶段规划</title>
-      <link>https://mp.weixin.qq.com/s/pnOS6jk24OniH8qc5PA4vw</link>
-      <pubDate>Tue, 30 Jun 2026 01:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 06:28:22 +0000</lastBuildDate>
     <item>
       <title>面向混炼原油组成与性质稳定的调和调度优化</title>
       <link>https://mp.weixin.qq.com/s/hHIFxtCTxhdOVH-EU2ObjQ</link>
@@ -106,6 +96,16 @@
       <title>基于改进ST-YOLO的钻齿检测与钻头磨损定量分析</title>
       <link>https://mp.weixin.qq.com/s/-Dv0DdvWYFLJuBtdlINX6A</link>
       <pubDate>Tue, 07 Jul 2026 00:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于安全通信的水下油水分离器控制系统设计</title>
+      <link>https://mp.weixin.qq.com/s/18qAdl35z_YOSPOItWHB3Q</link>
+      <pubDate>Wed, 08 Jul 2026 00:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>级联式水下控制系统成本与失效风险协同优化</title>
+      <link>https://mp.weixin.qq.com/s/EGRkw7EYMwipdziO-7W26Q</link>
+      <pubDate>Wed, 08 Jul 2026 00:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
