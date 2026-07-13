@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 06:52:07 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办“国际组织后备人才训练营”开营仪式</title>
-      <link>http://www.cup.edu.cn/news/sx/bc0f33d2fe44489095af66c2c81370ee.htm</link>
-      <pubDate>Wed, 08 Jul 2026 06:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 12:12:02 +0000</lastBuildDate>
     <item>
       <title>2026年第三期全国研究生导师培训班暨首期工程类专业学位研究生申请学位实践成果评审专家研修会举办</title>
       <link>http://www.cup.edu.cn/news/sx/14d98f74fcca4ce182aba10c7a294418.htm</link>
@@ -106,6 +101,11 @@
       <title>“快乐一‘夏’，筑梦成长”中石大举办第四届教职工子女夏令营和首届教职工子女托管班</title>
       <link>http://www.cup.edu.cn/news/sx/cb893876902544d08196665f66de9bd3.htm</link>
       <pubDate>Sat, 11 Jul 2026 15:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于东校园全域网络临时中断的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/c02fdfaca083448391b057d5406f8600.htm</link>
+      <pubDate>Mon, 13 Jul 2026 08:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
