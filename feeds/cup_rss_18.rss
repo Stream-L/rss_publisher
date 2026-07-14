@@ -6,13 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 06:09:52 +0000</lastBuildDate>
-    <item>
-      <title>李红侠</title>
-      <link>https://www.cup.edu.cn/nic/bmgk/gwzz/jyjsb/71b66cbbf3a5449eb7bf9ca116fb8320.htm</link>
-      <description>外聘</description>
-      <pubDate>Mon, 11 May 2026 10:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 10:52:23 +0000</lastBuildDate>
     <item>
       <title>褚雪莹</title>
       <link>https://www.cup.edu.cn/nic/bmgk/gwzz/jyjsb/17a66ae120ea4b03831ab0fa9a347f23.htm</link>
@@ -112,6 +106,11 @@
       <title>关于东校园全域网络临时中断的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/c02fdfaca083448391b057d5406f8600.htm</link>
       <pubDate>Mon, 13 Jul 2026 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于OA系统暂停服务的通知</title>
+      <link>https://www.cup.edu.cn/nic/tzgg/38ca5b37ddf34e3abff18cc60eab4380.htm</link>
+      <pubDate>Tue, 14 Jul 2026 04:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
