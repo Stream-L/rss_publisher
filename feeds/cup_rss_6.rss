@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 06:12:13 +0000</lastBuildDate>
-    <item>
-      <title>关于2026年上半年全国大学英语四六级考试期间封闭教学楼的通知</title>
-      <link>http://www.cup.edu.cn/jwc/notice/a2abaf4a9c3948cd91cbac58135afa89.htm</link>
-      <pubDate>Mon, 08 Jun 2026 00:56:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 10:55:18 +0000</lastBuildDate>
     <item>
       <title>2026年上半年全国大学英语四、六级考试考生注意事项</title>
       <link>http://www.cup.edu.cn/jwc/notice/c246864d9a514db59b07c84c9a9e5d8d.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年秋季学期本科出国留学资助项目拟推荐人员名单公示</title>
       <link>http://www.cup.edu.cn/jwc/gjjy2/9e08a86857a744868134e7fe623fb116.blk.htm</link>
       <pubDate>Fri, 10 Jul 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>致中国石油大学（北京）2020届、2025届本科毕业生校友的一封信</title>
+      <link>http://www.cup.edu.cn/jwc/zljd/zljk/a2a33ed3f2f944979e635e86847ef98c.htm</link>
+      <pubDate>Wed, 15 Jul 2026 03:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

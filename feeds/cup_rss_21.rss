@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 06:13:37 +0000</lastBuildDate>
-    <item>
-      <title>2026年第三期全国研究生导师培训班暨首期工程类专业学位研究生申请学位实践成果评审专家研修会举办</title>
-      <link>http://www.cup.edu.cn/news/sx/14d98f74fcca4ce182aba10c7a294418.htm</link>
-      <pubDate>Wed, 08 Jul 2026 06:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 10:56:25 +0000</lastBuildDate>
     <item>
       <title>关于教学实验楼、工程训练楼项目施工期间东校园部分场地封闭及交通流线调整的通知</title>
       <link>https://www.cup.edu.cn/jjc/tzgg/a0519e01f7024287a604de48f26a50eb.htm</link>
@@ -106,6 +101,11 @@
       <title>关于东校园全域网络临时中断的通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/c02fdfaca083448391b057d5406f8600.htm</link>
       <pubDate>Mon, 13 Jul 2026 08:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2020届、2025届本科毕业生培养质量调查的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/dedf80c840d54b4589e7f2b6dec68585.htm</link>
+      <pubDate>Wed, 15 Jul 2026 08:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
