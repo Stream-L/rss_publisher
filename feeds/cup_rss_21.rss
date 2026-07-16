@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 06:16:19 +0000</lastBuildDate>
-    <item>
-      <title>关于教学实验楼、工程训练楼项目施工期间东校园部分场地封闭及交通流线调整的通知</title>
-      <link>https://www.cup.edu.cn/jjc/tzgg/a0519e01f7024287a604de48f26a50eb.htm</link>
-      <pubDate>Wed, 08 Jul 2026 07:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国工程院院士林君做客第四十六期蟒山讲坛 畅谈坚守初心使命、助力仪器强国建设</title>
-      <link>http://www.cup.edu.cn/news/sx/d51046dc5f7243adb594a6136561aef6.htm</link>
-      <pubDate>Wed, 08 Jul 2026 14:05:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 11:05:45 +0000</lastBuildDate>
     <item>
       <title>中石大举办第八期“铁人精神训练营”开营仪式</title>
       <link>http://www.cup.edu.cn/news/sx/56dff82cbc884ad9ab2c846dda772ce7.htm</link>
@@ -106,6 +96,16 @@
       <title>关于开展2020届、2025届本科毕业生培养质量调查的通知</title>
       <link>http://www.cup.edu.cn/tzygg/dedf80c840d54b4589e7f2b6dec68585.htm</link>
       <pubDate>Wed, 15 Jul 2026 08:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>东校园临时停电通知</title>
+      <link>https://www.cup.edu.cn/jjc/tzgg/0e337e22cea14114b2714a156b669e0e.htm</link>
+      <pubDate>Thu, 16 Jul 2026 09:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开校园地下综合管廊工程初步设计评估会</title>
+      <link>http://www.cup.edu.cn/news/sx/a345dc7a36344e408ba3ab7e243cd7aa.htm</link>
+      <pubDate>Thu, 16 Jul 2026 09:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
