@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 11:13:31 +0000</lastBuildDate>
-    <item>
-      <title>校领导深入各单位调研全面从严治党工作</title>
-      <link>http://www.cup.edu.cn/news/sx/8e01b9133ad84937857c43a6924fc853.htm</link>
-      <pubDate>Sat, 11 Jul 2026 14:05:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 06:26:47 +0000</lastBuildDate>
     <item>
       <title>中石大召开勘查技术与工程专业建设指导委员会会议</title>
       <link>http://www.cup.edu.cn/news/sx/c2d1a6025334446c821581a0609f9c34.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大在巴西举办深水油气开发前沿技术与精益管理高级研修班</title>
       <link>http://www.cup.edu.cn/news/sx/55149c0112e94814bfb05f6a99c82d2b.htm</link>
       <pubDate>Mon, 20 Jul 2026 15:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教师暑期研修实践团走进新疆开展“教育家精神万里行”主题暑期研修实践活动</title>
+      <link>http://www.cup.edu.cn/news/sx/d343daf543024fc086b758a22a62c7e2.htm</link>
+      <pubDate>Tue, 21 Jul 2026 05:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
