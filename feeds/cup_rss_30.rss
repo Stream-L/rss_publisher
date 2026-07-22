@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 06:27:28 +0000</lastBuildDate>
-    <item>
-      <title>大型视觉语言模型中的双曲专家与证据优先专家</title>
-      <link>https://mp.weixin.qq.com/s/nH5IuOMBIlkuST5QZ4y7Mg</link>
-      <pubDate>Thu, 02 Jul 2026 00:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 11:14:54 +0000</lastBuildDate>
     <item>
       <title>面向持续信息分享的累积隐私保护：一种动态斯塔克尔伯格博弈方法</title>
       <link>https://mp.weixin.qq.com/s/QrFTPVXG8zkuyTVOywCbcQ</link>
@@ -106,6 +101,11 @@
       <title>KT-HFCA：一种面向工业过程微小故障检测的异构特征交叉注意力方法</title>
       <link>https://mp.weixin.qq.com/s/B1TtP_OAUpi542bZJZxxGQ</link>
       <pubDate>Sun, 12 Jul 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【学院头条】人工智能学院联合未来能源学院组织青年教师赴西部油田开展“教育家精神万里行”国情研修和社会实践活动</title>
+      <link>https://www.cup.edu.cn/cupai/xw/85d56e96569d44d2a075e890f6b54ac0.htm</link>
+      <pubDate>Mon, 20 Jul 2026 07:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
