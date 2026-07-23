@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）石油工程学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 11:15:05 +0000</lastBuildDate>
-    <item>
-      <title>石工学院亮相校园开放日，师生面对面为考生答疑解惑</title>
-      <link>http://www.cup.edu.cn/oil/xyxw/bf0522b6e9374507af3adcaa57094c52.htm</link>
-      <pubDate>Wed, 08 Jul 2026 01:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 06:30:35 +0000</lastBuildDate>
     <item>
       <title>中石大石油工程1997级校友举行毕业二十五周年返校活动</title>
       <link>http://www.cup.edu.cn/oil/xyxw/eefb7030e25646ae9a0ae0c1697bbd69.htm</link>
@@ -106,6 +101,11 @@
       <title>学校人才计划</title>
       <link>http://www.cup.edu.cn/oil/jsdw/gccrc/150348.htm</link>
       <pubDate>Tue, 21 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>品牌课教师</title>
+      <link>http://www.cup.edu.cn/oil/jsdw/gccrc/150496.htm</link>
+      <pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
