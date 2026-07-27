@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 10:47:36 +0000</lastBuildDate>
-    <item>
-      <title>关于主楼B座正门临时封闭的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/c8992802b2db4039a96c4a5cd257018c.htm</link>
-      <pubDate>Fri, 29 May 2026 06:19:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 07:28:33 +0000</lastBuildDate>
     <item>
       <title>关于后勤车队启用“线上订车服务”的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/2614ff0fb5404a438682a44735abb1df.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年暑期后勤服务指南</title>
       <link>https://mp.weixin.qq.com/s/i1fp3wWpUiKVnC39418GzQ</link>
       <pubDate>Fri, 10 Jul 2026 13:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于7月28日北校园部分区域临时停电的通知</title>
+      <link>http://www.cup.edu.cn/houqin/tzgg/10d589954e234bd2bef69fc5d3ad23ff.htm</link>
+      <pubDate>Mon, 27 Jul 2026 02:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
