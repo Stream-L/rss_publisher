@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 06:29:03 +0000</lastBuildDate>
-    <item>
-      <title>关于7月28日北校园部分区域临时停电的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/10d589954e234bd2bef69fc5d3ad23ff.htm</link>
-      <pubDate>Mon, 27 Jul 2026 04:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大化学工程与环境学院举办1992级校友毕业30周年返校活动</title>
-      <link>http://www.cup.edu.cn/news/sx/4ce78ef41cea463a8b775dc2be2ce6d3.htm</link>
-      <pubDate>Mon, 27 Jul 2026 08:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举办习近平新时代中国特色社会主义思想专题研修班</title>
-      <link>http://www.cup.edu.cn/news/sx/29e583e31a874508861a62c1e1d3f451.htm</link>
-      <pubDate>Tue, 28 Jul 2026 05:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 11:29:02 +0000</lastBuildDate>
     <item>
       <title>关于暑期北校园北门、东门及润杰公寓东门升降柱安装施工的通知</title>
       <link>http://www.cup.edu.cn/tzygg/e48ad449e5c04290bd8da73acdbc68cb.htm</link>
@@ -93,6 +78,11 @@
       <pubDate>Mon, 03 Aug 2026 15:15:27 +0000</pubDate>
     </item>
     <item>
+      <title>中石大“油海筑光·盛德白玉”宣讲实践团赴四川白玉开展社会实践</title>
+      <link>http://www.cup.edu.cn/news/sx/87924db721bf4b0286e77aac73bf7792.htm</link>
+      <pubDate>Tue, 04 Aug 2026 06:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title>校领导参加2026中国—东盟教育交流周并作交流发言</title>
       <link>http://www.cup.edu.cn/news/sx/ff14c81063b94b5abb50d1efacc37d04.htm</link>
       <pubDate>Tue, 04 Aug 2026 09:32:21 +0000</pubDate>
@@ -106,6 +96,16 @@
       <title>中石大举办处级干部党性教育专题培训班</title>
       <link>http://www.cup.edu.cn/news/sx/6c3f3001c8ac4706b7e102948e8c0389.htm</link>
       <pubDate>Wed, 05 Aug 2026 06:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办第二期“向绿而生 为绿而创”领英未来创造营</title>
+      <link>http://www.cup.edu.cn/news/sx/3746e9c3de464b92b4b1a8aa33e02e8d.htm</link>
+      <pubDate>Thu, 06 Aug 2026 04:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>【到能源报国一线去】中石大启动新时代能源报国实践育人研习点并开展首次实践活动﻿</title>
+      <link>http://www.cup.edu.cn/news/sx/e8650a434f824d51b8525f3d6df04a0e.htm</link>
+      <pubDate>Thu, 06 Aug 2026 04:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
