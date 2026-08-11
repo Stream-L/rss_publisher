@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 05:06:40 +0000</lastBuildDate>
-    <item>
-      <title>关于暑期部分科研实验室加装电表的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/7477908c14fd45fe816fb02ade23127b.htm</link>
-      <pubDate>Mon, 03 Aug 2026 10:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大承办中曼石油集团第五期中青年干部培训班</title>
-      <link>http://www.cup.edu.cn/news/sx/19b4a777c0e84198a9cb8630258072ce.htm</link>
-      <pubDate>Mon, 03 Aug 2026 11:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大“心油所汶·川越山海”实践团赴四川汶川开展社会实践</title>
-      <link>http://www.cup.edu.cn/news/sx/f1399f825c1f4feaace338e42a185995.htm</link>
-      <pubDate>Mon, 03 Aug 2026 15:15:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 10:04:54 +0000</lastBuildDate>
     <item>
       <title>中石大“油海筑光·盛德白玉”宣讲实践团赴四川白玉开展社会实践</title>
       <link>http://www.cup.edu.cn/news/sx/87924db721bf4b0286e77aac73bf7792.htm</link>
@@ -106,6 +91,21 @@
       <title>中石大《石油科学》期刊发布“石油科学100个难题”</title>
       <link>http://www.cup.edu.cn/news/sx/4750b60a0e6f4829b261c75908478221.htm</link>
       <pubDate>Mon, 10 Aug 2026 16:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大“薪火传志”社会实践团赴江西于都开展暑期社会实践</title>
+      <link>http://www.cup.edu.cn/news/sx/d0c2060970ff4ffaa7786908b881b8cf.htm</link>
+      <pubDate>Tue, 11 Aug 2026 04:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大“兴文逐梦 石子担当”实践团跨域千里重走中央红色交通线</title>
+      <link>http://www.cup.edu.cn/news/sx/21360196909a471d85efb73b93a7da02.htm</link>
+      <pubDate>Tue, 11 Aug 2026 04:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大“寻迹长征·碳路汶川”实践团开展2026年暑期社会实践</title>
+      <link>http://www.cup.edu.cn/news/sx/b4eae0c9b6ff4877b2aa6fd9be828c3f.htm</link>
+      <pubDate>Tue, 11 Aug 2026 07:46:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
