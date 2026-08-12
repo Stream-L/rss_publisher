@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 10:06:15 +0000</lastBuildDate>
-    <item>
-      <title>关于公示“一种稠油降粘用兼具长期稳定性与快速破乳性的CO2刺激响应型原油乳状液”专利的通知</title>
-      <link>https://www.cup.edu.cn/science//tzgg/fdc465b2165c4e87a43bcd78fa39c017.htm</link>
-      <pubDate>Thu, 28 May 2026 09:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 05:31:35 +0000</lastBuildDate>
     <item>
       <title>喜报｜我院王金可同学获评学校首位以实践成果申请学位工程博士</title>
       <link>https://www.cup.edu.cn/science//xyxw/6c47b721b986452d9f8e666555043ff0.htm</link>
@@ -109,6 +104,11 @@
       <title>理学院2026年博士生导师聘任公示</title>
       <link>https://www.cup.edu.cn/science//tzgg/e9d0b7e2a95b432fb9e1f470aa4699ad.htm</link>
       <pubDate>Sat, 25 Jul 2026 11:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第十九届全国3D大赛校赛评选结果公示</title>
+      <link>https://www.cup.edu.cn/science//tzgg/4e2b3c5628214717873a6cf5621ebb0b.htm</link>
+      <pubDate>Wed, 12 Aug 2026 03:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
