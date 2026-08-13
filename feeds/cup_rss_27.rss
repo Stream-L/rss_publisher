@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）体育与人文艺术学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 10:13:32 +0000</lastBuildDate>
-    <item>
-      <title>关于徐云飞课时情况公示</title>
-      <link>http://www.cup.edu.cn/tiyubu/info/d7bff08368cd4f75bbee80b9ef421180.htm</link>
-      <pubDate>Tue, 21 Apr 2026 00:41:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 05:40:12 +0000</lastBuildDate>
     <item>
       <title>授课证明公示</title>
       <link>https://www.cup.edu.cn/mte/xsgz/jyzd/5eb352c6d1ac43f8b027cea1b5e570be.htm</link>
@@ -106,6 +101,11 @@
       <title>关于2023级本科生体育竞赛成绩的公示</title>
       <link>http://www.cup.edu.cn/tiyubu/info/db90cda3649441a48321e70ee42600fa.htm</link>
       <pubDate>Thu, 06 Aug 2026 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于2023级本科生体育竞赛补充信息的公示</title>
+      <link>http://www.cup.edu.cn/tiyubu/info/6b335cf6b0024ba18207afbcfd0edf8c.htm</link>
+      <pubDate>Wed, 12 Aug 2026 00:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
