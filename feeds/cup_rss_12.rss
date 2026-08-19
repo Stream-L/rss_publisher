@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 09:39:02 +0000</lastBuildDate>
-    <item>
-      <title>校领导带队开展汛期校园安全专项检查</title>
-      <link>https://www.cup.edu.cn/news/sx/2017bf6402294353ac024bec77de5aee.htm</link>
-      <pubDate>Wed, 17 Jun 2026 03:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>后勤工会开展“粽香传情 乐享端午”粽子DIY小课堂活动</title>
-      <link>http://www.cup.edu.cn/houqin/gzdt/e33de94563f64f6dbc2e04ee0cef16ec.htm</link>
-      <pubDate>Wed, 17 Jun 2026 06:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>节能宣传周</title>
-      <link>http://www.cup.edu.cn/houqin/tpxw/ba0accf0ba654705ab4d7729bd088da0.htm</link>
-      <pubDate>Sun, 21 Jun 2026 06:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 04:34:35 +0000</lastBuildDate>
     <item>
       <title>后勤服务通道</title>
       <link>http://www.cup.edu.cn/houqin/hqfwtd/6cbc4db2ab3a45179275dee93be8f027.htm</link>
@@ -106,6 +91,21 @@
       <title>北校园篮球场完成焕新改造</title>
       <link>https://mp.weixin.qq.com/s/x-Mnv9Z01zZIjOxWvc8a-w</link>
       <pubDate>Sun, 09 Aug 2026 08:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>北校园篮球场</title>
+      <link>https://www.cup.edu.cn/news/sx/0ea6b308295049e9a7e7e66e79d7c516.htm</link>
+      <pubDate>Sat, 15 Aug 2026 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>北校园篮球场</title>
+      <link>https://www.cup.edu.cn/news/sx/0ea6b308295049e9a7e7e66e79d7c516.htm</link>
+      <pubDate>Tue, 18 Aug 2026 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）学生公寓服务管理手册（2026版）</title>
+      <link>http://www.cup.edu.cn/houqin/gzzd/80629550099c4722a5cfda311d556630.htm</link>
+      <pubDate>Tue, 18 Aug 2026 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
