@@ -6,23 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 09:42:28 +0000</lastBuildDate>
-    <item>
-      <title>信息化管理处工会小组组织开展神堂峪栈道春游活动</title>
-      <link>https://www.cup.edu.cn/nic/djgh/9212f4c432dc412899643e87d6d4494a.htm</link>
-      <description>为丰富部门教职工精神文化生活，凝聚团队合力，5月10日，信息化管理处工会小组组织全体教职工赴神堂峪栈道开展春日踏青活动。</description>
-      <pubDate>Mon, 11 May 2026 12:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】关于Hugging Face平台仿冒OpenAI仓库的供应链投毒事件</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/85ef9d8681a141148daf861606900794.htm</link>
-      <pubDate>Tue, 12 May 2026 13:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【安全风险通告】微软补丁日安全通告|5月份_2026</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/6b2796b156d943c09f474188034f49b0.htm</link>
-      <pubDate>Thu, 14 May 2026 06:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 04:31:03 +0000</lastBuildDate>
     <item>
       <title>信息化管理处组织召开2027年教育部改善专项专家论证会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/727de22a86d148bd890c52394dc520dc.htm</link>
@@ -109,6 +93,21 @@
       <title>使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szksysm/138a1f14a6fb49fa80adf2d960b1ac94.htm</link>
       <pubDate>Sun, 09 Aug 2026 02:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szkcjwt/636076559e534faa9fef34e6f55b9a5e.htm</link>
+      <pubDate>Fri, 21 Aug 2026 09:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szksysm/2211a8cf89cf4890921d49a29617e87a.htm</link>
+      <pubDate>Fri, 21 Aug 2026 10:11:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szkcjwt/6a3ca32625744ec3b161af6de7e1955f.htm</link>
+      <pubDate>Fri, 21 Aug 2026 10:18:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
