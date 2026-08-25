@@ -6,57 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 09:55:12 +0000</lastBuildDate>
-    <item>
-      <title>【党建动态】人工智能学院走访慰问“光荣在党50年”老党员</title>
-      <link>https://www.cup.edu.cn/cupai/xw/3f93bb5ad7864abb81c93dc3547d4ba2.htm</link>
-      <pubDate>Fri, 03 Jul 2026 09:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于集成机器学习的多维井漏风险量化评估模型</title>
-      <link>https://mp.weixin.qq.com/s/71vbUwkmSmjcPU2PiN0--w</link>
-      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>一种用于钻井工程漏失类型诊断的可解释机器学习框架</title>
-      <link>https://mp.weixin.qq.com/s/X1yn-aL9mHlX-H1E3RbZyg</link>
-      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>一种面向致密砂岩储层含气性预测的新型可解释性机器学习框架</title>
-      <link>https://mp.weixin.qq.com/s/5ftx7uuPSSJImbPHnIha7A</link>
-      <pubDate>Mon, 06 Jul 2026 00:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于神经网络与多目标优化的钻头优选及钻井参数协同优化方法</title>
-      <link>https://mp.weixin.qq.com/s/chBtBy3RGny5vDG_z1t6LA</link>
-      <pubDate>Tue, 07 Jul 2026 00:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于3D扫描和计算机视觉的钻头磨损定量评价方法研究</title>
-      <link>https://mp.weixin.qq.com/s/_3g-BiOPNbwlcLIehIJ6Kg</link>
-      <pubDate>Tue, 07 Jul 2026 00:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于改进ST-YOLO的钻齿检测与钻头磨损定量分析</title>
-      <link>https://mp.weixin.qq.com/s/-Dv0DdvWYFLJuBtdlINX6A</link>
-      <pubDate>Tue, 07 Jul 2026 00:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于安全通信的水下油水分离器控制系统设计</title>
-      <link>https://mp.weixin.qq.com/s/18qAdl35z_YOSPOItWHB3Q</link>
-      <pubDate>Wed, 08 Jul 2026 00:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>级联式水下控制系统成本与失效风险协同优化</title>
-      <link>https://mp.weixin.qq.com/s/EGRkw7EYMwipdziO-7W26Q</link>
-      <pubDate>Wed, 08 Jul 2026 00:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>毕业典礼</title>
-      <link>https://www.cup.edu.cn/cupai/lbdt/9a32f97c30d74a2280b120c3f9795c26.htm</link>
-      <pubDate>Thu, 09 Jul 2026 08:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 04:38:23 +0000</lastBuildDate>
     <item>
       <title>人工智能学院关于2026年本博一体化科技创新训练项目立项学生名单的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/f164651c0eae44ae908d794b688b948d.htm</link>
@@ -93,9 +43,59 @@
       <pubDate>Mon, 10 Aug 2026 08:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>面向动态井口环境的RFID标签识别天线系统设计</title>
+      <link>https://mp.weixin.qq.com/s/uOLKtZKekC2hft1rBCC6Zw</link>
+      <pubDate>Tue, 18 Aug 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向钻井取心作业的筒内超声测距应用研究</title>
+      <link>https://mp.weixin.qq.com/s/E2uo-vfL31QCmbN65pf0pw</link>
+      <pubDate>Tue, 18 Aug 2026 05:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一种用于工业过程微小故障检测的自调制 KAN 增强直接交叉注意力方法</title>
+      <link>https://mp.weixin.qq.com/s/uX51SgaqrLDyZiXMrkj91A</link>
+      <pubDate>Tue, 18 Aug 2026 23:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于自适应加权特征增强典型变量差异分析的动态过程故障检测</title>
+      <link>https://mp.weixin.qq.com/s/yKq-NpaBQ8xMjYVpHQXqrg</link>
+      <pubDate>Tue, 18 Aug 2026 23:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于自然边界的严格反馈非线性系统约束控制策略</title>
+      <link>https://mp.weixin.qq.com/s/dB2gy9CxL6ozQmw7O4Sn_A</link>
+      <pubDate>Tue, 18 Aug 2026 23:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>奇异值特征驱动的注意力堆叠变分自编码器：一种工业过程故障检测方法</title>
+      <link>https://mp.weixin.qq.com/s/pwg9vWMLkeQUL2RYrwf6ew</link>
+      <pubDate>Tue, 18 Aug 2026 23:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于数据特征与回归建模的间歇式聚丙烯熔融指数预测</title>
+      <link>https://mp.weixin.qq.com/s/CdSTpci6A1PwlEVJGypAHw</link>
+      <pubDate>Thu, 20 Aug 2026 01:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于VAE的趋势异常诊断研究</title>
+      <link>https://mp.weixin.qq.com/s/60p2m162Ensk6LPhILNeWg</link>
+      <pubDate>Thu, 20 Aug 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>人工智能学院关于2027届本研一体化 “专业+管理” 复合型人才专项思想政治岗免试研究生推荐名单的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/27737408734741ddb0ccadc0bb732d19.htm</link>
       <pubDate>Thu, 20 Aug 2026 01:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于虚拟引导点与平滑策略的催化重整过程操作路径优化方法</title>
+      <link>https://mp.weixin.qq.com/s/6t7czhv0cirIotXwfjIeug</link>
+      <pubDate>Fri, 21 Aug 2026 04:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>考虑原油黏温特性的水下HIPPS设防区长度优化</title>
+      <link>https://mp.weixin.qq.com/s/HWa9CguqaQnE-lgyUPbYQw</link>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>关于人工智能学院2027届优秀本科生推免资格审核通过名单及综合成绩排名的公示</title>
