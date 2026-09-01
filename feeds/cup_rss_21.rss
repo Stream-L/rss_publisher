@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 16:57:43 +0000</lastBuildDate>
-    <item>
-      <title>中石大学子获评2025年度“中国大学生自强之星”</title>
-      <link>http://www.cup.edu.cn/news/sx/7f34c39b6d1e4b34b2c7155a0d05fcdf.htm</link>
-      <pubDate>Fri, 21 Aug 2026 13:27:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 09:11:10 +0000</lastBuildDate>
     <item>
       <title>校领导率团赴俄罗斯交流访问</title>
       <link>http://www.cup.edu.cn/news/sx/e76f8b300c4d4bb488352b1f0c527707.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大承担的两项中国工程院科技战略咨询重点项目启动会在北京召开</title>
       <link>http://www.cup.edu.cn/news/sx/7d8e8e459b144935b30f4b0af87f33aa.htm</link>
       <pubDate>Mon, 31 Aug 2026 09:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教师获德国洪堡基金会“洪堡资深学者”研究基金资助</title>
+      <link>http://www.cup.edu.cn/news/sx/5e6151c5c543450fadb7b9257559e77b.htm</link>
+      <pubDate>Tue, 01 Sep 2026 00:16:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
