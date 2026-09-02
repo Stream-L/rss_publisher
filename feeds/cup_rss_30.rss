@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 14:05:10 +0000</lastBuildDate>
-    <item>
-      <title>面向动态井口环境的RFID标签识别天线系统设计</title>
-      <link>https://mp.weixin.qq.com/s/uOLKtZKekC2hft1rBCC6Zw</link>
-      <pubDate>Tue, 18 Aug 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>面向钻井取心作业的筒内超声测距应用研究</title>
-      <link>https://mp.weixin.qq.com/s/E2uo-vfL31QCmbN65pf0pw</link>
-      <pubDate>Tue, 18 Aug 2026 05:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 08:26:17 +0000</lastBuildDate>
     <item>
       <title>一种用于工业过程微小故障检测的自调制 KAN 增强直接交叉注意力方法</title>
       <link>https://mp.weixin.qq.com/s/uX51SgaqrLDyZiXMrkj91A</link>
@@ -106,6 +96,16 @@
       <title>面向减油增化的炼厂二次加工装置调度与成品油调合协同优化</title>
       <link>https://mp.weixin.qq.com/s/EkYKwSUc3puoETOJzFom8w</link>
       <pubDate>Tue, 01 Sep 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MM-Net：基于ASPP的自适应多次波相减配准框架</title>
+      <link>https://mp.weixin.qq.com/s/ztgezd3BlfPYOYnCqpVJgA</link>
+      <pubDate>Wed, 02 Sep 2026 01:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于分区自适应可微Top-K正则化的保幅高分辨率Radon变换方法</title>
+      <link>https://mp.weixin.qq.com/s/W0yzqKHMCRLx-wSHCT1qUw</link>
+      <pubDate>Wed, 02 Sep 2026 01:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

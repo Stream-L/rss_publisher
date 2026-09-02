@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 14:04:37 +0000</lastBuildDate>
-    <item>
-      <title>陈汉明</title>
-      <link>http://www.cup.edu.cn/geophysics//szdw/js/088f5947745c4961a2455fe699a68f71.htm</link>
-      <pubDate>Fri, 17 Jul 2026 06:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>刘晓惠</title>
-      <link>http://www.cup.edu.cn/geophysics//szdw/fjs/2e23bcb352344d5b95f19125d26c7f04.htm</link>
-      <pubDate>Fri, 17 Jul 2026 06:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 08:25:40 +0000</lastBuildDate>
     <item>
       <title>金国文</title>
       <link>http://www.cup.edu.cn/geophysics//szdw/fjs/9deb5446e74849b38b05b611c3fc45e1.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大教授受聘担任SEG旗舰期刊《Geophysics》主编</title>
       <link>https://www.cup.edu.cn/news/sx/ad6e08429a6e4d2caf5d13aaf4c11323.htm</link>
       <pubDate>Fri, 28 Aug 2026 08:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院开讲2026级本科新生专业启蒙第一课</title>
+      <link>http://www.cup.edu.cn/geophysics//xyxw1/c8bd7ee3e45a4af9a892878442e7a8c1.htm</link>
+      <pubDate>Sat, 29 Aug 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院领导班子走访2026级新生宿舍</title>
+      <link>http://www.cup.edu.cn/geophysics//xyxw1/cedc3dba1af04bdea91eba0f2908594c.htm</link>
+      <pubDate>Sun, 30 Aug 2026 14:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

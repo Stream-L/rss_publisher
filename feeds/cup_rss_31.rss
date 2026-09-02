@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 14:05:15 +0000</lastBuildDate>
-    <item>
-      <title>沈卫兵</title>
-      <link>http://www.cup.edu.cn/geosci/szdw/jiaoshou/4e78bb8ea93443ff90bd9ffa9e895232.htm</link>
-      <pubDate>Fri, 17 Jul 2026 01:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 08:26:22 +0000</lastBuildDate>
     <item>
       <title>冯德浩等1人赴阿根廷团组公示表</title>
       <link>http://www.cup.edu.cn/geosci/cgcj/cggs/8b4727b543dd42df8214f6fdc07fa5f5.blk.htm</link>
@@ -109,6 +104,11 @@
       <title>王俊辉等13人赴阿根廷团组公示表</title>
       <link>http://www.cup.edu.cn/geosci/cgcj/cggs/ae94d33db12d44d98ad55bf15d1250b0.blk.htm</link>
       <pubDate>Mon, 31 Aug 2026 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>深层地热富集机理与高效开发全国重点实验室</title>
+      <link>http://skl-dgr.sinopec.com/skl-dgr/</link>
+      <pubDate>Wed, 02 Sep 2026 00:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
