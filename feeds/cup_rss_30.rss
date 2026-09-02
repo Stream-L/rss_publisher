@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 08:26:17 +0000</lastBuildDate>
-    <item>
-      <title>一种用于工业过程微小故障检测的自调制 KAN 增强直接交叉注意力方法</title>
-      <link>https://mp.weixin.qq.com/s/uX51SgaqrLDyZiXMrkj91A</link>
-      <pubDate>Tue, 18 Aug 2026 23:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 13:30:38 +0000</lastBuildDate>
     <item>
       <title>基于自适应加权特征增强典型变量差异分析的动态过程故障检测</title>
       <link>https://mp.weixin.qq.com/s/yKq-NpaBQ8xMjYVpHQXqrg</link>
@@ -106,6 +101,11 @@
       <title>基于分区自适应可微Top-K正则化的保幅高分辨率Radon变换方法</title>
       <link>https://mp.weixin.qq.com/s/W0yzqKHMCRLx-wSHCT1qUw</link>
       <pubDate>Wed, 02 Sep 2026 01:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【科研动态】人工智能学院2026年国家自然科学基金立项再获佳绩</title>
+      <link>https://www.cup.edu.cn/cupai/xw/df49a0cf33f349c3b3efa15bf0cc9225.htm</link>
+      <pubDate>Wed, 02 Sep 2026 06:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
