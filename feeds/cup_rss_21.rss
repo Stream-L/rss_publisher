@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 08:33:55 +0000</lastBuildDate>
-    <item>
-      <title>满 “新” 奔赴！中石大，我来啦！</title>
-      <link>http://www.cup.edu.cn/news/sx/bdfbb8b3bd0d49efa2c50abb454f215b.htm</link>
-      <pubDate>Mon, 24 Aug 2026 16:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 13:27:54 +0000</lastBuildDate>
     <item>
       <title>校长金衍带队赴浙江走访交流</title>
       <link>http://www.cup.edu.cn/news/sx/0aac9470704841e6a45cb2e90aa822e0.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年学生军训-轮播图</title>
       <link>https://mp.weixin.qq.com/s/MX50JxVw7ktOSTVDifSGTw</link>
       <pubDate>Wed, 02 Sep 2026 01:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026开学典礼校长寄语-轮播图</title>
+      <link>https://mp.weixin.qq.com/s/KsZs6LoXuV181XuFK3VMbA</link>
+      <pubDate>Thu, 03 Sep 2026 06:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

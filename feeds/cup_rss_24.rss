@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 08:34:12 +0000</lastBuildDate>
-    <item>
-      <title>金国文</title>
-      <link>http://www.cup.edu.cn/geophysics//szdw/fjs/9deb5446e74849b38b05b611c3fc45e1.htm</link>
-      <pubDate>Fri, 17 Jul 2026 06:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 13:28:07 +0000</lastBuildDate>
     <item>
       <title>陈涛</title>
       <link>http://www.cup.edu.cn/geophysics//szdw/fjs/9dd3413b935a437ba1875a66bde43a6d.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院领导班子走访2026级新生宿舍</title>
       <link>http://www.cup.edu.cn/geophysics//xyxw1/cedc3dba1af04bdea91eba0f2908594c.htm</link>
       <pubDate>Sun, 30 Aug 2026 14:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院博士张宇学位论文开题答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/e81ba960b0a34a97963a34145dfe67dd.htm</link>
+      <pubDate>Thu, 03 Sep 2026 06:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
