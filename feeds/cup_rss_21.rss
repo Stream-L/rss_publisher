@@ -6,32 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 13:27:54 +0000</lastBuildDate>
-    <item>
-      <title>校长金衍带队赴浙江走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/0aac9470704841e6a45cb2e90aa822e0.htm</link>
-      <pubDate>Tue, 25 Aug 2026 02:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于数字校园卡系统升级正式启用的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/5a802545224540aaa65d0206e8c5337a.htm</link>
-      <pubDate>Wed, 26 Aug 2026 02:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大联合主办2026国际能源转型与可持续发展大会暨第四届ISETS国际会议</title>
-      <link>http://www.cup.edu.cn/news/sx/0bffe6170ee649c192010366398f6f8f.htm</link>
-      <pubDate>Wed, 26 Aug 2026 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>数字校园卡系统焕新升级-轮播图</title>
-      <link>https://www.cup.edu.cn/tzygg/5a802545224540aaa65d0206e8c5337a.htm</link>
-      <pubDate>Wed, 26 Aug 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>石油科学100个问题-轮播图</title>
-      <link>https://mp.weixin.qq.com/s/ldoqOk9IIy9etb-9i_pcGg</link>
-      <pubDate>Wed, 26 Aug 2026 09:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 08:29:33 +0000</lastBuildDate>
     <item>
       <title>中石大教授受聘担任SEG旗舰期刊《Geophysics》主编</title>
       <link>http://www.cup.edu.cn/news/sx/ad6e08429a6e4d2caf5d13aaf4c11323.htm</link>
@@ -106,6 +81,31 @@
       <title>2026开学典礼校长寄语-轮播图</title>
       <link>https://mp.weixin.qq.com/s/KsZs6LoXuV181XuFK3VMbA</link>
       <pubDate>Thu, 03 Sep 2026 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年数据科学与智能决策微专业第二轮报名工作的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/7de06f5fb41544ecaeb394d03e2207c4.htm</link>
+      <pubDate>Thu, 03 Sep 2026 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于校园电动自行车充电设施升级的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/d9affa727df64e938da77243a2042ac3.htm</link>
+      <pubDate>Thu, 03 Sep 2026 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校长金衍寄语新生：自强不息 能源报国</title>
+      <link>http://www.cup.edu.cn/news/sx/666942a1dfa847fa9ba1e8f44ee2fe39.htm</link>
+      <pubDate>Thu, 03 Sep 2026 13:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年开学典礼-轮播图</title>
+      <link>https://mp.weixin.qq.com/s/0JyydTQc0U3iZg4srvltoQ</link>
+      <pubDate>Thu, 03 Sep 2026 13:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>礼成！军都山下，6000余名新中石大人启航新程！</title>
+      <link>http://www.cup.edu.cn/news/sx/0289d2060af7464a9c7b80c893fa21e6.htm</link>
+      <pubDate>Thu, 03 Sep 2026 13:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
