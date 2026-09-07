@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 12:46:50 +0000</lastBuildDate>
-    <item>
-      <title>关于2026年学生军训期间部分体育场馆暂不开放的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/359de3bcda8e4cbaa9e5d458f0d4a9c8.htm</link>
-      <pubDate>Fri, 28 Aug 2026 11:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于2026年学生军训期间部分食堂就餐时间调整的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/20cfef30b9cf441f9f82c561709863dc.htm</link>
-      <pubDate>Fri, 28 Aug 2026 11:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 08:55:56 +0000</lastBuildDate>
     <item>
       <title>第七届中国油气藏开发地质大会在中石大举办</title>
       <link>http://www.cup.edu.cn/news/sx/02b10708c6774e3ba4c7560c80e5280d.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大主办2026年化工学科高质量发展论坛暨CCUS北京市重点实验室学术交流会</title>
       <link>http://www.cup.edu.cn/news/sx/5ad50ef9471e4e7cbb0e77f2c4303f1a.htm</link>
       <pubDate>Sun, 06 Sep 2026 06:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于报名美国塔尔萨大学、阿联酋哈利法大学交换生项目的通知（2027年春季学期）</title>
+      <link>http://www.cup.edu.cn/tzygg/fada666b6f584a1dbf8587012fc5d46f.htm</link>
+      <pubDate>Sun, 06 Sep 2026 23:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大承办中国系统工程学会过程系统工程专业委员会（SESC-PSE）年会</title>
+      <link>http://www.cup.edu.cn/news/sx/c2a7b780709a4f6c9d31dc1233d72d56.htm</link>
+      <pubDate>Mon, 07 Sep 2026 01:34:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
