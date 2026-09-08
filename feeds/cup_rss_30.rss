@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 14:59:39 +0000</lastBuildDate>
-    <item>
-      <title>基于VAE的趋势异常诊断研究</title>
-      <link>https://mp.weixin.qq.com/s/60p2m162Ensk6LPhILNeWg</link>
-      <pubDate>Thu, 20 Aug 2026 01:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院关于2027届本研一体化 “专业+管理” 复合型人才专项思想政治岗免试研究生推荐名单的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/27737408734741ddb0ccadc0bb732d19.htm</link>
-      <pubDate>Thu, 20 Aug 2026 01:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于虚拟引导点与平滑策略的催化重整过程操作路径优化方法</title>
-      <link>https://mp.weixin.qq.com/s/6t7czhv0cirIotXwfjIeug</link>
-      <pubDate>Fri, 21 Aug 2026 04:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能学院2027届优秀本科生推免资格审核通过名单及综合成绩排名的公示</title>
-      <link>https://www.cup.edu.cn/cupai/bkspy/bzrxyds/88c238e61aa548a0b1b258706b374c17.blk.htm</link>
-      <pubDate>Fri, 21 Aug 2026 16:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 08:38:07 +0000</lastBuildDate>
     <item>
       <title>考虑原油黏温特性的水下HIPPS设防区长度优化</title>
       <link>https://mp.weixin.qq.com/s/HWa9CguqaQnE-lgyUPbYQw</link>
@@ -106,6 +86,26 @@
       <title>面向机械故障诊断的双谱-连续小波变换几何融合网络</title>
       <link>https://mp.weixin.qq.com/s/ly0GaQzAqEww4Wk6AYD6jw</link>
       <pubDate>Mon, 07 Sep 2026 03:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于RF约束强化学习的智能钻井参数优化</title>
+      <link>https://mp.weixin.qq.com/s/Ve8qF05_X_9FVCYtdnjniQ</link>
+      <pubDate>Tue, 08 Sep 2026 02:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向复杂地层钻井效率优化的知识增强持续学习系统</title>
+      <link>https://mp.weixin.qq.com/s/Haz-hTWUIDT32Cz-l1gQcg</link>
+      <pubDate>Tue, 08 Sep 2026 02:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>融合时序形状子学习与对抗样本增强的早期溢流风险监测</title>
+      <link>https://mp.weixin.qq.com/s/fk3O-WAapFvie0hz6MAFrg</link>
+      <pubDate>Tue, 08 Sep 2026 02:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向复杂钻井条件井底压力估计的动态多任务学习方法</title>
+      <link>https://mp.weixin.qq.com/s/5MKNzfKeVAHtyen8kvSnIg</link>
+      <pubDate>Tue, 08 Sep 2026 02:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

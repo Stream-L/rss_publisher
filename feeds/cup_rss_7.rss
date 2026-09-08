@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）科学技术处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 14:57:35 +0000</lastBuildDate>
-    <item>
-      <title>内蒙古自治区科学技术进步奖申报项目公示2</title>
-      <link>http://www.cup.edu.cn/kjc/notice/gongshi/eb76ad1eccdd41d4a6e1ec37f88248a9.htm</link>
-      <pubDate>Mon, 24 Aug 2026 03:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 08:36:07 +0000</lastBuildDate>
     <item>
       <title>2026年度陕西省科学技术进步奖申报项目公示2</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/391d0ace41ff4b78bd81845e8a006e72.htm</link>
@@ -106,6 +101,11 @@
       <title>2026年度内蒙古自治区科学技术进步奖申报项目公示2</title>
       <link>http://www.cup.edu.cn/kjc/notice/gongshi/ed5e97541e2a4e1a90c92ad710a970a9.htm</link>
       <pubDate>Mon, 07 Sep 2026 09:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026首届“断裂活动与油气运聚学术研讨会”三号通知</title>
+      <link>/publish/kjc/docs/2026-09/2026-09/6c9e809d2b0a40d68230835166646d89.pdf</link>
+      <pubDate>Tue, 08 Sep 2026 03:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
