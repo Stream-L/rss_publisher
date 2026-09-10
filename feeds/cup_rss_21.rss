@@ -6,42 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 13:38:00 +0000</lastBuildDate>
-    <item>
-      <title>《大学生》杂志专访学校党委书记王同奇：在服务国家战略中彰显使命担当</title>
-      <link>http://www.cup.edu.cn/news/jj/e5d210bde53940b3a74159593c63c478.htm</link>
-      <pubDate>Tue, 01 Sep 2026 00:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大举行2026级学生军训开训仪式</title>
-      <link>http://www.cup.edu.cn/news/sx/42ec2ecf1efa4dc68d9ca6413ed74170.htm</link>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年学生军训-轮播图</title>
-      <link>https://mp.weixin.qq.com/s/MX50JxVw7ktOSTVDifSGTw</link>
-      <pubDate>Wed, 02 Sep 2026 01:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026开学典礼校长寄语-轮播图</title>
-      <link>https://mp.weixin.qq.com/s/KsZs6LoXuV181XuFK3VMbA</link>
-      <pubDate>Thu, 03 Sep 2026 06:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展2026年数据科学与智能决策微专业第二轮报名工作的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/7de06f5fb41544ecaeb394d03e2207c4.htm</link>
-      <pubDate>Thu, 03 Sep 2026 08:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于校园电动自行车充电设施升级的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/d9affa727df64e938da77243a2042ac3.htm</link>
-      <pubDate>Thu, 03 Sep 2026 09:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校长金衍寄语新生：自强不息 能源报国</title>
-      <link>http://www.cup.edu.cn/news/sx/666942a1dfa847fa9ba1e8f44ee2fe39.htm</link>
-      <pubDate>Thu, 03 Sep 2026 13:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 08:40:08 +0000</lastBuildDate>
     <item>
       <title>2026年开学典礼-轮播图</title>
       <link>https://mp.weixin.qq.com/s/0JyydTQc0U3iZg4srvltoQ</link>
@@ -106,6 +71,41 @@
       <title>校长金衍赴克拉玛依推动政校企合作服务能源行业和地方经济社会发展</title>
       <link>http://www.cup.edu.cn/news/sx/fae4c022297b4c59928c477ea64a8339.htm</link>
       <pubDate>Wed, 09 Sep 2026 06:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办克拉玛依校区处级干部集中培训班</title>
+      <link>http://www.cup.edu.cn/news/sx/b88006b6876b4e2b9e3668a77861d9aa.htm</link>
+      <pubDate>Wed, 09 Sep 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候</title>
+      <link>http://www.cup.edu.cn/news/sx/e5ebf24de241430c8d94ffe73521e95c.htm</link>
+      <pubDate>Wed, 09 Sep 2026 10:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>庆祝教师节-轮播图</title>
+      <link>https://www.cup.edu.cn/</link>
+      <pubDate>Wed, 09 Sep 2026 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开2026年秋季学期工作部署会</title>
+      <link>http://www.cup.edu.cn/news/sx/cd2a881f060a4e7aa0a371e987eb173b.htm</link>
+      <pubDate>Wed, 09 Sep 2026 15:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>南北校园供暖管道恢复上水通知</title>
+      <link>http://www.cup.edu.cn/tzygg/8e5bb16570014726b7aca8fb8cdb1e82.htm</link>
+      <pubDate>Wed, 09 Sep 2026 15:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CUP中秋月饼开启预订</title>
+      <link>https://mp.weixin.qq.com/s/sHzJP1OiQz9tZvw6EIggrQ</link>
+      <pubDate>Thu, 10 Sep 2026 01:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大携手科大讯飞共建人工智能产业学院！</title>
+      <link>http://www.cup.edu.cn/news/sx/7d488a6d1e4d43f08bbecc0120937bf7.htm</link>
+      <pubDate>Thu, 10 Sep 2026 02:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
