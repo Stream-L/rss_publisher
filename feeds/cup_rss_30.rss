@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 13:31:01 +0000</lastBuildDate>
-    <item>
-      <title>关于人工智能学院2027届优秀本科生推免资格审核通过名单及综合成绩排名的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/44e8a780bfde4c9e90310079cf70d17a.htm</link>
-      <pubDate>Sat, 22 Aug 2026 16:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于本科生（含结业生）2026-2027学年秋季学期开学初补缓考工作安排的通知</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/8e2ecf7bcc304708b52a7f40fccba142.htm</link>
-      <pubDate>Wed, 26 Aug 2026 08:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 08:35:40 +0000</lastBuildDate>
     <item>
       <title>基于高灵敏度磁强计测量的磁感应通信方法研究</title>
       <link>https://mp.weixin.qq.com/s/GG9P1hfWONjsTjDvUiYt8A</link>
@@ -106,6 +96,16 @@
       <title>海洋立管反冲的H∞鲁棒自适应控制器设计</title>
       <link>https://mp.weixin.qq.com/s/PSWVf7q8mWUh8sYeKdxSBg</link>
       <pubDate>Thu, 10 Sep 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>教师节</title>
+      <link>https://www.cup.edu.cn/cupai/lbdt/fad83778aa2e4e66885cd04975e96160.htm</link>
+      <pubDate>Thu, 10 Sep 2026 15:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>机理与数据融合驱动的CO₂驱抽油机井生产运行优化方法研究</title>
+      <link>https://mp.weixin.qq.com/s/IpsnL-iQpZnYetgKyL1IUA</link>
+      <pubDate>Fri, 11 Sep 2026 00:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
