@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 13:27:33 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开校园安全防范恳谈会</title>
-      <link>http://www.cup.edu.cn/news/sx/f5262b740252483e8ed2f42614e96cdc.htm</link>
-      <pubDate>Mon, 07 Sep 2026 00:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 08:22:39 +0000</lastBuildDate>
     <item>
       <title>中石大承办中国系统工程学会过程系统工程专业委员会（SESC-PSE）年会</title>
       <link>http://www.cup.edu.cn/news/sx/c2a7b780709a4f6c9d31dc1233d72d56.htm</link>
@@ -106,6 +101,11 @@
       <title>关于化工楼D座停水的通知</title>
       <link>https://www.cup.edu.cn/houqin/tzgg/be795629a7f84f5598e125d28992806d.htm</link>
       <pubDate>Fri, 11 Sep 2026 01:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办中国化学工程集团2027届毕业生招聘宣讲会</title>
+      <link>http://www.cup.edu.cn/news/sx/d907c2e1851344c9b9a70f02d0ba6bb2.htm</link>
+      <pubDate>Fri, 11 Sep 2026 15:09:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
