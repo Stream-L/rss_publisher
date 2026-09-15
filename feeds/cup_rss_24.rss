@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 09:13:20 +0000</lastBuildDate>
-    <item>
-      <title>教职工因公出国行前公示</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/gjhjy/2dc9389040a94b079c75940b04131c2d.htm</link>
-      <pubDate>Mon, 27 Jul 2026 07:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 14:17:10 +0000</lastBuildDate>
     <item>
       <title>地球物理学院教师参加第十八届全国石油高校地球科学学科论坛</title>
       <link>http://www.cup.edu.cn/geophysics//xyxw1/f69c12b008474b3b8491cd9025ae6ac4.htm</link>
@@ -106,6 +101,11 @@
       <title>地球物理学院赴西南石油大学、成都理工大学走访交流</title>
       <link>http://www.cup.edu.cn/geophysics//xyxw1/be20a33a79f54ef69ffff99011f0c89c.htm</link>
       <pubDate>Thu, 10 Sep 2026 06:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院关于2026-2027学年家庭经济困难学生认定的公示</title>
+      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/ce48f842a8024091bd9fc5a8f2a6693e.htm</link>
+      <pubDate>Tue, 15 Sep 2026 06:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

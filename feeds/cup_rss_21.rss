@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 09:13:03 +0000</lastBuildDate>
-    <item>
-      <title>庆祝教师节-轮播图</title>
-      <link>https://www.cup.edu.cn/</link>
-      <pubDate>Wed, 09 Sep 2026 10:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开2026年秋季学期工作部署会</title>
-      <link>http://www.cup.edu.cn/news/sx/cd2a881f060a4e7aa0a371e987eb173b.htm</link>
-      <pubDate>Wed, 09 Sep 2026 15:30:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 14:16:52 +0000</lastBuildDate>
     <item>
       <title>南北校园供暖管道恢复上水通知</title>
       <link>http://www.cup.edu.cn/tzygg/8e5bb16570014726b7aca8fb8cdb1e82.htm</link>
@@ -93,6 +83,11 @@
       <pubDate>Mon, 14 Sep 2026 10:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>中石大牵头完成陆上超深油气井井喷防控关键技术装备及示范应用演练</title>
+      <link>http://www.cup.edu.cn/news/sx/2ae062dd43024531873c43e89dd375b0.htm</link>
+      <pubDate>Mon, 14 Sep 2026 10:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>挪威王国驻华大使馆代表团访问中石大</title>
       <link>http://www.cup.edu.cn/news/sx/859e2331130c46b0afb320cdc3adb758.htm</link>
       <pubDate>Mon, 14 Sep 2026 12:28:30 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>安哥拉国民议会议长一行访问中石大</title>
       <link>http://www.cup.edu.cn/news/sx/2dbdfa5bd1794864bd346a4b6813cc1b.htm</link>
       <pubDate>Mon, 14 Sep 2026 13:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>全国教材建设奖轮播图</title>
+      <link>https://mp.weixin.qq.com/s/eCOATLua4OcL_KxCHfNRHg</link>
+      <pubDate>Tue, 15 Sep 2026 05:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
