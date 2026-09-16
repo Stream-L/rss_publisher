@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 14:16:52 +0000</lastBuildDate>
-    <item>
-      <title>南北校园供暖管道恢复上水通知</title>
-      <link>http://www.cup.edu.cn/tzygg/8e5bb16570014726b7aca8fb8cdb1e82.htm</link>
-      <pubDate>Wed, 09 Sep 2026 15:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CUP中秋月饼开启预订</title>
-      <link>https://mp.weixin.qq.com/s/sHzJP1OiQz9tZvw6EIggrQ</link>
-      <pubDate>Thu, 10 Sep 2026 01:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 09:05:06 +0000</lastBuildDate>
     <item>
       <title>中石大携手科大讯飞共建人工智能产业学院</title>
       <link>http://www.cup.edu.cn/news/sx/7d488a6d1e4d43f08bbecc0120937bf7.htm</link>
@@ -106,6 +96,16 @@
       <title>全国教材建设奖轮播图</title>
       <link>https://mp.weixin.qq.com/s/eCOATLua4OcL_KxCHfNRHg</link>
       <pubDate>Tue, 15 Sep 2026 05:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大联合主办第四届“创青春”中国青年碳中和创新大赛全国总决赛</title>
+      <link>http://www.cup.edu.cn/news/sx/746dc3ab69e9432fa7fced97c33a9848.htm</link>
+      <pubDate>Tue, 15 Sep 2026 09:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展中国石油大学（北京）2026年暑假社会实践评优工作的通知</title>
+      <link>https://www.cup.edu.cn/tuanwei/yjstzq/322aba0a180646bcb47cefadf1faa142.htm</link>
+      <pubDate>Wed, 16 Sep 2026 01:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

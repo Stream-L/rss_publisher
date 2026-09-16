@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 14:17:44 +0000</lastBuildDate>
-    <item>
-      <title>【学科动态】人工智能学院教师易文峰入选“玛丽·居里学者”人才项目</title>
-      <link>https://www.cup.edu.cn/cupai/xw/ebcdd610ae99487c8b9c34cfcedec1aa.htm</link>
-      <pubDate>Tue, 01 Sep 2026 01:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于BO-LightGBM的海底管道配重涂层质量预测模型</title>
-      <link>https://mp.weixin.qq.com/s/vgZ8jvofUM-G2NyFTJvSog</link>
-      <pubDate>Tue, 01 Sep 2026 02:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>面向减油增化的炼厂二次加工装置调度与成品油调合协同优化</title>
-      <link>https://mp.weixin.qq.com/s/EkYKwSUc3puoETOJzFom8w</link>
-      <pubDate>Tue, 01 Sep 2026 02:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MM-Net：基于ASPP的自适应多次波相减配准框架</title>
-      <link>https://mp.weixin.qq.com/s/ztgezd3BlfPYOYnCqpVJgA</link>
-      <pubDate>Wed, 02 Sep 2026 01:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 09:05:48 +0000</lastBuildDate>
     <item>
       <title>基于分区自适应可微Top-K正则化的保幅高分辨率Radon变换方法</title>
       <link>https://mp.weixin.qq.com/s/W0yzqKHMCRLx-wSHCT1qUw</link>
@@ -106,6 +86,26 @@
       <title>DiffusionMVS：基于扩散约束的遥感影像立体重建算法</title>
       <link>https://mp.weixin.qq.com/s/VOFC8um8Z_cjBGruoxsqYQ</link>
       <pubDate>Tue, 15 Sep 2026 02:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向工业物联网的公平性与新鲜度感知异步联邦学习方法</title>
+      <link>https://mp.weixin.qq.com/s/jmgSb7D7hWXtJSiAIFuZnQ</link>
+      <pubDate>Wed, 16 Sep 2026 02:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>保障实时RAG服务的效率与时效性：一种基于AoI的方法</title>
+      <link>https://mp.weixin.qq.com/s/9dg6WGYp52JkNi2s0N2neg</link>
+      <pubDate>Wed, 16 Sep 2026 02:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向联邦学习的服务导向自适应分层激励方案</title>
+      <link>https://mp.weixin.qq.com/s/ZqOQmWnPx_atgWVXvZGgOA</link>
+      <pubDate>Wed, 16 Sep 2026 02:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向无人机集群协同推理服务的自适应模型划分与资源分配方法</title>
+      <link>https://mp.weixin.qq.com/s/Q7Ldg4R0Br3V1mODenzgSA</link>
+      <pubDate>Wed, 16 Sep 2026 02:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
