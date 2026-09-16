@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 09:04:52 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）考点关于第77次计算机等级考试成绩复查申请的通知</title>
-      <link>https://www.cup.edu.cn/nic/tzgg/7e75f44f33cf4f998e9d8ed77ef65f5e.htm</link>
-      <pubDate>Fri, 15 May 2026 06:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 14:08:21 +0000</lastBuildDate>
     <item>
       <title>&amp;nbsp;【紧急漏洞通告】Microsoft Exchange Server OWA跨站脚本漏洞CVE-2026-42897</title>
       <link>https://www.cup.edu.cn/nic/wlaq/d9ef87ba12804b4bb7af8a85d152f969.htm</link>
@@ -107,6 +102,11 @@
       <title>关于第78次计算机等级考试准考证打印及模拟考试的相关通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/5311e21d4c8142dfbe0a6aa36331ddc0.htm</link>
       <pubDate>Mon, 14 Sep 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【紧急漏洞通告】搜狗输入法远程代码执行漏洞CVE-2026-51990</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/cb0190b828814e15a6d1461002904fd0.htm</link>
+      <pubDate>Wed, 16 Sep 2026 08:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
