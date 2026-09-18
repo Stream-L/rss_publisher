@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 08:47:47 +0000</lastBuildDate>
-    <item>
-      <title>基于RF约束强化学习的智能钻井参数优化</title>
-      <link>https://mp.weixin.qq.com/s/Ve8qF05_X_9FVCYtdnjniQ</link>
-      <pubDate>Tue, 08 Sep 2026 02:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>面向复杂地层钻井效率优化的知识增强持续学习系统</title>
-      <link>https://mp.weixin.qq.com/s/Haz-hTWUIDT32Cz-l1gQcg</link>
-      <pubDate>Tue, 08 Sep 2026 02:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>融合时序形状子学习与对抗样本增强的早期溢流风险监测</title>
-      <link>https://mp.weixin.qq.com/s/fk3O-WAapFvie0hz6MAFrg</link>
-      <pubDate>Tue, 08 Sep 2026 02:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 13:33:28 +0000</lastBuildDate>
     <item>
       <title>面向复杂钻井条件井底压力估计的动态多任务学习方法</title>
       <link>https://mp.weixin.qq.com/s/5MKNzfKeVAHtyen8kvSnIg</link>
@@ -81,6 +66,21 @@
       <title>人工智能学院2026-2027年家庭经济困难等级认定结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/d41d98e683594c7c9b3c824130ab5184.htm</link>
       <pubDate>Wed, 16 Sep 2026 11:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WellGPT油气生产大模型构建方法与应用探索</title>
+      <link>https://mp.weixin.qq.com/s/LwclsuQdcVifqZTeB-GslQ</link>
+      <pubDate>Thu, 17 Sep 2026 00:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>考虑倒发电和动液面的油田微电网抽油机间抽系统多目标调度</title>
+      <link>https://mp.weixin.qq.com/s/nCKwJDq8KZXZyjcpVEjbcw</link>
+      <pubDate>Thu, 17 Sep 2026 00:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>抽油机盘式永磁电机性能仿真和参数优化研究</title>
+      <link>https://mp.weixin.qq.com/s/17xch2UEKvqh9PmuM9EOoQ</link>
+      <pubDate>Thu, 17 Sep 2026 00:48:00 +0000</pubDate>
     </item>
     <item>
       <title>人工智能院2027年接收推免生（直博生）申请办法及复试细则</title>
