@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人事处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 13:31:25 +0000</lastBuildDate>
-    <item>
-      <title>关于2026年申报职称平转人员材料公示</title>
-      <link>https://www.cup.edu.cn/rsc//gsxx/5cdb799092574a1eb5ed7551ddf7f1f9.blk.htm</link>
-      <pubDate>Wed, 17 Jun 2026 10:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 08:31:53 +0000</lastBuildDate>
     <item>
       <title>关于公布2026年优秀青年学者和青年拔尖人才入选人员名单的通知</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/c88eea1c09c249f788a4fcb62da199d5.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>关于熊至宜校内单位调动的公示</title>
       <link>https://www.cup.edu.cn/rsc//gsxx/4e22fd7c3c5b4f95b6c5a18132fb8eb9.blk.htm</link>
       <pubDate>Fri, 18 Sep 2026 08:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于王子龙京外调干的公示</title>
+      <link>https://www.cup.edu.cn/rsc//gsxx/dc805724cb7f4f44a1a3f1fd0313828e.blk.htm</link>
+      <pubDate>Fri, 18 Sep 2026 10:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
