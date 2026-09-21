@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）后勤管理处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 09:36:07 +0000</lastBuildDate>
-    <item>
-      <title>2026年暑期后勤服务指南</title>
-      <link>https://mp.weixin.qq.com/s/i1fp3wWpUiKVnC39418GzQ</link>
-      <pubDate>Fri, 10 Jul 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于7月28日北校园部分区域临时停电的通知</title>
-      <link>http://www.cup.edu.cn/houqin/tzgg/10d589954e234bd2bef69fc5d3ad23ff.htm</link>
-      <pubDate>Mon, 27 Jul 2026 02:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 15:48:29 +0000</lastBuildDate>
     <item>
       <title>关于暑期部分科研实验室加装电表的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/7477908c14fd45fe816fb02ade23127b.htm</link>
@@ -106,6 +96,16 @@
       <title>关于新教工餐厅（B区）启用的通知</title>
       <link>http://www.cup.edu.cn/houqin/tzgg/22e53859a6314b218d69756c5a3952c8.htm</link>
       <pubDate>Sun, 20 Sep 2026 11:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>教工餐厅</title>
+      <link>https://mp.weixin.qq.com/s/CgzPMqf4zzg2UROozPlzqA</link>
+      <pubDate>Mon, 21 Sep 2026 08:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>食光新启！中石大教工餐厅升级提质</title>
+      <link>https://mp.weixin.qq.com/s/CgzPMqf4zzg2UROozPlzqA</link>
+      <pubDate>Mon, 21 Sep 2026 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
