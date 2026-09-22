@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 15:49:51 +0000</lastBuildDate>
-    <item>
-      <title>一种基于极值理论的热连轧过程批次性能评估框架</title>
-      <link>https://mp.weixin.qq.com/s/gm68MdGnCMN58BdkMRk3Jw</link>
-      <pubDate>Wed, 09 Sep 2026 01:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 09:02:36 +0000</lastBuildDate>
     <item>
       <title>海洋立管反冲的H∞鲁棒自适应控制器设计</title>
       <link>https://mp.weixin.qq.com/s/PSWVf7q8mWUh8sYeKdxSBg</link>
@@ -106,6 +101,11 @@
       <title>输入饱和下非线性系统的预设时间跟踪控制</title>
       <link>https://mp.weixin.qq.com/s/BK6Rsf5OsLuFruOOOVhswA</link>
       <pubDate>Mon, 21 Sep 2026 03:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大规模汽油调合的知识辅助集成计划与调度：一种序贯混合进化算法</title>
+      <link>https://mp.weixin.qq.com/s/rKxiKSpDcQ-gcM22kkoojA</link>
+      <pubDate>Tue, 22 Sep 2026 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
