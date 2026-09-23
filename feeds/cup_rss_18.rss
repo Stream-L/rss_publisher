@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 13:59:40 +0000</lastBuildDate>
-    <item>
-      <title>【紧急漏洞通告】Next.js 服务器端请求伪造漏洞CVE-2026-44578</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/493ddb961d484ada845c3af6c81a32b0.htm</link>
-      <pubDate>Thu, 21 May 2026 02:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 09:05:18 +0000</lastBuildDate>
     <item>
       <title>【紧急漏洞通告】Linux Kernel PinTheft 权限提升漏洞</title>
       <link>https://www.cup.edu.cn/nic/wlaq/ee1453fd0fa64df69ac4ea93603aab6f.htm</link>
@@ -107,6 +102,11 @@
       <title>信息化管理处召开校园网络文明月活动工作协调会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/86b523512aec47079ebe6c510c42535d.htm</link>
       <pubDate>Fri, 18 Sep 2026 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处组织开展2026年国家网络安全宣传周系列活动</title>
+      <link>https://www.cup.edu.cn/nic/xwdt/c83d721003cb4b7985506a12054c0028.htm</link>
+      <pubDate>Wed, 23 Sep 2026 01:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
