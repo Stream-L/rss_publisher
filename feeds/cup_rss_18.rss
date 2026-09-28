@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 14:38:42 +0000</lastBuildDate>
-    <item>
-      <title>【紧急漏洞通告】Linux Kernel PinTheft 权限提升漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/ee1453fd0fa64df69ac4ea93603aab6f.htm</link>
-      <pubDate>Thu, 21 May 2026 12:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【紧急漏洞通告】NGINX ngx_http_rewrite_module 堆缓冲区溢出漏洞CVE-2026-9256</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/d234b8857f4f480389f07c04a4ad1b42.htm</link>
-      <pubDate>Wed, 27 May 2026 07:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【紧急漏洞通告】Linux Kernel CIFSwitch 权限提升 漏洞</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/3eeaba6fc1414901ad20e79f077b2477.htm</link>
-      <pubDate>Fri, 29 May 2026 08:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 10:34:10 +0000</lastBuildDate>
     <item>
       <title>信息化管理处组织召开2026年中行银校合作项目推进会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/5abc063c35714ce289727071f720dac5.htm</link>
@@ -107,6 +92,21 @@
       <title>信息化管理处组织开展2026年国家网络安全宣传周系列活动</title>
       <link>https://www.cup.edu.cn/nic/xwdt/c83d721003cb4b7985506a12054c0028.htm</link>
       <pubDate>Wed, 23 Sep 2026 01:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>算力平台与 AI 服务-服务介绍</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slfwjs/ea9c9536c1c447d282da294531b714a0.htm</link>
+      <pubDate>Mon, 28 Sep 2026 07:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>算力平台与 AI 服务-使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slsysm/22ab701fe0d04380bbb8b8702c45a285.htm</link>
+      <pubDate>Mon, 28 Sep 2026 08:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>算力平台与AI服务-常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slcjwt/115025c3032648e7b72e839878d5a035.htm</link>
+      <pubDate>Mon, 28 Sep 2026 08:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
