@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 14:44:38 +0000</lastBuildDate>
-    <item>
-      <title>保障实时RAG服务的效率与时效性：一种基于AoI的方法</title>
-      <link>https://mp.weixin.qq.com/s/9dg6WGYp52JkNi2s0N2neg</link>
-      <pubDate>Wed, 16 Sep 2026 02:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 11:13:27 +0000</lastBuildDate>
     <item>
       <title>面向联邦学习的服务导向自适应分层激励方案</title>
       <link>https://mp.weixin.qq.com/s/ZqOQmWnPx_atgWVXvZGgOA</link>
@@ -106,6 +101,11 @@
       <title>基于YOLO11与深度相机的ROS环境下阀门定位方法研究</title>
       <link>https://mp.weixin.qq.com/s/QDkARr8JaTaEJsnO_P4CAw</link>
       <pubDate>Sat, 26 Sep 2026 00:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院青年志愿者协会2026年7月-9月志愿时长公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/747ed7c15ce1477d989f515ba537cfc0.htm</link>
+      <pubDate>Sun, 04 Oct 2026 14:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
