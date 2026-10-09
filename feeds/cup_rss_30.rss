@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 16:17:04 +0000</lastBuildDate>
-    <item>
-      <title>面向无人机集群协同推理服务的自适应模型划分与资源分配方法</title>
-      <link>https://mp.weixin.qq.com/s/Q7Ldg4R0Br3V1mODenzgSA</link>
-      <pubDate>Wed, 16 Sep 2026 02:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能学院2026-2027年家庭经济困难等级认定结果公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/d41d98e683594c7c9b3c824130ab5184.htm</link>
-      <pubDate>Wed, 16 Sep 2026 11:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 11:09:04 +0000</lastBuildDate>
     <item>
       <title>WellGPT油气生产大模型构建方法与应用探索</title>
       <link>https://mp.weixin.qq.com/s/LwclsuQdcVifqZTeB-GslQ</link>
@@ -106,6 +96,16 @@
       <title>基于工程经验的群智能通用PID参数整定</title>
       <link>https://mp.weixin.qq.com/s/zIXwmcWEcFJE-ggX-ZNMiQ</link>
       <pubDate>Thu, 08 Oct 2026 03:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>首页视频</title>
+      <link>https://www.cup.edu.cn/cupai/sydt/262be0cd80b047538af597fae36ef96b.htm</link>
+      <pubDate>Thu, 08 Oct 2026 10:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>隐空间掩码语义预测驱动的群体行为表征学习</title>
+      <link>https://mp.weixin.qq.com/s/k8hBLkxruc6HMS2PWGPURw</link>
+      <pubDate>Fri, 09 Oct 2026 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
