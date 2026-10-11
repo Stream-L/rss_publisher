@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 15:09:54 +0000</lastBuildDate>
-    <item>
-      <title>关于青年园公寓2号楼南侧道路临时封闭的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/21dbb66c95b14dc9bdb5eb02a70d4eb0.htm</link>
-      <pubDate>Fri, 25 Sep 2026 05:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 10:37:18 +0000</lastBuildDate>
     <item>
       <title>党委书记王同奇带队赴成都走访交流</title>
       <link>http://www.cup.edu.cn/news/sx/07f61907d3ba4a4e84ac1121fe1a4f76.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大13项作品在2025年度中国石油石化优秀新闻作品研讨交流活动中获奖</title>
       <link>http://www.cup.edu.cn/news/sx/9e7e71e12e894168849466031aa88a96.htm</link>
       <pubDate>Fri, 09 Oct 2026 07:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大教师受聘担任《SPE Journal》期刊执行主编</title>
+      <link>http://www.cup.edu.cn/news/sx/9a7b83a95d694a889e6282bbba25e206.htm</link>
+      <pubDate>Sun, 11 Oct 2026 03:28:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
