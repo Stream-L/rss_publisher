@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 15:31:28 +0000</lastBuildDate>
-    <item>
-      <title>考虑倒发电和动液面的油田微电网抽油机间抽系统多目标调度</title>
-      <link>https://mp.weixin.qq.com/s/nCKwJDq8KZXZyjcpVEjbcw</link>
-      <pubDate>Thu, 17 Sep 2026 00:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>抽油机盘式永磁电机性能仿真和参数优化研究</title>
-      <link>https://mp.weixin.qq.com/s/17xch2UEKvqh9PmuM9EOoQ</link>
-      <pubDate>Thu, 17 Sep 2026 00:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>人工智能院2027年接收推免生（直博生）申请办法及复试细则</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/c92df214f8af42a999c9b0292d8d5e3c.htm</link>
-      <pubDate>Thu, 17 Sep 2026 01:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WellGPT油气生产大模型构建方法与应用探索</title>
-      <link>https://mp.weixin.qq.com/s/LwclsuQdcVifqZTeB-GslQ</link>
-      <pubDate>Fri, 18 Sep 2026 00:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 18:51:02 +0000</lastBuildDate>
     <item>
       <title>考虑倒发电和动液面的油田微电网抽油机间抽系统多目标调度</title>
       <link>https://mp.weixin.qq.com/s/nCKwJDq8KZXZyjcpVEjbcw</link>
@@ -98,6 +78,11 @@
       <pubDate>Thu, 08 Oct 2026 10:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>人工智能学院2026年研究生学业奖学金和新生国家助学金拟推荐人选公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/e2f0358d024a44578334f6731f1b990c.htm</link>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>隐空间掩码语义预测驱动的群体行为表征学习</title>
       <link>https://mp.weixin.qq.com/s/k8hBLkxruc6HMS2PWGPURw</link>
       <pubDate>Fri, 09 Oct 2026 01:32:00 +0000</pubDate>
@@ -106,6 +91,21 @@
       <title>人工智能学院2026年秋季学期发展团员预审结果公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/70177ae9e6f44b118cb89b519e15ee15.htm</link>
       <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院2025-2026年度研究生国家奖学金评审实施细则</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/53b3873fd9974b8b989ae8e90efa81e1.htm</link>
+      <pubDate>Sat, 10 Oct 2026 10:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于迁移学习的自适应权重物理信息神经网络模拟黑河中游地下水动态</title>
+      <link>https://mp.weixin.qq.com/s/EwvYi5PF6_oAuJbAYC530A</link>
+      <pubDate>Mon, 12 Oct 2026 00:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>一种基于小波变换的循环神经网络新型记忆架构</title>
+      <link>https://mp.weixin.qq.com/s/ETsfhxIssfIv_P7ezKxzxA</link>
+      <pubDate>Mon, 12 Oct 2026 00:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
