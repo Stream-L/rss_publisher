@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 18:51:02 +0000</lastBuildDate>
-    <item>
-      <title>考虑倒发电和动液面的油田微电网抽油机间抽系统多目标调度</title>
-      <link>https://mp.weixin.qq.com/s/nCKwJDq8KZXZyjcpVEjbcw</link>
-      <pubDate>Fri, 18 Sep 2026 00:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>抽油机盘式永磁电机性能仿真和参数优化研究</title>
-      <link>https://mp.weixin.qq.com/s/17xch2UEKvqh9PmuM9EOoQ</link>
-      <pubDate>Fri, 18 Sep 2026 00:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 16:50:45 +0000</lastBuildDate>
     <item>
       <title>面向GPU的流式张量分解优化</title>
       <link>https://mp.weixin.qq.com/s/DMQ6_jZWzeqXbhSoVNuPEQ</link>
@@ -106,6 +96,16 @@
       <title>一种基于小波变换的循环神经网络新型记忆架构</title>
       <link>https://mp.weixin.qq.com/s/ETsfhxIssfIv_P7ezKxzxA</link>
       <pubDate>Mon, 12 Oct 2026 00:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能学院关于2026年国家奖学金、国家励志奖学金评选获奖学生名单的公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/989713f8e9724d9795dd2469b0bc5eca.htm</link>
+      <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>不确定条件下计划与调度一体化框架及应用：以大规模原油调度为例</title>
+      <link>https://mp.weixin.qq.com/s/hjRPdgLeFFGLaA3G9q3Hyw</link>
+      <pubDate>Tue, 13 Oct 2026 01:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
