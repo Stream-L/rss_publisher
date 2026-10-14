@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 16:50:45 +0000</lastBuildDate>
-    <item>
-      <title>面向GPU的流式张量分解优化</title>
-      <link>https://mp.weixin.qq.com/s/DMQ6_jZWzeqXbhSoVNuPEQ</link>
-      <pubDate>Fri, 18 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 09:19:41 +0000</lastBuildDate>
     <item>
       <title>输入饱和下非线性系统的预设时间跟踪控制</title>
       <link>https://mp.weixin.qq.com/s/BK6Rsf5OsLuFruOOOVhswA</link>
@@ -106,6 +101,11 @@
       <title>不确定条件下计划与调度一体化框架及应用：以大规模原油调度为例</title>
       <link>https://mp.weixin.qq.com/s/hjRPdgLeFFGLaA3G9q3Hyw</link>
       <pubDate>Tue, 13 Oct 2026 01:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L1范数全局数字图像相关的正则化参数选取经验策略</title>
+      <link>https://mp.weixin.qq.com/s/Gobb48vkKyRWi1Hx0VEDJw</link>
+      <pubDate>Wed, 14 Oct 2026 01:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
