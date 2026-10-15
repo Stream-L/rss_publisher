@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 14:28:16 +0000</lastBuildDate>
-    <item>
-      <title>输入饱和下非线性系统的预设时间跟踪控制</title>
-      <link>https://mp.weixin.qq.com/s/BK6Rsf5OsLuFruOOOVhswA</link>
-      <pubDate>Mon, 21 Sep 2026 03:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>大规模汽油调合的知识辅助集成计划与调度：一种序贯混合进化算法</title>
-      <link>https://mp.weixin.qq.com/s/rKxiKSpDcQ-gcM22kkoojA</link>
-      <pubDate>Tue, 22 Sep 2026 01:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 09:01:26 +0000</lastBuildDate>
     <item>
       <title>融合滑动窗口KSVD动态特征提取与自适应控制限的实时早期故障检测</title>
       <link>https://mp.weixin.qq.com/s/ixUzNyZVmTP2TA3vREpEFg</link>
@@ -98,6 +88,11 @@
       <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>关于人工智能学院2026-2027学年国家助学金名单的公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/fb9a81a4e0bb413a94f2c40276f1a7e6.htm</link>
+      <pubDate>Mon, 12 Oct 2026 14:11:00 +0000</pubDate>
+    </item>
+    <item>
       <title>不确定条件下计划与调度一体化框架及应用：以大规模原油调度为例</title>
       <link>https://mp.weixin.qq.com/s/hjRPdgLeFFGLaA3G9q3Hyw</link>
       <pubDate>Tue, 13 Oct 2026 01:29:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>L1范数全局数字图像相关的正则化参数选取经验策略</title>
       <link>https://mp.weixin.qq.com/s/Gobb48vkKyRWi1Hx0VEDJw</link>
       <pubDate>Wed, 14 Oct 2026 01:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向智能网联车辆的车边云自适应分层模型协同方法</title>
+      <link>https://mp.weixin.qq.com/s/WinzjGokVUOKByVMMiRpeQ</link>
+      <pubDate>Thu, 15 Oct 2026 01:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

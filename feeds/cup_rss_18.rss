@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 14:26:59 +0000</lastBuildDate>
-    <item>
-      <title>一、校园卡业务简介</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szkfwjs/72af1be9b7aa41c699cfb7270f9d375c.htm</link>
-      <pubDate>Sun, 09 Aug 2026 01:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szksysm/138a1f14a6fb49fa80adf2d960b1ac94.htm</link>
-      <pubDate>Sun, 09 Aug 2026 02:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szkcjwt/636076559e534faa9fef34e6f55b9a5e.htm</link>
-      <pubDate>Fri, 21 Aug 2026 09:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>使用说明</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szksysm/2211a8cf89cf4890921d49a29617e87a.htm</link>
-      <pubDate>Fri, 21 Aug 2026 10:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>常见问题</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/grfw/szxyk/szkcjwt/6a3ca32625744ec3b161af6de7e1955f.htm</link>
-      <pubDate>Fri, 21 Aug 2026 10:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于数字校园卡系统升级正式启用的通知</title>
-      <link>https://www.cup.edu.cn/tzygg/5a802545224540aaa65d0206e8c5337a.htm</link>
-      <pubDate>Wed, 26 Aug 2026 03:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 08:52:13 +0000</lastBuildDate>
     <item>
       <title>关于第78次计算机等级考试准考证打印及模拟考试的相关通知</title>
       <link>https://www.cup.edu.cn/nic/tzgg/5311e21d4c8142dfbe0a6aa36331ddc0.htm</link>
@@ -106,6 +76,36 @@
       <title>关于学校校园卡系统正式开通NFC感应支付功能的通知</title>
       <link>https://mp.weixin.qq.com/s/eYx9ymtChyGBxwmJMwu3MA</link>
       <pubDate>Wed, 14 Oct 2026 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>人脸库使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/rlkxxpt/rlkfwjs/c58a45d990b54771bbbe5c64310cf12c.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>人脸库信息平台</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/rlkxxpt/rlksysm/9c9b149997be47fe8ea69241e0190c7b.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>人脸库常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/rlkxxpt/rlkcjwt/8e932619841d43ab8e1da1c6a29dde9c.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>一站式服务平台使用说明</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yzsfwpt/yzsfwjs/9afbe789ef0a478f8c96eade98dcc06c.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>低代码平台</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yzsfwpt/yzssysm/c337aa11a1614bd7bece89f2ad2d9063.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/yzsfwpt/yzscjwt/0582b3d03a2d48cf989e15865ce36e85.htm</link>
+      <pubDate>Thu, 15 Oct 2026 01:24:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
