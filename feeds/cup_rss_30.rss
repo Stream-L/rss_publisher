@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 14:05:41 +0000</lastBuildDate>
-    <item>
-      <title>融合滑动窗口KSVD动态特征提取与自适应控制限的实时早期故障检测</title>
-      <link>https://mp.weixin.qq.com/s/ixUzNyZVmTP2TA3vREpEFg</link>
-      <pubDate>Wed, 23 Sep 2026 00:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 08:47:19 +0000</lastBuildDate>
     <item>
       <title>ORC发电系统工艺过程预警诊断技术研究与展望</title>
       <link>https://mp.weixin.qq.com/s/1R_nsAhckkYp4lBRJ74Smw</link>
@@ -106,6 +101,11 @@
       <title>面向智能网联车辆的车边云自适应分层模型协同方法</title>
       <link>https://mp.weixin.qq.com/s/WinzjGokVUOKByVMMiRpeQ</link>
       <pubDate>Thu, 15 Oct 2026 01:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>抵御 DSS 攻击下非线性多智能体系统基于分数阶超扭转滑模的全分布式事件触发一致性控制</title>
+      <link>https://mp.weixin.qq.com/s/CVOVhDGPI8zLPLTm2JDjKQ</link>
+      <pubDate>Fri, 16 Oct 2026 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
