@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 08:46:05 +0000</lastBuildDate>
-    <item>
-      <title>【紧急漏洞通告】搜狗输入法远程代码执行漏洞CVE-2026-51990</title>
-      <link>https://www.cup.edu.cn/nic/wlaq/cb0190b828814e15a6d1461002904fd0.htm</link>
-      <pubDate>Wed, 16 Sep 2026 08:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>信息化管理处召开校园网络文明月活动工作协调会</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/86b523512aec47079ebe6c510c42535d.htm</link>
-      <pubDate>Fri, 18 Sep 2026 09:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>信息化管理处组织开展2026年国家网络安全宣传周系列活动</title>
-      <link>https://www.cup.edu.cn/nic/xwdt/c83d721003cb4b7985506a12054c0028.htm</link>
-      <pubDate>Wed, 23 Sep 2026 01:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 13:52:33 +0000</lastBuildDate>
     <item>
       <title>算力平台与 AI 服务-服务介绍</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slfwjs/ea9c9536c1c447d282da294531b714a0.htm</link>
@@ -106,6 +91,22 @@
       <title>【安全风险通告】微软补丁日安全通告|10 月份</title>
       <link>https://www.cup.edu.cn/nic/wlaq/61ce904e962a4e479175b63cf4a23db5.htm</link>
       <pubDate>Fri, 16 Oct 2026 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处工会组织开展昌平公园“健步走”活动</title>
+      <link>https://www.cup.edu.cn/nic/djgh/421db2508b504ec0bb16a894b7328823.htm</link>
+      <pubDate>Fri, 16 Oct 2026 06:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处工会组织开展昌平公园“健步走”活动</title>
+      <link>https://www.cup.edu.cn/nic/djgh/421db2508b504ec0bb16a894b7328823.htm</link>
+      <description>金秋十月，秋高气爽。为积极响应全民健身号召，引导教职工养成良好锻炼习惯，提升健康素养，10月15日，信息化管理处工会组织全体教职工前往昌平公园，开展以“金秋健步展风采，健康伴我行”为主题的健步走活动。</description>
+      <pubDate>Fri, 16 Oct 2026 06:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>信息化管理处举办福昕PDF校园分享会</title>
+      <link>https://www.cup.edu.cn/nic/xwdt/e8be75f6d97647a8b8169559583c7625.htm</link>
+      <pubDate>Fri, 16 Oct 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
