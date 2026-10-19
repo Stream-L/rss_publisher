@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 13:07:41 +0000</lastBuildDate>
-    <item>
-      <title>中石大学生安全教育体验馆开馆启用</title>
-      <link>http://www.cup.edu.cn/news/sx/b614ad2fb1464ec38ef13fa8c59c2a35.htm</link>
-      <pubDate>Wed, 30 Sep 2026 09:44:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Oct 2026 09:36:32 +0000</lastBuildDate>
     <item>
       <title>国庆节-轮播图</title>
       <link>https://www.cup.edu.cn/</link>
@@ -106,6 +101,11 @@
       <title>中石大联合主办中国工程院工程科学技术研讨会“深地能源原位环境基础研究设施（深地能源空间站）”暨第二届深地能源开发国际研讨会</title>
       <link>http://www.cup.edu.cn/news/sx/cd819d247cdc45818501931bd90a7f25.htm</link>
       <pubDate>Sat, 17 Oct 2026 03:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>校长金衍讲授2026年秋季学期入党积极分子培训班开班第一课</title>
+      <link>http://www.cup.edu.cn/news/sx/d72ad96530634defaac84cc63e4e4781.htm</link>
+      <pubDate>Sun, 18 Oct 2026 13:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
