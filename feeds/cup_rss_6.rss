@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 16:21:06 +0000</lastBuildDate>
-    <item>
-      <title>关于推荐参加第八届全国高校混合式教学设计创新大赛教师名单的公示</title>
-      <link>http://www.cup.edu.cn/jwc/qbtz/3e9d18c52f4c44cbaf3836733c26baff.htm</link>
-      <pubDate>Thu, 27 Aug 2026 08:27:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 09:06:48 +0000</lastBuildDate>
     <item>
       <title>2026-2027学年秋季学期开学初补退选选课通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/9ca37cbb56d04c009fe0d5bd7b5cff4c.htm</link>
@@ -106,6 +101,11 @@
       <title>关于公示2026年度“人工智能+教育”课题及智慧课程典型案例推荐结果的通知</title>
       <link>http://www.cup.edu.cn/jwc/jxyj1/5d949fa9cfea4be0b6add681bd26a471.blk.htm</link>
       <pubDate>Mon, 12 Oct 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于公示2026年度“人工智能+”虚拟仿真实验教学项目推荐结果的通知</title>
+      <link>http://www.cup.edu.cn/jwc/qbtz/e253d084ea5c4b5c98e578fbff102a04.htm</link>
+      <pubDate>Tue, 20 Oct 2026 00:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
