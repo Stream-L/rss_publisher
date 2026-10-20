@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 09:09:13 +0000</lastBuildDate>
-    <item>
-      <title>理学院接收2027年推荐免试硕士学位研究生（含直博生）复试细则</title>
-      <link>https://www.cup.edu.cn/science//yjsjy/4d12176aa7c74b95a0b147ced1c6fe58.htm</link>
-      <pubDate>Wed, 16 Sep 2026 10:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 14:14:31 +0000</lastBuildDate>
     <item>
       <title>理学院2026-2027学年秋季学期本科生课程B类助管、助教招聘名单公示</title>
       <link>https://www.cup.edu.cn/science//bksjy/eeac215ee208466298081b49d5b56b48.htm</link>
@@ -107,6 +102,11 @@
       <title>理学院2026秋季学期确定发展对象人选的公示</title>
       <link>https://www.cup.edu.cn/science//tzgg/193cafa03d624bc7a16429d0407a5961.htm</link>
       <pubDate>Wed, 14 Oct 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于巡察理学院党委的公告</title>
+      <link>https://www.cup.edu.cn/science//tzgg/07b374e2092542a5a7412dff4b8a44d3.htm</link>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
