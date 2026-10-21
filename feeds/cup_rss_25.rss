@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）经济管理学院网站 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 09:08:32 +0000</lastBuildDate>
-    <item>
-      <title>经济管理学院2026年本博一体化培养选拔实施方案</title>
-      <link>http://www.cup.edu.cn/sba/tzgg/faa0c261849a44d3830a71bd79de130a.htm</link>
-      <pubDate>Mon, 28 Sep 2026 09:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 14:26:35 +0000</lastBuildDate>
     <item>
       <title>我院教师在新华社主办的时政类权威刊物《半月谈》发文</title>
       <link>http://www.cup.edu.cn/sba/xyxw/aaddbeb003fd456b95fe89d2fafc8968.htm</link>
@@ -106,6 +101,11 @@
       <title>郑馨竺等1人赴土耳其团组公示表</title>
       <link>http://www.cup.edu.cn/sba/tzgg/ec72a1da1f2149ff93cd222ca106be6b.htm</link>
       <pubDate>Mon, 19 Oct 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我院杨弦教授以一作在顶级期刊MIS Quarterly（UTD24）发表论文——传统机器学习黑箱模型可解释性壁垒的攻破</title>
+      <link>http://www.cup.edu.cn/sba/xyxw/9bd69fa5c94b4f0cbf50089b1bf2b5ce.htm</link>
+      <pubDate>Wed, 21 Oct 2026 06:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
