@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 14:25:54 +0000</lastBuildDate>
-    <item>
-      <title>关于国家安全宣传作品征集活动获奖作品的公示</title>
-      <link>http://www.cup.edu.cn/bwc/tzgg/3d48ba10c67f48d7af1de63524a68124.htm</link>
-      <pubDate>Mon, 13 Apr 2026 08:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>测试发布</title>
-      <link>http://www.cup.edu.cn/bwc/lxwm/73bafdda456b4a4dbb28cd92208ce71a.htm</link>
-      <pubDate>Thu, 16 Apr 2026 09:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>提升地下空间突发内涝灾害应急处置能力！中石大开展应急疏散演练活动</title>
-      <link>https://www.cup.edu.cn/pub/news/sx/59664118ba2c4a7384575132d7ed33af.htm</link>
-      <pubDate>Mon, 25 May 2026 08:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 14:26:59 +0000</lastBuildDate>
     <item>
       <title>中石大成功举办“安全宣教大比武”暨安全教育资源包试讲比赛</title>
       <link>http://www.cup.edu.cn/bwc/gzdt/02229c5c5e7745c4b7a350530b2f1a06.htm</link>
@@ -107,6 +92,21 @@
       <title>户口借用流程</title>
       <link>http://www.cup.edu.cn/bwc/bszn/8cfee57c439c4c4186a19078614bcd21.htm</link>
       <pubDate>Wed, 21 Oct 2026 02:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>户籍知识百问百答</title>
+      <link>http://www.cup.edu.cn/bwc/bszn/58e3a76d1f0a40948ee7301b55b6eb2d.htm</link>
+      <pubDate>Thu, 22 Oct 2026 01:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国临时居民身份证管理办法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/f5d4662b86164a23963da11a4ef7963c.htm</link>
+      <pubDate>Thu, 22 Oct 2026 01:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>线下办理居住卡居住证所需材料</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/e2072ff3d5144d67a21d353b3551016f.doc</link>
+      <pubDate>Thu, 22 Oct 2026 01:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

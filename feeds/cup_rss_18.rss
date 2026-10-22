@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 14:26:08 +0000</lastBuildDate>
-    <item>
-      <title>算力平台与 AI 服务-服务介绍</title>
-      <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slfwjs/ea9c9536c1c447d282da294531b714a0.htm</link>
-      <pubDate>Mon, 28 Sep 2026 07:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 14:27:13 +0000</lastBuildDate>
     <item>
       <title>算力平台与 AI 服务-使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/slptyAIfw/slsysm/22ab701fe0d04380bbb8b8702c45a285.htm</link>
@@ -107,6 +102,11 @@
       <title>信息化管理处举办福昕PDF校园分享会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/e8be75f6d97647a8b8169559583c7625.htm</link>
       <pubDate>Fri, 16 Oct 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【紧急漏洞通告】PHP远程代码执行漏洞</title>
+      <link>https://www.cup.edu.cn/nic/wlaq/9c532e10fb3b4f17bfb8c81862e7d4a5.htm</link>
+      <pubDate>Thu, 22 Oct 2026 08:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
