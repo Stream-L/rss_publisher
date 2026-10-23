@@ -6,52 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 14:26:59 +0000</lastBuildDate>
-    <item>
-      <title>中石大成功举办“安全宣教大比武”暨安全教育资源包试讲比赛</title>
-      <link>http://www.cup.edu.cn/bwc/gzdt/02229c5c5e7745c4b7a350530b2f1a06.htm</link>
-      <pubDate>Mon, 25 May 2026 08:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>紧盯小工程，严防大事故! 中石大举办限额以下小型工程安全生产宣传培训会</title>
-      <link>https://www.cup.edu.cn/news/sx/464e2357db0645cb946b64f8b15c72e3.htm</link>
-      <pubDate>Mon, 01 Jun 2026 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大开展2026年春季学期学生宿舍消防安全专项检查工作 筑牢校园消防安全“防火墙”</title>
-      <link>https://www.cup.edu.cn/news/sx/0eb8fa8d40cc4832a8cba8ff8b9690c1.htm</link>
-      <pubDate>Thu, 04 Jun 2026 02:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>学校顺利完成二级单位消防安全标准化管理复评现场核查工作</title>
-      <link>http://www.cup.edu.cn/bwc/gzdt/65a6c4e309a84ad483bd3218baf8ad4b.htm</link>
-      <pubDate>Thu, 04 Jun 2026 02:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大完成2026年二级单位消防安全标准化管理复评工作</title>
-      <link>https://www.cup.edu.cn/news/sx/68ea0ba282ea4fd08118c24428ae6e3b.htm</link>
-      <pubDate>Fri, 12 Jun 2026 02:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大召开安全专项工作部署会暨六月校园安全生产月度例会</title>
-      <link>https://www.cup.edu.cn/news/sx/e972efd876d1459d89d99b1b1f122b90.htm</link>
-      <pubDate>Thu, 18 Jun 2026 00:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校领导带队开展汛期校园安全专项检查</title>
-      <link>https://www.cup.edu.cn/news/sx/2017bf6402294353ac024bec77de5aee.htm</link>
-      <pubDate>Thu, 18 Jun 2026 00:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年暑期户籍业务工作安排</title>
-      <link>http://www.cup.edu.cn/bwc/tzgg/deb138cf59754a16af91ade5ecf1b9f4.htm</link>
-      <pubDate>Tue, 07 Jul 2026 00:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于接收2026级新生户口的通知</title>
-      <link>http://www.cup.edu.cn/bwc/tzgg/340bb00e3ff7433fbf8763542ddc3fe8.htm</link>
-      <pubDate>Fri, 28 Aug 2026 01:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 09:07:30 +0000</lastBuildDate>
     <item>
       <title>关于统一清理校园废旧无主自行车的通知</title>
       <link>http://www.cup.edu.cn/bwc/tzgg/49e1953ca1604844b1a860d49bfcd2c6.htm</link>
@@ -107,6 +62,51 @@
       <title>线下办理居住卡居住证所需材料</title>
       <link>/publish/bwc/docs/2026-10/2026-10/e2072ff3d5144d67a21d353b3551016f.doc</link>
       <pubDate>Thu, 22 Oct 2026 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国消防法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/b7d36ab7bd544b34babf0be5e941762b.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高等学校消防安全管理规定</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/127c60353b644382a4b5f432e72073c1.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>北京市烟花爆竹安全管理规定</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/ff12c036ee5a495e8207815c7c88c30e.htm</link>
+      <pubDate>Fri, 23 Oct 2026 00:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国出境入境管理法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/8ae0914dfbfa4d9c8977be52ec472905.htm</link>
+      <pubDate>Fri, 23 Oct 2026 01:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>民用无人驾驶航空器实名登记和激活要求</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/f0cc84a0ac984ace88a4bd16aee69ce1.pdf</link>
+      <pubDate>Fri, 23 Oct 2026 01:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国治安管理处罚法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/1b3f7b79d6754e02af93c9e0762e7653.htm</link>
+      <pubDate>Fri, 23 Oct 2026 01:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国消费者权益保护法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/b905e670d25049b582cd8022f2ca6b79.htm</link>
+      <pubDate>Fri, 23 Oct 2026 02:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国刑法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/60dfb822a67745d5947294e37e801253.htm</link>
+      <pubDate>Fri, 23 Oct 2026 02:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中华人民共和国宪法</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/bfd9b18f88b7480398d9f70d977d0bfb.htm</link>
+      <pubDate>Fri, 23 Oct 2026 02:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
