@@ -6,32 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 13:39:40 +0000</lastBuildDate>
-    <item>
-      <title>关于学校校园卡系统正式开通NFC感应支付功能的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/22dc6029c42047fab971808f6687adc9.htm</link>
-      <pubDate>Fri, 16 Oct 2026 12:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大联合主办中国工程院工程科学技术研讨会“深地能源原位环境基础研究设施（深地能源空间站）”暨第二届深地能源开发国际研讨会</title>
-      <link>http://www.cup.edu.cn/news/sx/cd819d247cdc45818501931bd90a7f25.htm</link>
-      <pubDate>Sat, 17 Oct 2026 03:11:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>校长金衍讲授2026年秋季学期入党积极分子培训班开班第一课</title>
-      <link>http://www.cup.edu.cn/news/sx/d72ad96530634defaac84cc63e4e4781.htm</link>
-      <pubDate>Sun, 18 Oct 2026 13:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京控股集团有限公司一行来中石大走访交流</title>
-      <link>http://www.cup.edu.cn/news/sx/962ab85f54cf450ea762627df5b60e9b.htm</link>
-      <pubDate>Mon, 19 Oct 2026 12:16:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展“弘扬伟大建党精神，走好新时代长征路”——庆祝中国共产党成立105周年、纪念中国工农红军长征胜利90周年主题系列活动的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/f8e37b8f73a242b49d97b49bff611793.htm</link>
-      <pubDate>Tue, 20 Oct 2026 01:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 09:43:17 +0000</lastBuildDate>
     <item>
       <title>关于开展廉洁教育系列活动及作品征集的通知</title>
       <link>http://www.cup.edu.cn/tzygg/f9b78cbc5f24442b9987128957ac8c99.htm</link>
@@ -106,6 +81,31 @@
       <title>中石大主办清洁能源与催化科学国际研讨会（ISCC2026）</title>
       <link>http://www.cup.edu.cn/news/sx/dc05c61d62534305a456e9860aaea4a2.htm</link>
       <pubDate>Fri, 23 Oct 2026 07:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大联合主办第二届超深复杂油气藏智能开采与举升工艺技术研讨会</title>
+      <link>http://www.cup.edu.cn/news/sx/c8d9aa2c517d4d5ba8b8acb77a65c607.htm</link>
+      <pubDate>Sun, 25 Oct 2026 12:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导带队赴中曼石油天然气集团走访交流</title>
+      <link>http://www.cup.edu.cn/news/sx/712371d842c34704a950a6205b79560d.htm</link>
+      <pubDate>Sun, 25 Oct 2026 12:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年消防宣传月活动的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/4637afab79e6424784d95ea62c0fee4d.htm</link>
+      <pubDate>Mon, 26 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展2026年消防宣教作品大赛的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/bc76231d818142ec8af1bb8c9704f7a7.htm</link>
+      <pubDate>Mon, 26 Oct 2026 00:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于报名中国石油大学（北京）全球能源治理与国际胜任力实训营（泰国线：曼谷）的通知</title>
+      <link>https://www.cup.edu.cn/international/tzgg/020e4abbe3a347cd985366714185f312.htm</link>
+      <pubDate>Mon, 26 Oct 2026 03:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
