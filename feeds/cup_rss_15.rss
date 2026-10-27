@@ -6,47 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 09:36:29 +0000</lastBuildDate>
-    <item>
-      <title>中华人民共和国消费者权益保护法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/b905e670d25049b582cd8022f2ca6b79.htm</link>
-      <pubDate>Fri, 23 Oct 2026 02:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国刑法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/60dfb822a67745d5947294e37e801253.htm</link>
-      <pubDate>Fri, 23 Oct 2026 02:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国宪法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/bfd9b18f88b7480398d9f70d977d0bfb.htm</link>
-      <pubDate>Fri, 23 Oct 2026 02:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>联系方式</title>
-      <link>http://www.cup.edu.cn/bwc/bmgk/lxfs/68360ac2fe1f4e308649aa4df9fde8bb.htm</link>
-      <pubDate>Fri, 23 Oct 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市公安局</title>
-      <link>http://gaj.beijing.gov.cn/</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国应急管理部</title>
-      <link>https://www.mem.gov.cn/</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市消防救援总队</title>
-      <link>https://bj.119.gov.cn/xfjy/site</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国反邪教网</title>
-      <link>http://www.chinafxj.cn/</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 15:15:23 +0000</lastBuildDate>
     <item>
       <title>北京市公安局公安交通管理局</title>
       <link>http://jtgl.beijing.gov.cn/</link>
@@ -106,6 +66,46 @@
       <title>京通“企安安”动火作业报备系统使用手册</title>
       <link>/publish/bwc/docs/2026-10/2026-10/f6b3807294d3448abd9bdbe77fc172fc.pdf</link>
       <pubDate>Tue, 27 Oct 2026 01:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学宿舍用电安全教育片</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/2826b3f45c3140fe8070c03047db6605.htm</link>
+      <pubDate>Tue, 27 Oct 2026 08:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2022年国家安全教育-北京反恐豹小猛视频</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/f69b20124430495d852c5036f90a5b69.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2022年国家安全教育-北京反恐豹小猛展板</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/e1de0edb3f774f90b3c93ff5d4bcaa90.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“豹小猛”来啦!为岁月守护山河</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/48f42e92535e42eda6bc9790697a42dd.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>宿舍火灾隐患自查教育片</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/6f42dec100924abf94906d24c83ad0ad.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小小烟头 后患无穷教育片</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/f04d5d4f12264ff298de2fdc88e53f2b.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大风天气勿忘安全</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/e9aae790dbd24b9e951fb3c07d04c727.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>高层起火逃生教育片</title>
+      <link>http://www.cup.edu.cn/bwc/aqjy/d105c92e7a004179906435d40d7b7842.htm</link>
+      <pubDate>Tue, 27 Oct 2026 09:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
