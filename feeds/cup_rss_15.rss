@@ -6,42 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 16:01:08 +0000</lastBuildDate>
-    <item>
-      <title>线下办理居住卡居住证所需材料</title>
-      <link>/publish/bwc/docs/2026-10/2026-10/e2072ff3d5144d67a21d353b3551016f.doc</link>
-      <pubDate>Thu, 22 Oct 2026 01:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国消防法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/b7d36ab7bd544b34babf0be5e941762b.htm</link>
-      <pubDate>Fri, 23 Oct 2026 00:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高等学校消防安全管理规定</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/127c60353b644382a4b5f432e72073c1.htm</link>
-      <pubDate>Fri, 23 Oct 2026 00:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市烟花爆竹安全管理规定</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/ff12c036ee5a495e8207815c7c88c30e.htm</link>
-      <pubDate>Fri, 23 Oct 2026 00:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国出境入境管理法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/8ae0914dfbfa4d9c8977be52ec472905.htm</link>
-      <pubDate>Fri, 23 Oct 2026 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>民用无人驾驶航空器实名登记和激活要求</title>
-      <link>/publish/bwc/docs/2026-10/2026-10/f0cc84a0ac984ace88a4bd16aee69ce1.pdf</link>
-      <pubDate>Fri, 23 Oct 2026 01:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国治安管理处罚法</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/1b3f7b79d6754e02af93c9e0762e7653.htm</link>
-      <pubDate>Fri, 23 Oct 2026 01:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 09:36:29 +0000</lastBuildDate>
     <item>
       <title>中华人民共和国消费者权益保护法</title>
       <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/b905e670d25049b582cd8022f2ca6b79.htm</link>
@@ -106,6 +71,41 @@
       <title>教育部《普通高等学校学生安全教育及管理暂行规定》</title>
       <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/2f51f563450847229ac91affdd4c8db2.htm</link>
       <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>查阅监控录像流程</title>
+      <link>http://www.cup.edu.cn/bwc/bszn/7a9ff07e62184af8973764ab02bdc7d0.htm</link>
+      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>北京高等学校防火安全管理规定（试行）</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/f5f442aef9514ca4a06bbb7921bb30d3.htm</link>
+      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>北京市关于重大安全事故行政责任追究的规定</title>
+      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/7888d3e337df4f9a874a4d776ec5a7b9.htm</link>
+      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校内动火作业登记及校园起重机械作业许可能申请流程说明</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/9df40c693c2641509986460986f61311.pdf</link>
+      <pubDate>Tue, 27 Oct 2026 01:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>校园施工安全生产协议书（模板）</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/61d490acd8714a0782a5826d72943128.docx</link>
+      <pubDate>Tue, 27 Oct 2026 01:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>户口业务个人授权委托书范本</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/32e4aaa7b7994a39815b6d0e03baa687.doc</link>
+      <pubDate>Tue, 27 Oct 2026 01:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>京通“企安安”动火作业报备系统使用手册</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/f6b3807294d3448abd9bdbe77fc172fc.pdf</link>
+      <pubDate>Tue, 27 Oct 2026 01:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
