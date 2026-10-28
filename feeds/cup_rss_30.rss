@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 15:16:41 +0000</lastBuildDate>
-    <item>
-      <title>基于迁移学习的自适应权重物理信息神经网络模拟黑河中游地下水动态</title>
-      <link>https://mp.weixin.qq.com/s/EwvYi5PF6_oAuJbAYC530A</link>
-      <pubDate>Mon, 12 Oct 2026 00:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 10:24:37 +0000</lastBuildDate>
     <item>
       <title>一种基于小波变换的循环神经网络新型记忆架构</title>
       <link>https://mp.weixin.qq.com/s/ETsfhxIssfIv_P7ezKxzxA</link>
@@ -106,6 +101,11 @@
       <title>恐慌疏散中该跟随谁——社会力模型三类交互邻域的方法比较</title>
       <link>https://mp.weixin.qq.com/s/JG3XavMk4wntEQUx96F2Kw</link>
       <pubDate>Tue, 27 Oct 2026 09:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>海洋立管高保真非线性动力学建模与反冲抑制分层控制器设计</title>
+      <link>https://mp.weixin.qq.com/s/G9sHbFAP6Nf8xEl-U7vAZw</link>
+      <pubDate>Wed, 28 Oct 2026 02:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

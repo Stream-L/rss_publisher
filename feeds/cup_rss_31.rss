@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 15:16:47 +0000</lastBuildDate>
-    <item>
-      <title>资源勘查工程专业</title>
-      <link>http://www.cup.edu.cn/geosci/xkjs/bkzysz/zykcgc/73b629cb3e124c3a8f8ede14cf07b357.htm</link>
-      <pubDate>Tue, 15 Sep 2026 01:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 10:24:46 +0000</lastBuildDate>
     <item>
       <title>【研究生】地球科学学院2027年接收推免生（直博生）复试细则</title>
       <link>http://www.cup.edu.cn/geosci/tzgg/c2da5dab94bf489e89938d030760e3bd.htm</link>
@@ -109,6 +104,12 @@
       <title>我院教师在第十六届青年教师教学基本功比赛中获佳绩</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/3a11020e57f24151922dda6ac1032fe5.htm</link>
       <pubDate>Tue, 27 Oct 2026 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第七届国际古地理学会议在阿根廷门多萨成功举办</title>
+      <link>http://www.cup.edu.cn/geosci/xwdt/0936848f5a5c411d9c2b00d554db0ea7.htm</link>
+      <description>2026年10月16-19日，第七届国际古地理学术会议（ICP）在阿根廷门多萨召开。来自中国、阿根廷、印度、波兰、巴西、爱尔兰、法国、德国、美国、加拿大、澳大利亚、瑞士、哥伦比亚、特立尼达和多巴哥、捷克、南非、俄罗斯等国的240余位学者齐聚一堂，围绕“数字与AI时代的古地理学”主题开展深度学术研讨。我院27名师生参加本次会议。</description>
+      <pubDate>Tue, 27 Oct 2026 11:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

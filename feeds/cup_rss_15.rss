@@ -6,57 +6,7 @@
     <description>中国石油大学（北京）保卫处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 15:15:23 +0000</lastBuildDate>
-    <item>
-      <title>北京市公安局公安交通管理局</title>
-      <link>http://jtgl.beijing.gov.cn/</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国公安部</title>
-      <link>https://www.mps.gov.cn/</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中华人民共和国户口登记条例</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/e1ee9ee298b84e83be676f1812dac0c0.htm</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>最高人民法院关于审理盗窃案件具体应用法律若干问题的解释</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/d0bec971b66541bfb6c758cbd77e7181.htm</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>教育部《普通高等学校学生安全教育及管理暂行规定》</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/gjcm/2f51f563450847229ac91affdd4c8db2.htm</link>
-      <pubDate>Mon, 26 Oct 2026 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>查阅监控录像流程</title>
-      <link>http://www.cup.edu.cn/bwc/bszn/7a9ff07e62184af8973764ab02bdc7d0.htm</link>
-      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京高等学校防火安全管理规定（试行）</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/f5f442aef9514ca4a06bbb7921bb30d3.htm</link>
-      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>北京市关于重大安全事故行政责任追究的规定</title>
-      <link>http://www.cup.edu.cn/bwc/gzzd/sscm/7888d3e337df4f9a874a4d776ec5a7b9.htm</link>
-      <pubDate>Tue, 27 Oct 2026 00:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校内动火作业登记及校园起重机械作业许可能申请流程说明</title>
-      <link>/publish/bwc/docs/2026-10/2026-10/9df40c693c2641509986460986f61311.pdf</link>
-      <pubDate>Tue, 27 Oct 2026 01:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>校园施工安全生产协议书（模板）</title>
-      <link>/publish/bwc/docs/2026-10/2026-10/61d490acd8714a0782a5826d72943128.docx</link>
-      <pubDate>Tue, 27 Oct 2026 01:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 10:22:45 +0000</lastBuildDate>
     <item>
       <title>户口业务个人授权委托书范本</title>
       <link>/publish/bwc/docs/2026-10/2026-10/32e4aaa7b7994a39815b6d0e03baa687.doc</link>
@@ -106,6 +56,56 @@
       <title>高层起火逃生教育片</title>
       <link>http://www.cup.edu.cn/bwc/aqjy/d105c92e7a004179906435d40d7b7842.htm</link>
       <pubDate>Tue, 27 Oct 2026 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——治安防范篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/a34fea95dc134e059017c6afb44ed5f2.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——消防安全篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/516d9ffc68444ea288fb9bab797773e2.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——实践旅行及日常安全篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/f8a35a3f52b748d5bee0274088b42586.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——交通安全篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/281f64aef93e4d70ae3240cb2068c841.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——防范校园传教和拒绝邪教篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/3d199d03a4774aff9f41b4b8988f0d0b.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——网络安全秩序篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/10dc5f82fd6047a49409b03c7548b126.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——国家安全与保密篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/c4683f5a702a4a168fa813334b0d4a69.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——治防灾减灾篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/3bcfa9eda5a044f1be9c58104b94fb88.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——安全标志</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/39f445667a854c1b81981fe7ac760f91.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大学生安全知识——急救常识篇</title>
+      <link>/publish/bwc/docs/2026-10/2026-10/823c757f3fb94b16a1e6c61f6f49e6cd.pdf</link>
+      <pubDate>Wed, 28 Oct 2026 01:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
