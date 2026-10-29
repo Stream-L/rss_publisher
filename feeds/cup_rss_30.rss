@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 15:52:57 +0000</lastBuildDate>
-    <item>
-      <title>一种基于小波变换的循环神经网络新型记忆架构</title>
-      <link>https://mp.weixin.qq.com/s/ETsfhxIssfIv_P7ezKxzxA</link>
-      <pubDate>Mon, 12 Oct 2026 00:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 10:45:59 +0000</lastBuildDate>
     <item>
       <title>人工智能学院关于2026年国家奖学金、国家励志奖学金评选获奖学生名单的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/989713f8e9724d9795dd2469b0bc5eca.htm</link>
@@ -106,6 +101,11 @@
       <title>海洋立管高保真非线性动力学建模与反冲抑制分层控制器设计</title>
       <link>https://mp.weixin.qq.com/s/G9sHbFAP6Nf8xEl-U7vAZw</link>
       <pubDate>Wed, 28 Oct 2026 02:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于微波加热的页岩储层无水压裂技术研究</title>
+      <link>https://mp.weixin.qq.com/s/PisedzlZ94Ca2GAejlldZA</link>
+      <pubDate>Thu, 29 Oct 2026 01:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
