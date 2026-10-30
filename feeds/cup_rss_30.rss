@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 16:00:28 +0000</lastBuildDate>
-    <item>
-      <title>人工智能学院关于2026年国家奖学金、国家励志奖学金评选获奖学生名单的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/989713f8e9724d9795dd2469b0bc5eca.htm</link>
-      <pubDate>Mon, 12 Oct 2026 10:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 10:44:39 +0000</lastBuildDate>
     <item>
       <title>关于人工智能学院2026-2027学年国家助学金名单的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/fb9a81a4e0bb413a94f2c40276f1a7e6.htm</link>
@@ -106,6 +101,11 @@
       <title>基于微波加热的页岩储层无水压裂技术研究</title>
       <link>https://mp.weixin.qq.com/s/PisedzlZ94Ca2GAejlldZA</link>
       <pubDate>Thu, 29 Oct 2026 01:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于批次分割的Transformer流水推理方法</title>
+      <link>https://mp.weixin.qq.com/s/LLG_BquGUiyPfbrSORIbKQ</link>
+      <pubDate>Fri, 30 Oct 2026 02:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
