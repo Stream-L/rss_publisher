@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校工会 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 15:56:32 +0000</lastBuildDate>
-    <item>
-      <title>中石大工会组织教职工赴秦皇岛开展社会实践活动</title>
-      <link>https://www.cup.edu.cn/news/sx/f0c90977ae2e4183b7981b692b0065e6.htm</link>
-      <pubDate>Mon, 29 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 12:00:52 +0000</lastBuildDate>
     <item>
       <title>关于举办2026年暑期短学期教职工子女托管班的通知</title>
       <link>http://www.cup.edu.cn/gonghui/info/06757997f13046f980fbe1826d6cf076.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大举办2026年“品源专利杯”教职工乒乓球单打比赛</title>
       <link>https://www.cup.edu.cn/news/sx/f404a398800846cab80bbb4b418538e7.htm</link>
       <pubDate>Sat, 24 Oct 2026 07:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办2026年“光汇能源杯”教职工羽毛球团体比赛</title>
+      <link>https://www.cup.edu.cn/news/sx/a9cf2dc13dcc4ab19da32e18fd811005.htm</link>
+      <pubDate>Sat, 31 Oct 2026 15:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

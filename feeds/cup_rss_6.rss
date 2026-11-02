@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 15:55:31 +0000</lastBuildDate>
-    <item>
-      <title>关于2026级本科新生采集照片的通知</title>
-      <link>http://www.cup.edu.cn/jwc/zsyzc/67deea7bdd184e938869884ab8d3bb98.htm</link>
-      <pubDate>Thu, 03 Sep 2026 09:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 11:59:51 +0000</lastBuildDate>
     <item>
       <title>2026-2027学年秋季学期本科生“国际化拔尖创新人才拓展课程”选课通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/d4d574c7163a49cbbb0248bab20a325e.htm</link>
@@ -106,6 +101,11 @@
       <title>中石大举办“人工智能赋能化工类本科课程教学改革创新与实践”讲座</title>
       <link>http://www.cup.edu.cn/jwc/zhxw/201147bb1435486ba3ef8369ed12e8ea.htm</link>
       <pubDate>Fri, 30 Oct 2026 06:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大召开本科教育教学审核评估整改工作推进会</title>
+      <link>http://www.cup.edu.cn/jwc/zhxw/302b32893c95428ebdf5c51fccb80767.htm</link>
+      <pubDate>Sun, 01 Nov 2026 14:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

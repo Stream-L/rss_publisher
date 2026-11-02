@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 15:56:37 +0000</lastBuildDate>
-    <item>
-      <title>中石大举办“伟大征程”长征主题展暨第三十七期润心讲堂</title>
-      <link>http://www.cup.edu.cn/news/sx/3996b1366dd344a396a3a17102e9d6ee.htm</link>
-      <pubDate>Tue, 27 Oct 2026 06:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大教师获SPE奖项</title>
-      <link>http://www.cup.edu.cn/news/sx/6903af86cb8547d09aae2ac6ddac9b74.htm</link>
-      <pubDate>Tue, 27 Oct 2026 07:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 12:00:56 +0000</lastBuildDate>
     <item>
       <title>中石大获批“智能科学与技术”一级交叉学科博士学位授予点</title>
       <link>http://www.cup.edu.cn/news/sx/f524c7d12d624e8993209dac921c3521.htm</link>
@@ -106,6 +96,16 @@
       <title>中石大举办2026首届断裂活动与油气运聚学术研讨会</title>
       <link>http://www.cup.edu.cn/news/sx/735a2ba6f7ce46ccac8daa73bec0aeeb.htm</link>
       <pubDate>Sat, 31 Oct 2026 10:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>“中国石油科学2026年度十佳论文”评选结果发布</title>
+      <link>http://www.cup.edu.cn/news/sx/25660f3bdfeb4af49411c9345373a0bb.htm</link>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中共中央关于持之以恒推进全面从严治党若干重大问题的决定</title>
+      <link>http://www.cup.edu.cn/news/xx/0d4369e43204435c997845178c542f28.htm</link>
+      <pubDate>Mon, 02 Nov 2026 00:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
