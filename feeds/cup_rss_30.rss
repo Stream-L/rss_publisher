@@ -6,37 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 19:22:21 +0000</lastBuildDate>
-    <item>
-      <title>不确定条件下计划与调度一体化框架及应用：以大规模原油调度为例</title>
-      <link>https://mp.weixin.qq.com/s/hjRPdgLeFFGLaA3G9q3Hyw</link>
-      <pubDate>Tue, 13 Oct 2026 01:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L1范数全局数字图像相关的正则化参数选取经验策略</title>
-      <link>https://mp.weixin.qq.com/s/Gobb48vkKyRWi1Hx0VEDJw</link>
-      <pubDate>Wed, 14 Oct 2026 01:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【人才培养】中石大学子在第九届中国高校智能机器人创意大赛全国总决赛中荣获一等奖</title>
-      <link>https://www.cup.edu.cn/cupai/xw/1a7eb8c70de9423282c2d28b1b71c454.htm</link>
-      <pubDate>Thu, 15 Oct 2026 01:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>面向智能网联车辆的车边云自适应分层模型协同方法</title>
-      <link>https://mp.weixin.qq.com/s/WinzjGokVUOKByVMMiRpeQ</link>
-      <pubDate>Thu, 15 Oct 2026 01:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>抵御 DSS 攻击下非线性多智能体系统基于分数阶超扭转滑模的全分布式事件触发一致性控制</title>
-      <link>https://mp.weixin.qq.com/s/CVOVhDGPI8zLPLTm2JDjKQ</link>
-      <pubDate>Fri, 16 Oct 2026 01:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>计算机26-1、计算机26-2、人工智能26-1团支部联合举办弘扬伟大长征精神主题团日活动</title>
-      <link>https://mp.weixin.qq.com/s/iwXNmkaxa2rvylslSXus7Q</link>
-      <pubDate>Sat, 17 Oct 2026 01:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 11:40:44 +0000</lastBuildDate>
     <item>
       <title>人工智能学院第三届学生会功能型团支部成立大会暨第一次团员大会顺利召开</title>
       <link>https://mp.weixin.qq.com/s/z-ZCbhICZqPsNmlNq3jmlA</link>
@@ -103,9 +73,39 @@
       <pubDate>Fri, 30 Oct 2026 02:34:00 +0000</pubDate>
     </item>
     <item>
+      <title>【学院头条】中石大人工智能学院获批“智能科学与技术”一级交叉学科博士学位授予点</title>
+      <link>https://www.cup.edu.cn/news/sx/f524c7d12d624e8993209dac921c3521.htm</link>
+      <pubDate>Sun, 01 Nov 2026 00:31:00 +0000</pubDate>
+    </item>
+    <item>
       <title>基于增强正则化原型网络的电潜泵小样本故障诊断</title>
       <link>https://mp.weixin.qq.com/s/1AHr04hWIumy1_my3Wrk-w</link>
       <pubDate>Mon, 02 Nov 2026 01:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAMI：单GPU上的通信避免通用矩阵乘法</title>
+      <link>https://mp.weixin.qq.com/s/e_8bRv6UGSjg9cci_dSJIA</link>
+      <pubDate>Tue, 03 Nov 2026 00:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>特洛伊木马：通过任务聚合与批处理提升GPU集群稀疏直接解法器性能</title>
+      <link>https://mp.weixin.qq.com/s/SojB1wBmBQQDBzDyioyLVQ</link>
+      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TileSpMM：面向张量核心的可变尺寸分块稀疏矩阵乘法算法</title>
+      <link>https://mp.weixin.qq.com/s/K9vS3wOMGAEkW7JJp4KbzA</link>
+      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>无延迟的Cholesky分解</title>
+      <link>https://mp.weixin.qq.com/s/qPnqEfDWHiSJubRatNk8wQ</link>
+      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向科学计算的矩阵乘加单元基准测试套件</title>
+      <link>https://mp.weixin.qq.com/s/_pzGwNHGudC6Be2bTAUEAQ</link>
+      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
