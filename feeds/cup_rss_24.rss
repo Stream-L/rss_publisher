@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 17:01:27 +0000</lastBuildDate>
-    <item>
-      <title>地球物理学院关于2026年秋季学期拟发展共青团员情况的公示</title>
-      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/892bc1e0055b4fceb12e4ad0a0697644.htm</link>
-      <pubDate>Mon, 12 Oct 2026 02:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>地球物理学院关于2026年国家励志奖学金名单的公示</title>
-      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/57df8eb3f47b49e5b260c1d100e41ce5.htm</link>
-      <pubDate>Wed, 14 Oct 2026 07:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 11:53:31 +0000</lastBuildDate>
     <item>
       <title>地球物理学院全体教师开展学生心理健康指导专题培训</title>
       <link>http://www.cup.edu.cn/geophysics//xyxw1/fd806a02d32b42dda11a9f282ccc3b61.htm</link>
@@ -93,6 +83,11 @@
       <pubDate>Tue, 03 Nov 2026 09:07:00 +0000</pubDate>
     </item>
     <item>
+      <title>海洋油气勘探国家工程研究中心2026年开放日活动在中石大举办</title>
+      <link>https://www.cup.edu.cn/news/sx/e74e2221603d4ea49479515c1c08dbc1.htm</link>
+      <pubDate>Tue, 03 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2027年地球物理学院工程博士招生导师名单</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/dsjj/8b0c9bf051d14497a766b83cae9902e9.htm</link>
       <pubDate>Wed, 04 Nov 2026 08:44:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>地球物理学院博士生刘英凡学位论文开题答辩公告</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/23d0e1bd6dca462ab7d29e1c8e3168ca.htm</link>
       <pubDate>Wed, 04 Nov 2026 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viridien侯嵩博士解析“人工智能与基础模型驱动的地震数据处理新范式”</title>
+      <link>http://www.cup.edu.cn/geophysics//xyxw1/ec4cc5409d774cde86a481bf24c759ad.htm</link>
+      <pubDate>Thu, 05 Nov 2026 02:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

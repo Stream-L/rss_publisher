@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校团委 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 17:01:04 +0000</lastBuildDate>
-    <item>
-      <title>关于中国石油大学（北京）参加北京市学生联合会第十四次代表大会正式代表候选人名单的公示</title>
-      <link>http://www.cup.edu.cn/tuanwei/sxyl/zzts/c689b5aaf0804f1c9c095efcc2112c6e.htm</link>
-      <pubDate>Mon, 12 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 11:53:09 +0000</lastBuildDate>
     <item>
       <title>关于开展2026-2027学年青年马克思主义者培养工程学员招募选拔工作的通知</title>
       <link>http://www.cup.edu.cn/tuanwei/tzgg/b542ff5d11314a859b90a56733643656.htm</link>
@@ -107,6 +102,11 @@
       <title>中国石油大学（北京）关于开展2026年度优秀团支部评选的通知</title>
       <link>http://www.cup.edu.cn/tuanwei/tzgg/a709856c5e42458aac7757cefacfc1a3.htm</link>
       <pubDate>Wed, 28 Oct 2026 09:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）共青团组织架构及分工</title>
+      <link>http://www.cup.edu.cn/tuanwei/sdtw/rygk/f60e379f932647fcbfd4b1e6f34e8153.htm</link>
+      <pubDate>Wed, 04 Nov 2026 10:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
