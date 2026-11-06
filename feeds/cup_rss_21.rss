@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 17:15:22 +0000</lastBuildDate>
-    <item>
-      <title>中石大人获第三十五届“孙越崎能源科学技术奖”</title>
-      <link>http://www.cup.edu.cn/news/sx/cf90b23764164ce7bb75ae0487fda62d.htm</link>
-      <pubDate>Thu, 29 Oct 2026 14:40:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国共产党第二十届中央委员会第五次全体会议公报</title>
-      <link>http://www.cup.edu.cn/news/xx/e638c7d859af4c26a5869b724f8a9c37.htm</link>
-      <pubDate>Fri, 30 Oct 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国共产党第二十届中央委员会第五次全体会议-轮播图</title>
-      <link>https://www.cup.edu.cn/news/xx/e638c7d859af4c26a5869b724f8a9c37.htm</link>
-      <pubDate>Fri, 30 Oct 2026 02:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中石大劳动育人实践案例入选全国教育后勤系统党建优秀实践成果</title>
-      <link>http://www.cup.edu.cn/news/sx/a4571d1945a5476e9debad1a43d96247.htm</link>
-      <pubDate>Fri, 30 Oct 2026 06:43:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 11:50:38 +0000</lastBuildDate>
     <item>
       <title>中石大师生热议党的二十届五中全会精神</title>
       <link>http://www.cup.edu.cn/news/sx/4fa20da246e84a31b85b7a59d2a1fca1.htm</link>
@@ -83,6 +63,11 @@
       <pubDate>Tue, 03 Nov 2026 09:39:00 +0000</pubDate>
     </item>
     <item>
+      <title>中石大主办期刊入选2026年度中国高校科技期刊建设示范案例库</title>
+      <link>http://www.cup.edu.cn/news/sx/5d9fa19f9e474d5fb77c481b2b512780.htm</link>
+      <pubDate>Wed, 04 Nov 2026 01:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>关于开展2026年实验室气体泄漏事故应急演练活动（北校园化工楼及周边区域）的通知</title>
       <link>http://www.cup.edu.cn/tzygg/97b3241e73b2469c8230d92f7b3139a9.htm</link>
       <pubDate>Wed, 04 Nov 2026 03:10:00 +0000</pubDate>
@@ -106,6 +91,21 @@
       <title>中石大学子在中国国际大学生创新大赛（2026）北京市赛中斩获佳绩</title>
       <link>http://www.cup.edu.cn/news/sx/723517d0a36b461196aa99b4c3517073.htm</link>
       <pubDate>Thu, 05 Nov 2026 06:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于开展学校2026年秋季暨消防宣传月应急演练活动的通知</title>
+      <link>http://www.cup.edu.cn/tzygg/431b9bf384374c24942bc284ca5bfbca.htm</link>
+      <pubDate>Fri, 06 Nov 2026 06:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>第八届中国海洋工程设计大赛全国总决赛暨颁奖典礼举办</title>
+      <link>http://www.cup.edu.cn/news/sx/822e35f6956f4c968acde4cc0b685e79.htm</link>
+      <pubDate>Fri, 06 Nov 2026 07:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>校领导参加第三届科学家创新大会暨校友经济高质量发展大会</title>
+      <link>http://www.cup.edu.cn/news/sx/bcfe3b96e80947d282833187687bad70.htm</link>
+      <pubDate>Fri, 06 Nov 2026 07:39:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 17:16:12 +0000</lastBuildDate>
-    <item>
-      <title>关于发布理学院2026年研究生国家奖学金评审细则的通知</title>
-      <link>https://www.cup.edu.cn/science//tzgg/7ff4ad6a41af4f1abd96ad567ad1a58e.htm</link>
-      <pubDate>Sat, 26 Sep 2026 00:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 11:51:41 +0000</lastBuildDate>
     <item>
       <title>关于发布理学院2026年研究生学业奖学金评审细则的通知</title>
       <link>https://www.cup.edu.cn/science//tzgg/f38d30bcba5e4929b496ad2e8819c51d.htm</link>
@@ -107,6 +102,11 @@
       <title>理学院2025—2026学年本科生校内奖学金拟推荐人选公示</title>
       <link>https://www.cup.edu.cn/science//xsgz/xkjs/10f2cb53514d4344a7940e5513d0c6b5.htm</link>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>理学院举办工程硕博士校企导师见面会</title>
+      <link>https://www.cup.edu.cn/science//xyxw/948ce45361f84d328e4968c5e076e4aa.htm</link>
+      <pubDate>Fri, 06 Nov 2026 09:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
