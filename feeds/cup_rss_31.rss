@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）地球科学学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 15:55:17 +0000</lastBuildDate>
-    <item>
-      <title>夏宇轩</title>
-      <link>http://www.cup.edu.cn/geosci/szdw/jiangshi/edf13c153fd142fd93412ba25f1dd6b7.htm</link>
-      <pubDate>Mon, 21 Sep 2026 02:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 12:32:12 +0000</lastBuildDate>
     <item>
       <title>地球科学学院召开2026年秋季全院教师大会</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/262cd9da4baa4719b7ed227cd1b54269.htm</link>
@@ -109,6 +104,11 @@
       <title>河南省资源环境调查四院有限公司来校交流座谈</title>
       <link>http://www.cup.edu.cn/geosci/xwdt/64f65dfef72f41eba25b851c98ff99f0.htm</link>
       <pubDate>Wed, 04 Nov 2026 08:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>安全周</title>
+      <link>http://www.cup.edu.cn/geosci/sydt/87f0e420bc9d42678852defa4d0a66a1.htm</link>
+      <pubDate>Mon, 09 Nov 2026 08:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
