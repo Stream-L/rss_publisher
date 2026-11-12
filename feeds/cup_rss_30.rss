@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 17:02:12 +0000</lastBuildDate>
-    <item>
-      <title>【学院头条】中石大人工智能学院获批“智能科学与技术”一级交叉学科博士学位授予点</title>
-      <link>https://www.cup.edu.cn/news/sx/f524c7d12d624e8993209dac921c3521.htm</link>
-      <pubDate>Sun, 01 Nov 2026 00:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 12:13:04 +0000</lastBuildDate>
     <item>
       <title>基于增强正则化原型网络的电潜泵小样本故障诊断</title>
       <link>https://mp.weixin.qq.com/s/1AHr04hWIumy1_my3Wrk-w</link>
@@ -106,6 +101,11 @@
       <title>供需双侧不确定性下 LNG 接收站物理信息协同驱动的多时间尺度调度</title>
       <link>https://mp.weixin.qq.com/s/bWGH0JqoOZacHJDx1LyBWQ</link>
       <pubDate>Wed, 11 Nov 2026 00:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>偏心同轴线等效电路模型参数研究</title>
+      <link>https://mp.weixin.qq.com/s/pA-sPNRRib8dtewa1GAWsw</link>
+      <pubDate>Thu, 12 Nov 2026 01:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
