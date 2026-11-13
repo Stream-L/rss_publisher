@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 17:31:20 +0000</lastBuildDate>
-    <item>
-      <title>基于增强正则化原型网络的电潜泵小样本故障诊断</title>
-      <link>https://mp.weixin.qq.com/s/1AHr04hWIumy1_my3Wrk-w</link>
-      <pubDate>Mon, 02 Nov 2026 01:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KAMI：单GPU上的通信避免通用矩阵乘法</title>
-      <link>https://mp.weixin.qq.com/s/e_8bRv6UGSjg9cci_dSJIA</link>
-      <pubDate>Tue, 03 Nov 2026 00:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 11:54:27 +0000</lastBuildDate>
     <item>
       <title>特洛伊木马：通过任务聚合与批处理提升GPU集群稀疏直接解法器性能</title>
       <link>https://mp.weixin.qq.com/s/SojB1wBmBQQDBzDyioyLVQ</link>
@@ -73,6 +63,11 @@
       <pubDate>Fri, 06 Nov 2026 06:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>【党建动态】人工智能学院师生党支部与石油工程学院、油气资源与工程全国重点实验室党支部共建启动</title>
+      <link>https://www.cup.edu.cn/cupai/xw/2bd8b43bf4ab40d186bee8f1b984a5c1.htm</link>
+      <pubDate>Sat, 07 Nov 2026 13:58:00 +0000</pubDate>
+    </item>
+    <item>
       <title>基于过程感知特征分解的工业过程微小故障检测</title>
       <link>https://mp.weixin.qq.com/s/mgOgcfVASa-FhkCFnk6EmA</link>
       <pubDate>Mon, 09 Nov 2026 00:39:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>偏心同轴线等效电路模型参数研究</title>
       <link>https://mp.weixin.qq.com/s/pA-sPNRRib8dtewa1GAWsw</link>
       <pubDate>Thu, 12 Nov 2026 01:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于DDPG的电潜泵效率自优化调控方法研究</title>
+      <link>https://mp.weixin.qq.com/s/E_oF_paylS8VIYwnAsT4Ng</link>
+      <pubDate>Fri, 13 Nov 2026 00:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
