@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 19:29:07 +0000</lastBuildDate>
-    <item>
-      <title>TileSpMM：面向张量核心的可变尺寸分块稀疏矩阵乘法算法</title>
-      <link>https://mp.weixin.qq.com/s/K9vS3wOMGAEkW7JJp4KbzA</link>
-      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>无延迟的Cholesky分解</title>
-      <link>https://mp.weixin.qq.com/s/qPnqEfDWHiSJubRatNk8wQ</link>
-      <pubDate>Tue, 03 Nov 2026 00:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 12:48:57 +0000</lastBuildDate>
     <item>
       <title>面向科学计算的矩阵乘加单元基准测试套件</title>
       <link>https://mp.weixin.qq.com/s/_pzGwNHGudC6Be2bTAUEAQ</link>
@@ -106,6 +96,16 @@
       <title>面向开集环境的去中心化联邦域泛化故障诊断方法</title>
       <link>https://mp.weixin.qq.com/s/LKm2QRIvHkwQq1pAq1VQxw</link>
       <pubDate>Mon, 16 Nov 2026 02:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DA-ECAN：面向多模态情感识别的双分支语音与大模型增强卷积特征学习及非对称融合</title>
+      <link>https://mp.weixin.qq.com/s/xcw5HMuL1d9vLHx1uz0XwQ</link>
+      <pubDate>Tue, 17 Nov 2026 00:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中国石油大学（北京）人工智能2026年学术年会</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/97ce272efa2047fe959e39878781e49c.htm</link>
+      <pubDate>Tue, 17 Nov 2026 02:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
