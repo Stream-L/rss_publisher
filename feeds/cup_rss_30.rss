@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 17:41:23 +0000</lastBuildDate>
-    <item>
-      <title>考虑性质不确定的原油调和与调度ARO-MCVaR优化</title>
-      <link>https://mp.weixin.qq.com/s/Xx-A2iQ_UhcjjI-Ffn2gfQ</link>
-      <pubDate>Thu, 05 Nov 2026 00:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 12:06:52 +0000</lastBuildDate>
     <item>
       <title>【党建动态】人工智能学院召开党委理论学习中心组（扩大）会议 专题学习党的二十届五中全会精神</title>
       <link>https://www.cup.edu.cn/cupai/xw/242003c1e73041548e0e26f32222b6e1.htm</link>
@@ -106,6 +101,11 @@
       <title>基于分支投票与层次激活的炼油装置异常推理</title>
       <link>https://mp.weixin.qq.com/s/2hjYAqhSnKpgLq1cBf9YWA</link>
       <pubDate>Fri, 20 Nov 2026 00:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【学院头条】校长金衍讲授中石大人工智能通识课程“第一课”</title>
+      <link>https://www.cup.edu.cn/news/sx/7f0eefeea10e4d6ea58251e157c79b9f.htm</link>
+      <pubDate>Sat, 21 Nov 2026 01:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
