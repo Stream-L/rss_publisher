@@ -6,27 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 17:02:03 +0000</lastBuildDate>
-    <item>
-      <title>【党建动态】人工智能学院召开党委理论学习中心组（扩大）会议 专题学习党的二十届五中全会精神</title>
-      <link>https://www.cup.edu.cn/cupai/xw/242003c1e73041548e0e26f32222b6e1.htm</link>
-      <pubDate>Thu, 05 Nov 2026 01:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于拟接收孙子尧等25人为中共正式党员的公示</title>
-      <link>https://www.cup.edu.cn/cupai/tzgg/7c648f898c224e03a759fcc5dab11fe9.htm</link>
-      <pubDate>Thu, 05 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>偏心同轴线分布模型及其在油井中的应用</title>
-      <link>https://mp.weixin.qq.com/s/X3MSO6HMRa0wr4Qc8ynUIw</link>
-      <pubDate>Fri, 06 Nov 2026 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【党建动态】人工智能学院师生党支部与石油工程学院、油气资源与工程全国重点实验室党支部共建启动</title>
-      <link>https://www.cup.edu.cn/cupai/xw/2bd8b43bf4ab40d186bee8f1b984a5c1.htm</link>
-      <pubDate>Sat, 07 Nov 2026 13:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 14:03:33 +0000</lastBuildDate>
     <item>
       <title>基于过程感知特征分解的工业过程微小故障检测</title>
       <link>https://mp.weixin.qq.com/s/mgOgcfVASa-FhkCFnk6EmA</link>
@@ -73,6 +53,11 @@
       <pubDate>Mon, 16 Nov 2026 02:29:00 +0000</pubDate>
     </item>
     <item>
+      <title>【人才培养】人工智能学院获批2026年北京市高等教育学会面上课题立项</title>
+      <link>https://www.cup.edu.cn/cupai/xw/671e93e685e34e05884d4af171dd6c95.htm</link>
+      <pubDate>Tue, 17 Nov 2026 00:44:00 +0000</pubDate>
+    </item>
+    <item>
       <title>DA-ECAN：面向多模态情感识别的双分支语音与大模型增强卷积特征学习及非对称融合</title>
       <link>https://mp.weixin.qq.com/s/xcw5HMuL1d9vLHx1uz0XwQ</link>
       <pubDate>Tue, 17 Nov 2026 00:56:00 +0000</pubDate>
@@ -106,6 +91,21 @@
       <title>【学院头条】校长金衍讲授中石大人工智能通识课程“第一课”</title>
       <link>https://www.cup.edu.cn/news/sx/7f0eefeea10e4d6ea58251e157c79b9f.htm</link>
       <pubDate>Sat, 21 Nov 2026 01:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>二十届五中全会</title>
+      <link>https://www.cup.edu.cn/cupai/lbdt/94e7261240264812857f1bf6dd79b5a7.htm</link>
+      <pubDate>Mon, 23 Nov 2026 01:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>博士点</title>
+      <link>https://www.cup.edu.cn/cupai/lbdt/58c23059d03e4816b4fdc58836ed309a.htm</link>
+      <pubDate>Mon, 23 Nov 2026 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于Lyapunov区间经济模型预测控制算法的延迟工况高效钻探</title>
+      <link>https://mp.weixin.qq.com/s/9wrEdayhtf8RcZEkY-aG7A</link>
+      <pubDate>Mon, 23 Nov 2026 01:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
