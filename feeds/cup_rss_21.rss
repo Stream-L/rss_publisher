@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 21:04:00 +0000</lastBuildDate>
-    <item>
-      <title>中石大召开国家卓越工程师学院理事会第三次会议</title>
-      <link>http://www.cup.edu.cn/news/sx/c119837510e945e7abf39a61ed59dab7.htm</link>
-      <pubDate>Thu, 12 Nov 2026 03:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于学生活动中心东北侧道路临时管控的通知</title>
-      <link>https://www.cup.edu.cn/houqin/tzgg/29c98f1156194231a849e0a227403c87.htm</link>
-      <pubDate>Thu, 12 Nov 2026 10:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于开展2026年“中石大学生最高荣誉奖”评选的通知</title>
-      <link>http://www.cup.edu.cn/tzygg/141ab1b185b84c578bbc58701fd181d8.htm</link>
-      <pubDate>Fri, 13 Nov 2026 02:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 14:34:35 +0000</lastBuildDate>
     <item>
       <title>中钢集团马鞍山矿山研究总院股份有限公司一行来中石大走访交流</title>
       <link>http://www.cup.edu.cn/news/sx/f798b57e14ec493c9518b6e80c372955.htm</link>
@@ -106,6 +91,21 @@
       <title>中石大召开零基预算改革工作部署会</title>
       <link>http://www.cup.edu.cn/news/sx/71677c7b88f546829c52e1129e098aa6.htm</link>
       <pubDate>Mon, 23 Nov 2026 08:57:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于学生活动中心东北侧道路临时管控的通知</title>
+      <link>https://cup.edu.cn/houqin/tzgg/29c98f1156194231a849e0a227403c87.htm</link>
+      <pubDate>Tue, 24 Nov 2026 01:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大克拉玛依校区举办第三期“湖畔·论学”学生工作论坛</title>
+      <link>http://www.cup.edu.cn/news/sx/adbb56d85f664ea8bf03976e78a74bc8.htm</link>
+      <pubDate>Tue, 24 Nov 2026 01:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大9项成果荣获北京市科学技术奖</title>
+      <link>http://www.cup.edu.cn/news/sx/c409eb7ebce5420e85a06466c1ac5982.htm</link>
+      <pubDate>Tue, 24 Nov 2026 07:15:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 21:04:35 +0000</lastBuildDate>
-    <item>
-      <title>基于过程感知特征分解的工业过程微小故障检测</title>
-      <link>https://mp.weixin.qq.com/s/mgOgcfVASa-FhkCFnk6EmA</link>
-      <pubDate>Mon, 09 Nov 2026 00:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于改进型深度残差收缩网络的 DAS 入侵事件识别</title>
-      <link>https://mp.weixin.qq.com/s/yraPUrJwzhsDabhRutlPbA</link>
-      <pubDate>Tue, 10 Nov 2026 00:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 14:35:40 +0000</lastBuildDate>
     <item>
       <title>基于改进 D3QN 算法的智能救护车调度策略</title>
       <link>https://mp.weixin.qq.com/s/WV-D63qlZjNzhI1UxBX6LA</link>
@@ -106,6 +96,16 @@
       <title>基于Lyapunov区间经济模型预测控制算法的延迟工况高效钻探</title>
       <link>https://mp.weixin.qq.com/s/9wrEdayhtf8RcZEkY-aG7A</link>
       <pubDate>Mon, 23 Nov 2026 01:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于身份与匿名凭证的车辆跨域充电隐私保护机制</title>
+      <link>https://mp.weixin.qq.com/s/hQBIoYM6VFzozY6hUdmaFw</link>
+      <pubDate>Tue, 24 Nov 2026 00:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>油气数据要素安全流通关键技术与发展趋势</title>
+      <link>https://mp.weixin.qq.com/s/bj6AvHd5FF072OH5eyeeGw</link>
+      <pubDate>Tue, 24 Nov 2026 00:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

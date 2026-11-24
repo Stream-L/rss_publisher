@@ -6,22 +6,7 @@
     <description>中国石油大学（北京）地球物理学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 21:04:11 +0000</lastBuildDate>
-    <item>
-      <title>地球物理学院关于2026年校内奖学金、学习进步奖学金和体育进步奖学金名单的公示</title>
-      <link>http://www.cup.edu.cn/geophysics//xsgz/xszyjb/bcd9b987c6434dc1b4012d1d83bd03b6.htm</link>
-      <pubDate>Tue, 03 Nov 2026 09:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>海洋油气勘探国家工程研究中心2026年开放日活动在中石大举办</title>
-      <link>https://www.cup.edu.cn/news/sx/e74e2221603d4ea49479515c1c08dbc1.htm</link>
-      <pubDate>Tue, 03 Nov 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027年地球物理学院工程博士招生导师名单</title>
-      <link>http://www.cup.edu.cn/geophysics//yjsjx/dsjj/8b0c9bf051d14497a766b83cae9902e9.htm</link>
-      <pubDate>Wed, 04 Nov 2026 08:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 14:34:58 +0000</lastBuildDate>
     <item>
       <title>2027年地球物理学院学术型博士招生导师名单</title>
       <link>http://www.cup.edu.cn/geophysics//yjsjx/dsjj/c4f3483057f643728a6fe25c66ce69c8.htm</link>
@@ -104,8 +89,23 @@
     </item>
     <item>
       <title>地球物理学院工程博士研究生董清源、齐永飞学位论文答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/15b0438a528c4b9da81d06282c199ac7.htm</link>
+      <pubDate>Mon, 23 Nov 2026 07:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院工程博士研究生董清源、齐永飞学位论文答辩公告</title>
       <link>http://www.cup.edu.cn/geophysics//xytzgg/7ce18dc6284b48788469af57c5252783.htm</link>
       <pubDate>Mon, 23 Nov 2026 07:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院博士生罗虎学位论文答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/d8d794aff7d84569960edbd39062e40c.htm</link>
+      <pubDate>Tue, 24 Nov 2026 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>地球物理学院博士生宿伟学位论文答辩公告</title>
+      <link>http://www.cup.edu.cn/geophysics//yjsjx/yjstzgg/c36f47df470949e3b4dd4e15c745690b.htm</link>
+      <pubDate>Tue, 24 Nov 2026 06:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
