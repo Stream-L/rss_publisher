@@ -6,17 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 19:05:43 +0000</lastBuildDate>
-    <item>
-      <title>基于非可调谐光源的低成本OFDR温度解调仪</title>
-      <link>https://mp.weixin.qq.com/s/C3SZnIKjKPrWMfJWXDcBeA</link>
-      <pubDate>Tue, 10 Nov 2026 00:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>供需双侧不确定性下 LNG 接收站物理信息协同驱动的多时间尺度调度</title>
-      <link>https://mp.weixin.qq.com/s/bWGH0JqoOZacHJDx1LyBWQ</link>
-      <pubDate>Wed, 11 Nov 2026 00:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 13:34:46 +0000</lastBuildDate>
     <item>
       <title>偏心同轴线等效电路模型参数研究</title>
       <link>https://mp.weixin.qq.com/s/pA-sPNRRib8dtewa1GAWsw</link>
@@ -88,6 +78,11 @@
       <pubDate>Mon, 23 Nov 2026 01:26:00 +0000</pubDate>
     </item>
     <item>
+      <title>关于人工智能学院2026年“中石大学生最高荣誉奖”拟推荐人选的公示</title>
+      <link>https://www.cup.edu.cn/cupai/tzgg/00d07665eec14274b26ec79eb3ac697a.htm</link>
+      <pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>基于身份与匿名凭证的车辆跨域充电隐私保护机制</title>
       <link>https://mp.weixin.qq.com/s/hQBIoYM6VFzozY6hUdmaFw</link>
       <pubDate>Tue, 24 Nov 2026 00:18:00 +0000</pubDate>
@@ -106,6 +101,11 @@
       <title>人工智能学院关于2025-2026学年学生各类先进个人评选的公示</title>
       <link>https://www.cup.edu.cn/cupai/tzgg/482dbad17ad4411dba2b88fe4af67c37.htm</link>
       <pubDate>Wed, 25 Nov 2026 08:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>深水气井生产参数自适应动态预测方法</title>
+      <link>https://mp.weixin.qq.com/s/ueTEqA-4_L1jKlRbTZvVaA</link>
+      <pubDate>Thu, 26 Nov 2026 00:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）校主页 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 19:05:08 +0000</lastBuildDate>
-    <item>
-      <title>中国石油大学（北京）表厂校园正式揭牌</title>
-      <link>http://www.cup.edu.cn/news/sx/fa1930deadce47279f19681eda4d9948.htm</link>
-      <pubDate>Tue, 17 Nov 2026 02:22:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 13:34:02 +0000</lastBuildDate>
     <item>
       <title>中石大承办教育部教材局2026年全国教材研究人员培训班</title>
       <link>http://www.cup.edu.cn/news/sx/b9b60f2df086494b88c3e51b43465f81.htm</link>
@@ -106,6 +101,11 @@
       <title>讣 告</title>
       <link>http://www.cup.edu.cn/tzygg/3fee2264a98b4af3ac004e74ab0bc46e.htm</link>
       <pubDate>Wed, 25 Nov 2026 06:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中石大举办“能源强国 能源报国”风华网络公开课专题宣讲</title>
+      <link>http://www.cup.edu.cn/news/sx/aeeb6aa8b3254b2da293bbc5a6b12dbd.htm</link>
+      <pubDate>Wed, 25 Nov 2026 13:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

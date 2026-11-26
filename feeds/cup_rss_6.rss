@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）教务处 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 19:04:09 +0000</lastBuildDate>
-    <item>
-      <title>2026-2027学年秋季学期本科课程开课一览</title>
-      <link>http://www.cup.edu.cn/jwc/jxjs/gbkkyl/a3bbffefccf646ac8dbe54c73be64f62.blk.htm</link>
-      <pubDate>Tue, 29 Sep 2026 09:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 13:32:41 +0000</lastBuildDate>
     <item>
       <title>2026-2027学年秋季学期机房课表</title>
       <link>http://www.cup.edu.cn/jwc/jxjs/gbjfkb/614102f35a7d4f27837b68e9865a891e.blk.htm</link>
@@ -106,6 +101,11 @@
       <title>关于线上观看人工智能通识课程“第一课”的通知</title>
       <link>http://www.cup.edu.cn/jwc/jwtz/2996a1864258460fa8a19fea94fdb8e7.htm</link>
       <pubDate>Tue, 24 Nov 2026 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于本科生进入实验室开展毕业设计（论文）工作的通知</title>
+      <link>http://www.cup.edu.cn/jwc/qbtz/bbc1baafde954b94952db036c2b676f0.htm</link>
+      <pubDate>Thu, 26 Nov 2026 07:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
