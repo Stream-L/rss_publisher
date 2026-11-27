@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）信息化管理处 信息技术中心 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 18:55:03 +0000</lastBuildDate>
-    <item>
-      <title>关于学校校园卡系统正式开通NFC感应支付功能的通知</title>
-      <link>https://mp.weixin.qq.com/s/eYx9ymtChyGBxwmJMwu3MA</link>
-      <pubDate>Wed, 14 Oct 2026 08:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 13:30:15 +0000</lastBuildDate>
     <item>
       <title>人脸库使用说明</title>
       <link>https://www.cup.edu.cn/nic/ggfw/zhfw/rlkxxpt/rlkfwjs/c58a45d990b54771bbbe5c64310cf12c.htm</link>
@@ -108,6 +103,11 @@
       <title>信息化管理处组织召开校园网计费系统建设项目验收会</title>
       <link>https://www.cup.edu.cn/nic/xwdt/5dc17cc85d314f6cb87c7fd0cc9f1fbe.htm</link>
       <pubDate>Mon, 23 Nov 2026 06:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>零信任访问控制系统服务介绍</title>
+      <link>https://www.cup.edu.cn/nic/ggfw/grfw/lxr/lxrfwjs/54cb6388ae4b4521b986b0c897286b9c.htm</link>
+      <pubDate>Fri, 27 Nov 2026 01:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
