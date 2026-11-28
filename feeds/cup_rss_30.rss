@@ -6,12 +6,7 @@
     <description>中国石油大学（北京）人工智能学院 公告个人转发</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 18:49:20 +0000</lastBuildDate>
-    <item>
-      <title>基于DDPG的电潜泵效率自优化调控方法研究</title>
-      <link>https://mp.weixin.qq.com/s/E_oF_paylS8VIYwnAsT4Ng</link>
-      <pubDate>Fri, 13 Nov 2026 00:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 12:45:05 +0000</lastBuildDate>
     <item>
       <title>面向开集环境的去中心化联邦域泛化故障诊断方法</title>
       <link>https://mp.weixin.qq.com/s/LKm2QRIvHkwQq1pAq1VQxw</link>
@@ -106,6 +101,11 @@
       <title>石油与天然气工程领域可解释人工智能方法研究新进展</title>
       <link>https://mp.weixin.qq.com/s/mDhvvlHS8_PLyRXf5lVdAA</link>
       <pubDate>Fri, 27 Nov 2026 00:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1</title>
+      <link>https://www.cup.edu.cn/cupai/ewm/5247e2c5612748699e71f64a7fe6da16.htm</link>
+      <pubDate>Fri, 27 Nov 2026 10:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
